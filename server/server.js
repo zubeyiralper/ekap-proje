@@ -17,7 +17,6 @@ KURALLAR:
 `;
 
 app.post('/api/chat', async (req, res) => {
-    console.log("İstek geldi:", req.body.message); // Log ekledik
     try {
         const { message, history } = req.body;
 
@@ -48,7 +47,6 @@ app.post('/api/chat', async (req, res) => {
 
         clearTimeout(timeout);
         const text = await response.text();
-        console.log("Cevap döndü:", text.substring(0, 50) + "...");
         res.json({ reply: text });
 
     } catch (error) {
@@ -61,6 +59,4 @@ app.post('/api/chat', async (req, res) => {
     }
 });
 
-app.listen(PORT, () => {
-    console.log(`Backend Hazır: http://localhost:${PORT}`);
-});
+app.listen(PORT, () => {});

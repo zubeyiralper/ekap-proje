@@ -5,8 +5,6 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>YapıAnaliz - İnşaat Birim Fiyat Arama</title>
-    <!-- SheetJS for Excel Upload -->
-    <script src="https://cdn.sheetjs.com/xlsx-latest/package/dist/xlsx.full.min.js"></script>
     <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&display=swap" rel="stylesheet">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
     <link rel="stylesheet" href="style.css?v=2">
@@ -35,8 +33,6 @@
             <div class="nav-links">
                 <a href="index.html" class="active">Poz Analizi</a>
                 <a href="metraj.html">Akıllı Metraj</a>
-                <a href="admin_pdf_tool.html" target="_blank" style="color:#d93025;"><i class="fas fa-file-import"></i>
-                    PDF Yükle</a>
             </div>
         </div>
     </nav>
@@ -56,15 +52,6 @@
                 <button id="search-btn">Ara</button>
             </div>
 
-            <!-- Excel Upload Button (Client Side) -->
-            <div style="margin-top: 20px; text-align:center;">
-                <input type="file" id="excel-upload" accept=".xlsx, .xls" style="display: none;" />
-                <button onclick="document.getElementById('excel-upload').click()"
-                    style="background:none; border:1px solid #dfe1e5; padding: 8px 15px; border-radius: 20px; color: #5f6368; cursor: pointer; font-size: 0.9rem; transition: all 0.2s;">
-                    <i class="fas fa-file-excel" style="color: #188038; margin-right:5px;"></i> Veri Yükle (Excel)
-                </button>
-                <p style="font-size: 0.8rem; color: #9aa0a6; margin-top: 5px;">*Geçici oturum yüklemesi</p>
-            </div>
         </div>
     </main>
 
