@@ -35,6 +35,11 @@ let appState = {
 
 document.addEventListener('DOMContentLoaded', () => {
     restartChat();
+    const input = document.getElementById('user-input');
+    if (input) {
+        input.onkeypress = null;
+        input.addEventListener('keydown', handleKeyPress);
+    }
 });
 
 function handleKeyPress(e) {
