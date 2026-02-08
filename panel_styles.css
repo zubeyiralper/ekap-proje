@@ -1,0 +1,191 @@
+/* 3 Panelli Sistem Stilleri */
+.poz-main-header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 15px 20px;
+    background: white;
+    border-bottom: 2px solid #f1f3f4;
+    margin-bottom: 15px;
+}
+
+.poz-header-left {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+}
+
+.kurum-badge {
+    background: #e8f0fe;
+    color: #1a73e8;
+    padding: 6px 12px;
+    border-radius: 4px;
+    font-weight: 600;
+    font-size: 0.85rem;
+}
+
+.poz-no-badge {
+    background: #1565C0;
+    color: white;
+    padding: 6px 14px;
+    border-radius: 4px;
+    font-weight: 700;
+    font-size: 0.95rem;
+    font-family: monospace;
+    letter-spacing: 0.5px;
+}
+
+.poz-header-right {
+    display: flex;
+    align-items: center;
+    gap: 15px;
+}
+
+.year-selector-new {
+    background: #f1f3f4;
+    border-radius: 6px;
+    padding: 3px;
+    display: flex;
+    gap: 2px;
+}
+
+.y-btn-new {
+    border: none;
+    background: transparent;
+    padding: 6px 16px;
+    cursor: pointer;
+    font-size: 0.9rem;
+    color: #5f6368;
+    border-radius: 4px;
+    font-weight: 600;
+    transition: all 0.2s;
+}
+
+.y-btn-new.active {
+    background: white;
+    color: #1a73e8;
+    box-shadow: 0 1px 3px rgba(0, 0, 0, 0.12);
+}
+
+.current-price-display {
+    font-size: 1.8rem;
+    font-weight: 700;
+    color: #188038;
+}
+
+/* Panel Container */
+.poz-panels-container {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 15px;
+    margin-bottom: 15px;
+}
+
+/* Panel Genel Stil */
+.poz-panel {
+    background: white;
+    border: 1px solid #e0e0e0;
+    border-radius: 8px;
+    overflow: hidden;
+}
+
+.panel-header {
+    background: linear-gradient(135deg, #FF6B35 0%, #F7931E 100%);
+    color: white;
+    padding: 12px 15px;
+    font-weight: 600;
+    font-size: 0.95rem;
+    display: flex;
+    align-items: center;
+    gap: 8px;
+}
+
+.panel-content {
+    padding: 15px;
+}
+
+/* Detay Panel */
+.detail-row {
+    display: flex;
+    padding: 10px 0;
+    border-bottom: 1px solid #f1f3f4;
+}
+
+.detail-row:last-child {
+    border-bottom: none;
+}
+
+.detail-label {
+    flex: 0 0 100px;
+    font-weight: 600;
+    color: #5f6368;
+    font-size: 0.9rem;
+}
+
+.detail-value {
+    flex: 1;
+    color: #202124;
+    font-size: 0.9rem;
+}
+
+/* Fiyat Geçmişi Tablosu */
+.price-history-table {
+    width: 100%;
+    border-collapse: collapse;
+    font-size: 0.9rem;
+}
+
+.price-history-table thead {
+    background: #f8f9fa;
+}
+
+.price-history-table th {
+    padding: 10px;
+    font-weight: 600;
+    color: #5f6368;
+    font-size: 0.85rem;
+    border-bottom: 2px solid #e0e0e0;
+}
+
+.price-history-table tbody tr:hover {
+    background: #fafafa;
+}
+
+/* Analiz Panel - Tam Genişlik */
+.poz-analysis-panel {
+    grid-column: 1 / -1;
+}
+
+/* Detaylı Analiz Tablosu */
+.analiz-table-detailed {
+    width: 100%;
+    border-collapse: collapse;
+    font-size: 0.9rem;
+}
+
+.analiz-table-detailed thead {
+    background: #f8f9fa;
+}
+
+.analiz-table-detailed th {
+    padding: 12px 10px;
+    font-weight: 600;
+    color: #5f6368;
+    text-align: left;
+    border-bottom: 2px solid #e0e0e0;
+    font-size: 0.85rem;
+}
+
+.analiz-table-detailed tbody tr {
+    border-bottom: 1px solid #f1f3f4;
+    transition: background 0.2s;
+}
+
+.analiz-table-detailed tbody tr:hover {
+    background: #fafafa;
+}
+
+.analiz-table-detailed td {
+    padding: 10px;
+    color: #3c4043;
+}

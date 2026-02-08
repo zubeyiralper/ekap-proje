@@ -1,0 +1,329 @@
+<!DOCTYPE html>
+<html lang="tr">
+
+<head>
+    <meta charset="UTF-8">
+    <title>Poz Analiz - PDF Veri Aktarım Aracı</title>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/pdf.js/3.4.120/pdf.min.js"></script>
+    <script>pdfjsLib.GlobalWorkerOptions.workerSrc = 'https://cdnjs.cloudflare.com/ajax/libs/pdf.js/3.4.120/pdf.worker.min.js';</script>
+    <script src="https://cdn.sheetjs.com/xlsx-latest/package/dist/xlsx.full.min.js"></script>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&display=swap" rel="stylesheet">
+    <style>
+        body {
+            font-family: 'Inter', sans-serif;
+            padding: 20px;
+            background: #f8f9fa;
+            color: #333;
+        }
+
+        .container {
+            max-width: 1200px;
+            margin: 0 auto;
+            background: white;
+            padding: 30px;
+            border-radius: 12px;
+            box-shadow: 0 2px 10px rgba(0, 0, 0, 0.05);
+        }
+
+        h1 {
+            color: #1a73e8;
+            border-bottom: 2px solid #e8f0fe;
+            padding-bottom: 15px;
+        }
+
+        .upload-area {
+            border: 2px dashed #1a73e8;
+            border-radius: 8px;
+            padding: 40px;
+            text-align: center;
+            cursor: pointer;
+            transition: background 0.3s;
+            margin-bottom: 20px;
+        }
+
+        .upload-area:hover {
+            background: #e8f0fe;
+        }
+
+        .btn-primary {
+            background: #1a73e8;
+            color: white;
+            border: none;
+            padding: 10px 20px;
+            border-radius: 6px;
+            cursor: pointer;
+            font-weight: 600;
+        }
+
+        .btn-success {
+            background: #188038;
+            color: white;
+            border: none;
+            padding: 10px 20px;
+            border-radius: 6px;
+            cursor: pointer;
+            font-weight: 600;
+        }
+
+        table {
+            width: 100%;
+            border-collapse: collapse;
+            margin-top: 20px;
+            font-size: 0.9rem;
+        }
+
+        th,
+        td {
+            border: 1px solid #dfe1e5;
+            padding: 10px;
+            text-align: left;
+        }
+
+        th {
+            background: #f1f3f4;
+            font-weight: 600;
+        }
+
+        input[type="text"] {
+            width: 100%;
+            border: none;
+            background: transparent;
+        }
+
+        input[type="text"]:focus {
+            outline: 2px solid #1a73e8;
+            background: #fff;
+        }
+
+        .status-log {
+            background: #202124;
+            color: #5f6368;
+            padding: 15px;
+            border-radius: 6px;
+            font-family: monospace;
+            height: 150px;
+            overflow-y: auto;
+            margin-bottom: 20px;
+            color: #00ff00;
+        }
+
+        .hidden {
+            display: none;
+        }
+    </style>
+</head>
+
+<body>
+    <div class="container">
+        <h1>PDF / Excel Veri Aktarım Aracı (2026 Hazırlık)</h1>
+        <p>Bu araç sayesinde resmi kurumların yayınladığı Birim Fiyat PDF'lerini veya Excel dosyalarını sisteme otomatik
+            aktarabilirsiniz.</p>
+
+        <div class="upload-area" id="drop-zone">
+            <i class="fas fa-cloud-upload-alt" style="font-size: 3rem; color: #1a73e8; margin-bottom: 10px;"></i>
+            <h3>Dosyayı Buraya Sürükleyin veya Seçin</h3>
+            <p>(.pdf veya .xlsx)</p>
+            <input type="file" id="file-input" accept=".pdf, .xlsx, .xls" style="display: none;">
+            <button class="btn-primary" onclick="document.getElementById('file-input').click()">Dosya Seç</button>
+        </div>
+
+        <div id="processing-section" class="hidden">
+            <h3>İşlem Durumu</h3>
+            <div class="status-log" id="status-log"></div>
+        </div>
+
+        <div id="preview-section" class="hidden">
+            <div style="display:flex; justify-content:space-between; align-items:center;">
+                <h3>Veri Önizleme ve Doğrulama (<span id="row-count">0</span> Poz)</h3>
+                <button class="btn-success" onclick="exportToJS()">💾 SİSTEME KAYDET (data_2026.js Oluştur)</button>
+            </div>
+            <div style="max-height: 500px; overflow-y: auto; border: 1px solid #dfe1e5;">
+                <table id="data-table">
+                    <thead>
+                        <tr>
+                            <th>Poz No</th>
+                            <th>Tanım</th>
+                            <th>Birim</th>
+                            <th>Birim Fiyat (TL)</th>
+                        </tr>
+                    </thead>
+                    <tbody></tbody>
+                </table>
+            </div>
+        </div>
+    </div>
+
+    <script>
+        const dropZone = document.getElementById('drop-zone');
+        const fileInput = document.getElementById('file-input');
+        const statusLog = document.getElementById('status-log');
+        let EXTRACTED_DATA = [];
+
+        function log(msg) {
+            const div = document.createElement('div');
+            div.innerText = `> ${msg}`;
+            statusLog.appendChild(div);
+            statusLog.scrollTop = statusLog.scrollHeight;
+        }
+
+        // Drag & Drop Handlers
+        dropZone.addEventListener('dragover', (e) => { e.preventDefault(); dropZone.style.background = '#e8f0fe'; });
+        dropZone.addEventListener('dragleave', (e) => { e.preventDefault(); dropZone.style.background = 'transparent'; });
+        dropZone.addEventListener('drop', (e) => {
+            e.preventDefault();
+            dropZone.style.background = 'transparent';
+            handleFile(e.dataTransfer.files[0]);
+        });
+        fileInput.addEventListener('change', (e) => handleFile(e.target.files[0]));
+
+        async function handleFile(file) {
+            if (!file) return;
+            document.getElementById('processing-section').classList.remove('hidden');
+            log(`Dosya yükleniyor: ${file.name}`);
+
+            if (file.name.endsWith('.pdf')) {
+                await processPDF(file);
+            } else if (file.name.endsWith('.xlsx') || file.name.endsWith('.xls')) {
+                processExcel(file);
+            } else {
+                log("HATA: Desteklenmeyen dosya formatı.");
+            }
+        }
+
+        async function processPDF(file) {
+            log("PDF İşleme Başlatıldı (Bu işlem tarayıcıda yapıldığı için biraz zaman alabilir)...");
+            const arrayBuffer = await file.arrayBuffer();
+            const pdf = await pdfjsLib.getDocument(arrayBuffer).promise;
+            log(`PDF Yüklendi. Toplam Sayfa: ${pdf.numPages}`);
+
+            EXTRACTED_DATA = [];
+
+            for (let i = 1; i <= pdf.numPages; i++) {
+                log(`Sayfa ${i} taranıyor...`);
+                const page = await pdf.getPage(i);
+                const textContent = await page.getTextContent();
+                const textItems = textContent.items;
+
+                // Basit Satır Birleştirme Mantığı
+                // Y kordinatına göre gruplayarak satırları oluştur
+                let rows = {};
+                textItems.forEach(item => {
+                    const y = Math.round(item.transform[5]); // Y pozisyonu
+                    if (!rows[y]) rows[y] = [];
+                    rows[y].push({ x: item.transform[4], text: item.str });
+                });
+
+                // Satırları Y'ye göre sırala (yukarıdan aşağıya)
+                const sortedY = Object.keys(rows).sort((a, b) => b - a);
+
+                sortedY.forEach(y => {
+                    // Satır içindeki elemanları X'e göre sırala
+                    const lineItems = rows[y].sort((a, b) => a.x - b.x);
+                    const lineText = lineItems.map(item => item.text).join(' ').trim();
+
+                    // Regex ile Poz Yakalama: "15.150.1005" formatı veya "10.130.1505"
+                    // Örnek: 15.150.1005  Beton...  m3   3.250,50
+                    const pozMatch = lineText.match(/^(\d{2}\.\d{3}\.\d{4}|\d{2}\.\d{3}\.\d{2,4})\s+(.+?)\s+([a-zA-ZçğıöşüÇĞİÖŞÜ³²]+)\s+([\d\.,]+)$/);
+
+                    if (pozMatch) {
+                        EXTRACTED_DATA.push({
+                            id: pozMatch[1],
+                            tanim: pozMatch[2],
+                            birim: pozMatch[3],
+                            fiyat: pozMatch[4]
+                        });
+                    } else {
+                        // Alternatif yakalama (daha gevşek)
+                        // Bazen fiyat en sonda olur.
+                        const looseMatch = lineText.match(/^(\d{2}\.\d{3}\.(\d{4}|\/\d+))\s+(.*)$/);
+                        if (looseMatch) {
+                            // Detaylı parse gerekebilir, şimdilik basit ekle
+                            // log(`Olası Poz Bulundu: ${looseMatch[1]}`);
+                        }
+                    }
+                });
+            }
+
+            log(`Taramam Tamamlandı. ${EXTRACTED_DATA.length} adet poz bulundu.`);
+            renderTable();
+        }
+
+        function processExcel(file) {
+            log("Excel İşleniyor...");
+            const reader = new FileReader();
+            reader.onload = (e) => {
+                const data = new Uint8Array(e.target.result);
+                const workbook = XLSX.read(data, { type: 'array' });
+                const sheetName = workbook.SheetNames[0];
+                const sheet = workbook.Sheets[sheetName];
+                const json = XLSX.utils.sheet_to_json(sheet, { header: 1 });
+
+                EXTRACTED_DATA = [];
+                // Başlık satırını atla, veriyi algıla
+                json.forEach((row, index) => {
+                    if (index === 0) return; // Header
+                    // Kolon maplemeye çalış
+                    // Genelde: [0] Poz No, [1] Tanım, [2] Birim, [3] Fiyat
+                    if (row.length >= 4) {
+                        EXTRACTED_DATA.push({
+                            id: row[0],
+                            tanim: row[1],
+                            birim: row[2],
+                            fiyat: row[3]
+                        });
+                    }
+                });
+
+                log(`Excel Tamamlandı. ${EXTRACTED_DATA.length} satır okundu.`);
+                renderTable();
+            }
+            reader.readAsArrayBuffer(file);
+        }
+
+        function renderTable() {
+            const tbody = document.querySelector('#data-table tbody');
+            tbody.innerHTML = '';
+            document.getElementById('preview-section').classList.remove('hidden');
+            document.getElementById('row-count').innerText = EXTRACTED_DATA.length;
+
+            EXTRACTED_DATA.slice(0, 100).forEach(item => { // İlk 100 göster
+                const tr = document.createElement('tr');
+                tr.innerHTML = `
+                    <td contenteditable="true">${item.id}</td>
+                    <td contenteditable="true">${item.tanim}</td>
+                    <td contenteditable="true">${item.birim}</td>
+                    <td contenteditable="true">${item.fiyat}</td>
+                `;
+                tbody.appendChild(tr);
+            });
+
+            if (EXTRACTED_DATA.length > 100) {
+                const tr = document.createElement('tr');
+                tr.innerHTML = `<td colspan="4" style="text-align:center; color:#666;">... ve ${EXTRACTED_DATA.length - 100} kayıt daha ...</td>`;
+                tbody.appendChild(tr);
+            }
+        }
+
+        function exportToJS() {
+            // Şablon dosyası oluştur
+            const fileContent = `
+// 2026 VERİ DOSYASI (Otomatik Oluşturuldu)
+// Tarih: ${new Date().toLocaleDateString()}
+window.POZ_DATA_2026 = ${JSON.stringify(EXTRACTED_DATA, null, 4)};
+console.log("2026 Verileri Yüklendi: " + window.POZ_DATA_2026.length + " adet");
+            `;
+
+            const blob = new Blob([fileContent], { type: 'text/javascript' });
+            const url = URL.createObjectURL(blob);
+            const a = document.createElement('a');
+            a.href = url;
+            a.download = 'data_2026.js';
+            document.body.appendChild(a);
+            a.click();
+            document.body.removeChild(a);
+            log("Dosya İndirildi: data_2026.js");
+        }
+    </script>
+</body>
+
+</html>

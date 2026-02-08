@@ -1,0 +1,94 @@
+<!DOCTYPE html>
+<html lang="tr">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>YapıAnaliz - İnşaat Birim Fiyat Arama</title>
+    <!-- SheetJS for Excel Upload -->
+    <script src="https://cdn.sheetjs.com/xlsx-latest/package/dist/xlsx.full.min.js"></script>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+    <link rel="stylesheet" href="style.css?v=2">
+    <!-- Deep Link Optimization: Hide Home if search exists -->
+    <script>
+        if (location.search.includes('search=')) {
+            document.write('<style>#main-container { display: none !important; } .results-container { display: block !important; }</style>');
+        }
+    </script>
+</head>
+
+<body>
+    <script>
+        window.onerror = function (msg, url, line, col, error) {
+            alert("HATA: " + msg + "\nDosya: " + url + "\nSatır: " + line);
+            return false;
+        };
+    </script>
+
+    <!-- Üst Menü (Navigasyon) -->
+    <nav class="main-nav">
+        <div class="nav-container">
+            <a href="index.html" class="nav-logo">
+                <i class="fa-solid fa-helmet-safety"></i> İnşaatPlatform
+            </a>
+            <div class="nav-links">
+                <a href="index.html" class="active">Poz Analizi</a>
+                <a href="metraj.html">Akıllı Metraj</a>
+                <a href="admin_pdf_tool.html" target="_blank" style="color:#d93025;"><i class="fas fa-file-import"></i>
+                    PDF Yükle</a>
+            </div>
+        </div>
+    </nav>
+
+    <main class="search-container" id="main-container">
+        <!-- Logo Area -->
+        <div class="logo-area">
+            <h1 class="logo">Poz<span class="highlight">Analiz</span></h1>
+            <p class="subtitle">İnşaat Birim Fiyat ve Analiz Platformu</p>
+        </div>
+
+        <!-- Search Box -->
+        <div class="search-box-wrapper">
+            <div class="search-box">
+                <i class="fas fa-search search-icon"></i>
+                <input type="text" id="search-input" placeholder="Poz numarası veya tanım ile arayın...">
+                <button id="search-btn">Ara</button>
+            </div>
+
+            <!-- Excel Upload Button (Client Side) -->
+            <div style="margin-top: 20px; text-align:center;">
+                <input type="file" id="excel-upload" accept=".xlsx, .xls" style="display: none;" />
+                <button onclick="document.getElementById('excel-upload').click()"
+                    style="background:none; border:1px solid #dfe1e5; padding: 8px 15px; border-radius: 20px; color: #5f6368; cursor: pointer; font-size: 0.9rem; transition: all 0.2s;">
+                    <i class="fas fa-file-excel" style="color: #188038; margin-right:5px;"></i> Veri Yükle (Excel)
+                </button>
+                <p style="font-size: 0.8rem; color: #9aa0a6; margin-top: 5px;">*Geçici oturum yüklemesi</p>
+            </div>
+        </div>
+    </main>
+
+    <!-- Results Section (Hidden by default) -->
+    <section class="results-container hidden" id="results-container">
+        <header class="top-bar">
+            <div class="mini-logo">PozAnaliz</div>
+            <div class="mini-search">
+                <input type="text" id="mini-search-input" placeholder="Yeni arama yap...">
+                <i class="fas fa-search"></i>
+            </div>
+        </header>
+
+        <div class="result-content" id="result-content">
+            <!-- Dynamic Content Will Go Here -->
+        </div>
+    </section>
+
+    <script src="data.js?v=9"></script>
+    <script src="data_2024.js?v=9"></script>
+    <script src="data_2025.js?v=9"></script>
+    <script src="data_kgm.js?v=9"></script>
+    <script src="data_2026.js?v=1"></script>
+    <script src="app.js?v=9"></script>
+</body>
+
+</html>

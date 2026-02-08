@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html lang="tr">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Akıllı Metraj - İnşaat Asistanı</title>
+    <link rel="stylesheet" href="style.css">
+    <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600&display=swap" rel="stylesheet">
+</head>
+
+<body>
+
+    <!-- Üst Menü -->
+    <nav class="main-nav">
+        <div class="nav-container">
+            <a href="index.html" class="nav-logo">
+                <i class="fa-solid fa-helmet-safety"></i> İnşaatPlatform
+            </a>
+            <div class="nav-links">
+                <a href="index.html">Poz Analizi</a>
+                <a href="metraj.html" class="active">Akıllı Metraj</a>
+            </div>
+        </div>
+    </nav>
+
+    <!-- Chat Arayüzü -->
+    <div class="chat-wrapper">
+        <div class="chat-container">
+
+            <!-- Chat Header -->
+            <div class="chat-header">
+                <div class="bot-avatar" style="background: #1a73e8;">
+                    <i class="fa-solid fa-robot"></i>
+                </div>
+                <div class="header-info">
+                    <h2>Akıllı Metraj</h2>
+                    <p>Yapay Zeka Destekli İnşaat Planlama</p>
+                </div>
+                <div class="header-actions">
+                    <button class="reset-chat-btn" onclick="restartChat()" title="Sohbeti Sıfırla">
+                        <i class="fas fa-redo-alt"></i>
+                    </button>
+                </div>
+            </div>
+
+            <!-- Mesajlaşma Alanı -->
+            <div class="chat-messages" id="chat-messages">
+                <!-- Mesajlar buraya dinamik gelecek -->
+            </div>
+
+            <!-- Giriş Alanı -->
+            <div class="chat-input-area">
+                <input type="text" id="user-input" placeholder="Örn: 200m2 duvar boyası veya Bir kamyon kaç tuğla alır?"
+                    autocomplete="off" onkeypress="handleKeyPress(event)">
+                <button id="send-btn" onclick="sendMessage()"><i class="fa-solid fa-paper-plane"></i></button>
+            </div>
+        </div>
+    </div>
+
+    <!-- Scriptler -->
+    <script src="https://cdn.jsdelivr.net/npm/marked/marked.min.js"></script>
+    <script src="metraj_app.js"></script>
+</body>
+
+</html>

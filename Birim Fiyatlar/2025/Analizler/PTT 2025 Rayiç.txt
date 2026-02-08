@@ -1,0 +1,79 @@
+YENİ POZ NO
+ISIM
+BR
+10.100.1002
+KARO KAPLAMA USTASI
+SA
+250,00
+10.100.1004
+SERAMİK KAPLAMA USTASI
+SA
+250,00
+10.100.1005
+MERMER KAPLAMA USTASI
+SA
+250,00
+10.100.1017
+DÜLGER USTASI
+SA
+250,00
+10.100.1022
+Camcı Ustası
+SA
+250,00
+10.100.1047
+SOĞUK DEMİRCİ USTA yardımcısı
+SA
+185,00
+10.100.1062
+Düz işçi (inşaat işçisi)
+SA
+165,00
+10.100.1068
+BİRİNCİ SINIF USTA
+SA
+250,00
+10.300.2232
+Çimento esaslı, yüksek performanslı, yüksek aşınma dayanımlı, su emilimi azaltılmış derz dolgusu (ts en 13888 - cg2aw)
+KG
+15,00
+10.130.9991
+SU
+M3
+38,50
+10.420.1302
+Sentetik tutkal (ts en 12765)
+KG
+25,00
+10.170.2501
+Sonradan şekil verilebilen lamine levhalar 0.65 mm
+M2
+196,00
+10.170.2002
+Odun lifi levha düz 4 mm
+M2
+57,00
+19.100.2410
+Kum ve kırmataş ile 400 kg çimento dozlu harç yapılması
+M3
+1.896,61
+10.300.2231
+Çimento esaslı, standart performanslı derz dolgusu (ts en 13888 - cg1)
+KG
+11,50
+19.100.1091
+Ahşap doğrama imalat atelyesinin 1 saatlik ücreti
+SA
+4.841,67
+10.130.4504
+Beyaz çam (köknar) 1.sınıf
+M3
+8.500,00
+10.420.1501
+32 mm kalınlığında kraft kapı dolgu petekleri
+AD
+24,00
+10.380.2003
+10 MM KALINLIKTA TEMPERLİ CAM (TS EN 14321-1,2)
+M2
+951,50

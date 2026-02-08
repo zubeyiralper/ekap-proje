@@ -1,0 +1,9596 @@
+[
+  {
+    "id": "56.805.1190",
+    "kurum": "DSİ",
+    "tanim": "",
+    "birim": "1"
+  },
+  {
+    "id": "04.V001/1",
+    "kurum": "VGM",
+    "tanim": "Su İşbaşında M ³ 3 8 ,",
+    "birim": "5"
+  },
+  {
+    "id": "04.V001/4",
+    "kurum": "VGM",
+    "tanim": "Elektrik enerjisi İşbaşında K w h 4 ,",
+    "birim": "6"
+  },
+  {
+    "id": "04.V005/01",
+    "kurum": "VGM",
+    "tanim": "1.4401 (316) kalite paslanmaz çubuk İşbaşında K G 1 3 0 ,",
+    "birim": "0"
+  },
+  {
+    "id": "04.V005/02",
+    "kurum": "VGM",
+    "tanim": "1.4401 (316) kalite paslanmaz sac İşbaşında K G 1 2 1 ,",
+    "birim": "0"
+  },
+  {
+    "id": "04.V006/03",
+    "kurum": "VGM",
+    "tanim": "İşlenmiş küçük demirler (Muhtelif) İşbaşında K G 3 5 ,",
+    "birim": "0"
+  },
+  {
+    "id": "04.V006/04",
+    "kurum": "VGM",
+    "tanim": " İşlenerek dekore edilmiş çeşitli demirler",
+    "birim": "0"
+  },
+  {
+    "id": "04.V007/4",
+    "kurum": "VGM",
+    "tanim": " Sıcak daldırma galvanizli düz sac (TS 822)",
+    "birim": "7"
+  },
+  {
+    "id": "04.V007/6",
+    "kurum": "VGM",
+    "tanim": " Sıcak daldırma galvanizli oluklu sac (TS 822)",
+    "birim": "0"
+  },
+  {
+    "id": "04.V008/01",
+    "kurum": "VGM",
+    "tanim": "Techizat bağlama teli İşbaşında K G 2 6 ,",
+    "birim": "0"
+  },
+  {
+    "id": "04.V008/02",
+    "kurum": "VGM",
+    "tanim": "Metal depluvaye İşbaşında M ² 3 0 ,",
+    "birim": "0"
+  },
+  {
+    "id": "04.V008/03",
+    "kurum": "VGM",
+    "tanim": " Elektrod (3,25-4 mm çapında) (TS EN ISO 2560)",
+    "birim": "6"
+  },
+  {
+    "id": "04.V008/04",
+    "kurum": "VGM",
+    "tanim": " Ankraj işlemlerinde kullanılan maddeler (Epoksi reçine bazlı 2 bileşenli tüp) (250 ml tüp)",
+    "birim": "0"
+  },
+  {
+    "id": "04.V008/05",
+    "kurum": "VGM",
+    "tanim": " Çift bileşenli püskürtme olarak uygulanan sert poliüretan köpük ( TS EN 14315-1)",
+    "birim": "0"
+  },
+  {
+    "id": "04.V008/06",
+    "kurum": "VGM",
+    "tanim": "Yağ Bazlı Kalıp Ayırıcı (Konsantre Kalıp Yağı) (Ahşap İçin) İşbaşında K G 3 5 ,",
+    "birim": "0"
+  },
+  {
+    "id": "04.V008/07",
+    "kurum": "VGM",
+    "tanim": "Monoblok başlıklı galvanizli çivi İşbaşında A D 1 ,",
+    "birim": "0"
+  },
+  {
+    "id": "04.V008/08",
+    "kurum": "VGM",
+    "tanim": "Çiviler (TS 155) İşbaşında K G 2 0 ,",
+    "birim": "0"
+  },
+  {
+    "id": "04.V008/09",
+    "kurum": "VGM",
+    "tanim": "Galvanizli çivi (TS 155) İşbaşında K G 4 5 ,",
+    "birim": "0"
+  },
+  {
+    "id": "04.V008/10",
+    "kurum": "VGM",
+    "tanim": " Ağaç vidası (Küçük 144 Ad.) (TS 431)",
+    "birim": "0"
+  },
+  {
+    "id": "04.V008/11",
+    "kurum": "VGM",
+    "tanim": " Ağaç vidası (Büyük 144 Ad.) (TS 431)",
+    "birim": "0"
+  },
+  {
+    "id": "04.V008/12",
+    "kurum": "VGM",
+    "tanim": " Her ebatta 1 kutu (1000 adet matkap uçlu vida (karbon çeliğinden mamul, siyah fosfat kaplı, matkap uçlu)",
+    "birim": "0"
+  },
+  {
+    "id": "04.V008/13",
+    "kurum": "VGM",
+    "tanim": "Buldok kör bulon İşbaşında K G 1 8 ,",
+    "birim": "5"
+  },
+  {
+    "id": "04.V008/14",
+    "kurum": "VGM",
+    "tanim": "Prinç ağaç vidası(TS 431) (Küçük) İşbaşında A D 0 ,",
+    "birim": "4"
+  },
+  {
+    "id": "04.V008/15",
+    "kurum": "VGM",
+    "tanim": "Kapitone için özel başlı çivi İşbaşında A D 0 ,",
+    "birim": "8"
+  },
+  {
+    "id": "04.V008/17",
+    "kurum": "VGM",
+    "tanim": "Madeni pul İşbaşında A D 0 ,",
+    "birim": "8"
+  },
+  {
+    "id": "04.V008/18",
+    "kurum": "VGM",
+    "tanim": "Trifon Vida İşbaşında A D 2 ,",
+    "birim": "2"
+  },
+  {
+    "id": "04.V011/01",
+    "kurum": "VGM",
+    "tanim": "Çam Kereste ( İşbaşı 1.sınıf) Rutubeti 15 derece altı) İşbaşında M ³ 3 0 . 0 0 0 ,",
+    "birim": "0"
+  },
+  {
+    "id": "04.V011/02",
+    "kurum": "VGM",
+    "tanim": " Norm Çam Kereste ( İşbaşı 1.sınıf) (Rutubeti 20 derece altı, Kesit Alanı 100Cm2'den Küçük (100cm2 dahil))",
+    "birim": "0"
+  },
+  {
+    "id": "04.V012",
+    "kurum": "VGM",
+    "tanim": "Çam Kereste ( İşbaşı 2.sınıf) İşbaşında M ³ 1 6 . 0 0 0 ,",
+    "birim": "0"
+  },
+  {
+    "id": "04.V012/01",
+    "kurum": "VGM",
+    "tanim": " Norm Çam Kereste ( İşbaşı 2.sınıf) (Rutubeti 20 derece altı, Kesit Alanı 100Cm2'den Küçük (100cm2 dahil))",
+    "birim": "0"
+  },
+  {
+    "id": "04.V013",
+    "kurum": "VGM",
+    "tanim": "Çam Kereste ( İşbaşı 3.sınıf) İşbaşında M ³ 8 . 5 0 0 ,",
+    "birim": "0"
+  },
+  {
+    "id": "04.V014",
+    "kurum": "VGM",
+    "tanim": "Köknar Kereste ( İşbaşı 1.sınıf) İşbaşında M ³ 1 7 . 2 5 0 ,",
+    "birim": "0"
+  },
+  {
+    "id": "04.V015",
+    "kurum": "VGM",
+    "tanim": "Köknar Kereste ( İşbaşı 2.sınıf) İşbaşında M ³ 1 2 . 3 0 0 ,",
+    "birim": "0"
+  },
+  {
+    "id": "04.V016",
+    "kurum": "VGM",
+    "tanim": "Köknar Kereste ( İşbaşı 3.sınıf) İşbaşında M ³ 8 . 6 0 0 ,",
+    "birim": "0"
+  },
+  {
+    "id": "04.V017",
+    "kurum": "VGM",
+    "tanim": "Kayın Kereste ( İşbaşı 1.sınıf) İşbaşında M ³ 3 3 . 2 0 0 ,",
+    "birim": "0"
+  },
+  {
+    "id": "04.V018",
+    "kurum": "VGM",
+    "tanim": "Kayın Kereste ( İşbaşı 2.sınıf) İşbaşında M ³ 2 5 . 8 0 0 ,",
+    "birim": "0"
+  },
+  {
+    "id": "04.V019",
+    "kurum": "VGM",
+    "tanim": "Kestane Kereste İşbaşında M ³ 4 4 . 0 0 0 ,",
+    "birim": "0"
+  },
+  {
+    "id": "04.V020",
+    "kurum": "VGM",
+    "tanim": "Dişbudak kereste 2.sınıf İşbaşında M ³ 2 3 . 0 0 0 ,",
+    "birim": "0"
+  },
+  {
+    "id": "04.V020/01",
+    "kurum": "VGM",
+    "tanim": "Ceviz 1.sınıf Kereste Rutubeti 15 derece altı İşbaşında M ³ 7 7 . 0 0 0 ,",
+    "birim": "0"
+  },
+  {
+    "id": "04.V030/01",
+    "kurum": "VGM",
+    "tanim": "Sert Ağaç ( Meşe 1.sınıf) Kereste Rutubeti 15 derece altı İşbaşında M ³ 7 0 . 0 0 0 ,",
+    "birim": "0"
+  },
+  {
+    "id": "04.V030/02",
+    "kurum": "VGM",
+    "tanim": " Norm ( Meşe 1.sınıf) Kereste (Rutubeti 20 derece altı, Kesit Alanı 100Cm2'den Küçük (100cm2 dahil))",
+    "birim": "0"
+  },
+  {
+    "id": "04.V032",
+    "kurum": "VGM",
+    "tanim": "Meşe Kereste 2.sınıf İşbaşında M ³ 3 7 . 0 0 0 ,",
+    "birim": "0"
+  },
+  {
+    "id": "04.V032/01",
+    "kurum": "VGM",
+    "tanim": " Norm ( Meşe 2.sınıf) Kereste (Rutubeti 20 derece altı, Kesit Alanı 100Cm2'den Küçük (100cm2 dahil))",
+    "birim": "0"
+  },
+  {
+    "id": "04.V061/02",
+    "kurum": "VGM",
+    "tanim": " Basma mukavemeti en az 200 kPa ekspande polistiren köpük (EPS) levha (TS 7316 EN 13163)",
+    "birim": "0"
+  },
+  {
+    "id": "04.V062/01",
+    "kurum": "VGM",
+    "tanim": " Oluklu bitümlü levhalar (Her renkte) (TS EN 534) (Kategori R >= 1400 N/m²) (Yangın Sınıfı Broof)",
+    "birim": "0"
+  },
+  {
+    "id": "04.V07/01",
+    "kurum": "VGM",
+    "tanim": " Kontraplak (TS 4645 EN 636) (Kalınlıklara ait fiyatlar orantı yolu ile bulunur)",
+    "birim": "0"
+  },
+  {
+    "id": "04.V07/02",
+    "kurum": "VGM",
+    "tanim": "19 mm kalınlıkta Yonga levha İşbaşında M ² 1 3 9 ,",
+    "birim": "5"
+  },
+  {
+    "id": "04.V09/01",
+    "kurum": "VGM",
+    "tanim": "Afyon Beyaz (Afyon) Plak Sertlik Derecesi 2 İşbaşında M ² 5 6 0 ,",
+    "birim": "0"
+  },
+  {
+    "id": "04.V23/8",
+    "kurum": "VGM",
+    "tanim": "26 Q İzoleli Çelik Spiral Boru İşbaşında M 5 6 ,",
+    "birim": "8"
+  },
+  {
+    "id": "04.V25",
+    "kurum": "VGM",
+    "tanim": "E27 Bronz Porselen Duy İşbaşında A D 5 9 ,",
+    "birim": "5"
+  },
+  {
+    "id": "04.V31",
+    "kurum": "VGM",
+    "tanim": "Cam Fanus (Ø15'lik) İşbaşında A D 3 9 5 ,",
+    "birim": "8"
+  },
+  {
+    "id": "04.V35",
+    "kurum": "VGM",
+    "tanim": "E.D.T.A. İşbaşında K G 4 3 5 ,",
+    "birim": "0"
+  },
+  {
+    "id": "04.V36",
+    "kurum": "VGM",
+    "tanim": "Amonyum Bi Karbonat İşbaşında K G 1 2 5 ,",
+    "birim": "0"
+  },
+  {
+    "id": "04.V37",
+    "kurum": "VGM",
+    "tanim": "Karboksi Metil Selilöz İşbaşında K G 2 8 0 ,",
+    "birim": "0"
+  },
+  {
+    "id": "04.V37/1",
+    "kurum": "VGM",
+    "tanim": "Dimetil Formamid İşbaşında L T 2 8 5 ,",
+    "birim": "0"
+  },
+  {
+    "id": "04.V37/10",
+    "kurum": "VGM",
+    "tanim": "Enjektör İşbaşında A D 2 0 ,",
+    "birim": "0"
+  },
+  {
+    "id": "04.V37/11",
+    "kurum": "VGM",
+    "tanim": "Aderans teşkilli tamir ve su izolasyonu katkısı (Sıvı) İşbaşında K G 2 1 5 ,",
+    "birim": "0"
+  },
+  {
+    "id": "04.V37/12",
+    "kurum": "VGM",
+    "tanim": "Saf Terebentin İşbaşında K G 3 7 5 ,",
+    "birim": "0"
+  },
+  {
+    "id": "04.V37/13",
+    "kurum": "VGM",
+    "tanim": "Bistrü Ucu İşbaşında A D 2 ,",
+    "birim": "3"
+  },
+  {
+    "id": "04.V37/14",
+    "kurum": "VGM",
+    "tanim": "Kağıt Havlu İşbaşında A D 2 5 ,",
+    "birim": "0"
+  },
+  {
+    "id": "04.V37/15",
+    "kurum": "VGM",
+    "tanim": "Çini Yapıştırıcı 35gr İşbaşında A D 2 1 0 ,",
+    "birim": "0"
+  },
+  {
+    "id": "04.V37/18",
+    "kurum": "VGM",
+    "tanim": "İnsekdisit İşbaşında K G 3 5 0 ,",
+    "birim": "0"
+  },
+  {
+    "id": "04.V37/19",
+    "kurum": "VGM",
+    "tanim": "Sedef Kabuk İşbaşında A D 2 8 0 ,",
+    "birim": "0"
+  },
+  {
+    "id": "04.V37/2",
+    "kurum": "VGM",
+    "tanim": "Non-İyonik Sabun İşbaşında K G 2 8 5 ,",
+    "birim": "0"
+  },
+  {
+    "id": "04.V37/22",
+    "kurum": "VGM",
+    "tanim": "Toz Yaldız İşbaşında K G 1 . 3 0 0 ,",
+    "birim": "0"
+  },
+  {
+    "id": "04.V37/23",
+    "kurum": "VGM",
+    "tanim": "Tinktür (Yaldız sıvısı) İşbaşında L T 1 . 2 0 0 ,",
+    "birim": "0"
+  },
+  {
+    "id": "04.V37/23A",
+    "kurum": "VGM",
+    "tanim": "Boncuk Tutkalı İşbaşında K G 4 0 0 ,",
+    "birim": "0"
+  },
+  {
+    "id": "04.V37/24",
+    "kurum": "VGM",
+    "tanim": "Şeffaf koruyucu İşbaşında K G 1 . 9 0 0 ,",
+    "birim": "0"
+  },
+  {
+    "id": "04.V37/25",
+    "kurum": "VGM",
+    "tanim": "Japon Kağıdı (12g) İşbaşında M ² 5 0 0 ,",
+    "birim": "0"
+  },
+  {
+    "id": "04.V37/3",
+    "kurum": "VGM",
+    "tanim": "Gomalak ( Sarı) İşbaşında K G 9 5 0 ,",
+    "birim": "0"
+  },
+  {
+    "id": "04.V37/4",
+    "kurum": "VGM",
+    "tanim": "Etil Alkol ( %96 ) İşbaşında L T 1 3 6 ,",
+    "birim": "0"
+  },
+  {
+    "id": "04.V37/5",
+    "kurum": "VGM",
+    "tanim": "Toprak Boya İşbaşında K G 6 0 0 ,",
+    "birim": "0"
+  },
+  {
+    "id": "04.V37/6",
+    "kurum": "VGM",
+    "tanim": "Balmumu (Sarı) İşbaşında K G 3 0 0 ,",
+    "birim": "0"
+  },
+  {
+    "id": "04.V37/7",
+    "kurum": "VGM",
+    "tanim": "Miksiyon İşbaşında L T 8 0 0 ,",
+    "birim": "0"
+  },
+  {
+    "id": "04.V37/8",
+    "kurum": "VGM",
+    "tanim": "Renksiz Boya Sökücü İşbaşında L T 3 8 5 ,",
+    "birim": "0"
+  },
+  {
+    "id": "04.V37/9",
+    "kurum": "VGM",
+    "tanim": "Aseton İşbaşında L T 1 0 0 ,",
+    "birim": "0"
+  },
+  {
+    "id": "04.V38",
+    "kurum": "VGM",
+    "tanim": "Saf Su İşbaşında L T 2 2 ,",
+    "birim": "0"
+  },
+  {
+    "id": "04.V39",
+    "kurum": "VGM",
+    "tanim": "Eldiven İşbaşında A D 2 ,",
+    "birim": "5"
+  },
+  {
+    "id": "04.V40",
+    "kurum": "VGM",
+    "tanim": "Fırça İşbaşında A D 2 0 ,",
+    "birim": "0"
+  },
+  {
+    "id": "04.V40/01",
+    "kurum": "VGM",
+    "tanim": " Kurşun Levha (Saflık %99,98 - 99,995 arası) (TS EN 12588) (1,5 mm için +/-0,045mm, 2 mm için +/-0,06mm kalınlık toleranslı)",
+    "birim": "2"
+  },
+  {
+    "id": "04.V40/02",
+    "kurum": "VGM",
+    "tanim": "Kurşun (Külçe) İşbaşında K G 8 2 ,",
+    "birim": "8"
+  },
+  {
+    "id": "04.V40/03",
+    "kurum": "VGM",
+    "tanim": " Bakırdan yapılmış muhtelif profil ve levhalar (TS EN 1652)",
+    "birim": "0"
+  },
+  {
+    "id": "04.V40/04",
+    "kurum": "VGM",
+    "tanim": "Çinko (Külçe) (TS EN ISO 3146+AC) İşbaşında K g 9 6 ,",
+    "birim": "6"
+  },
+  {
+    "id": "04.V40/05",
+    "kurum": "VGM",
+    "tanim": "Lehim (TS EN ISO 9453) İşbaşında K g 3 4 0 ,",
+    "birim": "0"
+  },
+  {
+    "id": "04.V42/01A1",
+    "kurum": "VGM",
+    "tanim": " Nefes Alabilen Alkid veya Alkid-Akrilik Karışım Reçine Esaslı Su Bazlı Yarı Şeffaf (Renkli) Ahşap Koruyucu",
+    "birim": "0"
+  },
+  {
+    "id": "04.V42/01A2",
+    "kurum": "VGM",
+    "tanim": " Nefes Alabilen Alkid veya Alkid-Akrilik Karışım Reçine Esaslı Su Bazlı Şeffaf Ahşap Koruyucu",
+    "birim": "0"
+  },
+  {
+    "id": "04.V42/01A3",
+    "kurum": "VGM",
+    "tanim": " Nefes Alabilen Alkid veya Alkid-Akrilik Karışım Reçine Esaslı Su Bazlı Opak(Örtücü-Renkli) Ahşap Koruyucu",
+    "birim": "0"
+  },
+  {
+    "id": "04.V42/01A5",
+    "kurum": "VGM",
+    "tanim": "Su Bazlı Poliüretan Reçine Esaslı Çift Bileşenli Şeffaf Parke Verniği İşbaşında K G 9 1 0 ,",
+    "birim": "0"
+  },
+  {
+    "id": "04.V42/01A6",
+    "kurum": "VGM",
+    "tanim": "Su Bazlı Poliüretan Reçine Esaslı Çift Bileşenli Tam Mat Parke Verniği İşbaşında K G 8 8 0 ,",
+    "birim": "0"
+  },
+  {
+    "id": "04.V42/01A7",
+    "kurum": "VGM",
+    "tanim": " Su Bazlı Yangın Geciktirici Solüsyon (TS EN 13823:2010 A1:2014 e göre C-S2-D0 sınıfı)",
+    "birim": "0"
+  },
+  {
+    "id": "04.V42/02A1",
+    "kurum": "VGM",
+    "tanim": " Bakır triazol tipi suda çözünen (TS EN 599-1, TS 788-2 EN 599-2)",
+    "birim": "0"
+  },
+  {
+    "id": "04.V42/02A2",
+    "kurum": "VGM",
+    "tanim": " Triazol tipi suda çözünen (TS EN 599-1, TS 788-2 EN 599-2)",
+    "birim": "0"
+  },
+  {
+    "id": "04.V42/03B1",
+    "kurum": "VGM",
+    "tanim": "Sentetik esaslı renkli ahşap koruyucu İşbaşında L T 1 5 0 ,",
+    "birim": "0"
+  },
+  {
+    "id": "04.V42/03B2",
+    "kurum": "VGM",
+    "tanim": "Sentetik esaslı vernikli ahşap koruyucu İşbaşında L T 1 8 0 ,",
+    "birim": "0"
+  },
+  {
+    "id": "04.V42/03B3",
+    "kurum": "VGM",
+    "tanim": "Sentetik esaslı vernik İşbaşında L T 1 6 5 ,",
+    "birim": "0"
+  },
+  {
+    "id": "04.V42/03B4",
+    "kurum": "VGM",
+    "tanim": "Poliüretan Reçine Esaslı Solvent Bazlı Parke Verniği İşbaşında L T 7 6 0 ,",
+    "birim": "0"
+  },
+  {
+    "id": "04.V42/04C01",
+    "kurum": "VGM",
+    "tanim": " Su bazlı Plastik Mat İç Cephe Boyası (Örtücülük Sınıf:2, YOD:Sınıf:3, Parlaklık:G3)",
+    "birim": "0"
+  },
+  {
+    "id": "04.V42/04C02",
+    "kurum": "VGM",
+    "tanim": " Saf akrilik esaslı su bazlı grenli/tekstürlü esnek dış cephe boyası (V2:W3:G2)",
+    "birim": "0"
+  },
+  {
+    "id": "04.V42/04C03",
+    "kurum": "VGM",
+    "tanim": "Sentetik esaslı mat boya İşbaşında L T 1 3 5 ,",
+    "birim": "0"
+  },
+  {
+    "id": "04.V42/04B04",
+    "kurum": "VGM",
+    "tanim": "Sentetik boya astarı İşbaşında L T 1 2 0 ,",
+    "birim": "0"
+  },
+  {
+    "id": "04.V42/04B05",
+    "kurum": "VGM",
+    "tanim": "Demir-çelik yüzey koruyucu astar (antipas) İşbaşında L T 1 2 0 ,",
+    "birim": "0"
+  },
+  {
+    "id": "04.V42/04B06",
+    "kurum": "VGM",
+    "tanim": "Termoplastik Reçine Esaslı Astar İşbaşında L T 9 0 ,",
+    "birim": "0"
+  },
+  {
+    "id": "04.V42/04A07",
+    "kurum": "VGM",
+    "tanim": "Sentetik boya macunu İşbaşında K G 6 0 ,",
+    "birim": "0"
+  },
+  {
+    "id": "04.V42/04A09",
+    "kurum": "VGM",
+    "tanim": "Üstübü İşbaşında K G 1 2 ,",
+    "birim": "7"
+  },
+  {
+    "id": "04.V42/04A10",
+    "kurum": "VGM",
+    "tanim": "Bezir İşbaşında K G 1 8 0 ,",
+    "birim": "0"
+  },
+  {
+    "id": "04.V42/04A11",
+    "kurum": "VGM",
+    "tanim": "İspirto İşbaşında K G 6 0 ,",
+    "birim": "0"
+  },
+  {
+    "id": "04.V42/04A12",
+    "kurum": "VGM",
+    "tanim": "Arap sabunu (TS 54) İşbaşında K G 2 4 ,",
+    "birim": "0"
+  },
+  {
+    "id": "04.V42/04A13",
+    "kurum": "VGM",
+    "tanim": "Zımpara kağıdı(A4 ebadında) İşbaşında A D 6 ,",
+    "birim": "5"
+  },
+  {
+    "id": "04.V42/04A14",
+    "kurum": "VGM",
+    "tanim": "PVC pestili (1 mm lik) İşbaşında M ² 2 3 ,",
+    "birim": "5"
+  },
+  {
+    "id": "04.V42/04A15",
+    "kurum": "VGM",
+    "tanim": "Sentetik tutkal (TS EN 12765) İşbaşında K G 2 5 ,",
+    "birim": "0"
+  },
+  {
+    "id": "04.V42/04A16",
+    "kurum": "VGM",
+    "tanim": "Kemik tutkal (Sıcak) (TS 91) İşbaşında K G 3 2 ,",
+    "birim": "0"
+  },
+  {
+    "id": "04.V42/04A17",
+    "kurum": "VGM",
+    "tanim": "Ambalaj kağıdı İşbaşında M ² 4 ,",
+    "birim": "0"
+  },
+  {
+    "id": "04.V42/04A18",
+    "kurum": "VGM",
+    "tanim": "Ambalaj kağıdı bandı İşbaşında M 0 ,",
+    "birim": "8"
+  },
+  {
+    "id": "04.V42/04A19",
+    "kurum": "VGM",
+    "tanim": "Silikon esaslı bant (yapıştırıcılı) İşbaşında M 0 ,",
+    "birim": "8"
+  },
+  {
+    "id": "04.V42/04A20",
+    "kurum": "VGM",
+    "tanim": "Pamuk İşbaşında K G 3 0 ,",
+    "birim": "0"
+  },
+  {
+    "id": "04.V42/04A21",
+    "kurum": "VGM",
+    "tanim": "Melamin Esaslı Laminasyon Tutkalı İşbaşında K G 3 7 0 ,",
+    "birim": "0"
+  },
+  {
+    "id": "04.V42/04A22",
+    "kurum": "VGM",
+    "tanim": "Tülbent Bezi İşbaşında M ² 3 0 ,",
+    "birim": "0"
+  },
+  {
+    "id": "04.V47/41",
+    "kurum": "VGM",
+    "tanim": "Buhar geçişine açık mahya altı havalandırma bandı (32 cm genişlikte) İşbaşında M 1 3 0 ,",
+    "birim": "0"
+  },
+  {
+    "id": "04.V47/50",
+    "kurum": "VGM",
+    "tanim": "Alaturka kiremit ilk kanca İşbaşında A D 9 ,",
+    "birim": "0"
+  },
+  {
+    "id": "04.V47/51",
+    "kurum": "VGM",
+    "tanim": "Alaturka kiremit ara kanca İşbaşında A D 3 ,",
+    "birim": "8"
+  },
+  {
+    "id": "04.V51",
+    "kurum": "VGM",
+    "tanim": " Doğal puzolan ( Mikronize Tras , Volkanik Tüf, Pomza Taşı vb) (TS 25)",
+    "birim": "0"
+  },
+  {
+    "id": "04.V53",
+    "kurum": "VGM",
+    "tanim": "Tuğla tozu veya Kiremit tozu İşbaşında T O N 2 . 3 0 0 ,",
+    "birim": "0"
+  },
+  {
+    "id": "04.V54/001",
+    "kurum": "VGM",
+    "tanim": " %100 Yerli Yün, 14-16 Mm Yüksekliğinde, 4000 Gr/M2 Halı Kaplaması",
+    "birim": "0"
+  },
+  {
+    "id": "04.V54/002",
+    "kurum": "VGM",
+    "tanim": " %100 Yerli Yün, 14-16 Mm Yüksekliğinde, 4500 Gr/M2 Halı Kaplaması",
+    "birim": "0"
+  },
+  {
+    "id": "04.V54/003",
+    "kurum": "VGM",
+    "tanim": " %100 Yerli Yün, 14-16 Mm Yüksekliğinde, 5000 Gr/M2 Halı Kaplaması",
+    "birim": "0"
+  },
+  {
+    "id": "04.V54/02",
+    "kurum": "VGM",
+    "tanim": "Halı Altı Keçe 1200g/m2 İşbaşında M ² 4 0 ,",
+    "birim": "0"
+  },
+  {
+    "id": "04.V56",
+    "kurum": "VGM",
+    "tanim": "Zımpara Talaşı İşbaşında K G 3 6 ,",
+    "birim": "0"
+  },
+  {
+    "id": "04.V56/1",
+    "kurum": "VGM",
+    "tanim": "Saman İşbaşında K G 6 ,",
+    "birim": "0"
+  },
+  {
+    "id": "04.V56/2",
+    "kurum": "VGM",
+    "tanim": "Kıtık İşbaşında K G 2 ,",
+    "birim": "6"
+  },
+  {
+    "id": "04.V56/4",
+    "kurum": "VGM",
+    "tanim": "Maden Kömürü İşbaşında K G 2 ,",
+    "birim": "0"
+  },
+  {
+    "id": "04.V56/5",
+    "kurum": "VGM",
+    "tanim": "Geleneksel Dövme Yün Keçe 750 g/m2 ( ±50 gr/m2) İşbaşında M ² 4 2 5 ,",
+    "birim": "0"
+  },
+  {
+    "id": "04.V57",
+    "kurum": "VGM",
+    "tanim": "Tatlı Kireç İşbaşında K G 1 0 ,",
+    "birim": "0"
+  },
+  {
+    "id": "04.V60/1",
+    "kurum": "VGM",
+    "tanim": "Mikroenjeksiyon Harcı (Malta) İşbaşında K G 7 5 0 ,",
+    "birim": "0"
+  },
+  {
+    "id": "04.V60/2",
+    "kurum": "VGM",
+    "tanim": "Doğal Hidrolik Kireç Esaslı Enjeksiyon Harcı (TS EN 998-2) İşbaşında T O N 1 1 . 0 0 0 ,",
+    "birim": "0"
+  },
+  {
+    "id": "04.V61/01",
+    "kurum": "VGM",
+    "tanim": "Ø12-Ø16 Şişe Dibi Cam İşbaşında A D 1 1 0 ,",
+    "birim": "0"
+  },
+  {
+    "id": "04.V61/02",
+    "kurum": "VGM",
+    "tanim": "Ø16-Ø25 Şişe Dibi Cam İşbaşında A D 1 5 0 ,",
+    "birim": "0"
+  },
+  {
+    "id": "04.V61/03",
+    "kurum": "VGM",
+    "tanim": "6 mm kalınlıkta renksiz düz cam İşbaşında M ² 4 6 0 ,",
+    "birim": "0"
+  },
+  {
+    "id": "04.V61/04",
+    "kurum": "VGM",
+    "tanim": "4 mm kalınlıkta kumlanmış düz cam İşbaşında M ² 6 2 5 ,",
+    "birim": "0"
+  },
+  {
+    "id": "04.V61/05",
+    "kurum": "VGM",
+    "tanim": "6 mm kalınlıkta renksiz telli buzlu cam İşbaşında M ² 7 2 0 ,",
+    "birim": "0"
+  },
+  {
+    "id": "04.V61/06",
+    "kurum": "VGM",
+    "tanim": "4+4 mm kalınlıkta 12 mm boşluklu yalıtım camı İşbaşında M ² 7 6 4 ,",
+    "birim": "5"
+  },
+  {
+    "id": "04.V61/07",
+    "kurum": "VGM",
+    "tanim": "10 mm kalınlıkta temperli cam İşbaşında M ² 9 5 1 ,",
+    "birim": "5"
+  },
+  {
+    "id": "04.V61/08",
+    "kurum": "VGM",
+    "tanim": "Camlama takozu İşbaşında A D 2 ,",
+    "birim": "9"
+  },
+  {
+    "id": "04.V61/09",
+    "kurum": "VGM",
+    "tanim": "Slikon (310 ml) (Asitsiz - Nötral Silikon) İşbaşında A D 4 2 0 ,",
+    "birim": "0"
+  },
+  {
+    "id": "04.V61/10",
+    "kurum": "VGM",
+    "tanim": "Cam macunu İşbaşında K G 6 0 ,",
+    "birim": "0"
+  },
+  {
+    "id": "04.V61/11",
+    "kurum": "VGM",
+    "tanim": "Epdm kauçuk, neopren veya tpe izolasyon ve cam conta ve fitilleri İşbaşında K G 4 2 ,",
+    "birim": "5"
+  },
+  {
+    "id": "KTB.95.3004",
+    "kurum": "VGM",
+    "tanim": "Üst Arama El Dedektörü Adet 1.856,93",
+    "birim": "0,00"
+  },
+  {
+    "id": "10.120.1190",
+    "kurum": "ÇŞB",
+    "tanim": "118.000.000,0",
+    "birim": "Adet"
+  },
+  {
+    "id": "25.160.0000",
+    "kurum": "ÇŞB",
+    "tanim": "HİDROFORLAR (Ölçü: Ad.) DÜŞEY VEYA YATAY MİLLİ SANTRİFÜJ POMPALI TAM OTOMATİK PAKET HİDROFOR: (Ölçü: Ad.)",
+    "birim": "Adet"
+  },
+  {
+    "id": "25.202.1300",
+    "kurum": "ÇŞB",
+    "tanim": "5 Atmosfer konstrüksiyon basıncında: Montajlı Birim Fiyatlar ve Montaj Bedelleri BFT 25.202.1000 'den % 10 zamlı diğer özellikler BFT 25.202.1000 'in aynıdır. SICAK SU ÜRETİCİ, ÇELİK MALZEMEDEN KAYNAKLI KALORİFER KAZANI: SIVI VE GAZ YAKITLI: Ölçü: Adet, birimi: (Kcal/h) kW",
+    "birim": "Adet"
+  },
+  {
+    "id": "25.202.2400",
+    "kurum": "ÇŞB",
+    "tanim": "6 Atmosfer konstrüksiyon basıncında: Montajlı Birim Fiyatlar ve Montaj Bedelleri BFT 25.202.2100 'den % 12 zamlı, diğer özellikler BFT 25.202.2000 'in aynıdır. SICAK SU ÜRETİCİ, ÇELİK MALZEMEDEN KAYNAKLI KALORİFER KAZANI: SIVI VE GAZ YAKITLI: Ölçü: Adet, birimi: (Kcal/h) kW",
+    "birim": "Adet"
+  },
+  {
+    "id": "25.202.3400",
+    "kurum": "ÇŞB",
+    "tanim": "6 Atmosfer konstrüksiyon basıncında: Montajlı Birim Fiyatlar ve Montaj Bedelleri BFT 25.202.3100 'den % 12 zamlı, diğer özellikler BFT 25.202.3000 'in aynıdır. SICAK SU ÜRETİCİ, ÇELİK MALZEMEDEN (KAYNAKLI) KALORİFER KAZANI: SIVI VE GAZ YAKITLI: Ölçü: Adet, birimi: (Kcal/h) kW",
+    "birim": "Adet"
+  },
+  {
+    "id": "25.202.4400",
+    "kurum": "ÇŞB",
+    "tanim": "6 Atmosfer konstrüksiyon basıncında: Montajlı Birim Fiyatlar ve Montaj Bedelleri BFT 25.202.4100 'den % 12 zamlı, diğer özellikler BFT 25.202.4000 'in aynıdır. BUHAR VEYA KIZGIN SU ÜRETİCİ ÇELİK MALZEMEDEN KAYNAKLI KAZANLAR: SIVI VE GAZ YAKITLI: Ölçü: Adet, Birimi: (Kcal/h) kW veya kg. buhar/ saat",
+    "birim": "Adet"
+  },
+  {
+    "id": "25.206.0000",
+    "kurum": "ÇŞB",
+    "tanim": "Kalorifer ve buhar kazanlarında kazan boru yenilenmesi (Ölçü: m. ) Kazan aynası zedelenmeden arızalı olan duman borularının yerlerinden sökülmesi için duman sandığının yerinden çıkarılması, boruların sökülmesi uygun ölçüde yeni kazan borularının yerine takılması ve makinato çekilmesi, sızdırmazlık tecrübesi için kazan bağlantılarının geçici olarak kapatılması ve işletme basıncının 1,5 katı hidrolik basınç testine tabi tutulması; her türlü malzeme, işçilik ve zayiat dahil kazanın işler halde teslimi. BFT 25.300.1000 'deki dikişli siyah ve buhar kazan borularından yenilenen borunun dış çap ölçüsüne göre, montajlı birim fiyatın % 70 arttırım uygulanarak hesaplanacak, montaj bedeli ayrıca kullanılmayacaktır.",
+    "birim": "Adet"
+  },
+  {
+    "id": "25.280.2200",
+    "kurum": "ÇŞB",
+    "tanim": "Normal çekişli kazanlarda kullanılan ısıtıcılı, çift kademeli brülör: Brülörün kullanma kapasitesindeki yakıt miktarı, brülör üzerindeki iki ayrı memeden veya tek memenin iki ayrı konumundan temin edilen ikinci kademenin devreye girmesini ve ikinci kademenin yanma havasını ayarlayan dampere kumandayı sağlayan servomotorun iki",
+    "birim": "25.280.2"
+  },
+  {
+    "id": "25.350.2000",
+    "kurum": "ÇŞB",
+    "tanim": " Kuru rotorlu, düz boruya takılabilen(inline tip), gövdesi dökme demirden, çarkı kompozit malzemeden veya dökme demirden imal edilmiş, 2900 d/dk devir hızında çalışan sabit devirli sirkülasyon pompalarının Bilim,Sanayi ve Teknoloji Bakanlığı’nın \"Elektrik Motorları İle İlgili Çevreye Duyarlı Tasarım Gereklerine Dair Tebliğ\"’ ne göre 0,75 kW ve üzeri trifaze olması durumunda motor güçlerinde motor verimi IE3 verim seviyesinden düşük olmayacak şekilde teçhiz edilmiş olan kuru rotorlu sirkülasyon pompasının iş yerinde temini ve çalışır halde yerine montajı. BFT 25.350.1000'de ki 1450 devir/min. pompa montajlı birim fiyatları ve montaj bedelleri % 10 eksiltilerek uygulanacaktır. Değişken Devirli (Frekans Konvertörlü) Islak Rotorlu Sirkülasyon Pompası: (TS EN 16297/1-2-3)",
+    "birim": "Adet"
+  },
+  {
+    "id": "25.355.5000",
+    "kurum": "ÇŞB",
+    "tanim": " BFT 25.355.1000'de ki 1500 devir/min santrifüj pompa montajlı birim fiyat ve montaj bedelleri % 50 artırılarak uygulanacaktır.",
+    "birim": "3"
+  },
+  {
+    "id": "25.355.7000",
+    "kurum": "ÇŞB",
+    "tanim": " BFT 25.355.1000'de ki 1500 devir/min santrifüj pompa montajlı birim fiyat ve montaj bedelleri % 100 artırılarak uygulanacaktır.",
+    "birim": "3"
+  },
+  {
+    "id": "25.400.3500",
+    "kurum": "ÇŞB",
+    "tanim": "Alüminyum Folyo Kaplı Taş Yünü Prefabrik Boru İle Isı Yalıtımı (Ölçü: m)",
+    "birim": "s1-d"
+  },
+  {
+    "id": "25.460.1202",
+    "kurum": "ÇŞB",
+    "tanim": "4.268,88 1.087,50 KLİMA SANTRALLERİNDE KULLANILMAK ÜZERE ISI GERİ KAZANIM ÜNİTESİ Ölçü : Ad",
+    "birim": "Adet"
+  },
+  {
+    "id": "25.470.1800",
+    "kurum": "ÇŞB",
+    "tanim": "Kumaş Hava Kanalı: (Ölçü: m.:) Üfleme kanallarında pozitif basınçta kullanılmak üzere , -17,8 - +80 aralığında sıcaklıklarda kulaanılabilen , azami 500 Pa kullanım basıncına mukavim, içinden en fazla 10 m/sn. hava",
+    "birim": "d"
+  },
+  {
+    "id": "25.615.1300",
+    "kurum": "ÇŞB",
+    "tanim": "238.492,31 7.492,31 Her periyotta (saatte ) en az 130 adet 50x50 cm . yıkama (kaset) sepeti ile nominal (azami teorik) olarak 2000 adet tabağı veya 800 adet self servis tepsisini yıkayabilecek kapasitede, makinanın çalışması otomatik ve termostatik kontrollü, sepetler makina içinde ileri geri hareket edebilen özel bir paslanmaz çelik konveyörle taşınarak, makinanın ön yıkama, yıkama ve durulama, kurutma bölümlerinden geçirilerek yıkanmış, durulanmış olarak makinayı terk edebilecektir Makine gövdesinin tamamı ve boyleri 18/8 Cr-Ni. paslanmaz çelikten mamul,. Yıkama tesisatı, yıkama kolları, durulama kolları, püskürtme memeleri ve kırıntı süzgeçleri, paslanmaya, deterjana ve sıcak suya dayanıklı plastik malzemeden veya 18/8 Cr-Ni. paslanmaz çelikten imal edilmiş olacak, yıkama pompası paslanmaya ve deterjana dayanıklı plastik malzemeden mamul olup sessiz çalışacak şekilde motora direkt akuple, pompa motor gücü en az 1500 Watt olacak, ön yıkama tankı en az 50 Litre hacminde , ve ön yıkama suyu 35-40 °C sıcaklıkta , yıkama tankı en az 70 Litre hacminde 50-55 °C su temin edecek şartlarda en az 6000 Watt paslanmaz ısıtıcılarla donatılmış, yıkama, kapalı bir kabin içinde altta ve üstte olmak üzere sabit kollarla temiz yıkama yapacak şekilde düzenlenmiş, makinanın ön yüzünde",
+    "birim": "12"
+  },
+  {
+    "id": "35.417.0000",
+    "kurum": "ÇŞB",
+    "tanim": "FİBER OPTİK SICAKLIK ALGILAMA SİSTEMİ Akıllı analog doğrusal fiber optik f/o kablo tipi sıcaklık algılama kontrol ünitesi: (Ölçü: Ad.)",
+    "birim": "Adet"
+  },
+  {
+    "id": "35.446.3120",
+    "kurum": "ÇŞB",
+    "tanim": "10.751,41 1.635,94",
+    "birim": "1"
+  },
+  {
+    "id": "35.446.7118",
+    "kurum": "ÇŞB",
+    "tanim": "5.022,44 685,94",
+    "birim": "AX3"
+  },
+  {
+    "id": "35.446.7127",
+    "kurum": "ÇŞB",
+    "tanim": "13.960,94 685,94",
+    "birim": "AX6"
+  },
+  {
+    "id": "35.446.7136",
+    "kurum": "ÇŞB",
+    "tanim": "25.156,19 685,94",
+    "birim": "BE19"
+  },
+  {
+    "id": "35.446.7212",
+    "kurum": "ÇŞB",
+    "tanim": "5.889,74 685,94",
+    "birim": "AX3"
+  },
+  {
+    "id": "35.446.7309",
+    "kurum": "ÇŞB",
+    "tanim": "5.889,74 685,94",
+    "birim": "AX3"
+  },
+  {
+    "id": "35.446.7318",
+    "kurum": "ÇŞB",
+    "tanim": "13.164,44 685,94",
+    "birim": "BE19"
+  },
+  {
+    "id": "35.450.2700",
+    "kurum": "ÇŞB",
+    "tanim": "MULTICORE SES KABLOSU:(Ölçü:Mt.) İçerisinde 8 adet ses sinyali taşınması için numaralandırılmış kablolardan oluşmuş, multicore",
+    "birim": "35.500.2"
+  },
+  {
+    "id": "35.520.0000",
+    "kurum": "ÇŞB",
+    "tanim": "YANGINA DAYANIKLI KABLOLAR JE-H(St)H FE180 PH120 YANGINA DAYANIKLI HALOJENSİZ YANGIN ALARM KABLOLARI (Ölçü: m) (VDE 0815)",
+    "birim": "Adet"
+  },
+  {
+    "id": "19.100.1001",
+    "kurum": "ÇŞB",
+    "tanim": "Ekskavatör'ün 1 saatlik ücreti",
+    "birim": "Sa"
+  },
+  {
+    "id": "19.100.1002",
+    "kurum": "ÇŞB",
+    "tanim": "Ekskavatör Beko'nun 1 saatlik ücreti",
+    "birim": "Sa"
+  },
+  {
+    "id": "19.100.1003",
+    "kurum": "ÇŞB",
+    "tanim": "Ekskavatör'ün 1 saatlik ücreti",
+    "birim": "Sa"
+  },
+  {
+    "id": "19.100.1004",
+    "kurum": "ÇŞB",
+    "tanim": "Ekskavatör'ün 1 saatlik ücreti",
+    "birim": "Sa"
+  },
+  {
+    "id": "19.100.1005",
+    "kurum": "ÇŞB",
+    "tanim": "Ekskavatör'ün 1 saatlik ücreti",
+    "birim": "Sa"
+  },
+  {
+    "id": "19.100.1006",
+    "kurum": "ÇŞB",
+    "tanim": "Ekskavatör (paletli) (210-259 HP) (maksimum 2,5 m³) 1 saatlik ücreti",
+    "birim": "Sa"
+  },
+  {
+    "id": "19.100.1007",
+    "kurum": "ÇŞB",
+    "tanim": "Ekskavatör'ün 1 saatlik ücreti",
+    "birim": "Sa"
+  },
+  {
+    "id": "19.100.1008",
+    "kurum": "ÇŞB",
+    "tanim": "Ekskavatör (paletli) (260-299 HP) (maksimum 2,5 m³) 1 saatlik ücreti",
+    "birim": "Sa"
+  },
+  {
+    "id": "19.100.1009",
+    "kurum": "ÇŞB",
+    "tanim": "Ekskavatör (paletli) (300-329 HP) (maksimum 3,5 m³) 1 saatlik ücreti",
+    "birim": "Sa"
+  },
+  {
+    "id": "19.100.1010",
+    "kurum": "ÇŞB",
+    "tanim": "Traktör Skreyper'in 1 saatlik ücreti",
+    "birim": "Sa"
+  },
+  {
+    "id": "19.100.1011",
+    "kurum": "ÇŞB",
+    "tanim": "Traktör Ripper'in 1 saatlik ücreti",
+    "birim": "Sa"
+  },
+  {
+    "id": "19.100.1012",
+    "kurum": "ÇŞB",
+    "tanim": "Motor Greyder'in 1 saatlik ücreti",
+    "birim": "Sa"
+  },
+  {
+    "id": "19.100.1013",
+    "kurum": "ÇŞB",
+    "tanim": "Greyder (190-209 HP) 1 saatlik ücreti",
+    "birim": "Sa"
+  },
+  {
+    "id": "19.100.1014",
+    "kurum": "ÇŞB",
+    "tanim": "Greyder (210-230 HP) 1 saatlik ücreti",
+    "birim": "Sa"
+  },
+  {
+    "id": "19.100.1015",
+    "kurum": "ÇŞB",
+    "tanim": "Lastik tekerlekli traktör Skreyper'in 1 saatlik ücreti",
+    "birim": "Sa"
+  },
+  {
+    "id": "19.100.1016",
+    "kurum": "ÇŞB",
+    "tanim": "Traktör Buldozer'in (70 HP) 1 saatlik ücreti",
+    "birim": "Sa"
+  },
+  {
+    "id": "19.100.1017",
+    "kurum": "ÇŞB",
+    "tanim": "Traktör Buldozer'in (100 HP) 1 saatlik ücreti",
+    "birim": "Sa"
+  },
+  {
+    "id": "19.100.1018",
+    "kurum": "ÇŞB",
+    "tanim": "Traktör Buldozer'in (160 HP) 1 saatlik ücreti",
+    "birim": "Sa"
+  },
+  {
+    "id": "19.100.1019",
+    "kurum": "ÇŞB",
+    "tanim": "Traktör Buldozer'in 1 saatlik ücreti",
+    "birim": "Sa"
+  },
+  {
+    "id": "19.100.1020",
+    "kurum": "ÇŞB",
+    "tanim": "Traktör Buldozer'in (285 HP) 1 saatlik ücreti",
+    "birim": "Sa"
+  },
+  {
+    "id": "19.100.1021",
+    "kurum": "ÇŞB",
+    "tanim": "Traktör Buldozer'in (345 HP) 1 saatlik ücreti",
+    "birim": "Sa"
+  },
+  {
+    "id": "19.100.1022",
+    "kurum": "ÇŞB",
+    "tanim": "Şahmerdan'ın (50 HP) 1 saatlik ücreti",
+    "birim": "Sa"
+  },
+  {
+    "id": "19.100.1023",
+    "kurum": "ÇŞB",
+    "tanim": "Kompresör'ün 1 saatlik ücreti",
+    "birim": "Sa"
+  },
+  {
+    "id": "19.100.1024",
+    "kurum": "ÇŞB",
+    "tanim": "Vantilatasyon için Kompresör'ün 1 saatlik ücreti",
+    "birim": "Sa"
+  },
+  {
+    "id": "19.100.1025",
+    "kurum": "ÇŞB",
+    "tanim": "Kompresör'ün 1 saatlik ücreti (250 HP)",
+    "birim": "Sa"
+  },
+  {
+    "id": "19.100.1027",
+    "kurum": "ÇŞB",
+    "tanim": "Kazıcı yükleyici (100 HP) (maksimum 2,5 m³) 1 saatlik ücreti",
+    "birim": "Sa"
+  },
+  {
+    "id": "19.100.1028",
+    "kurum": "ÇŞB",
+    "tanim": "Lastik tekerlekli yükleyicinin 1 saatlik ücreti",
+    "birim": "Sa"
+  },
+  {
+    "id": "19.100.1029",
+    "kurum": "ÇŞB",
+    "tanim": "Yükleyici (lastik tekerlekli) (100 HP) (maksimum 2 m³) 1 saatlik ücreti",
+    "birim": "Sa"
+  },
+  {
+    "id": "19.100.1030",
+    "kurum": "ÇŞB",
+    "tanim": "Paletli Yükleyicinin 1 saatlik ücreti",
+    "birim": "Sa"
+  },
+  {
+    "id": "19.100.1031",
+    "kurum": "ÇŞB",
+    "tanim": "Betoniyer'in 1 saatlik ücreti",
+    "birim": "Sa"
+  },
+  {
+    "id": "19.100.1033",
+    "kurum": "ÇŞB",
+    "tanim": "Beton vibratörü'nün 1 saatlik ücreti",
+    "birim": "Sa"
+  },
+  {
+    "id": "19.100.1034",
+    "kurum": "ÇŞB",
+    "tanim": "Konkasör'ün 1 saatlik ücreti",
+    "birim": "Sa"
+  },
+  {
+    "id": "19.100.1035",
+    "kurum": "ÇŞB",
+    "tanim": "Elek makinası'nın 1 saatlik ücreti",
+    "birim": "Sa"
+  },
+  {
+    "id": "19.100.1036",
+    "kurum": "ÇŞB",
+    "tanim": "Eleme makinasının 1 saatlik ücreti",
+    "birim": "Sa"
+  },
+  {
+    "id": "19.100.1037",
+    "kurum": "ÇŞB",
+    "tanim": "Motopomp'un (5 Ps.) 1 saatlik ücreti",
+    "birim": "Sa"
+  },
+  {
+    "id": "19.100.1038",
+    "kurum": "ÇŞB",
+    "tanim": "Motopompun 1 saatlik ücreti",
+    "birim": "Sa"
+  },
+  {
+    "id": "19.100.1039",
+    "kurum": "ÇŞB",
+    "tanim": "Motopomp'un (20 Ps.) 1 saatlik ücreti",
+    "birim": "Sa"
+  },
+  {
+    "id": "19.100.1040",
+    "kurum": "ÇŞB",
+    "tanim": "Motopomp'un (30 Ps.) 1 saatlik ücreti",
+    "birim": "Sa"
+  },
+  {
+    "id": "19.100.1041",
+    "kurum": "ÇŞB",
+    "tanim": "Motopomp'un (45 Ps.) 1 saatlik ücreti",
+    "birim": "Sa"
+  },
+  {
+    "id": "19.100.1042",
+    "kurum": "ÇŞB",
+    "tanim": "Motopomp'un (60 Ps.) 1 saatlik ücreti",
+    "birim": "Sa"
+  },
+  {
+    "id": "19.100.1043",
+    "kurum": "ÇŞB",
+    "tanim": "Çekilir tip beton pompası'nın 1 saatlik ücreti",
+    "birim": "Sa"
+  },
+  {
+    "id": "19.100.1044",
+    "kurum": "ÇŞB",
+    "tanim": "Arazöz'ün 1 saatlik ücreti",
+    "birim": "Sa"
+  },
+  {
+    "id": "19.100.1045",
+    "kurum": "ÇŞB",
+    "tanim": "Arazöz Pick-Up'ın 1 saatlik ücreti",
+    "birim": "Sa"
+  },
+  {
+    "id": "19.100.1046",
+    "kurum": "ÇŞB",
+    "tanim": "Her cins (Titreşimli Darbeli) motorlu kompaktör'ün 1 saatlik ücreti",
+    "birim": "Sa"
+  },
+  {
+    "id": "19.100.1047",
+    "kurum": "ÇŞB",
+    "tanim": "Titreşimli Silindir'in 1 saatlik ücreti",
+    "birim": "Sa"
+  },
+  {
+    "id": "19.100.1048",
+    "kurum": "ÇŞB",
+    "tanim": "Titreşimli Silindir'in 1 saatlik ücreti",
+    "birim": "Sa"
+  },
+  {
+    "id": "19.100.1049",
+    "kurum": "ÇŞB",
+    "tanim": "Komple keçiayağı silindir'in 1 saatlik ücreti",
+    "birim": "Sa"
+  },
+  {
+    "id": "19.100.1050",
+    "kurum": "ÇŞB",
+    "tanim": "2 çift Tanburlu keçiayağı silindir'in 1 saatlik ücreti",
+    "birim": "Sa"
+  },
+  {
+    "id": "19.100.1051",
+    "kurum": "ÇŞB",
+    "tanim": "3 çift Tanburlu keçiayağı silindir'in 1 saatlik ücreti",
+    "birim": "Sa"
+  },
+  {
+    "id": "19.100.1052",
+    "kurum": "ÇŞB",
+    "tanim": "Demir merdaneli silindir'in 1 saatlik ücreti",
+    "birim": "Sa"
+  },
+  {
+    "id": "19.100.1053",
+    "kurum": "ÇŞB",
+    "tanim": "Demir merdaneli silindir'in 1 saatlik ücreti",
+    "birim": "Sa"
+  },
+  {
+    "id": "19.100.1054",
+    "kurum": "ÇŞB",
+    "tanim": "Lastik tekerlekli silindir'in 1 saatlik ücreti",
+    "birim": "Sa"
+  },
+  {
+    "id": "19.100.1055",
+    "kurum": "ÇŞB",
+    "tanim": "Küçük eleme tesisi'nin 1 saatlik ücreti",
+    "birim": "Sa"
+  },
+  {
+    "id": "19.100.1056",
+    "kurum": "ÇŞB",
+    "tanim": "Fore kazık delgi makinası'nın (300 HP) 1 saatlik ücreti",
+    "birim": "Sa"
+  },
+  {
+    "id": "19.100.1057",
+    "kurum": "ÇŞB",
+    "tanim": "Fore kazık delgi makinası'nın (200 HP) 1 saatlik ücreti",
+    "birim": "Sa"
+  },
+  {
+    "id": "19.100.1058",
+    "kurum": "ÇŞB",
+    "tanim": "Fore kazık delgi makinası'nın (440 HP) 1 saatlik ücreti",
+    "birim": "Sa"
+  },
+  {
+    "id": "19.100.1059",
+    "kurum": "ÇŞB",
+    "tanim": "Otomatik Beton Santrali'nin (1000 Litre kapasiteli, 50 m³/saat) 1 saatlik ücreti",
+    "birim": "Sa"
+  },
+  {
+    "id": "19.100.1060",
+    "kurum": "ÇŞB",
+    "tanim": "Rotor sistemli BEP 80 M ve benzeri beton pompası'nın 1 saatlik ücreti",
+    "birim": "Sa"
+  },
+  {
+    "id": "19.100.1061",
+    "kurum": "ÇŞB",
+    "tanim": "Kaynak Makinası'nın 1 saatlik ücreti",
+    "birim": "Sa"
+  },
+  {
+    "id": "19.100.1062",
+    "kurum": "ÇŞB",
+    "tanim": "5 kw Jeneratör grubunun 1 saatlik ücreti",
+    "birim": "Sa"
+  },
+  {
+    "id": "19.100.1063",
+    "kurum": "ÇŞB",
+    "tanim": "Klepeli Taş Dubası'nın (125 Ton) 1 saatlik ücreti",
+    "birim": "Sa"
+  },
+  {
+    "id": "19.100.1064",
+    "kurum": "ÇŞB",
+    "tanim": "Klepeli Taş Dubası'nın (400 Ton) 1 saatlik ücreti",
+    "birim": "Sa"
+  },
+  {
+    "id": "19.100.1065",
+    "kurum": "ÇŞB",
+    "tanim": "DevrilirTaş Dubası'ının (300 Ton) 1 saatlik ücreti",
+    "birim": "Sa"
+  },
+  {
+    "id": "19.100.1066",
+    "kurum": "ÇŞB",
+    "tanim": "Klapeli Kum Dubası'ının (300 Ton) 1 saatlik ücreti",
+    "birim": "Sa"
+  },
+  {
+    "id": "19.100.1067",
+    "kurum": "ÇŞB",
+    "tanim": "Klapeli Kum Dubası'ının (2x255 HP, 500 m³) 1 saatlik ücreti",
+    "birim": "Sa"
+  },
+  {
+    "id": "19.100.1068",
+    "kurum": "ÇŞB",
+    "tanim": "Motorsuz Layter'in (180 m³) 1 saatlik ücreti",
+    "birim": "Sa"
+  },
+  {
+    "id": "19.100.1069",
+    "kurum": "ÇŞB",
+    "tanim": "Romorkör'ün (116 HP) 1 saatlik ücreti",
+    "birim": "Sa"
+  },
+  {
+    "id": "19.100.1070",
+    "kurum": "ÇŞB",
+    "tanim": "Romorkör'ün (240 HP) 1 saatlik ücreti",
+    "birim": "Sa"
+  },
+  {
+    "id": "19.100.1071",
+    "kurum": "ÇŞB",
+    "tanim": "Romorkör'ün (310 HP) 1 saatlik ücreti",
+    "birim": "Sa"
+  },
+  {
+    "id": "19.100.1072",
+    "kurum": "ÇŞB",
+    "tanim": "Romorkör'ün (525 HP) 1 saatlik ücreti",
+    "birim": "Sa"
+  },
+  {
+    "id": "19.100.1073",
+    "kurum": "ÇŞB",
+    "tanim": "Romorkör'ün (2x300 HP) 1 saatlik ücreti",
+    "birim": "Sa"
+  },
+  {
+    "id": "19.100.1074",
+    "kurum": "ÇŞB",
+    "tanim": "Maçula'nın 1 saatlik ücreti",
+    "birim": "Sa"
+  },
+  {
+    "id": "19.100.1075",
+    "kurum": "ÇŞB",
+    "tanim": "Çim biçme makinası'nın 1 saatlik ücreti",
+    "birim": "Sa"
+  },
+  {
+    "id": "19.100.1076",
+    "kurum": "ÇŞB",
+    "tanim": "Ziraat işlerinde kullanılan Traktör'ün 1 saatlik ücreti",
+    "birim": "Sa"
+  },
+  {
+    "id": "19.100.1077",
+    "kurum": "ÇŞB",
+    "tanim": "Ziraat işlerinde kullanılan Traktör'ün 1 Saatlik Ücreti",
+    "birim": "Sa"
+  },
+  {
+    "id": "19.100.1078",
+    "kurum": "ÇŞB",
+    "tanim": "10 litrelik kollu sırt pülverizatör'ün 1 saatlik ücreti",
+    "birim": "Sa"
+  },
+  {
+    "id": "19.100.1079",
+    "kurum": "ÇŞB",
+    "tanim": "10 litrelik motorlu sırt pülverizatör'ün 1 saatlik ücreti",
+    "birim": "Sa"
+  },
+  {
+    "id": "19.100.1080",
+    "kurum": "ÇŞB",
+    "tanim": "El ile çekilen 100 litrelik motorlu pülverizatör'ün 1 saatlik ücreti",
+    "birim": "Sa"
+  },
+  {
+    "id": "19.100.1081",
+    "kurum": "ÇŞB",
+    "tanim": "Araç ile çekilen 250 litrelik motorlu pülverizatör'ün 1 saatlik ücreti",
+    "birim": "Sa"
+  },
+  {
+    "id": "19.100.1082",
+    "kurum": "ÇŞB",
+    "tanim": "Araç ile taşınır 560 litrelik motorlu pülverizatör'ün 1 saatlik ücreti",
+    "birim": "Sa"
+  },
+  {
+    "id": "19.100.1083",
+    "kurum": "ÇŞB",
+    "tanim": "Kum Kutusu ve Nozul'un 1 saatlik ücreti",
+    "birim": "Sa"
+  },
+  {
+    "id": "19.100.1084",
+    "kurum": "ÇŞB",
+    "tanim": "Kendi yürür 1200 litrelik motorlu pülverizatör'ün 1 saatlik ücreti",
+    "birim": "Sa"
+  },
+  {
+    "id": "19.100.1085",
+    "kurum": "ÇŞB",
+    "tanim": "Karıştırıcı (Blender)'in 1 saatlik ücreti",
+    "birim": "Sa"
+  },
+  {
+    "id": "19.100.1086",
+    "kurum": "ÇŞB",
+    "tanim": "Araç ile taşınır hidrolik düzenli 2200 litrelik motorlu pülverizatör'ün 1 saatlik ücreti",
+    "birim": "Sa"
+  },
+  {
+    "id": "19.100.1087",
+    "kurum": "ÇŞB",
+    "tanim": "Alüminyum doğrama imalat atelyesinin 1 saatli ücreti",
+    "birim": "Sa"
+  },
+  {
+    "id": "19.100.1088",
+    "kurum": "ÇŞB",
+    "tanim": "Plastik doğrama imalat atelyesinin 1 saatli ücreti",
+    "birim": "Sa"
+  },
+  {
+    "id": "19.100.1089",
+    "kurum": "ÇŞB",
+    "tanim": "Demir doğrama imalat atelyesinin 1 saatli ücreti",
+    "birim": "Sa"
+  },
+  {
+    "id": "19.100.1090",
+    "kurum": "ÇŞB",
+    "tanim": "Tünel kalıp imalat atelyesinin 1 saatlik ücreti",
+    "birim": "Sa"
+  },
+  {
+    "id": "19.100.1093",
+    "kurum": "ÇŞB",
+    "tanim": "Derz Kesme Makinesi (Maksimum kesme derinliği 160mm-12 HP) (Bıçağı, su deposu, vb. dahil komple)",
+    "birim": "Sa"
+  },
+  {
+    "id": "19.100.1094",
+    "kurum": "ÇŞB",
+    "tanim": "Perdah (helikopter) makinesi (9HP) (Tepsisi, 4lü bıçağı vb. dahil komple)",
+    "birim": "Sa"
+  },
+  {
+    "id": "19.100.1095",
+    "kurum": "ÇŞB",
+    "tanim": "Eksiz Oluk Makinasının 1 saatlik ücreti",
+    "birim": "Sa"
+  },
+  {
+    "id": "19.100.1096",
+    "kurum": "ÇŞB",
+    "tanim": "Zemin Stabilizasyon Makinalarının (Derin Karıştırma Yöntemi) bir saatlik ücreti (Ekskavatör (280 hp) + Tek Depolu Hareketli Kireç Silosu (130 hp) + Karıştırıcı Uç + Kompresör (60 hp) dahil komple sistem.)",
+    "birim": "Sa"
+  },
+  {
+    "id": "19.100.1097",
+    "kurum": "ÇŞB",
+    "tanim": "Zemin Stabilizasyon Makinalarının (Derin Karıştırma Yöntemi) bir saatlik ücreti (Ekskavatör (280 hp) + Çift Depolu Hareketli Kireç Silosu (130 hp) + Karıştırıcı Uç + Kompresör (60 hp) dahil komple sistem.)",
+    "birim": "Sa"
+  },
+  {
+    "id": "19.100.1098",
+    "kurum": "ÇŞB",
+    "tanim": "Zemin Stabilizasyon Makinalarının (Karıştırma Parçalama Makinası - 600 hp) bir saatlik ücreti",
+    "birim": "Sa"
+  },
+  {
+    "id": "19.100.1099",
+    "kurum": "ÇŞB",
+    "tanim": "Zemin Stabilizasyon Makinalarının (Kireç Serme Makinası - 250 hp) bir saatlik ücreti",
+    "birim": "Sa"
+  },
+  {
+    "id": "19.100.1100",
+    "kurum": "ÇŞB",
+    "tanim": "Sıva makinası'nın 1 saatlik ücreti",
+    "birim": "Sa"
+  },
+  {
+    "id": "19.100.1101",
+    "kurum": "ÇŞB",
+    "tanim": "Mobil Beton Pompasının Bir Saatlik Ücreti (420 HP)",
+    "birim": "Sa"
+  },
+  {
+    "id": "19.100.1102",
+    "kurum": "ÇŞB",
+    "tanim": "Vinç'in 1 saatlik ücreti",
+    "birim": "Sa"
+  },
+  {
+    "id": "19.100.1103",
+    "kurum": "ÇŞB",
+    "tanim": "60 Ton kapasiteli mobil vinç'in 1 saatlik ücreti",
+    "birim": "Sa"
+  },
+  {
+    "id": "19.100.1104",
+    "kurum": "ÇŞB",
+    "tanim": "Mobil vinç'in (60ton, 240 HP) 1 saatlik ücreti",
+    "birim": "Sa"
+  },
+  {
+    "id": "19.100.1105",
+    "kurum": "ÇŞB",
+    "tanim": "Kule vinçin 1 saatlik ücreti",
+    "birim": "Sa"
+  },
+  {
+    "id": "19.100.1106",
+    "kurum": "ÇŞB",
+    "tanim": "Paletli delgi makinası'nın 1 saatlik ücreti",
+    "birim": "Sa"
+  },
+  {
+    "id": "19.100.1107",
+    "kurum": "ÇŞB",
+    "tanim": "Jet grouting ekipmanı ile delgi makinası'nın 1 saatlik ücreti",
+    "birim": "Sa"
+  },
+  {
+    "id": "19.100.1108",
+    "kurum": "ÇŞB",
+    "tanim": "Mikro tünel sistemi ile boru sürme makinası'nın 1 saatlik ücreti",
+    "birim": "Sa"
+  },
+  {
+    "id": "19.100.1109",
+    "kurum": "ÇŞB",
+    "tanim": "Mikro tünel sistemi ile boru sürme makinası'nın 1 saatlik ücreti",
+    "birim": "Sa"
+  },
+  {
+    "id": "19.100.1110",
+    "kurum": "ÇŞB",
+    "tanim": "Matkap'ın 1 saatlik ücreti",
+    "birim": "Sa"
+  },
+  {
+    "id": "19.100.1111",
+    "kurum": "ÇŞB",
+    "tanim": "Demir kesme ve bükme makinası'nın 1 saatlik ücreti",
+    "birim": "Sa"
+  },
+  {
+    "id": "19.100.1112",
+    "kurum": "ÇŞB",
+    "tanim": "Forklift'in 1 saatlik ücreti",
+    "birim": "Sa"
+  },
+  {
+    "id": "19.100.1113",
+    "kurum": "ÇŞB",
+    "tanim": "Mobil vinç'in 1 saatlik ücreti",
+    "birim": "Sa"
+  },
+  {
+    "id": "19.100.1114",
+    "kurum": "ÇŞB",
+    "tanim": "Çift kompenantlı yalıtım malzemesi dozaj miks makinasının bir saatlik ücreti",
+    "birim": "Sa"
+  },
+  {
+    "id": "19.100.1115",
+    "kurum": "ÇŞB",
+    "tanim": "Grab makinesi'nin 1 saatlik ücreti",
+    "birim": "Sa"
+  },
+  {
+    "id": "19.100.1116",
+    "kurum": "ÇŞB",
+    "tanim": "Hidrofreze makinesi'nin 1 saatlik ücreti",
+    "birim": "Sa"
+  },
+  {
+    "id": "19.100.1117",
+    "kurum": "ÇŞB",
+    "tanim": "Bentonit ünitesi ve Desander 1 saatlik ücreti (Grab için)",
+    "birim": "Sa"
+  },
+  {
+    "id": "19.100.1118",
+    "kurum": "ÇŞB",
+    "tanim": "Bentonit ünitesi ve Desander 1 saatlik ücreti (Hidrofreze için)",
+    "birim": "Sa"
+  },
+  {
+    "id": "19.100.1119",
+    "kurum": "ÇŞB",
+    "tanim": "Salyangoz pompanın 1 saatlik ücreti",
+    "birim": "Sa"
+  },
+  {
+    "id": "19.100.1121",
+    "kurum": "ÇŞB",
+    "tanim": "",
+    "birim": "Sa"
+  },
+  {
+    "id": "19.100.2001",
+    "kurum": "ÇŞB",
+    "tanim": "El arabası ile her cins malzeme ve kayadan başka kazının taşınması (50 metre'ye)",
+    "birim": "Ton"
+  },
+  {
+    "id": "19.100.2002",
+    "kurum": "ÇŞB",
+    "tanim": "El arabası ile her cins malzeme ve kayadan başka kazının taşınması (60 metre'ye)",
+    "birim": "Ton"
+  },
+  {
+    "id": "19.100.2004",
+    "kurum": "ÇŞB",
+    "tanim": "Makina ile elenmiş, yıkanmış granülometrik kum-çakıl hazırlanması",
+    "birim": "m³"
+  },
+  {
+    "id": "19.100.2003",
+    "kurum": "ÇŞB",
+    "tanim": "Makina ile kum çakıl hazırlanması",
+    "birim": "m³"
+  },
+  {
+    "id": "19.100.2005",
+    "kurum": "ÇŞB",
+    "tanim": "Makina ile elenmiş, yıkanmış granülometrik kum-çakıl hazırlanması",
+    "birim": "m³"
+  },
+  {
+    "id": "19.100.2006",
+    "kurum": "ÇŞB",
+    "tanim": "Makina ile elenmiş, yıkanmış iki tane sınıfı ayrılmış granülometrik kum-çakıl hazırlanması",
+    "birim": "m³"
+  },
+  {
+    "id": "19.100.2007",
+    "kurum": "ÇŞB",
+    "tanim": "Makina ile elenmiş, yıkanmış ince sıva veya derz kumu hazırlanması",
+    "birim": "m³"
+  },
+  {
+    "id": "19.100.2008",
+    "kurum": "ÇŞB",
+    "tanim": "Makina ile elenmiş, yıkanmış ince sıva veya derz kumu hazırlanması",
+    "birim": "m³"
+  },
+  {
+    "id": "19.100.2009",
+    "kurum": "ÇŞB",
+    "tanim": "Demirden basit imalat (kaynaklı - kaynaksız) yapılması",
+    "birim": "Kg"
+  },
+  {
+    "id": "19.100.2010",
+    "kurum": "ÇŞB",
+    "tanim": "Demirden basit imalat (kaynaklı - kaynaksız) yapılması",
+    "birim": "Kg"
+  },
+  {
+    "id": "19.100.2011",
+    "kurum": "ÇŞB",
+    "tanim": "Demirden basit imalat (kaynaklı - kaynaksız) yapılması",
+    "birim": "Kg"
+  },
+  {
+    "id": "19.100.2013",
+    "kurum": "ÇŞB",
+    "tanim": "Demirden basit imalat (kaynaklı - kaynaksız) yapılması",
+    "birim": "Kg"
+  },
+  {
+    "id": "19.100.2014",
+    "kurum": "ÇŞB",
+    "tanim": "Vidye kron hazırlanması",
+    "birim": "Ad"
+  },
+  {
+    "id": "19.100.2015",
+    "kurum": "ÇŞB",
+    "tanim": "Ocakta taş hazırlanması",
+    "birim": "m³"
+  },
+  {
+    "id": "19.100.2016",
+    "kurum": "ÇŞB",
+    "tanim": "Taştan konkasörle kırılmış ve elenmiş 70 mm'ye kadar kırma taş hazırlanması",
+    "birim": "m³"
+  },
+  {
+    "id": "19.100.2017",
+    "kurum": "ÇŞB",
+    "tanim": "Taştan konkasörle kırılmış ve elenmiş 30 mm'ye kadar kırma taş hazırlanması",
+    "birim": "m³"
+  },
+  {
+    "id": "19.100.2018",
+    "kurum": "ÇŞB",
+    "tanim": "Kazıdan taş hazırlanması",
+    "birim": "m³"
+  },
+  {
+    "id": "19.100.2019",
+    "kurum": "ÇŞB",
+    "tanim": "Toplama suretiyle taş hazırlanması",
+    "birim": "m³"
+  },
+  {
+    "id": "19.100.2020",
+    "kurum": "ÇŞB",
+    "tanim": "Ocakta çaplanmış moloz taşı hazırlanması",
+    "birim": "m³"
+  },
+  {
+    "id": "19.100.2021",
+    "kurum": "ÇŞB",
+    "tanim": "Ocakta, kemer inşaatı için çaplanmış moloz taşı hazırlanması",
+    "birim": "m³"
+  },
+  {
+    "id": "19.100.2022",
+    "kurum": "ÇŞB",
+    "tanim": "Kazıdan çıkan taşlardan çaplanmış moloz taşı hazırlanması",
+    "birim": "m³"
+  },
+  {
+    "id": "19.100.2023",
+    "kurum": "ÇŞB",
+    "tanim": "Kazıdan çıkan taşlardan kemer inşaat için çaplanmış moloz taşı hazırlanması",
+    "birim": "m³"
+  },
+  {
+    "id": "19.100.2024",
+    "kurum": "ÇŞB",
+    "tanim": "Ocakta yonu taşı taslağı hazırlanması",
+    "birim": "m³"
+  },
+  {
+    "id": "19.100.2025",
+    "kurum": "ÇŞB",
+    "tanim": "Ocakta özel yonu taşı taslağı hazırlanması",
+    "birim": "m³"
+  },
+  {
+    "id": "19.100.2026",
+    "kurum": "ÇŞB",
+    "tanim": "Ocakta hazırlanmış kaba yonu taşı taslağından kaba yonu taşı hazırlanması",
+    "birim": "m³"
+  },
+  {
+    "id": "19.100.2027",
+    "kurum": "ÇŞB",
+    "tanim": "Kazı taşından hazırlanmış yonu taşı taslağından kaba yonu taşı hazırlanması",
+    "birim": "m³"
+  },
+  {
+    "id": "19.100.2028",
+    "kurum": "ÇŞB",
+    "tanim": "Ocakta hazırlanmış özel yonu taşı taslağından kaba yonu taşı hazırlanması",
+    "birim": "m³"
+  },
+  {
+    "id": "19.100.2029",
+    "kurum": "ÇŞB",
+    "tanim": "Kazı taşından hazırlanmış yonu taşı taslağından kaba yonu taşı hazırlanması",
+    "birim": "m³"
+  },
+  {
+    "id": "19.100.2030",
+    "kurum": "ÇŞB",
+    "tanim": "Ocakta hazırlanmış yonu taşı taslağından ince yonu taşı hazırlanması",
+    "birim": "m³"
+  },
+  {
+    "id": "19.100.2031",
+    "kurum": "ÇŞB",
+    "tanim": "Kazı taşından hazırlanmış yonu taşı taslağından ince yonu taşı hazırlanması",
+    "birim": "m³"
+  },
+  {
+    "id": "19.100.2032",
+    "kurum": "ÇŞB",
+    "tanim": "Ocakta hazırlanmış özel yonu taşı taslağından özel ince yonu taşı hazırlanması",
+    "birim": "m³"
+  },
+  {
+    "id": "19.100.2033",
+    "kurum": "ÇŞB",
+    "tanim": "Kazı taşından hazırlanmış özel yonu taşı taslağından özel ince yonu taşı hazırlanması",
+    "birim": "m³"
+  },
+  {
+    "id": "19.100.2034",
+    "kurum": "ÇŞB",
+    "tanim": "Ocakta hazırlanmış yonu taşı taslağından kesme taş hazırlanması",
+    "birim": "m³"
+  },
+  {
+    "id": "19.100.2035",
+    "kurum": "ÇŞB",
+    "tanim": "Kazı taşından hazırlanmış yonu taşı taslağından kesme taş hazırlanması",
+    "birim": "m³"
+  },
+  {
+    "id": "19.100.2036",
+    "kurum": "ÇŞB",
+    "tanim": "Yumuşak kesme taş hazırlanması",
+    "birim": "m³"
+  },
+  {
+    "id": "19.100.2037",
+    "kurum": "ÇŞB",
+    "tanim": "Doğal taşlarla, alt yüzü kabaca murçlanmış ince yonu kaplama taşı hazırlanması",
+    "birim": "m³"
+  },
+  {
+    "id": "19.100.2038",
+    "kurum": "ÇŞB",
+    "tanim": "Doğal taşlarla, alt yüzü kabaca tesviye edilmiş ince yonu kaplama taşı hazırlanması",
+    "birim": "m³"
+  },
+  {
+    "id": "19.100.2039",
+    "kurum": "ÇŞB",
+    "tanim": "Kazı taşından yonu taşı taslağı hazırlanması",
+    "birim": "m³"
+  },
+  {
+    "id": "19.100.2040",
+    "kurum": "ÇŞB",
+    "tanim": "Kazı taşından çıkan taşlardan özel yonu taşı taslağı hazırlanması",
+    "birim": "m³"
+  },
+  {
+    "id": "19.100.2041",
+    "kurum": "ÇŞB",
+    "tanim": "Ocak taşından (0-0.005 ton kategorideki) taşın hazırlanması",
+    "birim": "Ton"
+  },
+  {
+    "id": "19.100.2042",
+    "kurum": "ÇŞB",
+    "tanim": "Kazı taşından (0-0.005 ton kategorideki) taşın hazırlanması",
+    "birim": "Ton"
+  },
+  {
+    "id": "19.100.2043",
+    "kurum": "ÇŞB",
+    "tanim": "Ocak taşından (0.005-0.100 ton kategorideki)taşın hazırlanması",
+    "birim": "Ton"
+  },
+  {
+    "id": "19.100.2044",
+    "kurum": "ÇŞB",
+    "tanim": "Kazı taşından (0.005-0.100 ton kategorideki) taşın hazırlanması",
+    "birim": "Ton"
+  },
+  {
+    "id": "19.100.2045",
+    "kurum": "ÇŞB",
+    "tanim": "Ocak taşından (0-0.250 ton kategorideki)taşın hazırlanması",
+    "birim": "Ton"
+  },
+  {
+    "id": "19.100.2046",
+    "kurum": "ÇŞB",
+    "tanim": "Kazı taşından (0-0.250 ton kategorideki) taşın hazırlanması",
+    "birim": "Ton"
+  },
+  {
+    "id": "19.100.2047",
+    "kurum": "ÇŞB",
+    "tanim": "Ocak taşından (0.100-0.250 ton kategorideki)taşın hazırlanması",
+    "birim": "Ton"
+  },
+  {
+    "id": "19.100.2048",
+    "kurum": "ÇŞB",
+    "tanim": "Kazı taşından (0.100-0.250 ton kategorideki) taşın hazırlanması",
+    "birim": "Ton"
+  },
+  {
+    "id": "19.100.2049",
+    "kurum": "ÇŞB",
+    "tanim": "Ocak taşından (0-0.400 ton kategorideki)taşın hazırlanması",
+    "birim": "m³"
+  },
+  {
+    "id": "19.100.2050",
+    "kurum": "ÇŞB",
+    "tanim": "Kazı taşından (0-0.400 ton kategorideki) taşın hazırlanması",
+    "birim": "Ton"
+  },
+  {
+    "id": "19.100.2051",
+    "kurum": "ÇŞB",
+    "tanim": "Ocak taşından (0.250-0.400 ton kategorideki)taşın hazırlanması",
+    "birim": "Ton"
+  },
+  {
+    "id": "19.100.2052",
+    "kurum": "ÇŞB",
+    "tanim": "Ocak taşından (0.4-2 ton kategorideki) taşın hazırlanması",
+    "birim": "Ton"
+  },
+  {
+    "id": "19.100.2053",
+    "kurum": "ÇŞB",
+    "tanim": "Kazı taşından (0.4-2.0 ton kategorideki) taşın hazırlanması",
+    "birim": "Ton"
+  },
+  {
+    "id": "19.100.2054",
+    "kurum": "ÇŞB",
+    "tanim": "Ocak taşından (2-6 ton kategorideki)taşın hazırlanması",
+    "birim": "Ton"
+  },
+  {
+    "id": "19.100.2055",
+    "kurum": "ÇŞB",
+    "tanim": "Kazı taşından (2-6 ton kategorideki) taşın hazırlanması",
+    "birim": "Ton"
+  },
+  {
+    "id": "19.100.2056",
+    "kurum": "ÇŞB",
+    "tanim": "Ocak taşından (6-15 ton kategorideki) taşın hazırlanması",
+    "birim": "Ton"
+  },
+  {
+    "id": "19.100.2057",
+    "kurum": "ÇŞB",
+    "tanim": "Kazı taşından (6-15 ton kategorideki) taşın hazırlanması",
+    "birim": "Ton"
+  },
+  {
+    "id": "19.100.2058",
+    "kurum": "ÇŞB",
+    "tanim": "Ocak taşından (15ton'dan yukarı kategorideki) taşın hazırlanması",
+    "birim": "Ton"
+  },
+  {
+    "id": "19.100.2059",
+    "kurum": "ÇŞB",
+    "tanim": "Kazı taşından (15ton'dan yukarı kategorideki) taşın hazırlanması",
+    "birim": "Ton"
+  },
+  {
+    "id": "19.100.2060",
+    "kurum": "ÇŞB",
+    "tanim": "Ocak artığının ocakta toplanması",
+    "birim": "m³"
+  },
+  {
+    "id": "19.100.2061",
+    "kurum": "ÇŞB",
+    "tanim": "Ocakta kalan kategori fazlası taş",
+    "birim": "m³"
+  },
+  {
+    "id": "19.100.2062",
+    "kurum": "ÇŞB",
+    "tanim": "İş yerinde 1 m³ söndürülmemiş parça kalker kireci hazırlanması",
+    "birim": "m³"
+  },
+  {
+    "id": "19.100.2063",
+    "kurum": "ÇŞB",
+    "tanim": "Elle 1 m³ su hazırlanması",
+    "birim": "m³"
+  },
+  {
+    "id": "19.100.2064",
+    "kurum": "ÇŞB",
+    "tanim": "Motorlu tulumba ile su hazırlanması",
+    "birim": "m³"
+  },
+  {
+    "id": "19.100.2065",
+    "kurum": "ÇŞB",
+    "tanim": "Çelik boru başlarının kaynakla bağlanması",
+    "birim": "m"
+  },
+  {
+    "id": "19.100.2416",
+    "kurum": "ÇŞB",
+    "tanim": "Çamur harcı hazırlanması",
+    "birim": "m³"
+  },
+  {
+    "id": "19.100.2426",
+    "kurum": "ÇŞB",
+    "tanim": "Mozayik harcı yapılması (beyaz çimentolu)",
+    "birim": "m³"
+  },
+  {
+    "id": "19.100.2433",
+    "kurum": "ÇŞB",
+    "tanim": "Perlitli alçı harcı hazırlanması",
+    "birim": "m³"
+  },
+  {
+    "id": "19.100.2434",
+    "kurum": "ÇŞB",
+    "tanim": "Derz dolgu alçısı harcı hazırlanması",
+    "birim": "m³"
+  },
+  {
+    "id": "19.100.2435",
+    "kurum": "ÇŞB",
+    "tanim": "Yapıştırma alçısı harcı hazırlanması",
+    "birim": "m³"
+  },
+  {
+    "id": "19.100.2501",
+    "kurum": "ÇŞB",
+    "tanim": "200 Kg çimento dozlu harç yapılması",
+    "birim": "m³"
+  },
+  {
+    "id": "19.100.2502",
+    "kurum": "ÇŞB",
+    "tanim": "250 Kg çimento dozlu tesviye harcı yapılması",
+    "birim": "m³"
+  },
+  {
+    "id": "19.100.2504",
+    "kurum": "ÇŞB",
+    "tanim": "250 kg çimento dozlu harç yapılması (kargir işlerde)",
+    "birim": "m³"
+  },
+  {
+    "id": "19.100.2505",
+    "kurum": "ÇŞB",
+    "tanim": "300 Kg çimento dozlu harç yapılması",
+    "birim": "m³"
+  },
+  {
+    "id": "19.100.2506",
+    "kurum": "ÇŞB",
+    "tanim": "300 Kg çimento dozlu ince harç yapılması",
+    "birim": "m³"
+  },
+  {
+    "id": "19.100.2507",
+    "kurum": "ÇŞB",
+    "tanim": "350 Kg çimento dozlu harç yapılması",
+    "birim": "m³"
+  },
+  {
+    "id": "19.100.2508",
+    "kurum": "ÇŞB",
+    "tanim": "350 Kg çimento dozlu ince harç yapılması",
+    "birim": "m³"
+  },
+  {
+    "id": "19.100.2512",
+    "kurum": "ÇŞB",
+    "tanim": "450 Kg çimento dozlu harç yapılması",
+    "birim": "m³"
+  },
+  {
+    "id": "19.100.2513",
+    "kurum": "ÇŞB",
+    "tanim": "450 Kg çimento dozlu ince harç yapılması",
+    "birim": "m³"
+  },
+  {
+    "id": "19.100.2514",
+    "kurum": "ÇŞB",
+    "tanim": "500 Kg çimento dozlu harç yapılması",
+    "birim": "m³"
+  },
+  {
+    "id": "19.100.2515",
+    "kurum": "ÇŞB",
+    "tanim": "500 Kg çimento dozlu ince harç yapılması",
+    "birim": "m³"
+  },
+  {
+    "id": "19.100.2517",
+    "kurum": "ÇŞB",
+    "tanim": "600 dozlu çimento şerbeti",
+    "birim": "m³"
+  },
+  {
+    "id": "19.100.2519",
+    "kurum": "ÇŞB",
+    "tanim": "Kireç harcı yapılması (sönmüş kireç torbalı)",
+    "birim": "m³"
+  },
+  {
+    "id": "19.100.2520",
+    "kurum": "ÇŞB",
+    "tanim": "Kireç çimento karışımı harç yapılması",
+    "birim": "m³"
+  },
+  {
+    "id": "19.100.2521",
+    "kurum": "ÇŞB",
+    "tanim": "0.100 m³/250 Kg kireç-çimento karışımı ince harç yapılması(sönmüş kireç torbalı)",
+    "birim": "m³"
+  },
+  {
+    "id": "19.100.2522",
+    "kurum": "ÇŞB",
+    "tanim": "0.170 m³/200 Kg kireç ve çimento karışımı kaba harç yapılması (sönmüş kireç torbalı)",
+    "birim": "m³"
+  },
+  {
+    "id": "19.100.2523",
+    "kurum": "ÇŞB",
+    "tanim": "0.200 m³/150 Kg kireç-çimento karışımı kaba harç yapılması (sönmüş kireç torbalı)",
+    "birim": "m³"
+  },
+  {
+    "id": "19.100.2525",
+    "kurum": "ÇŞB",
+    "tanim": "Mozayik harcı yapılması",
+    "birim": "m³"
+  },
+  {
+    "id": "19.100.3001",
+    "kurum": "ÇŞB",
+    "tanim": "Plentmiks karışımlar için Elektronik Duyargalı Asfalt Finişeri'in bir saatlik ücreti (60-100 HP - 300 ton/saat kapasiteli)",
+    "birim": "Sa"
+  },
+  {
+    "id": "19.100.3002",
+    "kurum": "ÇŞB",
+    "tanim": "Elektronik Duyargalı Yüksek Sıkıştırma Özelliğine Sahip Finişeri'in bir saatlik ücreti(Beton yollar için) (Takriben 200-250HP gücünde, 900-1100 ton/saat kapasiteli, 5-10 m3 hazneli)",
+    "birim": "Sa"
+  },
+  {
+    "id": "19.100.3003",
+    "kurum": "ÇŞB",
+    "tanim": "Kayar Kalıplı Beton Finişerinin (Beton Yol İçin) Bir Saatlik Ücreti",
+    "birim": "Sa"
+  },
+  {
+    "id": "19.100.3004",
+    "kurum": "ÇŞB",
+    "tanim": "Yüzey Kürleme, Perdahlama ve Pürüzlendirme Makinasının (Beton Yol İçin) Bir Saatlik Ücreti",
+    "birim": "Sa"
+  },
+  {
+    "id": "V.0104/E",
+    "kurum": "VGM",
+    "tanim": "",
+    "birim": "M³"
+  },
+  {
+    "id": "V.0104/G",
+    "kurum": "VGM",
+    "tanim": "",
+    "birim": "M³"
+  },
+  {
+    "id": "V.0121/A",
+    "kurum": "VGM",
+    "tanim": "",
+    "birim": "M³"
+  },
+  {
+    "id": "V.0129/1",
+    "kurum": "VGM",
+    "tanim": "",
+    "birim": "M³"
+  },
+  {
+    "id": "V.0199/A14",
+    "kurum": "VGM",
+    "tanim": "",
+    "birim": "AD"
+  },
+  {
+    "id": "V.0199/A15",
+    "kurum": "VGM",
+    "tanim": "",
+    "birim": "AD"
+  },
+  {
+    "id": "V.0199/A16",
+    "kurum": "VGM",
+    "tanim": "",
+    "birim": "AD"
+  },
+  {
+    "id": "V.0199/A17",
+    "kurum": "VGM",
+    "tanim": "",
+    "birim": "AD"
+  },
+  {
+    "id": "V.0199/A20",
+    "kurum": "VGM",
+    "tanim": "",
+    "birim": "AD"
+  },
+  {
+    "id": "V.0199/A21",
+    "kurum": "VGM",
+    "tanim": "",
+    "birim": "AD"
+  },
+  {
+    "id": "V.0199/A22",
+    "kurum": "VGM",
+    "tanim": "",
+    "birim": "AD"
+  },
+  {
+    "id": "V.0199/A23",
+    "kurum": "VGM",
+    "tanim": "",
+    "birim": "AD"
+  },
+  {
+    "id": "V.0199/A24",
+    "kurum": "VGM",
+    "tanim": "",
+    "birim": "AD"
+  },
+  {
+    "id": "V.0199/A25",
+    "kurum": "VGM",
+    "tanim": "",
+    "birim": "AD"
+  },
+  {
+    "id": "V.0199/A26",
+    "kurum": "VGM",
+    "tanim": "",
+    "birim": "AD"
+  },
+  {
+    "id": "V.0199/A27",
+    "kurum": "VGM",
+    "tanim": "",
+    "birim": "AD"
+  },
+  {
+    "id": "V.0199/A28",
+    "kurum": "VGM",
+    "tanim": "",
+    "birim": "AD"
+  },
+  {
+    "id": "V.0199/A29",
+    "kurum": "VGM",
+    "tanim": "",
+    "birim": "AD"
+  },
+  {
+    "id": "V.0199/A30",
+    "kurum": "VGM",
+    "tanim": "",
+    "birim": "AD"
+  },
+  {
+    "id": "V.0199/A31",
+    "kurum": "VGM",
+    "tanim": "",
+    "birim": "AD"
+  },
+  {
+    "id": "V.0199/A32",
+    "kurum": "VGM",
+    "tanim": "",
+    "birim": "AD"
+  },
+  {
+    "id": "V.0199/A33",
+    "kurum": "VGM",
+    "tanim": "",
+    "birim": "AD"
+  },
+  {
+    "id": "V.0199/A36",
+    "kurum": "VGM",
+    "tanim": "",
+    "birim": "AD"
+  },
+  {
+    "id": "V.0199/A37",
+    "kurum": "VGM",
+    "tanim": "",
+    "birim": "AD"
+  },
+  {
+    "id": "V.0199/A40",
+    "kurum": "VGM",
+    "tanim": "",
+    "birim": "AD"
+  },
+  {
+    "id": "V.0203/1",
+    "kurum": "VGM",
+    "tanim": "",
+    "birim": "M³"
+  },
+  {
+    "id": "V.0208/001",
+    "kurum": "VGM",
+    "tanim": "",
+    "birim": "M³"
+  },
+  {
+    "id": "V.0208/002",
+    "kurum": "VGM",
+    "tanim": "",
+    "birim": "M³"
+  },
+  {
+    "id": "V.0208/003",
+    "kurum": "VGM",
+    "tanim": "",
+    "birim": "M³"
+  },
+  {
+    "id": "V.0208/004",
+    "kurum": "VGM",
+    "tanim": "",
+    "birim": "M³"
+  },
+  {
+    "id": "V.0208/005",
+    "kurum": "VGM",
+    "tanim": "",
+    "birim": "M³"
+  },
+  {
+    "id": "V.0208/006",
+    "kurum": "VGM",
+    "tanim": "",
+    "birim": "M³"
+  },
+  {
+    "id": "V.0208/007",
+    "kurum": "VGM",
+    "tanim": "",
+    "birim": "M³"
+  },
+  {
+    "id": "V.0208/008",
+    "kurum": "VGM",
+    "tanim": "",
+    "birim": "M³"
+  },
+  {
+    "id": "V.0208/009",
+    "kurum": "VGM",
+    "tanim": "",
+    "birim": "M³"
+  },
+  {
+    "id": "V.0208/010",
+    "kurum": "VGM",
+    "tanim": "",
+    "birim": "M³"
+  },
+  {
+    "id": "V.0208/011",
+    "kurum": "VGM",
+    "tanim": "",
+    "birim": "M³"
+  },
+  {
+    "id": "V.0208/012",
+    "kurum": "VGM",
+    "tanim": "",
+    "birim": "M³"
+  },
+  {
+    "id": "V.0208/D001",
+    "kurum": "VGM",
+    "tanim": "",
+    "birim": "M³"
+  },
+  {
+    "id": "V.0208/D002",
+    "kurum": "VGM",
+    "tanim": "",
+    "birim": "M³"
+  },
+  {
+    "id": "V.0208/D003",
+    "kurum": "VGM",
+    "tanim": "",
+    "birim": "M³"
+  },
+  {
+    "id": "V.0208/D004",
+    "kurum": "VGM",
+    "tanim": "",
+    "birim": "M³"
+  },
+  {
+    "id": "V.0208/E01",
+    "kurum": "VGM",
+    "tanim": "",
+    "birim": "M"
+  },
+  {
+    "id": "V.0208/F01",
+    "kurum": "VGM",
+    "tanim": "",
+    "birim": "M³"
+  },
+  {
+    "id": "V.0208/F02",
+    "kurum": "VGM",
+    "tanim": "",
+    "birim": "M³"
+  },
+  {
+    "id": "V.0208/G01",
+    "kurum": "VGM",
+    "tanim": "",
+    "birim": "M"
+  },
+  {
+    "id": "V.0223/01",
+    "kurum": "VGM",
+    "tanim": "",
+    "birim": "M²"
+  },
+  {
+    "id": "V.0223/02",
+    "kurum": "VGM",
+    "tanim": "",
+    "birim": "M²"
+  },
+  {
+    "id": "V.0227/001",
+    "kurum": "VGM",
+    "tanim": "",
+    "birim": "M³"
+  },
+  {
+    "id": "V.0227/002",
+    "kurum": "VGM",
+    "tanim": "",
+    "birim": "M³"
+  },
+  {
+    "id": "V.0227/003A",
+    "kurum": "VGM",
+    "tanim": "",
+    "birim": "M³"
+  },
+  {
+    "id": "V.0227/003B",
+    "kurum": "VGM",
+    "tanim": "",
+    "birim": "M³"
+  },
+  {
+    "id": "V.0227/003C",
+    "kurum": "VGM",
+    "tanim": "",
+    "birim": "M³"
+  },
+  {
+    "id": "V.0227/004",
+    "kurum": "VGM",
+    "tanim": "",
+    "birim": "M³"
+  },
+  {
+    "id": "V.0227/005",
+    "kurum": "VGM",
+    "tanim": "",
+    "birim": "M³"
+  },
+  {
+    "id": "V.0227/007",
+    "kurum": "VGM",
+    "tanim": "",
+    "birim": "M³"
+  },
+  {
+    "id": "V.0227/01B1",
+    "kurum": "VGM",
+    "tanim": "",
+    "birim": "M³"
+  },
+  {
+    "id": "V.0227/01E1",
+    "kurum": "VGM",
+    "tanim": "",
+    "birim": "M³"
+  },
+  {
+    "id": "V.0227/02B1",
+    "kurum": "VGM",
+    "tanim": "",
+    "birim": "M³"
+  },
+  {
+    "id": "V.0227/02C1",
+    "kurum": "VGM",
+    "tanim": "",
+    "birim": "M³"
+  },
+  {
+    "id": "V.0227/02E1",
+    "kurum": "VGM",
+    "tanim": "",
+    "birim": "M³"
+  },
+  {
+    "id": "V.0227/04B1",
+    "kurum": "VGM",
+    "tanim": "",
+    "birim": "M³"
+  },
+  {
+    "id": "V.0227/04C1",
+    "kurum": "VGM",
+    "tanim": "",
+    "birim": "M³"
+  },
+  {
+    "id": "V.0227/05B1",
+    "kurum": "VGM",
+    "tanim": "",
+    "birim": "M³"
+  },
+  {
+    "id": "V.0227/05C1",
+    "kurum": "VGM",
+    "tanim": "",
+    "birim": "M³"
+  },
+  {
+    "id": "V.0227/05E1",
+    "kurum": "VGM",
+    "tanim": "",
+    "birim": "M³"
+  },
+  {
+    "id": "V.0227/06A3",
+    "kurum": "VGM",
+    "tanim": "",
+    "birim": "M³"
+  },
+  {
+    "id": "V.0227/06A4",
+    "kurum": "VGM",
+    "tanim": "",
+    "birim": "M³"
+  },
+  {
+    "id": "V.0227/06A5",
+    "kurum": "VGM",
+    "tanim": "",
+    "birim": "M³"
+  },
+  {
+    "id": "V.0227/06B3",
+    "kurum": "VGM",
+    "tanim": "",
+    "birim": "M³"
+  },
+  {
+    "id": "V.0227/06B4",
+    "kurum": "VGM",
+    "tanim": "",
+    "birim": "M³"
+  },
+  {
+    "id": "V.0227/06B5",
+    "kurum": "VGM",
+    "tanim": "",
+    "birim": "M³"
+  },
+  {
+    "id": "V.0227/07E1",
+    "kurum": "VGM",
+    "tanim": "",
+    "birim": "M³"
+  },
+  {
+    "id": "V.0229/01E1",
+    "kurum": "VGM",
+    "tanim": "",
+    "birim": "M³"
+  },
+  {
+    "id": "V.0229/02E1",
+    "kurum": "VGM",
+    "tanim": "",
+    "birim": "M³"
+  },
+  {
+    "id": "V.0229/03E1",
+    "kurum": "VGM",
+    "tanim": "",
+    "birim": "M³"
+  },
+  {
+    "id": "V.0229/A01",
+    "kurum": "VGM",
+    "tanim": "",
+    "birim": "M³"
+  },
+  {
+    "id": "V.0229/A02",
+    "kurum": "VGM",
+    "tanim": "",
+    "birim": "M³"
+  },
+  {
+    "id": "V.0229/A03",
+    "kurum": "VGM",
+    "tanim": "",
+    "birim": "M³"
+  },
+  {
+    "id": "V.0301/A1A",
+    "kurum": "VGM",
+    "tanim": "",
+    "birim": "M³"
+  },
+  {
+    "id": "V.0301/A2A",
+    "kurum": "VGM",
+    "tanim": "",
+    "birim": "M³"
+  },
+  {
+    "id": "V.0301/A2B",
+    "kurum": "VGM",
+    "tanim": "",
+    "birim": "M³"
+  },
+  {
+    "id": "V.0301/A3A",
+    "kurum": "VGM",
+    "tanim": "",
+    "birim": "M³"
+  },
+  {
+    "id": "V.0301/A3B",
+    "kurum": "VGM",
+    "tanim": "",
+    "birim": "M³"
+  },
+  {
+    "id": "V.0310/001",
+    "kurum": "VGM",
+    "tanim": "",
+    "birim": "AD"
+  },
+  {
+    "id": "V.0332/1",
+    "kurum": "VGM",
+    "tanim": "",
+    "birim": "AD"
+  },
+  {
+    "id": "V.0336/001",
+    "kurum": "VGM",
+    "tanim": "",
+    "birim": "M²"
+  },
+  {
+    "id": "V.0338/03",
+    "kurum": "VGM",
+    "tanim": "",
+    "birim": "M³"
+  },
+  {
+    "id": "V.0345/A",
+    "kurum": "VGM",
+    "tanim": "",
+    "birim": "M²"
+  },
+  {
+    "id": "V.0345/B",
+    "kurum": "VGM",
+    "tanim": "",
+    "birim": "M²"
+  },
+  {
+    "id": "V.0345/E",
+    "kurum": "VGM",
+    "tanim": "",
+    "birim": "M"
+  },
+  {
+    "id": "V.0401/01A",
+    "kurum": "VGM",
+    "tanim": "",
+    "birim": "M²"
+  },
+  {
+    "id": "V.0401/01A1",
+    "kurum": "VGM",
+    "tanim": "",
+    "birim": "M²"
+  },
+  {
+    "id": "V.0401/01B",
+    "kurum": "VGM",
+    "tanim": "",
+    "birim": "M²"
+  },
+  {
+    "id": "V.0401/01B1",
+    "kurum": "VGM",
+    "tanim": "",
+    "birim": "M²"
+  },
+  {
+    "id": "V.0401/01C",
+    "kurum": "VGM",
+    "tanim": "",
+    "birim": "M²"
+  },
+  {
+    "id": "V.0401/01C1",
+    "kurum": "VGM",
+    "tanim": "",
+    "birim": "M²"
+  },
+  {
+    "id": "V.0401/01D",
+    "kurum": "VGM",
+    "tanim": "",
+    "birim": "M²"
+  },
+  {
+    "id": "V.0401/01D1",
+    "kurum": "VGM",
+    "tanim": "",
+    "birim": "M²"
+  },
+  {
+    "id": "V.0401/01E",
+    "kurum": "VGM",
+    "tanim": "",
+    "birim": "M²"
+  },
+  {
+    "id": "V.0401/01E1",
+    "kurum": "VGM",
+    "tanim": "",
+    "birim": "M²"
+  },
+  {
+    "id": "V.0401/01F",
+    "kurum": "VGM",
+    "tanim": "",
+    "birim": "M²"
+  },
+  {
+    "id": "V.0401/01F1",
+    "kurum": "VGM",
+    "tanim": "",
+    "birim": "M²"
+  },
+  {
+    "id": "V.0401/01G",
+    "kurum": "VGM",
+    "tanim": "",
+    "birim": "M²"
+  },
+  {
+    "id": "V.0401/01G1",
+    "kurum": "VGM",
+    "tanim": "",
+    "birim": "M²"
+  },
+  {
+    "id": "V.0401/01H",
+    "kurum": "VGM",
+    "tanim": "",
+    "birim": "M²"
+  },
+  {
+    "id": "V.0401/01H1",
+    "kurum": "VGM",
+    "tanim": "",
+    "birim": "M²"
+  },
+  {
+    "id": "V.0401/01J",
+    "kurum": "VGM",
+    "tanim": "",
+    "birim": "M²"
+  },
+  {
+    "id": "V.0401/01J1",
+    "kurum": "VGM",
+    "tanim": "",
+    "birim": "M²"
+  },
+  {
+    "id": "V.0401/01K",
+    "kurum": "VGM",
+    "tanim": "",
+    "birim": "M²"
+  },
+  {
+    "id": "V.0401/01K1",
+    "kurum": "VGM",
+    "tanim": "",
+    "birim": "M²"
+  },
+  {
+    "id": "V.0401/01L",
+    "kurum": "VGM",
+    "tanim": "",
+    "birim": "M²"
+  },
+  {
+    "id": "V.0401/01L1",
+    "kurum": "VGM",
+    "tanim": "",
+    "birim": "M²"
+  },
+  {
+    "id": "V.0401/01M",
+    "kurum": "VGM",
+    "tanim": "",
+    "birim": "M²"
+  },
+  {
+    "id": "V.0401/01M1",
+    "kurum": "VGM",
+    "tanim": "",
+    "birim": "M²"
+  },
+  {
+    "id": "V.0401/01N",
+    "kurum": "VGM",
+    "tanim": "",
+    "birim": "M²"
+  },
+  {
+    "id": "V.0401/01N1",
+    "kurum": "VGM",
+    "tanim": "",
+    "birim": "M²"
+  },
+  {
+    "id": "V.0401/01O",
+    "kurum": "VGM",
+    "tanim": "",
+    "birim": "M²"
+  },
+  {
+    "id": "V.0401/01O1",
+    "kurum": "VGM",
+    "tanim": "",
+    "birim": "M²"
+  },
+  {
+    "id": "V.0401/C01",
+    "kurum": "VGM",
+    "tanim": "",
+    "birim": "M²"
+  },
+  {
+    "id": "V.0401/C02",
+    "kurum": "VGM",
+    "tanim": "",
+    "birim": "M²"
+  },
+  {
+    "id": "V.0401/C03",
+    "kurum": "VGM",
+    "tanim": "",
+    "birim": "M²"
+  },
+  {
+    "id": "V.0401/C04",
+    "kurum": "VGM",
+    "tanim": "",
+    "birim": "M²"
+  },
+  {
+    "id": "V.0401/D01",
+    "kurum": "VGM",
+    "tanim": "",
+    "birim": "M²"
+  },
+  {
+    "id": "V.0401/D02",
+    "kurum": "VGM",
+    "tanim": "",
+    "birim": "M²"
+  },
+  {
+    "id": "V.0401/D03",
+    "kurum": "VGM",
+    "tanim": "",
+    "birim": "M²"
+  },
+  {
+    "id": "V.0401/D04",
+    "kurum": "VGM",
+    "tanim": "",
+    "birim": "M²"
+  },
+  {
+    "id": "V.0401/E01",
+    "kurum": "VGM",
+    "tanim": "",
+    "birim": "M²"
+  },
+  {
+    "id": "V.0401/E02",
+    "kurum": "VGM",
+    "tanim": "",
+    "birim": "M²"
+  },
+  {
+    "id": "V.0401/E03",
+    "kurum": "VGM",
+    "tanim": "",
+    "birim": "M²"
+  },
+  {
+    "id": "V.0401/E04",
+    "kurum": "VGM",
+    "tanim": "",
+    "birim": "M²"
+  },
+  {
+    "id": "V.0401/F01",
+    "kurum": "VGM",
+    "tanim": "",
+    "birim": "M²"
+  },
+  {
+    "id": "V.0401/F02",
+    "kurum": "VGM",
+    "tanim": "",
+    "birim": "M²"
+  },
+  {
+    "id": "V.0401/F03",
+    "kurum": "VGM",
+    "tanim": "",
+    "birim": "M²"
+  },
+  {
+    "id": "V.0401/F04",
+    "kurum": "VGM",
+    "tanim": "",
+    "birim": "M²"
+  },
+  {
+    "id": "V.0402/01",
+    "kurum": "VGM",
+    "tanim": "",
+    "birim": "M²"
+  },
+  {
+    "id": "V.0402/02",
+    "kurum": "VGM",
+    "tanim": "",
+    "birim": "M²"
+  },
+  {
+    "id": "V.0402/03",
+    "kurum": "VGM",
+    "tanim": "",
+    "birim": "M²"
+  },
+  {
+    "id": "V.0402/04",
+    "kurum": "VGM",
+    "tanim": "",
+    "birim": "M²"
+  },
+  {
+    "id": "V.0402/05",
+    "kurum": "VGM",
+    "tanim": "",
+    "birim": "M²"
+  },
+  {
+    "id": "V.0402/06",
+    "kurum": "VGM",
+    "tanim": "",
+    "birim": "M²"
+  },
+  {
+    "id": "V.0402/07",
+    "kurum": "VGM",
+    "tanim": "",
+    "birim": "M²"
+  },
+  {
+    "id": "V.0402/10",
+    "kurum": "VGM",
+    "tanim": "",
+    "birim": "M²"
+  },
+  {
+    "id": "V.0402/11",
+    "kurum": "VGM",
+    "tanim": "",
+    "birim": "M²"
+  },
+  {
+    "id": "V.0402/12",
+    "kurum": "VGM",
+    "tanim": "",
+    "birim": "M²"
+  },
+  {
+    "id": "V.0402/13",
+    "kurum": "VGM",
+    "tanim": "",
+    "birim": "M²"
+  },
+  {
+    "id": "V.0403/A01",
+    "kurum": "VGM",
+    "tanim": "",
+    "birim": "M²"
+  },
+  {
+    "id": "V.0403/B01",
+    "kurum": "VGM",
+    "tanim": "",
+    "birim": "M²"
+  },
+  {
+    "id": "V.0403/C01",
+    "kurum": "VGM",
+    "tanim": "",
+    "birim": "M²"
+  },
+  {
+    "id": "V.0404/A01",
+    "kurum": "VGM",
+    "tanim": "",
+    "birim": "M²"
+  },
+  {
+    "id": "V.0404/A02",
+    "kurum": "VGM",
+    "tanim": "",
+    "birim": "M²"
+  },
+  {
+    "id": "V.0404/B01",
+    "kurum": "VGM",
+    "tanim": "",
+    "birim": "M²"
+  },
+  {
+    "id": "V.0404/B02",
+    "kurum": "VGM",
+    "tanim": "",
+    "birim": "M²"
+  },
+  {
+    "id": "V.0407/1",
+    "kurum": "VGM",
+    "tanim": "",
+    "birim": "M²"
+  },
+  {
+    "id": "V.0407/2",
+    "kurum": "VGM",
+    "tanim": "",
+    "birim": "M²"
+  },
+  {
+    "id": "V.0407/A",
+    "kurum": "VGM",
+    "tanim": "",
+    "birim": "M²"
+  },
+  {
+    "id": "V.0407/A2",
+    "kurum": "VGM",
+    "tanim": "",
+    "birim": "M²"
+  },
+  {
+    "id": "V.0408/1",
+    "kurum": "VGM",
+    "tanim": "",
+    "birim": "M²"
+  },
+  {
+    "id": "V.0409/1",
+    "kurum": "VGM",
+    "tanim": "",
+    "birim": "M²"
+  },
+  {
+    "id": "V.0410/01",
+    "kurum": "VGM",
+    "tanim": "",
+    "birim": "M²"
+  },
+  {
+    "id": "V.0410/02",
+    "kurum": "VGM",
+    "tanim": "",
+    "birim": "M²"
+  },
+  {
+    "id": "V.0410/1",
+    "kurum": "VGM",
+    "tanim": "",
+    "birim": "M²"
+  },
+  {
+    "id": "V.0411/01",
+    "kurum": "VGM",
+    "tanim": "",
+    "birim": "M²"
+  },
+  {
+    "id": "V.0411/01A",
+    "kurum": "VGM",
+    "tanim": "",
+    "birim": "M²"
+  },
+  {
+    "id": "V.0411/02",
+    "kurum": "VGM",
+    "tanim": "",
+    "birim": "M²"
+  },
+  {
+    "id": "V.0411/02A",
+    "kurum": "VGM",
+    "tanim": "",
+    "birim": "M²"
+  },
+  {
+    "id": "V.0411/03",
+    "kurum": "VGM",
+    "tanim": "",
+    "birim": "M²"
+  },
+  {
+    "id": "V.0411/04",
+    "kurum": "VGM",
+    "tanim": "",
+    "birim": "M²"
+  },
+  {
+    "id": "V.0411/05",
+    "kurum": "VGM",
+    "tanim": "",
+    "birim": "M²"
+  },
+  {
+    "id": "V.0411/05A",
+    "kurum": "VGM",
+    "tanim": "",
+    "birim": "M²"
+  },
+  {
+    "id": "V.0411/06",
+    "kurum": "VGM",
+    "tanim": "",
+    "birim": "M²"
+  },
+  {
+    "id": "V.0411/06A",
+    "kurum": "VGM",
+    "tanim": "",
+    "birim": "M²"
+  },
+  {
+    "id": "V.0411/07",
+    "kurum": "VGM",
+    "tanim": "",
+    "birim": "M²"
+  },
+  {
+    "id": "V.0411/08",
+    "kurum": "VGM",
+    "tanim": "",
+    "birim": "M²"
+  },
+  {
+    "id": "V.0411/09",
+    "kurum": "VGM",
+    "tanim": "",
+    "birim": "M²"
+  },
+  {
+    "id": "V.0411/09A",
+    "kurum": "VGM",
+    "tanim": "",
+    "birim": "M²"
+  },
+  {
+    "id": "V.0411/10",
+    "kurum": "VGM",
+    "tanim": "",
+    "birim": "M²"
+  },
+  {
+    "id": "V.0411/10A",
+    "kurum": "VGM",
+    "tanim": "",
+    "birim": "M²"
+  },
+  {
+    "id": "V.0411/11A",
+    "kurum": "VGM",
+    "tanim": "",
+    "birim": "M"
+  },
+  {
+    "id": "V.0411/12",
+    "kurum": "VGM",
+    "tanim": "",
+    "birim": "M²"
+  },
+  {
+    "id": "V.0411/14",
+    "kurum": "VGM",
+    "tanim": "",
+    "birim": "M²"
+  },
+  {
+    "id": "V.0411/15",
+    "kurum": "VGM",
+    "tanim": "",
+    "birim": "M²"
+  },
+  {
+    "id": "V.0418/A1",
+    "kurum": "VGM",
+    "tanim": "",
+    "birim": "M²"
+  },
+  {
+    "id": "V.0418/A2",
+    "kurum": "VGM",
+    "tanim": "",
+    "birim": "M²"
+  },
+  {
+    "id": "V.0418/B1",
+    "kurum": "VGM",
+    "tanim": "",
+    "birim": "M²"
+  },
+  {
+    "id": "V.0418/B2",
+    "kurum": "VGM",
+    "tanim": "",
+    "birim": "M²"
+  },
+  {
+    "id": "V.0418/C1",
+    "kurum": "VGM",
+    "tanim": "",
+    "birim": "M²"
+  },
+  {
+    "id": "V.0418/C2",
+    "kurum": "VGM",
+    "tanim": "",
+    "birim": "M²"
+  },
+  {
+    "id": "V.0418/D1",
+    "kurum": "VGM",
+    "tanim": "",
+    "birim": "M²"
+  },
+  {
+    "id": "V.0418/D2",
+    "kurum": "VGM",
+    "tanim": "",
+    "birim": "M²"
+  },
+  {
+    "id": "V.0418/E1",
+    "kurum": "VGM",
+    "tanim": "",
+    "birim": "M²"
+  },
+  {
+    "id": "V.0418/E2",
+    "kurum": "VGM",
+    "tanim": "",
+    "birim": "M²"
+  },
+  {
+    "id": "V.0425/01A",
+    "kurum": "VGM",
+    "tanim": "",
+    "birim": "M"
+  },
+  {
+    "id": "V.0427/01A",
+    "kurum": "VGM",
+    "tanim": "",
+    "birim": "M"
+  },
+  {
+    "id": "V.0428/01A",
+    "kurum": "VGM",
+    "tanim": "",
+    "birim": "M²"
+  },
+  {
+    "id": "V.0429/01A",
+    "kurum": "VGM",
+    "tanim": "",
+    "birim": "M²"
+  },
+  {
+    "id": "V.0430/01A",
+    "kurum": "VGM",
+    "tanim": "",
+    "birim": "M²"
+  },
+  {
+    "id": "V.0431/01A",
+    "kurum": "VGM",
+    "tanim": "",
+    "birim": "M²"
+  },
+  {
+    "id": "V.0432/A1",
+    "kurum": "VGM",
+    "tanim": "",
+    "birim": "KG"
+  },
+  {
+    "id": "V.0432/A2",
+    "kurum": "VGM",
+    "tanim": "",
+    "birim": "KG"
+  },
+  {
+    "id": "V.0433/A1",
+    "kurum": "VGM",
+    "tanim": "",
+    "birim": "KG"
+  },
+  {
+    "id": "V.0433/A2",
+    "kurum": "VGM",
+    "tanim": "",
+    "birim": "KG"
+  },
+  {
+    "id": "V.0434/A1",
+    "kurum": "VGM",
+    "tanim": "",
+    "birim": "KG"
+  },
+  {
+    "id": "V.0434/A2",
+    "kurum": "VGM",
+    "tanim": "",
+    "birim": "KG"
+  },
+  {
+    "id": "V.0435/A1",
+    "kurum": "VGM",
+    "tanim": "",
+    "birim": "KG"
+  },
+  {
+    "id": "V.0435/A2",
+    "kurum": "VGM",
+    "tanim": "",
+    "birim": "KG"
+  },
+  {
+    "id": "V.0435/B1",
+    "kurum": "VGM",
+    "tanim": "",
+    "birim": "KG"
+  },
+  {
+    "id": "V.0435/B2",
+    "kurum": "VGM",
+    "tanim": "",
+    "birim": "KG"
+  },
+  {
+    "id": "V.0436/001",
+    "kurum": "VGM",
+    "tanim": "",
+    "birim": "M²"
+  },
+  {
+    "id": "V.0436/002",
+    "kurum": "VGM",
+    "tanim": "",
+    "birim": "M²"
+  },
+  {
+    "id": "V.0437/001",
+    "kurum": "VGM",
+    "tanim": "",
+    "birim": "M²"
+  },
+  {
+    "id": "V.0502/001",
+    "kurum": "VGM",
+    "tanim": "",
+    "birim": "M³"
+  },
+  {
+    "id": "V.0506/A",
+    "kurum": "VGM",
+    "tanim": "",
+    "birim": "M"
+  },
+  {
+    "id": "V.0506/B",
+    "kurum": "VGM",
+    "tanim": "",
+    "birim": "M"
+  },
+  {
+    "id": "V.0506/D",
+    "kurum": "VGM",
+    "tanim": "",
+    "birim": "M"
+  },
+  {
+    "id": "V.0506/E",
+    "kurum": "VGM",
+    "tanim": "",
+    "birim": "M"
+  },
+  {
+    "id": "V.0507/A",
+    "kurum": "VGM",
+    "tanim": "",
+    "birim": "M"
+  },
+  {
+    "id": "V.0507/B",
+    "kurum": "VGM",
+    "tanim": "",
+    "birim": "M"
+  },
+  {
+    "id": "V.0507/D",
+    "kurum": "VGM",
+    "tanim": "",
+    "birim": "M"
+  },
+  {
+    "id": "V.0507/E",
+    "kurum": "VGM",
+    "tanim": "",
+    "birim": "M"
+  },
+  {
+    "id": "V.0510/01",
+    "kurum": "VGM",
+    "tanim": "",
+    "birim": "M³"
+  },
+  {
+    "id": "V.0510/02",
+    "kurum": "VGM",
+    "tanim": "",
+    "birim": "M³"
+  },
+  {
+    "id": "V.0511/01",
+    "kurum": "VGM",
+    "tanim": "",
+    "birim": "M³"
+  },
+  {
+    "id": "V.0511/02",
+    "kurum": "VGM",
+    "tanim": "",
+    "birim": "M³"
+  },
+  {
+    "id": "V.0512/01",
+    "kurum": "VGM",
+    "tanim": "",
+    "birim": "M³"
+  },
+  {
+    "id": "V.0512/02",
+    "kurum": "VGM",
+    "tanim": "",
+    "birim": "M³"
+  },
+  {
+    "id": "V.0514/1A",
+    "kurum": "VGM",
+    "tanim": "",
+    "birim": "M³"
+  },
+  {
+    "id": "V.0602/01",
+    "kurum": "VGM",
+    "tanim": "",
+    "birim": "M³"
+  },
+  {
+    "id": "V.0602/1",
+    "kurum": "VGM",
+    "tanim": "",
+    "birim": "M³"
+  },
+  {
+    "id": "V.0612/1",
+    "kurum": "VGM",
+    "tanim": "",
+    "birim": "M³"
+  },
+  {
+    "id": "V.0613/A01",
+    "kurum": "VGM",
+    "tanim": "",
+    "birim": "M²"
+  },
+  {
+    "id": "V.0613/A02",
+    "kurum": "VGM",
+    "tanim": "",
+    "birim": "M³"
+  },
+  {
+    "id": "V.0613/A03",
+    "kurum": "VGM",
+    "tanim": "",
+    "birim": "M³"
+  },
+  {
+    "id": "V.0613/B01",
+    "kurum": "VGM",
+    "tanim": "",
+    "birim": "M²"
+  },
+  {
+    "id": "V.0617/001",
+    "kurum": "VGM",
+    "tanim": "",
+    "birim": "KG"
+  },
+  {
+    "id": "V.0617/002",
+    "kurum": "VGM",
+    "tanim": "",
+    "birim": "KG"
+  },
+  {
+    "id": "V.0618/001",
+    "kurum": "VGM",
+    "tanim": "",
+    "birim": "TON"
+  },
+  {
+    "id": "V.0701/01",
+    "kurum": "VGM",
+    "tanim": "",
+    "birim": "KG"
+  },
+  {
+    "id": "V.0702/001",
+    "kurum": "VGM",
+    "tanim": "",
+    "birim": "kg"
+  },
+  {
+    "id": "V.0702/002",
+    "kurum": "VGM",
+    "tanim": "",
+    "birim": "KG"
+  },
+  {
+    "id": "V.0702/003A",
+    "kurum": "VGM",
+    "tanim": "",
+    "birim": "KG"
+  },
+  {
+    "id": "V.0702/004",
+    "kurum": "VGM",
+    "tanim": "",
+    "birim": "KG"
+  },
+  {
+    "id": "V.0702/005A",
+    "kurum": "VGM",
+    "tanim": "",
+    "birim": "KG"
+  },
+  {
+    "id": "V.0710/1",
+    "kurum": "VGM",
+    "tanim": "",
+    "birim": "M²"
+  },
+  {
+    "id": "V.0710/3",
+    "kurum": "VGM",
+    "tanim": "",
+    "birim": "M²"
+  },
+  {
+    "id": "V.0710/4",
+    "kurum": "VGM",
+    "tanim": "",
+    "birim": "M²"
+  },
+  {
+    "id": "V.0712/2A",
+    "kurum": "VGM",
+    "tanim": "",
+    "birim": "KG"
+  },
+  {
+    "id": "V.0712/2B",
+    "kurum": "VGM",
+    "tanim": "",
+    "birim": "KG"
+  },
+  {
+    "id": "V.0712/5A",
+    "kurum": "VGM",
+    "tanim": "",
+    "birim": "KG"
+  },
+  {
+    "id": "V.0712/5B",
+    "kurum": "VGM",
+    "tanim": "",
+    "birim": "KG"
+  },
+  {
+    "id": "V.0712/5C",
+    "kurum": "VGM",
+    "tanim": "",
+    "birim": "KG"
+  },
+  {
+    "id": "V.0712/5E",
+    "kurum": "VGM",
+    "tanim": "",
+    "birim": "KG"
+  },
+  {
+    "id": "V.0712/6",
+    "kurum": "VGM",
+    "tanim": "",
+    "birim": "M"
+  },
+  {
+    "id": "V.0712/7",
+    "kurum": "VGM",
+    "tanim": "",
+    "birim": "M"
+  },
+  {
+    "id": "V.0712/8",
+    "kurum": "VGM",
+    "tanim": "",
+    "birim": "M"
+  },
+  {
+    "id": "V.0714/001",
+    "kurum": "VGM",
+    "tanim": "",
+    "birim": "KG"
+  },
+  {
+    "id": "V.0714/002",
+    "kurum": "VGM",
+    "tanim": "",
+    "birim": "KG"
+  },
+  {
+    "id": "V.0715/002",
+    "kurum": "VGM",
+    "tanim": "",
+    "birim": "KG"
+  },
+  {
+    "id": "V.0716/002",
+    "kurum": "VGM",
+    "tanim": "",
+    "birim": "KG"
+  },
+  {
+    "id": "V.0717/001",
+    "kurum": "VGM",
+    "tanim": "",
+    "birim": "KG"
+  },
+  {
+    "id": "V.0717/002",
+    "kurum": "VGM",
+    "tanim": "",
+    "birim": "KG"
+  },
+  {
+    "id": "V.0802/001",
+    "kurum": "VGM",
+    "tanim": "",
+    "birim": "M²"
+  },
+  {
+    "id": "V.0805/A",
+    "kurum": "VGM",
+    "tanim": "",
+    "birim": "M²"
+  },
+  {
+    "id": "V.0806/A",
+    "kurum": "VGM",
+    "tanim": "",
+    "birim": "M²"
+  },
+  {
+    "id": "V.0806/B",
+    "kurum": "VGM",
+    "tanim": "",
+    "birim": "M²"
+  },
+  {
+    "id": "V.0813/01",
+    "kurum": "VGM",
+    "tanim": "",
+    "birim": "M²"
+  },
+  {
+    "id": "V.0817/001",
+    "kurum": "VGM",
+    "tanim": "",
+    "birim": "M²"
+  },
+  {
+    "id": "V.0817/002",
+    "kurum": "VGM",
+    "tanim": "",
+    "birim": "M²"
+  },
+  {
+    "id": "V.0817/003",
+    "kurum": "VGM",
+    "tanim": "",
+    "birim": "M²"
+  },
+  {
+    "id": "V.0817/004",
+    "kurum": "VGM",
+    "tanim": "",
+    "birim": "M²"
+  },
+  {
+    "id": "V.0817/005",
+    "kurum": "VGM",
+    "tanim": "",
+    "birim": "M²"
+  },
+  {
+    "id": "V.0817/006",
+    "kurum": "VGM",
+    "tanim": "",
+    "birim": "M²"
+  },
+  {
+    "id": "V.0817/007",
+    "kurum": "VGM",
+    "tanim": "",
+    "birim": "M²"
+  },
+  {
+    "id": "V.0817/008",
+    "kurum": "VGM",
+    "tanim": "",
+    "birim": "M²"
+  },
+  {
+    "id": "V.0817/009",
+    "kurum": "VGM",
+    "tanim": "",
+    "birim": "M²"
+  },
+  {
+    "id": "V.0817/010",
+    "kurum": "VGM",
+    "tanim": "",
+    "birim": "M²"
+  },
+  {
+    "id": "V.0817/A001",
+    "kurum": "VGM",
+    "tanim": "",
+    "birim": "M²"
+  },
+  {
+    "id": "V.0817/A002",
+    "kurum": "VGM",
+    "tanim": "",
+    "birim": "M²"
+  },
+  {
+    "id": "V.0817/A003",
+    "kurum": "VGM",
+    "tanim": "",
+    "birim": "M²"
+  },
+  {
+    "id": "V.0817/A004",
+    "kurum": "VGM",
+    "tanim": "",
+    "birim": "M²"
+  },
+  {
+    "id": "V.0817/A005",
+    "kurum": "VGM",
+    "tanim": "",
+    "birim": "M²"
+  },
+  {
+    "id": "V.0817/A006",
+    "kurum": "VGM",
+    "tanim": "",
+    "birim": "M²"
+  },
+  {
+    "id": "V.0817/A007",
+    "kurum": "VGM",
+    "tanim": "",
+    "birim": "M²"
+  },
+  {
+    "id": "V.0817/A008",
+    "kurum": "VGM",
+    "tanim": "",
+    "birim": "M²"
+  },
+  {
+    "id": "V.0817/A009",
+    "kurum": "VGM",
+    "tanim": "",
+    "birim": "M²"
+  },
+  {
+    "id": "V.0817/A010",
+    "kurum": "VGM",
+    "tanim": "",
+    "birim": "M²"
+  },
+  {
+    "id": "V.0817/B001",
+    "kurum": "VGM",
+    "tanim": "",
+    "birim": "M²"
+  },
+  {
+    "id": "V.0817/B002",
+    "kurum": "VGM",
+    "tanim": "",
+    "birim": "M²"
+  },
+  {
+    "id": "V.0817/B003",
+    "kurum": "VGM",
+    "tanim": "",
+    "birim": "M²"
+  },
+  {
+    "id": "V.0817/B004",
+    "kurum": "VGM",
+    "tanim": "",
+    "birim": "M²"
+  },
+  {
+    "id": "V.0817/B005",
+    "kurum": "VGM",
+    "tanim": "",
+    "birim": "M²"
+  },
+  {
+    "id": "V.0817/B006",
+    "kurum": "VGM",
+    "tanim": "",
+    "birim": "M²"
+  },
+  {
+    "id": "V.0817/B007",
+    "kurum": "VGM",
+    "tanim": "",
+    "birim": "M²"
+  },
+  {
+    "id": "V.0817/B008",
+    "kurum": "VGM",
+    "tanim": "",
+    "birim": "M²"
+  },
+  {
+    "id": "V.0817/B009",
+    "kurum": "VGM",
+    "tanim": "",
+    "birim": "M²"
+  },
+  {
+    "id": "V.0817/B010",
+    "kurum": "VGM",
+    "tanim": "",
+    "birim": "M²"
+  },
+  {
+    "id": "V.0818/A001",
+    "kurum": "VGM",
+    "tanim": "",
+    "birim": "M²"
+  },
+  {
+    "id": "V.0818/A002",
+    "kurum": "VGM",
+    "tanim": "",
+    "birim": "M²"
+  },
+  {
+    "id": "V.0818/A003",
+    "kurum": "VGM",
+    "tanim": "",
+    "birim": "M²"
+  },
+  {
+    "id": "V.0818/B001",
+    "kurum": "VGM",
+    "tanim": "",
+    "birim": "M²"
+  },
+  {
+    "id": "V.0818/B002",
+    "kurum": "VGM",
+    "tanim": "",
+    "birim": "M²"
+  },
+  {
+    "id": "V.0818/B003",
+    "kurum": "VGM",
+    "tanim": "",
+    "birim": "M²"
+  },
+  {
+    "id": "V.0818/B004",
+    "kurum": "VGM",
+    "tanim": "",
+    "birim": "M²"
+  },
+  {
+    "id": "V.0818/B005",
+    "kurum": "VGM",
+    "tanim": "",
+    "birim": "M²"
+  },
+  {
+    "id": "V.0818/B006",
+    "kurum": "VGM",
+    "tanim": "",
+    "birim": "M²"
+  },
+  {
+    "id": "V.0818/B007",
+    "kurum": "VGM",
+    "tanim": "",
+    "birim": "M²"
+  },
+  {
+    "id": "V.0819/A",
+    "kurum": "VGM",
+    "tanim": "",
+    "birim": "M²"
+  },
+  {
+    "id": "V.0819/B",
+    "kurum": "VGM",
+    "tanim": "",
+    "birim": "M²"
+  },
+  {
+    "id": "V.0820/A",
+    "kurum": "VGM",
+    "tanim": "",
+    "birim": "M²"
+  },
+  {
+    "id": "V.0820/B",
+    "kurum": "VGM",
+    "tanim": "",
+    "birim": "M²"
+  },
+  {
+    "id": "V.0850/1",
+    "kurum": "VGM",
+    "tanim": "",
+    "birim": "M²"
+  },
+  {
+    "id": "V.0852/1",
+    "kurum": "VGM",
+    "tanim": "",
+    "birim": "M²"
+  },
+  {
+    "id": "V.0901/A",
+    "kurum": "VGM",
+    "tanim": "",
+    "birim": "M³"
+  },
+  {
+    "id": "V.0901/B",
+    "kurum": "VGM",
+    "tanim": "",
+    "birim": "M³"
+  },
+  {
+    "id": "V.0902/C01",
+    "kurum": "VGM",
+    "tanim": "",
+    "birim": "M²"
+  },
+  {
+    "id": "V.0902/C02",
+    "kurum": "VGM",
+    "tanim": "",
+    "birim": "M²"
+  },
+  {
+    "id": "V.0902/C03",
+    "kurum": "VGM",
+    "tanim": "",
+    "birim": "M²"
+  },
+  {
+    "id": "V.0902/C04",
+    "kurum": "VGM",
+    "tanim": "",
+    "birim": "M²"
+  },
+  {
+    "id": "V.0903/001",
+    "kurum": "VGM",
+    "tanim": "",
+    "birim": "M³"
+  },
+  {
+    "id": "V.0903/C01",
+    "kurum": "VGM",
+    "tanim": "",
+    "birim": "M²"
+  },
+  {
+    "id": "V.0903/C02",
+    "kurum": "VGM",
+    "tanim": "",
+    "birim": "M²"
+  },
+  {
+    "id": "V.0903/C03",
+    "kurum": "VGM",
+    "tanim": "",
+    "birim": "M²"
+  },
+  {
+    "id": "V.0904/A",
+    "kurum": "VGM",
+    "tanim": "",
+    "birim": "M³"
+  },
+  {
+    "id": "V.0904/B",
+    "kurum": "VGM",
+    "tanim": "",
+    "birim": "M³"
+  },
+  {
+    "id": "V.1002/A",
+    "kurum": "VGM",
+    "tanim": "",
+    "birim": "M³"
+  },
+  {
+    "id": "V.1002/B",
+    "kurum": "VGM",
+    "tanim": "",
+    "birim": "M³"
+  },
+  {
+    "id": "V.1003/A",
+    "kurum": "VGM",
+    "tanim": "",
+    "birim": "M"
+  },
+  {
+    "id": "V.1003/B",
+    "kurum": "VGM",
+    "tanim": "",
+    "birim": "M"
+  },
+  {
+    "id": "V.1004/1",
+    "kurum": "VGM",
+    "tanim": "",
+    "birim": "M"
+  },
+  {
+    "id": "V.1004/2",
+    "kurum": "VGM",
+    "tanim": "",
+    "birim": "M"
+  },
+  {
+    "id": "V.1004/A1",
+    "kurum": "VGM",
+    "tanim": "",
+    "birim": "M"
+  },
+  {
+    "id": "V.1004/A2",
+    "kurum": "VGM",
+    "tanim": "",
+    "birim": "M"
+  },
+  {
+    "id": "V.1005/001",
+    "kurum": "VGM",
+    "tanim": "",
+    "birim": "M³"
+  },
+  {
+    "id": "V.1005/A01",
+    "kurum": "VGM",
+    "tanim": "",
+    "birim": "M³"
+  },
+  {
+    "id": "V.1005/B01",
+    "kurum": "VGM",
+    "tanim": "",
+    "birim": "M³"
+  },
+  {
+    "id": "V.1006/01",
+    "kurum": "VGM",
+    "tanim": "",
+    "birim": "M³"
+  },
+  {
+    "id": "V.1006/A01",
+    "kurum": "VGM",
+    "tanim": "",
+    "birim": "M³"
+  },
+  {
+    "id": "V.1006/B01",
+    "kurum": "VGM",
+    "tanim": "",
+    "birim": "M³"
+  },
+  {
+    "id": "V.1007/A",
+    "kurum": "VGM",
+    "tanim": "",
+    "birim": "M²"
+  },
+  {
+    "id": "V.1007/B",
+    "kurum": "VGM",
+    "tanim": "",
+    "birim": "M²"
+  },
+  {
+    "id": "V.1008/A",
+    "kurum": "VGM",
+    "tanim": "",
+    "birim": "M²"
+  },
+  {
+    "id": "V.1008/B",
+    "kurum": "VGM",
+    "tanim": "",
+    "birim": "M²"
+  },
+  {
+    "id": "V.1009/A",
+    "kurum": "VGM",
+    "tanim": "",
+    "birim": "M²"
+  },
+  {
+    "id": "V.1009/B",
+    "kurum": "VGM",
+    "tanim": "",
+    "birim": "M²"
+  },
+  {
+    "id": "V.1010/A",
+    "kurum": "VGM",
+    "tanim": "",
+    "birim": "M²"
+  },
+  {
+    "id": "V.1010/B",
+    "kurum": "VGM",
+    "tanim": "",
+    "birim": "M²"
+  },
+  {
+    "id": "V.1011/A",
+    "kurum": "VGM",
+    "tanim": "",
+    "birim": "M³"
+  },
+  {
+    "id": "V.1011/B",
+    "kurum": "VGM",
+    "tanim": "",
+    "birim": "M³"
+  },
+  {
+    "id": "V.1012/A",
+    "kurum": "VGM",
+    "tanim": "",
+    "birim": "M³"
+  },
+  {
+    "id": "V.1012/B",
+    "kurum": "VGM",
+    "tanim": "",
+    "birim": "M³"
+  },
+  {
+    "id": "V.1013/A",
+    "kurum": "VGM",
+    "tanim": "",
+    "birim": "M³"
+  },
+  {
+    "id": "V.1013/B",
+    "kurum": "VGM",
+    "tanim": "",
+    "birim": "M³"
+  },
+  {
+    "id": "V.1015/A",
+    "kurum": "VGM",
+    "tanim": "",
+    "birim": "M³"
+  },
+  {
+    "id": "V.1015/B",
+    "kurum": "VGM",
+    "tanim": "",
+    "birim": "M³"
+  },
+  {
+    "id": "V.1016/A",
+    "kurum": "VGM",
+    "tanim": "",
+    "birim": "M²"
+  },
+  {
+    "id": "V.1016/B",
+    "kurum": "VGM",
+    "tanim": "",
+    "birim": "M²"
+  },
+  {
+    "id": "V.1017/A",
+    "kurum": "VGM",
+    "tanim": "",
+    "birim": "M²"
+  },
+  {
+    "id": "V.1017/B",
+    "kurum": "VGM",
+    "tanim": "",
+    "birim": "M²"
+  },
+  {
+    "id": "V.1018/1",
+    "kurum": "VGM",
+    "tanim": "",
+    "birim": "M²"
+  },
+  {
+    "id": "V.1018/2",
+    "kurum": "VGM",
+    "tanim": "",
+    "birim": "M²"
+  },
+  {
+    "id": "V.1018/A1",
+    "kurum": "VGM",
+    "tanim": "",
+    "birim": "M²"
+  },
+  {
+    "id": "V.1018/A2",
+    "kurum": "VGM",
+    "tanim": "",
+    "birim": "M²"
+  },
+  {
+    "id": "V.1019/A",
+    "kurum": "VGM",
+    "tanim": "",
+    "birim": "M²"
+  },
+  {
+    "id": "V.1019/B",
+    "kurum": "VGM",
+    "tanim": "",
+    "birim": "M²"
+  },
+  {
+    "id": "V.1020/A",
+    "kurum": "VGM",
+    "tanim": "",
+    "birim": "M²"
+  },
+  {
+    "id": "V.1020/B",
+    "kurum": "VGM",
+    "tanim": "",
+    "birim": "M²"
+  },
+  {
+    "id": "V.1021/A",
+    "kurum": "VGM",
+    "tanim": "",
+    "birim": "M²"
+  },
+  {
+    "id": "V.1021/B",
+    "kurum": "VGM",
+    "tanim": "",
+    "birim": "M²"
+  },
+  {
+    "id": "V.1022/A",
+    "kurum": "VGM",
+    "tanim": "",
+    "birim": "M²"
+  },
+  {
+    "id": "V.1022/B",
+    "kurum": "VGM",
+    "tanim": "",
+    "birim": "M²"
+  },
+  {
+    "id": "V.1023/A",
+    "kurum": "VGM",
+    "tanim": "",
+    "birim": "MT"
+  },
+  {
+    "id": "V.1023/B",
+    "kurum": "VGM",
+    "tanim": "",
+    "birim": "MT"
+  },
+  {
+    "id": "V.1024/A",
+    "kurum": "VGM",
+    "tanim": "",
+    "birim": "MT"
+  },
+  {
+    "id": "V.1024/B",
+    "kurum": "VGM",
+    "tanim": "",
+    "birim": "MT"
+  },
+  {
+    "id": "V.1101/01",
+    "kurum": "VGM",
+    "tanim": "",
+    "birim": "M²"
+  },
+  {
+    "id": "V.1101/02",
+    "kurum": "VGM",
+    "tanim": "",
+    "birim": "M²"
+  },
+  {
+    "id": "V.1101/03",
+    "kurum": "VGM",
+    "tanim": "",
+    "birim": "M²"
+  },
+  {
+    "id": "V.1101/A01",
+    "kurum": "VGM",
+    "tanim": "",
+    "birim": "M²"
+  },
+  {
+    "id": "V.1101/A02",
+    "kurum": "VGM",
+    "tanim": "",
+    "birim": "M²"
+  },
+  {
+    "id": "V.1101/A03",
+    "kurum": "VGM",
+    "tanim": "",
+    "birim": "M²"
+  },
+  {
+    "id": "V.1101/B01",
+    "kurum": "VGM",
+    "tanim": "",
+    "birim": "M²"
+  },
+  {
+    "id": "V.1101/B02",
+    "kurum": "VGM",
+    "tanim": "",
+    "birim": "M²"
+  },
+  {
+    "id": "V.1101/B03",
+    "kurum": "VGM",
+    "tanim": "",
+    "birim": "M²"
+  },
+  {
+    "id": "V.1102/A01",
+    "kurum": "VGM",
+    "tanim": "",
+    "birim": "M²"
+  },
+  {
+    "id": "V.1102/A03",
+    "kurum": "VGM",
+    "tanim": "",
+    "birim": "M²"
+  },
+  {
+    "id": "V.1102/B01",
+    "kurum": "VGM",
+    "tanim": "",
+    "birim": "M²"
+  },
+  {
+    "id": "V.1102/B02",
+    "kurum": "VGM",
+    "tanim": "",
+    "birim": "M²"
+  },
+  {
+    "id": "V.1102/B03",
+    "kurum": "VGM",
+    "tanim": "",
+    "birim": "M²"
+  },
+  {
+    "id": "V.1103/A",
+    "kurum": "VGM",
+    "tanim": "",
+    "birim": "M²"
+  },
+  {
+    "id": "V.1103/B",
+    "kurum": "VGM",
+    "tanim": "",
+    "birim": "M²"
+  },
+  {
+    "id": "V.1104/001",
+    "kurum": "VGM",
+    "tanim": "",
+    "birim": "M²"
+  },
+  {
+    "id": "V.1104/002",
+    "kurum": "VGM",
+    "tanim": "",
+    "birim": "M²"
+  },
+  {
+    "id": "V.1104/003",
+    "kurum": "VGM",
+    "tanim": "",
+    "birim": "M²"
+  },
+  {
+    "id": "V.1104/004",
+    "kurum": "VGM",
+    "tanim": "",
+    "birim": "M²"
+  },
+  {
+    "id": "V.1104/005",
+    "kurum": "VGM",
+    "tanim": "",
+    "birim": "M²"
+  },
+  {
+    "id": "V.1104/006",
+    "kurum": "VGM",
+    "tanim": "",
+    "birim": "M²"
+  },
+  {
+    "id": "V.1104/007",
+    "kurum": "VGM",
+    "tanim": "",
+    "birim": "M²"
+  },
+  {
+    "id": "V.1104/008",
+    "kurum": "VGM",
+    "tanim": "",
+    "birim": "M²"
+  },
+  {
+    "id": "V.1104/A001",
+    "kurum": "VGM",
+    "tanim": "",
+    "birim": "M²"
+  },
+  {
+    "id": "V.1104/A002",
+    "kurum": "VGM",
+    "tanim": "",
+    "birim": "M²"
+  },
+  {
+    "id": "V.1104/A003",
+    "kurum": "VGM",
+    "tanim": "",
+    "birim": "M²"
+  },
+  {
+    "id": "V.1104/A004",
+    "kurum": "VGM",
+    "tanim": "",
+    "birim": "M²"
+  },
+  {
+    "id": "V.1104/A005",
+    "kurum": "VGM",
+    "tanim": "",
+    "birim": "M²"
+  },
+  {
+    "id": "V.1104/A006",
+    "kurum": "VGM",
+    "tanim": "",
+    "birim": "M²"
+  },
+  {
+    "id": "V.1104/A007",
+    "kurum": "VGM",
+    "tanim": "",
+    "birim": "M²"
+  },
+  {
+    "id": "V.1104/A008",
+    "kurum": "VGM",
+    "tanim": "",
+    "birim": "M²"
+  },
+  {
+    "id": "V.1104/B001",
+    "kurum": "VGM",
+    "tanim": "",
+    "birim": "M²"
+  },
+  {
+    "id": "V.1104/B002",
+    "kurum": "VGM",
+    "tanim": "",
+    "birim": "M²"
+  },
+  {
+    "id": "V.1104/B003",
+    "kurum": "VGM",
+    "tanim": "",
+    "birim": "M²"
+  },
+  {
+    "id": "V.1104/B004",
+    "kurum": "VGM",
+    "tanim": "",
+    "birim": "M²"
+  },
+  {
+    "id": "V.1104/B005",
+    "kurum": "VGM",
+    "tanim": "",
+    "birim": "M²"
+  },
+  {
+    "id": "V.1104/B006",
+    "kurum": "VGM",
+    "tanim": "",
+    "birim": "M²"
+  },
+  {
+    "id": "V.1104/B007",
+    "kurum": "VGM",
+    "tanim": "",
+    "birim": "M²"
+  },
+  {
+    "id": "V.1104/B008",
+    "kurum": "VGM",
+    "tanim": "",
+    "birim": "M²"
+  },
+  {
+    "id": "V.1106/A",
+    "kurum": "VGM",
+    "tanim": "",
+    "birim": "M²"
+  },
+  {
+    "id": "V.1106/B",
+    "kurum": "VGM",
+    "tanim": "",
+    "birim": "M²"
+  },
+  {
+    "id": "V.1107/A",
+    "kurum": "VGM",
+    "tanim": "",
+    "birim": "M²"
+  },
+  {
+    "id": "V.1107/B",
+    "kurum": "VGM",
+    "tanim": "",
+    "birim": "M²"
+  },
+  {
+    "id": "V.1108/A",
+    "kurum": "VGM",
+    "tanim": "",
+    "birim": "M²"
+  },
+  {
+    "id": "V.1108/B",
+    "kurum": "VGM",
+    "tanim": "",
+    "birim": "M²"
+  },
+  {
+    "id": "V.1109/A",
+    "kurum": "VGM",
+    "tanim": "",
+    "birim": "M²"
+  },
+  {
+    "id": "V.1109/B",
+    "kurum": "VGM",
+    "tanim": "",
+    "birim": "M²"
+  },
+  {
+    "id": "V.1111/A",
+    "kurum": "VGM",
+    "tanim": "",
+    "birim": "M²"
+  },
+  {
+    "id": "V.1111/B",
+    "kurum": "VGM",
+    "tanim": "",
+    "birim": "M²"
+  },
+  {
+    "id": "V.1112/A",
+    "kurum": "VGM",
+    "tanim": "",
+    "birim": "M²"
+  },
+  {
+    "id": "V.1112/B",
+    "kurum": "VGM",
+    "tanim": "",
+    "birim": "M²"
+  },
+  {
+    "id": "V.1113/A",
+    "kurum": "VGM",
+    "tanim": "",
+    "birim": "M²"
+  },
+  {
+    "id": "V.1113/B",
+    "kurum": "VGM",
+    "tanim": "",
+    "birim": "M²"
+  },
+  {
+    "id": "V.1114/A",
+    "kurum": "VGM",
+    "tanim": "",
+    "birim": "M²"
+  },
+  {
+    "id": "V.1114/B",
+    "kurum": "VGM",
+    "tanim": "",
+    "birim": "M²"
+  },
+  {
+    "id": "V.1115/A",
+    "kurum": "VGM",
+    "tanim": "",
+    "birim": "M²"
+  },
+  {
+    "id": "V.1115/B",
+    "kurum": "VGM",
+    "tanim": "",
+    "birim": "M²"
+  },
+  {
+    "id": "V.1116/A",
+    "kurum": "VGM",
+    "tanim": "",
+    "birim": "M²"
+  },
+  {
+    "id": "V.1116/B",
+    "kurum": "VGM",
+    "tanim": "",
+    "birim": "M²"
+  },
+  {
+    "id": "V.1117/A",
+    "kurum": "VGM",
+    "tanim": "",
+    "birim": "M²"
+  },
+  {
+    "id": "V.1117/B",
+    "kurum": "VGM",
+    "tanim": "",
+    "birim": "M²"
+  },
+  {
+    "id": "V.1125/A",
+    "kurum": "VGM",
+    "tanim": "",
+    "birim": "M²"
+  },
+  {
+    "id": "V.1125/B",
+    "kurum": "VGM",
+    "tanim": "",
+    "birim": "M²"
+  },
+  {
+    "id": "V.1126/A",
+    "kurum": "VGM",
+    "tanim": "",
+    "birim": "M²"
+  },
+  {
+    "id": "V.1126/B",
+    "kurum": "VGM",
+    "tanim": "",
+    "birim": "M²"
+  },
+  {
+    "id": "V.1127/A",
+    "kurum": "VGM",
+    "tanim": "",
+    "birim": "M²"
+  },
+  {
+    "id": "V.1127/B",
+    "kurum": "VGM",
+    "tanim": "",
+    "birim": "M²"
+  },
+  {
+    "id": "V.1128/A",
+    "kurum": "VGM",
+    "tanim": "",
+    "birim": "M²"
+  },
+  {
+    "id": "V.1129/A",
+    "kurum": "VGM",
+    "tanim": "",
+    "birim": "M²"
+  },
+  {
+    "id": "V.1129/B",
+    "kurum": "VGM",
+    "tanim": "",
+    "birim": "M²"
+  },
+  {
+    "id": "V.1130/A",
+    "kurum": "VGM",
+    "tanim": "",
+    "birim": "M²"
+  },
+  {
+    "id": "V.1130/B",
+    "kurum": "VGM",
+    "tanim": "",
+    "birim": "M²"
+  },
+  {
+    "id": "V.1131/A",
+    "kurum": "VGM",
+    "tanim": "",
+    "birim": "M²"
+  },
+  {
+    "id": "V.1131/B",
+    "kurum": "VGM",
+    "tanim": "",
+    "birim": "M²"
+  },
+  {
+    "id": "V.1132/A",
+    "kurum": "VGM",
+    "tanim": "",
+    "birim": "M²"
+  },
+  {
+    "id": "V.1132/B",
+    "kurum": "VGM",
+    "tanim": "",
+    "birim": "M²"
+  },
+  {
+    "id": "V.1133/A",
+    "kurum": "VGM",
+    "tanim": "",
+    "birim": "M²"
+  },
+  {
+    "id": "V.1133/B",
+    "kurum": "VGM",
+    "tanim": "",
+    "birim": "M²"
+  },
+  {
+    "id": "V.1134/1",
+    "kurum": "VGM",
+    "tanim": "",
+    "birim": "M²"
+  },
+  {
+    "id": "V.1134/2",
+    "kurum": "VGM",
+    "tanim": "",
+    "birim": "M²"
+  },
+  {
+    "id": "V.1134/A",
+    "kurum": "VGM",
+    "tanim": "",
+    "birim": "M²"
+  },
+  {
+    "id": "V.1134/A1",
+    "kurum": "VGM",
+    "tanim": "",
+    "birim": "M²"
+  },
+  {
+    "id": "V.1134/A2",
+    "kurum": "VGM",
+    "tanim": "",
+    "birim": "M²"
+  },
+  {
+    "id": "V.1135/A",
+    "kurum": "VGM",
+    "tanim": "",
+    "birim": "M²"
+  },
+  {
+    "id": "V.1135/B",
+    "kurum": "VGM",
+    "tanim": "",
+    "birim": "M²"
+  },
+  {
+    "id": "V.1136/A",
+    "kurum": "VGM",
+    "tanim": "",
+    "birim": "M²"
+  },
+  {
+    "id": "V.1136/B",
+    "kurum": "VGM",
+    "tanim": "",
+    "birim": "M²"
+  },
+  {
+    "id": "V.1137/A",
+    "kurum": "VGM",
+    "tanim": "",
+    "birim": "M²"
+  },
+  {
+    "id": "V.1137/B",
+    "kurum": "VGM",
+    "tanim": "",
+    "birim": "M²"
+  },
+  {
+    "id": "V.1138/A",
+    "kurum": "VGM",
+    "tanim": "",
+    "birim": "M²"
+  },
+  {
+    "id": "V.1138/B",
+    "kurum": "VGM",
+    "tanim": "",
+    "birim": "M²"
+  },
+  {
+    "id": "V.1139/A",
+    "kurum": "VGM",
+    "tanim": "",
+    "birim": "M²"
+  },
+  {
+    "id": "V.1139/B",
+    "kurum": "VGM",
+    "tanim": "",
+    "birim": "M²"
+  },
+  {
+    "id": "V.1140/A",
+    "kurum": "VGM",
+    "tanim": "",
+    "birim": "M²"
+  },
+  {
+    "id": "V.1140/B",
+    "kurum": "VGM",
+    "tanim": "",
+    "birim": "M²"
+  },
+  {
+    "id": "V.1141/A",
+    "kurum": "VGM",
+    "tanim": "",
+    "birim": "M²"
+  },
+  {
+    "id": "V.1141/B",
+    "kurum": "VGM",
+    "tanim": "",
+    "birim": "M²"
+  },
+  {
+    "id": "V.1142/A",
+    "kurum": "VGM",
+    "tanim": "",
+    "birim": "M²"
+  },
+  {
+    "id": "V.1142/B",
+    "kurum": "VGM",
+    "tanim": "",
+    "birim": "M²"
+  },
+  {
+    "id": "V.1143/1",
+    "kurum": "VGM",
+    "tanim": "",
+    "birim": "M²"
+  },
+  {
+    "id": "V.1143/2",
+    "kurum": "VGM",
+    "tanim": "",
+    "birim": "M²"
+  },
+  {
+    "id": "V.1143/A",
+    "kurum": "VGM",
+    "tanim": "",
+    "birim": "M²"
+  },
+  {
+    "id": "V.1143/A1",
+    "kurum": "VGM",
+    "tanim": "",
+    "birim": "M²"
+  },
+  {
+    "id": "V.1143/A2",
+    "kurum": "VGM",
+    "tanim": "",
+    "birim": "M²"
+  },
+  {
+    "id": "V.1144/A",
+    "kurum": "VGM",
+    "tanim": "",
+    "birim": "M²"
+  },
+  {
+    "id": "V.1144/B",
+    "kurum": "VGM",
+    "tanim": "",
+    "birim": "M²"
+  },
+  {
+    "id": "V.1145/A",
+    "kurum": "VGM",
+    "tanim": "",
+    "birim": "M²"
+  },
+  {
+    "id": "V.1145/B",
+    "kurum": "VGM",
+    "tanim": "",
+    "birim": "M²"
+  },
+  {
+    "id": "V.1146/A",
+    "kurum": "VGM",
+    "tanim": "",
+    "birim": "M²"
+  },
+  {
+    "id": "V.1146/B",
+    "kurum": "VGM",
+    "tanim": "",
+    "birim": "M²"
+  },
+  {
+    "id": "V.1147/A",
+    "kurum": "VGM",
+    "tanim": "",
+    "birim": "M²"
+  },
+  {
+    "id": "V.1147/B",
+    "kurum": "VGM",
+    "tanim": "",
+    "birim": "M²"
+  },
+  {
+    "id": "V.1149/A",
+    "kurum": "VGM",
+    "tanim": "",
+    "birim": "M²"
+  },
+  {
+    "id": "V.1149/B",
+    "kurum": "VGM",
+    "tanim": "",
+    "birim": "M²"
+  },
+  {
+    "id": "V.1151/A",
+    "kurum": "VGM",
+    "tanim": "",
+    "birim": "M²"
+  },
+  {
+    "id": "V.1151/B",
+    "kurum": "VGM",
+    "tanim": "",
+    "birim": "M²"
+  },
+  {
+    "id": "V.1152/A",
+    "kurum": "VGM",
+    "tanim": "",
+    "birim": "M²"
+  },
+  {
+    "id": "V.1152/B",
+    "kurum": "VGM",
+    "tanim": "",
+    "birim": "M²"
+  },
+  {
+    "id": "V.1153/A",
+    "kurum": "VGM",
+    "tanim": "",
+    "birim": "M²"
+  },
+  {
+    "id": "V.1153/B",
+    "kurum": "VGM",
+    "tanim": "",
+    "birim": "M²"
+  },
+  {
+    "id": "V.1154/A",
+    "kurum": "VGM",
+    "tanim": "",
+    "birim": "M²"
+  },
+  {
+    "id": "V.1154/B",
+    "kurum": "VGM",
+    "tanim": "",
+    "birim": "M²"
+  },
+  {
+    "id": "V.1155/A",
+    "kurum": "VGM",
+    "tanim": "",
+    "birim": "M²"
+  },
+  {
+    "id": "V.1155/B",
+    "kurum": "VGM",
+    "tanim": "",
+    "birim": "M²"
+  },
+  {
+    "id": "V.1156/A",
+    "kurum": "VGM",
+    "tanim": "",
+    "birim": "M²"
+  },
+  {
+    "id": "V.1156/B",
+    "kurum": "VGM",
+    "tanim": "",
+    "birim": "M²"
+  },
+  {
+    "id": "V.1157/A",
+    "kurum": "VGM",
+    "tanim": "",
+    "birim": "M²"
+  },
+  {
+    "id": "V.1157/B",
+    "kurum": "VGM",
+    "tanim": "",
+    "birim": "M²"
+  },
+  {
+    "id": "V.1158/A",
+    "kurum": "VGM",
+    "tanim": "",
+    "birim": "M"
+  },
+  {
+    "id": "V.1158/B",
+    "kurum": "VGM",
+    "tanim": "",
+    "birim": "M"
+  },
+  {
+    "id": "V.1159/A",
+    "kurum": "VGM",
+    "tanim": "",
+    "birim": "M"
+  },
+  {
+    "id": "V.1159/B",
+    "kurum": "VGM",
+    "tanim": "",
+    "birim": "M"
+  },
+  {
+    "id": "V.1160/1",
+    "kurum": "VGM",
+    "tanim": "",
+    "birim": "M²"
+  },
+  {
+    "id": "V.1160/2",
+    "kurum": "VGM",
+    "tanim": "",
+    "birim": "M²"
+  },
+  {
+    "id": "V.1160/A1",
+    "kurum": "VGM",
+    "tanim": "",
+    "birim": "M²"
+  },
+  {
+    "id": "V.1160/A2",
+    "kurum": "VGM",
+    "tanim": "",
+    "birim": "M²"
+  },
+  {
+    "id": "V.1161/A",
+    "kurum": "VGM",
+    "tanim": "",
+    "birim": "M²"
+  },
+  {
+    "id": "V.1161/B",
+    "kurum": "VGM",
+    "tanim": "",
+    "birim": "M²"
+  },
+  {
+    "id": "V.1162/1",
+    "kurum": "VGM",
+    "tanim": "",
+    "birim": "M²"
+  },
+  {
+    "id": "V.1162/2",
+    "kurum": "VGM",
+    "tanim": "",
+    "birim": "M²"
+  },
+  {
+    "id": "V.1162/A",
+    "kurum": "VGM",
+    "tanim": "",
+    "birim": "M²"
+  },
+  {
+    "id": "V.1162/A1",
+    "kurum": "VGM",
+    "tanim": "",
+    "birim": "M²"
+  },
+  {
+    "id": "V.1162/A2",
+    "kurum": "VGM",
+    "tanim": "",
+    "birim": "M²"
+  },
+  {
+    "id": "V.1163/A",
+    "kurum": "VGM",
+    "tanim": "",
+    "birim": "M²"
+  },
+  {
+    "id": "V.1163/B",
+    "kurum": "VGM",
+    "tanim": "",
+    "birim": "M²"
+  },
+  {
+    "id": "V.1164/A",
+    "kurum": "VGM",
+    "tanim": "",
+    "birim": "M"
+  },
+  {
+    "id": "V.1164/B",
+    "kurum": "VGM",
+    "tanim": "",
+    "birim": "M"
+  },
+  {
+    "id": "V.1165/A",
+    "kurum": "VGM",
+    "tanim": "",
+    "birim": "M"
+  },
+  {
+    "id": "V.1165/B",
+    "kurum": "VGM",
+    "tanim": "",
+    "birim": "M"
+  },
+  {
+    "id": "V.1166/A",
+    "kurum": "VGM",
+    "tanim": "",
+    "birim": "M"
+  },
+  {
+    "id": "V.1167/A",
+    "kurum": "VGM",
+    "tanim": "",
+    "birim": "M"
+  },
+  {
+    "id": "V.1167/B",
+    "kurum": "VGM",
+    "tanim": "",
+    "birim": "M"
+  },
+  {
+    "id": "V.1168/A",
+    "kurum": "VGM",
+    "tanim": "",
+    "birim": "M"
+  },
+  {
+    "id": "V.1168/B",
+    "kurum": "VGM",
+    "tanim": "",
+    "birim": "M"
+  },
+  {
+    "id": "V.1169/A",
+    "kurum": "VGM",
+    "tanim": "",
+    "birim": "M"
+  },
+  {
+    "id": "V.1169/B",
+    "kurum": "VGM",
+    "tanim": "",
+    "birim": "M"
+  },
+  {
+    "id": "V.1170/A",
+    "kurum": "VGM",
+    "tanim": "",
+    "birim": "M²"
+  },
+  {
+    "id": "V.1170/B",
+    "kurum": "VGM",
+    "tanim": "",
+    "birim": "M²"
+  },
+  {
+    "id": "V.1171/A",
+    "kurum": "VGM",
+    "tanim": "",
+    "birim": "M²"
+  },
+  {
+    "id": "V.1171/B",
+    "kurum": "VGM",
+    "tanim": "",
+    "birim": "M²"
+  },
+  {
+    "id": "V.1172/A",
+    "kurum": "VGM",
+    "tanim": "",
+    "birim": "M²"
+  },
+  {
+    "id": "V.1172/B",
+    "kurum": "VGM",
+    "tanim": "",
+    "birim": "M²"
+  },
+  {
+    "id": "V.1173/A",
+    "kurum": "VGM",
+    "tanim": "",
+    "birim": "M²"
+  },
+  {
+    "id": "V.1173/B",
+    "kurum": "VGM",
+    "tanim": "",
+    "birim": "M²"
+  },
+  {
+    "id": "V.1174/A",
+    "kurum": "VGM",
+    "tanim": "",
+    "birim": "M"
+  },
+  {
+    "id": "V.1174/B",
+    "kurum": "VGM",
+    "tanim": "",
+    "birim": "M"
+  },
+  {
+    "id": "V.1175/A",
+    "kurum": "VGM",
+    "tanim": "",
+    "birim": "M"
+  },
+  {
+    "id": "V.1175/B",
+    "kurum": "VGM",
+    "tanim": "",
+    "birim": "M"
+  },
+  {
+    "id": "V.1176/1",
+    "kurum": "VGM",
+    "tanim": "",
+    "birim": "M²"
+  },
+  {
+    "id": "V.1176/2",
+    "kurum": "VGM",
+    "tanim": "",
+    "birim": "M²"
+  },
+  {
+    "id": "V.1176/A1",
+    "kurum": "VGM",
+    "tanim": "",
+    "birim": "M²"
+  },
+  {
+    "id": "V.1176/A2",
+    "kurum": "VGM",
+    "tanim": "",
+    "birim": "M²"
+  },
+  {
+    "id": "V.1177/A",
+    "kurum": "VGM",
+    "tanim": "",
+    "birim": "M²"
+  },
+  {
+    "id": "V.1177/B",
+    "kurum": "VGM",
+    "tanim": "",
+    "birim": "M²"
+  },
+  {
+    "id": "V.1178/A",
+    "kurum": "VGM",
+    "tanim": "",
+    "birim": "M²"
+  },
+  {
+    "id": "V.1178/B",
+    "kurum": "VGM",
+    "tanim": "",
+    "birim": "M²"
+  },
+  {
+    "id": "V.1179/A",
+    "kurum": "VGM",
+    "tanim": "",
+    "birim": "M²"
+  },
+  {
+    "id": "V.1179/B",
+    "kurum": "VGM",
+    "tanim": "",
+    "birim": "M²"
+  },
+  {
+    "id": "V.1180/A",
+    "kurum": "VGM",
+    "tanim": "",
+    "birim": "M²"
+  },
+  {
+    "id": "V.1180/B",
+    "kurum": "VGM",
+    "tanim": "",
+    "birim": "M²"
+  },
+  {
+    "id": "V.1181/A",
+    "kurum": "VGM",
+    "tanim": "",
+    "birim": "M²"
+  },
+  {
+    "id": "V.1181/B",
+    "kurum": "VGM",
+    "tanim": "",
+    "birim": "M²"
+  },
+  {
+    "id": "V.1182/A",
+    "kurum": "VGM",
+    "tanim": "",
+    "birim": "M²"
+  },
+  {
+    "id": "V.1182/B",
+    "kurum": "VGM",
+    "tanim": "",
+    "birim": "M²"
+  },
+  {
+    "id": "V.1183/1",
+    "kurum": "VGM",
+    "tanim": "",
+    "birim": "M²"
+  },
+  {
+    "id": "V.1183/2",
+    "kurum": "VGM",
+    "tanim": "",
+    "birim": "M²"
+  },
+  {
+    "id": "V.1183/A",
+    "kurum": "VGM",
+    "tanim": "",
+    "birim": "M²"
+  },
+  {
+    "id": "V.1183/B",
+    "kurum": "VGM",
+    "tanim": "",
+    "birim": "M²"
+  },
+  {
+    "id": "V.1183/C",
+    "kurum": "VGM",
+    "tanim": "",
+    "birim": "M²"
+  },
+  {
+    "id": "V.1184/A",
+    "kurum": "VGM",
+    "tanim": "",
+    "birim": "AD"
+  },
+  {
+    "id": "V.1185/A",
+    "kurum": "VGM",
+    "tanim": "",
+    "birim": "AD"
+  },
+  {
+    "id": "V.1186/A",
+    "kurum": "VGM",
+    "tanim": "",
+    "birim": "AD"
+  },
+  {
+    "id": "V.1194/A",
+    "kurum": "VGM",
+    "tanim": "",
+    "birim": "AD"
+  },
+  {
+    "id": "V.1195/A",
+    "kurum": "VGM",
+    "tanim": "",
+    "birim": "AD"
+  },
+  {
+    "id": "V.1196/A",
+    "kurum": "VGM",
+    "tanim": "",
+    "birim": "AD"
+  },
+  {
+    "id": "V.1202/A",
+    "kurum": "VGM",
+    "tanim": "",
+    "birim": "M²"
+  },
+  {
+    "id": "V.1203/A",
+    "kurum": "VGM",
+    "tanim": "",
+    "birim": "M²"
+  },
+  {
+    "id": "V.1203/B",
+    "kurum": "VGM",
+    "tanim": "",
+    "birim": "M²"
+  },
+  {
+    "id": "V.1225/A",
+    "kurum": "VGM",
+    "tanim": "",
+    "birim": "M²"
+  },
+  {
+    "id": "V.1225/B",
+    "kurum": "VGM",
+    "tanim": "",
+    "birim": "M²"
+  },
+  {
+    "id": "V.1226/A",
+    "kurum": "VGM",
+    "tanim": "",
+    "birim": "M²"
+  },
+  {
+    "id": "V.1226/B",
+    "kurum": "VGM",
+    "tanim": "",
+    "birim": "M²"
+  },
+  {
+    "id": "V.1227/A",
+    "kurum": "VGM",
+    "tanim": "",
+    "birim": "M²"
+  },
+  {
+    "id": "V.1227/B",
+    "kurum": "VGM",
+    "tanim": "",
+    "birim": "M²"
+  },
+  {
+    "id": "V.1228/1",
+    "kurum": "VGM",
+    "tanim": "",
+    "birim": "M²"
+  },
+  {
+    "id": "V.1228/2",
+    "kurum": "VGM",
+    "tanim": "",
+    "birim": "M²"
+  },
+  {
+    "id": "V.1228/A",
+    "kurum": "VGM",
+    "tanim": "",
+    "birim": "M"
+  },
+  {
+    "id": "V.1229/A",
+    "kurum": "VGM",
+    "tanim": "",
+    "birim": "M²"
+  },
+  {
+    "id": "V.1229/A01",
+    "kurum": "VGM",
+    "tanim": "",
+    "birim": "M²"
+  },
+  {
+    "id": "V.1229/B",
+    "kurum": "VGM",
+    "tanim": "",
+    "birim": "M²"
+  },
+  {
+    "id": "V.1229/B01",
+    "kurum": "VGM",
+    "tanim": "",
+    "birim": "M²"
+  },
+  {
+    "id": "V.1230/A",
+    "kurum": "VGM",
+    "tanim": "",
+    "birim": "M²"
+  },
+  {
+    "id": "V.1230/B",
+    "kurum": "VGM",
+    "tanim": "",
+    "birim": "M²"
+  },
+  {
+    "id": "V.1231/A",
+    "kurum": "VGM",
+    "tanim": "",
+    "birim": "M²"
+  },
+  {
+    "id": "V.1231/B",
+    "kurum": "VGM",
+    "tanim": "",
+    "birim": "M²"
+  },
+  {
+    "id": "V.1232/A",
+    "kurum": "VGM",
+    "tanim": "",
+    "birim": "AD"
+  },
+  {
+    "id": "V.1232/B",
+    "kurum": "VGM",
+    "tanim": "",
+    "birim": "AD"
+  },
+  {
+    "id": "V.1233/A",
+    "kurum": "VGM",
+    "tanim": "",
+    "birim": "AD"
+  },
+  {
+    "id": "V.1233/B",
+    "kurum": "VGM",
+    "tanim": "",
+    "birim": "AD"
+  },
+  {
+    "id": "V.1234/A",
+    "kurum": "VGM",
+    "tanim": "",
+    "birim": "AD"
+  },
+  {
+    "id": "V.1234/B",
+    "kurum": "VGM",
+    "tanim": "",
+    "birim": "AD"
+  },
+  {
+    "id": "V.1235/A",
+    "kurum": "VGM",
+    "tanim": "",
+    "birim": "AD"
+  },
+  {
+    "id": "V.1235/B",
+    "kurum": "VGM",
+    "tanim": "",
+    "birim": "AD"
+  },
+  {
+    "id": "V.1250/A",
+    "kurum": "VGM",
+    "tanim": "",
+    "birim": "M"
+  },
+  {
+    "id": "V.1250/B",
+    "kurum": "VGM",
+    "tanim": "",
+    "birim": "M"
+  },
+  {
+    "id": "V.1251/A",
+    "kurum": "VGM",
+    "tanim": "",
+    "birim": "M"
+  },
+  {
+    "id": "V.1251/B",
+    "kurum": "VGM",
+    "tanim": "",
+    "birim": "M"
+  },
+  {
+    "id": "V.1252/A",
+    "kurum": "VGM",
+    "tanim": "",
+    "birim": "M"
+  },
+  {
+    "id": "V.1252/B",
+    "kurum": "VGM",
+    "tanim": "",
+    "birim": "M"
+  },
+  {
+    "id": "V.1253/A",
+    "kurum": "VGM",
+    "tanim": "",
+    "birim": "M"
+  },
+  {
+    "id": "V.1253/B",
+    "kurum": "VGM",
+    "tanim": "",
+    "birim": "M"
+  },
+  {
+    "id": "V.1254/A",
+    "kurum": "VGM",
+    "tanim": "",
+    "birim": "M"
+  },
+  {
+    "id": "V.1254/B",
+    "kurum": "VGM",
+    "tanim": "",
+    "birim": "M"
+  },
+  {
+    "id": "V.1255/A",
+    "kurum": "VGM",
+    "tanim": "",
+    "birim": "M"
+  },
+  {
+    "id": "V.1255/B",
+    "kurum": "VGM",
+    "tanim": "",
+    "birim": "M"
+  },
+  {
+    "id": "V.1256/A",
+    "kurum": "VGM",
+    "tanim": "",
+    "birim": "M"
+  },
+  {
+    "id": "V.1256/B",
+    "kurum": "VGM",
+    "tanim": "",
+    "birim": "M"
+  },
+  {
+    "id": "V.1257/A",
+    "kurum": "VGM",
+    "tanim": "",
+    "birim": "M"
+  },
+  {
+    "id": "V.1257/B",
+    "kurum": "VGM",
+    "tanim": "",
+    "birim": "M"
+  },
+  {
+    "id": "V.1258/A",
+    "kurum": "VGM",
+    "tanim": "",
+    "birim": "M"
+  },
+  {
+    "id": "V.1258/B",
+    "kurum": "VGM",
+    "tanim": "",
+    "birim": "M"
+  },
+  {
+    "id": "V.1259/A",
+    "kurum": "VGM",
+    "tanim": "",
+    "birim": "M"
+  },
+  {
+    "id": "V.1259/B",
+    "kurum": "VGM",
+    "tanim": "",
+    "birim": "M"
+  },
+  {
+    "id": "V.1260/A",
+    "kurum": "VGM",
+    "tanim": "",
+    "birim": "M"
+  },
+  {
+    "id": "V.1260/B",
+    "kurum": "VGM",
+    "tanim": "",
+    "birim": "M"
+  },
+  {
+    "id": "V.1261/A",
+    "kurum": "VGM",
+    "tanim": "",
+    "birim": "M"
+  },
+  {
+    "id": "V.1261/B",
+    "kurum": "VGM",
+    "tanim": "",
+    "birim": "M"
+  },
+  {
+    "id": "V.1262/A",
+    "kurum": "VGM",
+    "tanim": "",
+    "birim": "M"
+  },
+  {
+    "id": "V.1262/B",
+    "kurum": "VGM",
+    "tanim": "",
+    "birim": "M"
+  },
+  {
+    "id": "V.1263/A",
+    "kurum": "VGM",
+    "tanim": "",
+    "birim": "M"
+  },
+  {
+    "id": "V.1263/B",
+    "kurum": "VGM",
+    "tanim": "",
+    "birim": "M"
+  },
+  {
+    "id": "V.1264/A",
+    "kurum": "VGM",
+    "tanim": "",
+    "birim": "M"
+  },
+  {
+    "id": "V.1264/B",
+    "kurum": "VGM",
+    "tanim": "",
+    "birim": "M"
+  },
+  {
+    "id": "V.1265/A",
+    "kurum": "VGM",
+    "tanim": "",
+    "birim": "M"
+  },
+  {
+    "id": "V.1265/B",
+    "kurum": "VGM",
+    "tanim": "",
+    "birim": "M"
+  },
+  {
+    "id": "V.1266/A",
+    "kurum": "VGM",
+    "tanim": "",
+    "birim": "M"
+  },
+  {
+    "id": "V.1266/B",
+    "kurum": "VGM",
+    "tanim": "",
+    "birim": "M"
+  },
+  {
+    "id": "V.1267/A",
+    "kurum": "VGM",
+    "tanim": "",
+    "birim": "M"
+  },
+  {
+    "id": "V.1267/B",
+    "kurum": "VGM",
+    "tanim": "",
+    "birim": "M"
+  },
+  {
+    "id": "V.1268/A",
+    "kurum": "VGM",
+    "tanim": "",
+    "birim": "M"
+  },
+  {
+    "id": "V.1268/B",
+    "kurum": "VGM",
+    "tanim": "",
+    "birim": "M"
+  },
+  {
+    "id": "V.1269/A",
+    "kurum": "VGM",
+    "tanim": "",
+    "birim": "M"
+  },
+  {
+    "id": "V.1269/B",
+    "kurum": "VGM",
+    "tanim": "",
+    "birim": "M"
+  },
+  {
+    "id": "V.1270/A",
+    "kurum": "VGM",
+    "tanim": "",
+    "birim": "M"
+  },
+  {
+    "id": "V.1270/B",
+    "kurum": "VGM",
+    "tanim": "",
+    "birim": "M"
+  },
+  {
+    "id": "V.1271/A",
+    "kurum": "VGM",
+    "tanim": "",
+    "birim": "M"
+  },
+  {
+    "id": "V.1271/B",
+    "kurum": "VGM",
+    "tanim": "",
+    "birim": "M"
+  },
+  {
+    "id": "V.1272/A",
+    "kurum": "VGM",
+    "tanim": "",
+    "birim": "M"
+  },
+  {
+    "id": "V.1272/B",
+    "kurum": "VGM",
+    "tanim": "",
+    "birim": "M"
+  },
+  {
+    "id": "V.1273/A",
+    "kurum": "VGM",
+    "tanim": "",
+    "birim": "M"
+  },
+  {
+    "id": "V.1273/B",
+    "kurum": "VGM",
+    "tanim": "",
+    "birim": "M"
+  },
+  {
+    "id": "V.1274/A",
+    "kurum": "VGM",
+    "tanim": "",
+    "birim": "M"
+  },
+  {
+    "id": "V.1274/B",
+    "kurum": "VGM",
+    "tanim": "",
+    "birim": "M"
+  },
+  {
+    "id": "V.1275/A",
+    "kurum": "VGM",
+    "tanim": "",
+    "birim": "M"
+  },
+  {
+    "id": "V.1275/B",
+    "kurum": "VGM",
+    "tanim": "",
+    "birim": "M"
+  },
+  {
+    "id": "V.1276/A",
+    "kurum": "VGM",
+    "tanim": "",
+    "birim": "M"
+  },
+  {
+    "id": "V.1276/B",
+    "kurum": "VGM",
+    "tanim": "",
+    "birim": "M"
+  },
+  {
+    "id": "V.1300/A",
+    "kurum": "VGM",
+    "tanim": "",
+    "birim": "M"
+  },
+  {
+    "id": "V.1300/B",
+    "kurum": "VGM",
+    "tanim": "",
+    "birim": "M"
+  },
+  {
+    "id": "V.1301/A",
+    "kurum": "VGM",
+    "tanim": "",
+    "birim": "M"
+  },
+  {
+    "id": "V.1301/B",
+    "kurum": "VGM",
+    "tanim": "",
+    "birim": "M"
+  },
+  {
+    "id": "V.1302/A",
+    "kurum": "VGM",
+    "tanim": "",
+    "birim": "M"
+  },
+  {
+    "id": "V.1302/B",
+    "kurum": "VGM",
+    "tanim": "",
+    "birim": "M"
+  },
+  {
+    "id": "V.1303/A",
+    "kurum": "VGM",
+    "tanim": "",
+    "birim": "M"
+  },
+  {
+    "id": "V.1303/B",
+    "kurum": "VGM",
+    "tanim": "",
+    "birim": "M"
+  },
+  {
+    "id": "V.1304/A",
+    "kurum": "VGM",
+    "tanim": "",
+    "birim": "M"
+  },
+  {
+    "id": "V.1304/B",
+    "kurum": "VGM",
+    "tanim": "",
+    "birim": "M"
+  },
+  {
+    "id": "V.1305/A",
+    "kurum": "VGM",
+    "tanim": "",
+    "birim": "M"
+  },
+  {
+    "id": "V.1305/B",
+    "kurum": "VGM",
+    "tanim": "",
+    "birim": "M"
+  },
+  {
+    "id": "V.1306/A",
+    "kurum": "VGM",
+    "tanim": "",
+    "birim": "M"
+  },
+  {
+    "id": "V.1306/B",
+    "kurum": "VGM",
+    "tanim": "",
+    "birim": "M"
+  },
+  {
+    "id": "V.1307/A",
+    "kurum": "VGM",
+    "tanim": "",
+    "birim": "M"
+  },
+  {
+    "id": "V.1307/B",
+    "kurum": "VGM",
+    "tanim": "",
+    "birim": "M"
+  },
+  {
+    "id": "V.1308/1",
+    "kurum": "VGM",
+    "tanim": "",
+    "birim": "M"
+  },
+  {
+    "id": "V.1308/2",
+    "kurum": "VGM",
+    "tanim": "",
+    "birim": "M"
+  },
+  {
+    "id": "V.1308/A",
+    "kurum": "VGM",
+    "tanim": "",
+    "birim": "M"
+  },
+  {
+    "id": "V.1308/A1",
+    "kurum": "VGM",
+    "tanim": "",
+    "birim": "M"
+  },
+  {
+    "id": "V.1308/A2",
+    "kurum": "VGM",
+    "tanim": "",
+    "birim": "M"
+  },
+  {
+    "id": "V.1309/1",
+    "kurum": "VGM",
+    "tanim": "",
+    "birim": "M"
+  },
+  {
+    "id": "V.1309/2",
+    "kurum": "VGM",
+    "tanim": "",
+    "birim": "M"
+  },
+  {
+    "id": "V.1309/A",
+    "kurum": "VGM",
+    "tanim": "",
+    "birim": "M"
+  },
+  {
+    "id": "V.1309/A1",
+    "kurum": "VGM",
+    "tanim": "",
+    "birim": "M"
+  },
+  {
+    "id": "V.1309/A2",
+    "kurum": "VGM",
+    "tanim": "",
+    "birim": "M"
+  },
+  {
+    "id": "V.1310/A",
+    "kurum": "VGM",
+    "tanim": "",
+    "birim": "M"
+  },
+  {
+    "id": "V.1310/B",
+    "kurum": "VGM",
+    "tanim": "",
+    "birim": "M"
+  },
+  {
+    "id": "V.1311/A",
+    "kurum": "VGM",
+    "tanim": "",
+    "birim": "M"
+  },
+  {
+    "id": "V.1311/B",
+    "kurum": "VGM",
+    "tanim": "",
+    "birim": "M"
+  },
+  {
+    "id": "V.1313/A",
+    "kurum": "VGM",
+    "tanim": "",
+    "birim": "M"
+  },
+  {
+    "id": "V.1314/A",
+    "kurum": "VGM",
+    "tanim": "",
+    "birim": "M"
+  },
+  {
+    "id": "V.1314/B",
+    "kurum": "VGM",
+    "tanim": "",
+    "birim": "M"
+  },
+  {
+    "id": "V.1316/001",
+    "kurum": "VGM",
+    "tanim": "",
+    "birim": "mmxm"
+  },
+  {
+    "id": "V.1316/002",
+    "kurum": "VGM",
+    "tanim": "",
+    "birim": "mmxm"
+  },
+  {
+    "id": "V.1320/01",
+    "kurum": "VGM",
+    "tanim": "",
+    "birim": "mmxm"
+  },
+  {
+    "id": "V.1320/02",
+    "kurum": "VGM",
+    "tanim": "",
+    "birim": "mmxm"
+  },
+  {
+    "id": "V.1329/001",
+    "kurum": "VGM",
+    "tanim": "",
+    "birim": "M²"
+  },
+  {
+    "id": "V.1330/02",
+    "kurum": "VGM",
+    "tanim": "",
+    "birim": "M²"
+  },
+  {
+    "id": "V.1330/03",
+    "kurum": "VGM",
+    "tanim": "",
+    "birim": "M²"
+  },
+  {
+    "id": "V.1330/A",
+    "kurum": "VGM",
+    "tanim": "",
+    "birim": "M²"
+  },
+  {
+    "id": "V.1330/B",
+    "kurum": "VGM",
+    "tanim": "",
+    "birim": "M²"
+  },
+  {
+    "id": "V.1331/A",
+    "kurum": "VGM",
+    "tanim": "",
+    "birim": "M²"
+  },
+  {
+    "id": "V.1331/B",
+    "kurum": "VGM",
+    "tanim": "",
+    "birim": "M²"
+  },
+  {
+    "id": "V.1332/A",
+    "kurum": "VGM",
+    "tanim": "",
+    "birim": "M²"
+  },
+  {
+    "id": "V.1332/B",
+    "kurum": "VGM",
+    "tanim": "",
+    "birim": "M²"
+  },
+  {
+    "id": "V.1333/1",
+    "kurum": "VGM",
+    "tanim": "",
+    "birim": "M²"
+  },
+  {
+    "id": "V.1333/2",
+    "kurum": "VGM",
+    "tanim": "",
+    "birim": "M²"
+  },
+  {
+    "id": "V.1333/A",
+    "kurum": "VGM",
+    "tanim": "",
+    "birim": "M²"
+  },
+  {
+    "id": "V.1333/A1",
+    "kurum": "VGM",
+    "tanim": "",
+    "birim": "M²"
+  },
+  {
+    "id": "V.1333/A2",
+    "kurum": "VGM",
+    "tanim": "",
+    "birim": "M²"
+  },
+  {
+    "id": "V.1334/A",
+    "kurum": "VGM",
+    "tanim": "",
+    "birim": "M²"
+  },
+  {
+    "id": "V.1334/B",
+    "kurum": "VGM",
+    "tanim": "",
+    "birim": "M²"
+  },
+  {
+    "id": "V.1335/A",
+    "kurum": "VGM",
+    "tanim": "",
+    "birim": "M²"
+  },
+  {
+    "id": "V.1335/B",
+    "kurum": "VGM",
+    "tanim": "",
+    "birim": "M²"
+  },
+  {
+    "id": "V.1336/A",
+    "kurum": "VGM",
+    "tanim": "",
+    "birim": "M²"
+  },
+  {
+    "id": "V.1336/B",
+    "kurum": "VGM",
+    "tanim": "",
+    "birim": "M²"
+  },
+  {
+    "id": "V.1337/A",
+    "kurum": "VGM",
+    "tanim": "",
+    "birim": "M²"
+  },
+  {
+    "id": "V.1337/B",
+    "kurum": "VGM",
+    "tanim": "",
+    "birim": "M²"
+  },
+  {
+    "id": "V.1338/1",
+    "kurum": "VGM",
+    "tanim": "",
+    "birim": "M²"
+  },
+  {
+    "id": "V.1338/2",
+    "kurum": "VGM",
+    "tanim": "",
+    "birim": "M²"
+  },
+  {
+    "id": "V.1338/A",
+    "kurum": "VGM",
+    "tanim": "",
+    "birim": "M²"
+  },
+  {
+    "id": "V.1338/A1",
+    "kurum": "VGM",
+    "tanim": "",
+    "birim": "M²"
+  },
+  {
+    "id": "V.1338/A2",
+    "kurum": "VGM",
+    "tanim": "",
+    "birim": "M²"
+  },
+  {
+    "id": "V.1339/1",
+    "kurum": "VGM",
+    "tanim": "",
+    "birim": "M²"
+  },
+  {
+    "id": "V.1339/2",
+    "kurum": "VGM",
+    "tanim": "",
+    "birim": "M²"
+  },
+  {
+    "id": "V.1339/A",
+    "kurum": "VGM",
+    "tanim": "",
+    "birim": "M²"
+  },
+  {
+    "id": "V.1339/A1",
+    "kurum": "VGM",
+    "tanim": "",
+    "birim": "M²"
+  },
+  {
+    "id": "V.1339/A2",
+    "kurum": "VGM",
+    "tanim": "",
+    "birim": "M²"
+  },
+  {
+    "id": "V.1340/1",
+    "kurum": "VGM",
+    "tanim": "",
+    "birim": "M²"
+  },
+  {
+    "id": "V.1340/2",
+    "kurum": "VGM",
+    "tanim": "",
+    "birim": "M²"
+  },
+  {
+    "id": "V.1340/A1",
+    "kurum": "VGM",
+    "tanim": "",
+    "birim": "M²"
+  },
+  {
+    "id": "V.1340/A2",
+    "kurum": "VGM",
+    "tanim": "",
+    "birim": "M²"
+  },
+  {
+    "id": "V.1341/1",
+    "kurum": "VGM",
+    "tanim": "",
+    "birim": "M²"
+  },
+  {
+    "id": "V.1341/2",
+    "kurum": "VGM",
+    "tanim": "",
+    "birim": "M²"
+  },
+  {
+    "id": "V.1341/A",
+    "kurum": "VGM",
+    "tanim": "",
+    "birim": "M²"
+  },
+  {
+    "id": "V.1341/A1",
+    "kurum": "VGM",
+    "tanim": "",
+    "birim": "M²"
+  },
+  {
+    "id": "V.1341/A2",
+    "kurum": "VGM",
+    "tanim": "",
+    "birim": "M²"
+  },
+  {
+    "id": "V.1342/A",
+    "kurum": "VGM",
+    "tanim": "",
+    "birim": "M²"
+  },
+  {
+    "id": "V.1342/B",
+    "kurum": "VGM",
+    "tanim": "",
+    "birim": "M²"
+  },
+  {
+    "id": "V.1344/A",
+    "kurum": "VGM",
+    "tanim": "",
+    "birim": "M²"
+  },
+  {
+    "id": "V.1344/B",
+    "kurum": "VGM",
+    "tanim": "",
+    "birim": "M²"
+  },
+  {
+    "id": "V.1345/A",
+    "kurum": "VGM",
+    "tanim": "",
+    "birim": "M²"
+  },
+  {
+    "id": "V.1345/B",
+    "kurum": "VGM",
+    "tanim": "",
+    "birim": "M²"
+  },
+  {
+    "id": "V.1346/A",
+    "kurum": "VGM",
+    "tanim": "",
+    "birim": "M²"
+  },
+  {
+    "id": "V.1346/B",
+    "kurum": "VGM",
+    "tanim": "",
+    "birim": "M²"
+  },
+  {
+    "id": "V.1347/A",
+    "kurum": "VGM",
+    "tanim": "",
+    "birim": "M²"
+  },
+  {
+    "id": "V.1347/B",
+    "kurum": "VGM",
+    "tanim": "",
+    "birim": "M²"
+  },
+  {
+    "id": "V.1348/A",
+    "kurum": "VGM",
+    "tanim": "",
+    "birim": "M²"
+  },
+  {
+    "id": "V.1348/B",
+    "kurum": "VGM",
+    "tanim": "",
+    "birim": "M²"
+  },
+  {
+    "id": "V.1349/1",
+    "kurum": "VGM",
+    "tanim": "",
+    "birim": "M²"
+  },
+  {
+    "id": "V.1349/2",
+    "kurum": "VGM",
+    "tanim": "",
+    "birim": "M²"
+  },
+  {
+    "id": "V.1349/A02",
+    "kurum": "VGM",
+    "tanim": "",
+    "birim": "M²"
+  },
+  {
+    "id": "V.1349/A03",
+    "kurum": "VGM",
+    "tanim": "",
+    "birim": "M²"
+  },
+  {
+    "id": "V.1375/A",
+    "kurum": "VGM",
+    "tanim": "",
+    "birim": "M²"
+  },
+  {
+    "id": "V.1375/B",
+    "kurum": "VGM",
+    "tanim": "",
+    "birim": "M²"
+  },
+  {
+    "id": "V.1376/A",
+    "kurum": "VGM",
+    "tanim": "",
+    "birim": "M²"
+  },
+  {
+    "id": "V.1376/B",
+    "kurum": "VGM",
+    "tanim": "",
+    "birim": "M²"
+  },
+  {
+    "id": "V.1377/1",
+    "kurum": "VGM",
+    "tanim": "",
+    "birim": "M"
+  },
+  {
+    "id": "V.1377/2",
+    "kurum": "VGM",
+    "tanim": "",
+    "birim": "M"
+  },
+  {
+    "id": "V.1377/A1",
+    "kurum": "VGM",
+    "tanim": "",
+    "birim": "M"
+  },
+  {
+    "id": "V.1377/A2",
+    "kurum": "VGM",
+    "tanim": "",
+    "birim": "M"
+  },
+  {
+    "id": "V.1377/B1",
+    "kurum": "VGM",
+    "tanim": "",
+    "birim": "M"
+  },
+  {
+    "id": "V.1377/B2",
+    "kurum": "VGM",
+    "tanim": "",
+    "birim": "M"
+  },
+  {
+    "id": "V.1378/1",
+    "kurum": "VGM",
+    "tanim": "",
+    "birim": "M"
+  },
+  {
+    "id": "V.1378/2",
+    "kurum": "VGM",
+    "tanim": "",
+    "birim": "M"
+  },
+  {
+    "id": "V.1378/A1",
+    "kurum": "VGM",
+    "tanim": "",
+    "birim": "M"
+  },
+  {
+    "id": "V.1378/A2",
+    "kurum": "VGM",
+    "tanim": "",
+    "birim": "M"
+  },
+  {
+    "id": "V.1378/B1",
+    "kurum": "VGM",
+    "tanim": "",
+    "birim": "M"
+  },
+  {
+    "id": "V.1378/B2",
+    "kurum": "VGM",
+    "tanim": "",
+    "birim": "M"
+  },
+  {
+    "id": "V.1379/1",
+    "kurum": "VGM",
+    "tanim": "",
+    "birim": "M"
+  },
+  {
+    "id": "V.1379/A1",
+    "kurum": "VGM",
+    "tanim": "",
+    "birim": "M"
+  },
+  {
+    "id": "V.1379/B1",
+    "kurum": "VGM",
+    "tanim": "",
+    "birim": "M"
+  },
+  {
+    "id": "V.1380/A",
+    "kurum": "VGM",
+    "tanim": "",
+    "birim": "AD"
+  },
+  {
+    "id": "V.1380/B",
+    "kurum": "VGM",
+    "tanim": "",
+    "birim": "AD"
+  },
+  {
+    "id": "V.1380/C",
+    "kurum": "VGM",
+    "tanim": "",
+    "birim": "AD"
+  },
+  {
+    "id": "V.1380/D",
+    "kurum": "VGM",
+    "tanim": "",
+    "birim": "AD"
+  },
+  {
+    "id": "V.1380/E",
+    "kurum": "VGM",
+    "tanim": "",
+    "birim": "AD"
+  },
+  {
+    "id": "V.1381/1",
+    "kurum": "VGM",
+    "tanim": "",
+    "birim": "M²"
+  },
+  {
+    "id": "V.1381/2",
+    "kurum": "VGM",
+    "tanim": "",
+    "birim": "M²"
+  },
+  {
+    "id": "V.1381/A",
+    "kurum": "VGM",
+    "tanim": "",
+    "birim": "M²"
+  },
+  {
+    "id": "V.1381/A1",
+    "kurum": "VGM",
+    "tanim": "",
+    "birim": "M²"
+  },
+  {
+    "id": "V.1381/A2",
+    "kurum": "VGM",
+    "tanim": "",
+    "birim": "M²"
+  },
+  {
+    "id": "V.1383/A",
+    "kurum": "VGM",
+    "tanim": "",
+    "birim": "M²"
+  },
+  {
+    "id": "V.1383/B",
+    "kurum": "VGM",
+    "tanim": "",
+    "birim": "M²"
+  },
+  {
+    "id": "V.1384/A",
+    "kurum": "VGM",
+    "tanim": "",
+    "birim": "M²"
+  },
+  {
+    "id": "V.1384/B",
+    "kurum": "VGM",
+    "tanim": "",
+    "birim": "M²"
+  },
+  {
+    "id": "V.1385/A",
+    "kurum": "VGM",
+    "tanim": "",
+    "birim": "M²"
+  },
+  {
+    "id": "V.1385/B",
+    "kurum": "VGM",
+    "tanim": "",
+    "birim": "M²"
+  },
+  {
+    "id": "V.1386/A",
+    "kurum": "VGM",
+    "tanim": "",
+    "birim": "M²"
+  },
+  {
+    "id": "V.1386/B",
+    "kurum": "VGM",
+    "tanim": "",
+    "birim": "M²"
+  },
+  {
+    "id": "V.1387/A",
+    "kurum": "VGM",
+    "tanim": "",
+    "birim": "M²"
+  },
+  {
+    "id": "V.1387/B",
+    "kurum": "VGM",
+    "tanim": "",
+    "birim": "M²"
+  },
+  {
+    "id": "V.1400/A",
+    "kurum": "VGM",
+    "tanim": "",
+    "birim": "M²"
+  },
+  {
+    "id": "V.1400/B",
+    "kurum": "VGM",
+    "tanim": "",
+    "birim": "M²"
+  },
+  {
+    "id": "V.1401/A",
+    "kurum": "VGM",
+    "tanim": "",
+    "birim": "M²"
+  },
+  {
+    "id": "V.1401/B",
+    "kurum": "VGM",
+    "tanim": "",
+    "birim": "M²"
+  },
+  {
+    "id": "V.1430/01",
+    "kurum": "VGM",
+    "tanim": "",
+    "birim": "M²"
+  },
+  {
+    "id": "V.1430/02",
+    "kurum": "VGM",
+    "tanim": "",
+    "birim": "M²"
+  },
+  {
+    "id": "V.1430/03",
+    "kurum": "VGM",
+    "tanim": "",
+    "birim": "M²"
+  },
+  {
+    "id": "V.1430/04",
+    "kurum": "VGM",
+    "tanim": "",
+    "birim": "M²"
+  },
+  {
+    "id": "V.1430/B01",
+    "kurum": "VGM",
+    "tanim": "",
+    "birim": "M²"
+  },
+  {
+    "id": "V.1430/B02",
+    "kurum": "VGM",
+    "tanim": "",
+    "birim": "M²"
+  },
+  {
+    "id": "V.1430/B03",
+    "kurum": "VGM",
+    "tanim": "",
+    "birim": "M²"
+  },
+  {
+    "id": "V.1430/B04",
+    "kurum": "VGM",
+    "tanim": "",
+    "birim": "M²"
+  },
+  {
+    "id": "V.1431/01",
+    "kurum": "VGM",
+    "tanim": "",
+    "birim": "M²"
+  },
+  {
+    "id": "V.1431/B01",
+    "kurum": "VGM",
+    "tanim": "",
+    "birim": "M²"
+  },
+  {
+    "id": "V.1432/01",
+    "kurum": "VGM",
+    "tanim": "",
+    "birim": "M²"
+  },
+  {
+    "id": "V.1432/B01",
+    "kurum": "VGM",
+    "tanim": "",
+    "birim": "M²"
+  },
+  {
+    "id": "V.1433/01",
+    "kurum": "VGM",
+    "tanim": "",
+    "birim": "M²"
+  },
+  {
+    "id": "V.1433/B01",
+    "kurum": "VGM",
+    "tanim": "",
+    "birim": "M²"
+  },
+  {
+    "id": "V.1435/1",
+    "kurum": "VGM",
+    "tanim": "",
+    "birim": "M²"
+  },
+  {
+    "id": "V.1435/A1",
+    "kurum": "VGM",
+    "tanim": "",
+    "birim": "M²"
+  },
+  {
+    "id": "V.1436/A",
+    "kurum": "VGM",
+    "tanim": "",
+    "birim": "M²"
+  },
+  {
+    "id": "V.1437/A",
+    "kurum": "VGM",
+    "tanim": "",
+    "birim": "M²"
+  },
+  {
+    "id": "V.1438/A",
+    "kurum": "VGM",
+    "tanim": "",
+    "birim": "M²"
+  },
+  {
+    "id": "V.1439/A",
+    "kurum": "VGM",
+    "tanim": "",
+    "birim": "M²"
+  },
+  {
+    "id": "V.1440/A",
+    "kurum": "VGM",
+    "tanim": "",
+    "birim": "M²"
+  },
+  {
+    "id": "V.1441/A",
+    "kurum": "VGM",
+    "tanim": "",
+    "birim": "M²"
+  },
+  {
+    "id": "V.1442/A",
+    "kurum": "VGM",
+    "tanim": "",
+    "birim": "M²"
+  },
+  {
+    "id": "V.1478/A",
+    "kurum": "VGM",
+    "tanim": "",
+    "birim": "M²"
+  },
+  {
+    "id": "V.1479/A",
+    "kurum": "VGM",
+    "tanim": "",
+    "birim": "M²"
+  },
+  {
+    "id": "V.1500/A",
+    "kurum": "VGM",
+    "tanim": "",
+    "birim": "M²"
+  },
+  {
+    "id": "V.1500/A01",
+    "kurum": "VGM",
+    "tanim": "",
+    "birim": "M²"
+  },
+  {
+    "id": "V.1501/A",
+    "kurum": "VGM",
+    "tanim": "",
+    "birim": "M²"
+  },
+  {
+    "id": "V.1502/A",
+    "kurum": "VGM",
+    "tanim": "",
+    "birim": "M²"
+  },
+  {
+    "id": "V.1503/A",
+    "kurum": "VGM",
+    "tanim": "",
+    "birim": "M²"
+  },
+  {
+    "id": "V.1504/A",
+    "kurum": "VGM",
+    "tanim": "",
+    "birim": "M²"
+  },
+  {
+    "id": "V.1505/A",
+    "kurum": "VGM",
+    "tanim": "",
+    "birim": "M²"
+  },
+  {
+    "id": "V.1506/A",
+    "kurum": "VGM",
+    "tanim": "",
+    "birim": "M²"
+  },
+  {
+    "id": "V.1507/A",
+    "kurum": "VGM",
+    "tanim": "",
+    "birim": "AD"
+  },
+  {
+    "id": "V.1508/A",
+    "kurum": "VGM",
+    "tanim": "",
+    "birim": "AD"
+  },
+  {
+    "id": "V.1509/A",
+    "kurum": "VGM",
+    "tanim": "",
+    "birim": "AD"
+  },
+  {
+    "id": "V.1530/A",
+    "kurum": "VGM",
+    "tanim": "",
+    "birim": "M"
+  },
+  {
+    "id": "V.1531/A",
+    "kurum": "VGM",
+    "tanim": "",
+    "birim": "M"
+  },
+  {
+    "id": "V.0232/01A-V.0232/02A-V.0232/03A",
+    "kurum": "VGM",
+    "tanim": "",
+    "birim": "pozundan ödenir."
+  },
+  {
+    "id": "V.0229/A01-V.0229/A02-V.0229/A03",
+    "kurum": "VGM",
+    "tanim": "",
+    "birim": "pozundan ödenir."
+  },
+  {
+    "id": "V.1532/A",
+    "kurum": "VGM",
+    "tanim": "",
+    "birim": "M"
+  },
+  {
+    "id": "V.1533/A",
+    "kurum": "VGM",
+    "tanim": "",
+    "birim": "M"
+  },
+  {
+    "id": "V.1534/A",
+    "kurum": "VGM",
+    "tanim": "",
+    "birim": "M"
+  },
+  {
+    "id": "V.1535/A",
+    "kurum": "VGM",
+    "tanim": "",
+    "birim": "M"
+  },
+  {
+    "id": "V.1536/A",
+    "kurum": "VGM",
+    "tanim": "",
+    "birim": "M"
+  },
+  {
+    "id": "V.1537/A",
+    "kurum": "VGM",
+    "tanim": "",
+    "birim": "M"
+  },
+  {
+    "id": "V.1538/A",
+    "kurum": "VGM",
+    "tanim": "",
+    "birim": "M"
+  },
+  {
+    "id": "V.1539/A",
+    "kurum": "VGM",
+    "tanim": "",
+    "birim": "M"
+  },
+  {
+    "id": "V.1540/A",
+    "kurum": "VGM",
+    "tanim": "",
+    "birim": "M"
+  },
+  {
+    "id": "V.1541/A",
+    "kurum": "VGM",
+    "tanim": "",
+    "birim": "M"
+  },
+  {
+    "id": "V.1542/A",
+    "kurum": "VGM",
+    "tanim": "",
+    "birim": "M"
+  },
+  {
+    "id": "V.1543/A",
+    "kurum": "VGM",
+    "tanim": "",
+    "birim": "M"
+  },
+  {
+    "id": "V.1544/A",
+    "kurum": "VGM",
+    "tanim": "",
+    "birim": "M"
+  },
+  {
+    "id": "V.1545/A",
+    "kurum": "VGM",
+    "tanim": "",
+    "birim": "M"
+  },
+  {
+    "id": "V.1546/A",
+    "kurum": "VGM",
+    "tanim": "",
+    "birim": "M"
+  },
+  {
+    "id": "V.1547/A",
+    "kurum": "VGM",
+    "tanim": "",
+    "birim": "M"
+  },
+  {
+    "id": "V.1548/A",
+    "kurum": "VGM",
+    "tanim": "",
+    "birim": "M"
+  },
+  {
+    "id": "V.1549/A",
+    "kurum": "VGM",
+    "tanim": "",
+    "birim": "M"
+  },
+  {
+    "id": "V.1550/A",
+    "kurum": "VGM",
+    "tanim": "",
+    "birim": "M"
+  },
+  {
+    "id": "V.1551/A",
+    "kurum": "VGM",
+    "tanim": "",
+    "birim": "M"
+  },
+  {
+    "id": "V.1552/A",
+    "kurum": "VGM",
+    "tanim": "",
+    "birim": "M"
+  },
+  {
+    "id": "V.1553/A",
+    "kurum": "VGM",
+    "tanim": "",
+    "birim": "M"
+  },
+  {
+    "id": "V.1554/A",
+    "kurum": "VGM",
+    "tanim": "",
+    "birim": "M"
+  },
+  {
+    "id": "V.1555/A",
+    "kurum": "VGM",
+    "tanim": "",
+    "birim": "M"
+  },
+  {
+    "id": "V.1556/A",
+    "kurum": "VGM",
+    "tanim": "",
+    "birim": "M"
+  },
+  {
+    "id": "V.1570/A",
+    "kurum": "VGM",
+    "tanim": "",
+    "birim": "M"
+  },
+  {
+    "id": "V.1571/A",
+    "kurum": "VGM",
+    "tanim": "",
+    "birim": "M"
+  },
+  {
+    "id": "V.1572/A",
+    "kurum": "VGM",
+    "tanim": "",
+    "birim": "M"
+  },
+  {
+    "id": "V.1573/A",
+    "kurum": "VGM",
+    "tanim": "",
+    "birim": "M"
+  },
+  {
+    "id": "V.1574/A",
+    "kurum": "VGM",
+    "tanim": "",
+    "birim": "M"
+  },
+  {
+    "id": "V.1575/A",
+    "kurum": "VGM",
+    "tanim": "",
+    "birim": "M"
+  },
+  {
+    "id": "V.1576/A",
+    "kurum": "VGM",
+    "tanim": "",
+    "birim": "M"
+  },
+  {
+    "id": "V.1577/A",
+    "kurum": "VGM",
+    "tanim": "",
+    "birim": "M"
+  },
+  {
+    "id": "V.1578/A",
+    "kurum": "VGM",
+    "tanim": "",
+    "birim": "M"
+  },
+  {
+    "id": "V.1579/A",
+    "kurum": "VGM",
+    "tanim": "",
+    "birim": "M"
+  },
+  {
+    "id": "V.1580/A",
+    "kurum": "VGM",
+    "tanim": "",
+    "birim": "M"
+  },
+  {
+    "id": "V.1581/A",
+    "kurum": "VGM",
+    "tanim": "",
+    "birim": "M"
+  },
+  {
+    "id": "V.1600/1",
+    "kurum": "VGM",
+    "tanim": "",
+    "birim": "M²"
+  },
+  {
+    "id": "V.1600/A1",
+    "kurum": "VGM",
+    "tanim": "",
+    "birim": "M²"
+  },
+  {
+    "id": "V.1601/A",
+    "kurum": "VGM",
+    "tanim": "",
+    "birim": "M"
+  },
+  {
+    "id": "V.1603/A",
+    "kurum": "VGM",
+    "tanim": "",
+    "birim": "M"
+  },
+  {
+    "id": "V.1604/A",
+    "kurum": "VGM",
+    "tanim": "",
+    "birim": "M²"
+  },
+  {
+    "id": "V.1605/A",
+    "kurum": "VGM",
+    "tanim": "",
+    "birim": "M²"
+  },
+  {
+    "id": "V.1606/A",
+    "kurum": "VGM",
+    "tanim": "",
+    "birim": "M²"
+  },
+  {
+    "id": "V.1607/A",
+    "kurum": "VGM",
+    "tanim": "",
+    "birim": "M²"
+  },
+  {
+    "id": "V.1608/1",
+    "kurum": "VGM",
+    "tanim": "",
+    "birim": "M²"
+  },
+  {
+    "id": "V.1608/A",
+    "kurum": "VGM",
+    "tanim": "",
+    "birim": "M²"
+  },
+  {
+    "id": "V.1608/A1",
+    "kurum": "VGM",
+    "tanim": "",
+    "birim": "M²"
+  },
+  {
+    "id": "V.1609/1",
+    "kurum": "VGM",
+    "tanim": "",
+    "birim": "M²"
+  },
+  {
+    "id": "V.1609/A",
+    "kurum": "VGM",
+    "tanim": "",
+    "birim": "M²"
+  },
+  {
+    "id": "V.1609/A1",
+    "kurum": "VGM",
+    "tanim": "",
+    "birim": "M²"
+  },
+  {
+    "id": "V.1610/A",
+    "kurum": "VGM",
+    "tanim": "",
+    "birim": "AD"
+  },
+  {
+    "id": "V.1611/A",
+    "kurum": "VGM",
+    "tanim": "",
+    "birim": "M"
+  },
+  {
+    "id": "V.1612/A",
+    "kurum": "VGM",
+    "tanim": "",
+    "birim": "M"
+  },
+  {
+    "id": "V.1613/A",
+    "kurum": "VGM",
+    "tanim": "",
+    "birim": "AD"
+  },
+  {
+    "id": "V.1625/A",
+    "kurum": "VGM",
+    "tanim": "",
+    "birim": "M²"
+  },
+  {
+    "id": "V.1626/A",
+    "kurum": "VGM",
+    "tanim": "",
+    "birim": "M²"
+  },
+  {
+    "id": "V.1646/01",
+    "kurum": "VGM",
+    "tanim": "",
+    "birim": "M"
+  },
+  {
+    "id": "V.1646/05A",
+    "kurum": "VGM",
+    "tanim": "",
+    "birim": "M"
+  },
+  {
+    "id": "V.1646/05B",
+    "kurum": "VGM",
+    "tanim": "",
+    "birim": "M"
+  },
+  {
+    "id": "V.1646/06",
+    "kurum": "VGM",
+    "tanim": "",
+    "birim": "M"
+  },
+  {
+    "id": "V.1660/C02",
+    "kurum": "VGM",
+    "tanim": "",
+    "birim": "M²"
+  },
+  {
+    "id": "V.1660/C05",
+    "kurum": "VGM",
+    "tanim": "",
+    "birim": "M²"
+  },
+  {
+    "id": "V.1660/D02",
+    "kurum": "VGM",
+    "tanim": "",
+    "birim": "M²"
+  },
+  {
+    "id": "V.1660/D04",
+    "kurum": "VGM",
+    "tanim": "",
+    "birim": "M²"
+  },
+  {
+    "id": "V.1660/D05",
+    "kurum": "VGM",
+    "tanim": "",
+    "birim": "M²"
+  },
+  {
+    "id": "V.1660/E02",
+    "kurum": "VGM",
+    "tanim": "",
+    "birim": "M²"
+  },
+  {
+    "id": "V.1660/E05",
+    "kurum": "VGM",
+    "tanim": "",
+    "birim": "M²"
+  },
+  {
+    "id": "V.1660/G02",
+    "kurum": "VGM",
+    "tanim": "",
+    "birim": "M²"
+  },
+  {
+    "id": "V.1660/G05",
+    "kurum": "VGM",
+    "tanim": "",
+    "birim": "M²"
+  },
+  {
+    "id": "V.1660/H01",
+    "kurum": "VGM",
+    "tanim": "",
+    "birim": "M²"
+  },
+  {
+    "id": "V.1660/H02",
+    "kurum": "VGM",
+    "tanim": "",
+    "birim": "M²"
+  },
+  {
+    "id": "V.1660/H04",
+    "kurum": "VGM",
+    "tanim": "",
+    "birim": "M²"
+  },
+  {
+    "id": "V.1660/H05",
+    "kurum": "VGM",
+    "tanim": "",
+    "birim": "M²"
+  },
+  {
+    "id": "V.1660/I01",
+    "kurum": "VGM",
+    "tanim": "",
+    "birim": "M²"
+  },
+  {
+    "id": "V.1660/I02",
+    "kurum": "VGM",
+    "tanim": "",
+    "birim": "M²"
+  },
+  {
+    "id": "V.1660/I03",
+    "kurum": "VGM",
+    "tanim": "",
+    "birim": "M²"
+  },
+  {
+    "id": "V.1660/I04",
+    "kurum": "VGM",
+    "tanim": "",
+    "birim": "M²"
+  },
+  {
+    "id": "V.1661/1",
+    "kurum": "VGM",
+    "tanim": "",
+    "birim": "M²"
+  },
+  {
+    "id": "V.1661/A",
+    "kurum": "VGM",
+    "tanim": "",
+    "birim": "M²"
+  },
+  {
+    "id": "V.1661/A1",
+    "kurum": "VGM",
+    "tanim": "",
+    "birim": "M²"
+  },
+  {
+    "id": "V.1667/A",
+    "kurum": "VGM",
+    "tanim": "",
+    "birim": "M²"
+  },
+  {
+    "id": "V.1668/A",
+    "kurum": "VGM",
+    "tanim": "",
+    "birim": "M²"
+  },
+  {
+    "id": "V.1692/A",
+    "kurum": "VGM",
+    "tanim": "",
+    "birim": "M²"
+  },
+  {
+    "id": "V.1692/A01",
+    "kurum": "VGM",
+    "tanim": "",
+    "birim": "M²"
+  },
+  {
+    "id": "V.1692/A02",
+    "kurum": "VGM",
+    "tanim": "",
+    "birim": "M²"
+  },
+  {
+    "id": "V.1693/A",
+    "kurum": "VGM",
+    "tanim": "",
+    "birim": "M²"
+  },
+  {
+    "id": "V.1709/A1",
+    "kurum": "VGM",
+    "tanim": "",
+    "birim": "M²"
+  },
+  {
+    "id": "V.1709/A2",
+    "kurum": "VGM",
+    "tanim": "",
+    "birim": "M²"
+  },
+  {
+    "id": "V.1709/A3",
+    "kurum": "VGM",
+    "tanim": "",
+    "birim": "M²"
+  },
+  {
+    "id": "V.1709/B1",
+    "kurum": "VGM",
+    "tanim": "",
+    "birim": "M"
+  },
+  {
+    "id": "V.1709/B2",
+    "kurum": "VGM",
+    "tanim": "",
+    "birim": "M"
+  },
+  {
+    "id": "V.1709/B3",
+    "kurum": "VGM",
+    "tanim": "",
+    "birim": "M"
+  },
+  {
+    "id": "V.1709/B4",
+    "kurum": "VGM",
+    "tanim": "",
+    "birim": "M"
+  },
+  {
+    "id": "V.1709/D2",
+    "kurum": "VGM",
+    "tanim": "",
+    "birim": "MT"
+  },
+  {
+    "id": "V.1709/D3",
+    "kurum": "VGM",
+    "tanim": "",
+    "birim": "MT"
+  },
+  {
+    "id": "V.1709/E2",
+    "kurum": "VGM",
+    "tanim": "",
+    "birim": "MT"
+  },
+  {
+    "id": "V.1709/E3",
+    "kurum": "VGM",
+    "tanim": "",
+    "birim": "MT"
+  },
+  {
+    "id": "V.1710/B",
+    "kurum": "VGM",
+    "tanim": "",
+    "birim": "M²"
+  },
+  {
+    "id": "V.1710/C",
+    "kurum": "VGM",
+    "tanim": "",
+    "birim": "M"
+  },
+  {
+    "id": "V.1710/C1",
+    "kurum": "VGM",
+    "tanim": "",
+    "birim": "M"
+  },
+  {
+    "id": "V.1710/D",
+    "kurum": "VGM",
+    "tanim": "",
+    "birim": "M"
+  },
+  {
+    "id": "V.1712/A2",
+    "kurum": "VGM",
+    "tanim": "",
+    "birim": "M²"
+  },
+  {
+    "id": "V.1712/A20",
+    "kurum": "VGM",
+    "tanim": "",
+    "birim": "M²"
+  },
+  {
+    "id": "V.1712/A2A",
+    "kurum": "VGM",
+    "tanim": "",
+    "birim": "M²"
+  },
+  {
+    "id": "V.1713/A",
+    "kurum": "VGM",
+    "tanim": "",
+    "birim": "M²"
+  },
+  {
+    "id": "V.1713/A1",
+    "kurum": "VGM",
+    "tanim": "",
+    "birim": "M²"
+  },
+  {
+    "id": "V.1713/A2",
+    "kurum": "VGM",
+    "tanim": "",
+    "birim": "M²"
+  },
+  {
+    "id": "V.1713/A3",
+    "kurum": "VGM",
+    "tanim": "",
+    "birim": "M²"
+  },
+  {
+    "id": "V.1714/1",
+    "kurum": "VGM",
+    "tanim": "",
+    "birim": "M"
+  },
+  {
+    "id": "V.1714/2",
+    "kurum": "VGM",
+    "tanim": "",
+    "birim": "M"
+  },
+  {
+    "id": "V.1714/3",
+    "kurum": "VGM",
+    "tanim": "",
+    "birim": "M"
+  },
+  {
+    "id": "V.1715/1",
+    "kurum": "VGM",
+    "tanim": "",
+    "birim": "M"
+  },
+  {
+    "id": "V.1715/2",
+    "kurum": "VGM",
+    "tanim": "",
+    "birim": "M"
+  },
+  {
+    "id": "V.1715/3",
+    "kurum": "VGM",
+    "tanim": "",
+    "birim": "M"
+  },
+  {
+    "id": "V.1716/1",
+    "kurum": "VGM",
+    "tanim": "",
+    "birim": "M"
+  },
+  {
+    "id": "V.1716/2",
+    "kurum": "VGM",
+    "tanim": "",
+    "birim": "M"
+  },
+  {
+    "id": "V.1716/3",
+    "kurum": "VGM",
+    "tanim": "",
+    "birim": "M"
+  },
+  {
+    "id": "V.1717/01",
+    "kurum": "VGM",
+    "tanim": "",
+    "birim": "M"
+  },
+  {
+    "id": "V.1718/01",
+    "kurum": "VGM",
+    "tanim": "",
+    "birim": "M"
+  },
+  {
+    "id": "V.1727/001",
+    "kurum": "VGM",
+    "tanim": "",
+    "birim": "M²"
+  },
+  {
+    "id": "V.1727/002",
+    "kurum": "VGM",
+    "tanim": "",
+    "birim": "M²"
+  },
+  {
+    "id": "V.1727/003",
+    "kurum": "VGM",
+    "tanim": "",
+    "birim": "M²"
+  },
+  {
+    "id": "V.1727/004",
+    "kurum": "VGM",
+    "tanim": "",
+    "birim": "M²"
+  },
+  {
+    "id": "V.1727/A01",
+    "kurum": "VGM",
+    "tanim": "",
+    "birim": "M²"
+  },
+  {
+    "id": "V.1727/A02",
+    "kurum": "VGM",
+    "tanim": "",
+    "birim": "M²"
+  },
+  {
+    "id": "V.1727/A03",
+    "kurum": "VGM",
+    "tanim": "",
+    "birim": "M²"
+  },
+  {
+    "id": "V.1727/A04",
+    "kurum": "VGM",
+    "tanim": "",
+    "birim": "M²"
+  },
+  {
+    "id": "V.1727/B01",
+    "kurum": "VGM",
+    "tanim": "",
+    "birim": "M²"
+  },
+  {
+    "id": "V.1729/003",
+    "kurum": "VGM",
+    "tanim": "",
+    "birim": "M²"
+  },
+  {
+    "id": "V.1729/004",
+    "kurum": "VGM",
+    "tanim": "",
+    "birim": "M²"
+  },
+  {
+    "id": "V.1730/01",
+    "kurum": "VGM",
+    "tanim": "",
+    "birim": "M²"
+  },
+  {
+    "id": "V.1730/01A",
+    "kurum": "VGM",
+    "tanim": "",
+    "birim": "M²"
+  },
+  {
+    "id": "V.1730/02",
+    "kurum": "VGM",
+    "tanim": "",
+    "birim": "M²"
+  },
+  {
+    "id": "V.1730/03",
+    "kurum": "VGM",
+    "tanim": "",
+    "birim": "M²"
+  },
+  {
+    "id": "V.1730/04",
+    "kurum": "VGM",
+    "tanim": "",
+    "birim": "M"
+  },
+  {
+    "id": "V.1730/04A",
+    "kurum": "VGM",
+    "tanim": "",
+    "birim": "M"
+  },
+  {
+    "id": "V.1730/07",
+    "kurum": "VGM",
+    "tanim": "",
+    "birim": "M"
+  },
+  {
+    "id": "V.1730/08",
+    "kurum": "VGM",
+    "tanim": "",
+    "birim": "M"
+  },
+  {
+    "id": "V.1731/4",
+    "kurum": "VGM",
+    "tanim": "",
+    "birim": "M²"
+  },
+  {
+    "id": "V.1731/5",
+    "kurum": "VGM",
+    "tanim": "",
+    "birim": "M²"
+  },
+  {
+    "id": "V.1735/1",
+    "kurum": "VGM",
+    "tanim": "",
+    "birim": "M²"
+  },
+  {
+    "id": "V.1736/01",
+    "kurum": "VGM",
+    "tanim": "",
+    "birim": "M²"
+  },
+  {
+    "id": "V.1736/02",
+    "kurum": "VGM",
+    "tanim": "",
+    "birim": "M²"
+  },
+  {
+    "id": "V.1750/A",
+    "kurum": "VGM",
+    "tanim": "",
+    "birim": "M"
+  },
+  {
+    "id": "V.1750/B",
+    "kurum": "VGM",
+    "tanim": "",
+    "birim": "M"
+  },
+  {
+    "id": "V.1751/001",
+    "kurum": "VGM",
+    "tanim": "",
+    "birim": "M²"
+  },
+  {
+    "id": "V.1751/002",
+    "kurum": "VGM",
+    "tanim": "",
+    "birim": "M²"
+  },
+  {
+    "id": "V.1751/A01",
+    "kurum": "VGM",
+    "tanim": "",
+    "birim": "M²"
+  },
+  {
+    "id": "V.1751/A02",
+    "kurum": "VGM",
+    "tanim": "",
+    "birim": "M²"
+  },
+  {
+    "id": "V.1751/B01",
+    "kurum": "VGM",
+    "tanim": "",
+    "birim": "M²"
+  },
+  {
+    "id": "V.1751/B02",
+    "kurum": "VGM",
+    "tanim": "",
+    "birim": "M²"
+  },
+  {
+    "id": "V.1752/A",
+    "kurum": "VGM",
+    "tanim": "",
+    "birim": "M²"
+  },
+  {
+    "id": "V.1752/B",
+    "kurum": "VGM",
+    "tanim": "",
+    "birim": "M²"
+  },
+  {
+    "id": "V.1753/001",
+    "kurum": "VGM",
+    "tanim": "",
+    "birim": "M²"
+  },
+  {
+    "id": "V.1753/002",
+    "kurum": "VGM",
+    "tanim": "",
+    "birim": "M²"
+  },
+  {
+    "id": "V.1753/A01",
+    "kurum": "VGM",
+    "tanim": "",
+    "birim": "M²"
+  },
+  {
+    "id": "V.1753/A02",
+    "kurum": "VGM",
+    "tanim": "",
+    "birim": "M²"
+  },
+  {
+    "id": "V.1753/B01",
+    "kurum": "VGM",
+    "tanim": "",
+    "birim": "M²"
+  },
+  {
+    "id": "V.1753/B02",
+    "kurum": "VGM",
+    "tanim": "",
+    "birim": "M²"
+  },
+  {
+    "id": "V.1754/001",
+    "kurum": "VGM",
+    "tanim": "",
+    "birim": "M²"
+  },
+  {
+    "id": "V.1754/002",
+    "kurum": "VGM",
+    "tanim": "",
+    "birim": "M²"
+  },
+  {
+    "id": "V.1755/001",
+    "kurum": "VGM",
+    "tanim": "",
+    "birim": "M²"
+  },
+  {
+    "id": "V.1755/002",
+    "kurum": "VGM",
+    "tanim": "",
+    "birim": "M²"
+  },
+  {
+    "id": "V.1755/A01",
+    "kurum": "VGM",
+    "tanim": "",
+    "birim": "M²"
+  },
+  {
+    "id": "V.1755/A02",
+    "kurum": "VGM",
+    "tanim": "",
+    "birim": "M²"
+  },
+  {
+    "id": "V.1755/B",
+    "kurum": "VGM",
+    "tanim": "",
+    "birim": "M²"
+  },
+  {
+    "id": "V.1755/B01",
+    "kurum": "VGM",
+    "tanim": "",
+    "birim": "M²"
+  },
+  {
+    "id": "V.1755/B02",
+    "kurum": "VGM",
+    "tanim": "",
+    "birim": "M²"
+  },
+  {
+    "id": "V.1757/A",
+    "kurum": "VGM",
+    "tanim": "",
+    "birim": "M²"
+  },
+  {
+    "id": "V.1757/B",
+    "kurum": "VGM",
+    "tanim": "",
+    "birim": "M²"
+  },
+  {
+    "id": "V.1758/001",
+    "kurum": "VGM",
+    "tanim": "",
+    "birim": "M²"
+  },
+  {
+    "id": "V.1758/002",
+    "kurum": "VGM",
+    "tanim": "",
+    "birim": "M²"
+  },
+  {
+    "id": "V.1760/001",
+    "kurum": "VGM",
+    "tanim": "",
+    "birim": "M²"
+  },
+  {
+    "id": "V.1760/002",
+    "kurum": "VGM",
+    "tanim": "",
+    "birim": "M²"
+  },
+  {
+    "id": "V.1761/001",
+    "kurum": "VGM",
+    "tanim": "",
+    "birim": "M²"
+  },
+  {
+    "id": "V.1761/002",
+    "kurum": "VGM",
+    "tanim": "",
+    "birim": "M²"
+  },
+  {
+    "id": "V.1761/A01",
+    "kurum": "VGM",
+    "tanim": "",
+    "birim": "M²"
+  },
+  {
+    "id": "V.1761/A02",
+    "kurum": "VGM",
+    "tanim": "",
+    "birim": "M²"
+  },
+  {
+    "id": "V.1761/B01",
+    "kurum": "VGM",
+    "tanim": "",
+    "birim": "M²"
+  },
+  {
+    "id": "V.1761/B02",
+    "kurum": "VGM",
+    "tanim": "",
+    "birim": "M²"
+  },
+  {
+    "id": "V.1762/001",
+    "kurum": "VGM",
+    "tanim": "",
+    "birim": "M²"
+  },
+  {
+    "id": "V.1762/002",
+    "kurum": "VGM",
+    "tanim": "",
+    "birim": "M²"
+  },
+  {
+    "id": "V.1763/001",
+    "kurum": "VGM",
+    "tanim": "",
+    "birim": "M²"
+  },
+  {
+    "id": "V.1763/002",
+    "kurum": "VGM",
+    "tanim": "",
+    "birim": "M²"
+  },
+  {
+    "id": "V.1763/A01",
+    "kurum": "VGM",
+    "tanim": "",
+    "birim": "M²"
+  },
+  {
+    "id": "V.1763/A02",
+    "kurum": "VGM",
+    "tanim": "",
+    "birim": "M²"
+  },
+  {
+    "id": "V.1763/B",
+    "kurum": "VGM",
+    "tanim": "",
+    "birim": "M²"
+  },
+  {
+    "id": "V.1763/B01",
+    "kurum": "VGM",
+    "tanim": "",
+    "birim": "M²"
+  },
+  {
+    "id": "V.1763/B02",
+    "kurum": "VGM",
+    "tanim": "",
+    "birim": "M²"
+  },
+  {
+    "id": "V.1764/A",
+    "kurum": "VGM",
+    "tanim": "",
+    "birim": "M²"
+  },
+  {
+    "id": "V.1764/B",
+    "kurum": "VGM",
+    "tanim": "",
+    "birim": "M²"
+  },
+  {
+    "id": "V.1765/001",
+    "kurum": "VGM",
+    "tanim": "",
+    "birim": "M²"
+  },
+  {
+    "id": "V.1765/002",
+    "kurum": "VGM",
+    "tanim": "",
+    "birim": "M²"
+  },
+  {
+    "id": "V.1765/A01",
+    "kurum": "VGM",
+    "tanim": "",
+    "birim": "M²"
+  },
+  {
+    "id": "V.1765/A02",
+    "kurum": "VGM",
+    "tanim": "",
+    "birim": "M²"
+  },
+  {
+    "id": "V.1766/001",
+    "kurum": "VGM",
+    "tanim": "",
+    "birim": "M²"
+  },
+  {
+    "id": "V.1766/002",
+    "kurum": "VGM",
+    "tanim": "",
+    "birim": "M²"
+  },
+  {
+    "id": "V.1767/A",
+    "kurum": "VGM",
+    "tanim": "",
+    "birim": "M²"
+  },
+  {
+    "id": "V.1767/B",
+    "kurum": "VGM",
+    "tanim": "",
+    "birim": "M²"
+  },
+  {
+    "id": "V.1768/001",
+    "kurum": "VGM",
+    "tanim": "",
+    "birim": "M²"
+  },
+  {
+    "id": "V.1768/002",
+    "kurum": "VGM",
+    "tanim": "",
+    "birim": "M²"
+  },
+  {
+    "id": "V.1768/003",
+    "kurum": "VGM",
+    "tanim": "",
+    "birim": "M²"
+  },
+  {
+    "id": "V.1768/A1",
+    "kurum": "VGM",
+    "tanim": "",
+    "birim": "M²"
+  },
+  {
+    "id": "V.1768/B03",
+    "kurum": "VGM",
+    "tanim": "",
+    "birim": "M²"
+  },
+  {
+    "id": "V.1768/B04",
+    "kurum": "VGM",
+    "tanim": "",
+    "birim": "pozlarının toplamından ödenir."
+  },
+  {
+    "id": "V.1769/B",
+    "kurum": "VGM",
+    "tanim": "",
+    "birim": "M"
+  },
+  {
+    "id": "V.1770/001",
+    "kurum": "VGM",
+    "tanim": "",
+    "birim": "M²"
+  },
+  {
+    "id": "V.1770/A",
+    "kurum": "VGM",
+    "tanim": "",
+    "birim": "M²"
+  },
+  {
+    "id": "V.1770/A01",
+    "kurum": "VGM",
+    "tanim": "",
+    "birim": "M²"
+  },
+  {
+    "id": "V.1770/B",
+    "kurum": "VGM",
+    "tanim": "",
+    "birim": "M²"
+  },
+  {
+    "id": "V.1770/B01",
+    "kurum": "VGM",
+    "tanim": "",
+    "birim": "M²"
+  },
+  {
+    "id": "V.1771/001",
+    "kurum": "VGM",
+    "tanim": "",
+    "birim": "M²"
+  },
+  {
+    "id": "V.1772/001",
+    "kurum": "VGM",
+    "tanim": "",
+    "birim": "M²"
+  },
+  {
+    "id": "V.1773/A",
+    "kurum": "VGM",
+    "tanim": "",
+    "birim": "M²"
+  },
+  {
+    "id": "V.1773/B",
+    "kurum": "VGM",
+    "tanim": "",
+    "birim": "M²"
+  },
+  {
+    "id": "V.1775/A",
+    "kurum": "VGM",
+    "tanim": "",
+    "birim": "M²"
+  },
+  {
+    "id": "V.1776/A",
+    "kurum": "VGM",
+    "tanim": "",
+    "birim": "M²"
+  },
+  {
+    "id": "V.1776/B",
+    "kurum": "VGM",
+    "tanim": "",
+    "birim": "M²"
+  },
+  {
+    "id": "V.1791/A",
+    "kurum": "VGM",
+    "tanim": "",
+    "birim": "M"
+  },
+  {
+    "id": "V.1795/01",
+    "kurum": "VGM",
+    "tanim": "",
+    "birim": "M²"
+  },
+  {
+    "id": "V.1796/01",
+    "kurum": "VGM",
+    "tanim": "",
+    "birim": "M²"
+  },
+  {
+    "id": "V.1816/2",
+    "kurum": "VGM",
+    "tanim": "",
+    "birim": "M²"
+  },
+  {
+    "id": "V.1817/01",
+    "kurum": "VGM",
+    "tanim": "",
+    "birim": "KG"
+  },
+  {
+    "id": "V.1817/A01",
+    "kurum": "VGM",
+    "tanim": "",
+    "birim": "KG"
+  },
+  {
+    "id": "V.1818/01",
+    "kurum": "VGM",
+    "tanim": "",
+    "birim": "KG"
+  },
+  {
+    "id": "V.1818/A01",
+    "kurum": "VGM",
+    "tanim": "",
+    "birim": "KG"
+  },
+  {
+    "id": "V.1819/01",
+    "kurum": "VGM",
+    "tanim": "",
+    "birim": "KG"
+  },
+  {
+    "id": "V.1819/A01",
+    "kurum": "VGM",
+    "tanim": "",
+    "birim": "KG"
+  },
+  {
+    "id": "V.1820/C01",
+    "kurum": "VGM",
+    "tanim": "",
+    "birim": "KG"
+  },
+  {
+    "id": "V.1830/A",
+    "kurum": "VGM",
+    "tanim": "",
+    "birim": "M²"
+  },
+  {
+    "id": "V.1832/A01",
+    "kurum": "VGM",
+    "tanim": "",
+    "birim": "M²"
+  },
+  {
+    "id": "V.1833/A",
+    "kurum": "VGM",
+    "tanim": "",
+    "birim": "M²"
+  },
+  {
+    "id": "V.1836/A",
+    "kurum": "VGM",
+    "tanim": "",
+    "birim": "M²"
+  },
+  {
+    "id": "V.1836/C",
+    "kurum": "VGM",
+    "tanim": "",
+    "birim": "M²"
+  },
+  {
+    "id": "V.1860/002",
+    "kurum": "VGM",
+    "tanim": "",
+    "birim": "M²"
+  },
+  {
+    "id": "V.1860/003",
+    "kurum": "VGM",
+    "tanim": "",
+    "birim": "M²"
+  },
+  {
+    "id": "V.1861/1",
+    "kurum": "VGM",
+    "tanim": "",
+    "birim": "M²"
+  },
+  {
+    "id": "V.1861/2",
+    "kurum": "VGM",
+    "tanim": "",
+    "birim": "M²"
+  },
+  {
+    "id": "V.1861/3",
+    "kurum": "VGM",
+    "tanim": "",
+    "birim": "M²"
+  },
+  {
+    "id": "V.1861/4",
+    "kurum": "VGM",
+    "tanim": "",
+    "birim": "M²"
+  },
+  {
+    "id": "V.1861/A",
+    "kurum": "VGM",
+    "tanim": "",
+    "birim": "M²"
+  },
+  {
+    "id": "V.1861/A1",
+    "kurum": "VGM",
+    "tanim": "",
+    "birim": "M²"
+  },
+  {
+    "id": "V.1861/A2",
+    "kurum": "VGM",
+    "tanim": "",
+    "birim": "M²"
+  },
+  {
+    "id": "V.1862/A",
+    "kurum": "VGM",
+    "tanim": "",
+    "birim": "M"
+  },
+  {
+    "id": "V.1862/B",
+    "kurum": "VGM",
+    "tanim": "",
+    "birim": "M"
+  },
+  {
+    "id": "V.1862/C",
+    "kurum": "VGM",
+    "tanim": "",
+    "birim": "M"
+  },
+  {
+    "id": "V.1863/001",
+    "kurum": "VGM",
+    "tanim": "",
+    "birim": "M²"
+  },
+  {
+    "id": "V.1863/002",
+    "kurum": "VGM",
+    "tanim": "",
+    "birim": "M²"
+  },
+  {
+    "id": "V.1870/001",
+    "kurum": "VGM",
+    "tanim": "",
+    "birim": "M²"
+  },
+  {
+    "id": "V.1870/002",
+    "kurum": "VGM",
+    "tanim": "",
+    "birim": "M²"
+  },
+  {
+    "id": "V.1870/003",
+    "kurum": "VGM",
+    "tanim": "",
+    "birim": "M²"
+  },
+  {
+    "id": "V.1875/B",
+    "kurum": "VGM",
+    "tanim": "",
+    "birim": "KG"
+  },
+  {
+    "id": "V.1990/001",
+    "kurum": "VGM",
+    "tanim": "",
+    "birim": "M"
+  },
+  {
+    "id": "V.1990/002",
+    "kurum": "VGM",
+    "tanim": "",
+    "birim": "M"
+  },
+  {
+    "id": "V.1990/003",
+    "kurum": "VGM",
+    "tanim": "",
+    "birim": "M"
+  },
+  {
+    "id": "V.1990/004",
+    "kurum": "VGM",
+    "tanim": "",
+    "birim": "M"
+  },
+  {
+    "id": "V.1990/005",
+    "kurum": "VGM",
+    "tanim": "",
+    "birim": "M"
+  },
+  {
+    "id": "V.1990/A01",
+    "kurum": "VGM",
+    "tanim": "",
+    "birim": "M²"
+  },
+  {
+    "id": "V.1990/A02",
+    "kurum": "VGM",
+    "tanim": "",
+    "birim": "M²"
+  },
+  {
+    "id": "V.1990/A03",
+    "kurum": "VGM",
+    "tanim": "",
+    "birim": "M²"
+  },
+  {
+    "id": "V.1990/A04",
+    "kurum": "VGM",
+    "tanim": "",
+    "birim": "M²"
+  },
+  {
+    "id": "V.1990/A05",
+    "kurum": "VGM",
+    "tanim": "",
+    "birim": "M²"
+  },
+  {
+    "id": "V.1990/A06",
+    "kurum": "VGM",
+    "tanim": "",
+    "birim": "M²"
+  },
+  {
+    "id": "V.1990/B01",
+    "kurum": "VGM",
+    "tanim": "",
+    "birim": "M²"
+  },
+  {
+    "id": "V.1990/B02",
+    "kurum": "VGM",
+    "tanim": "",
+    "birim": "M²"
+  },
+  {
+    "id": "V.1990/B03",
+    "kurum": "VGM",
+    "tanim": "",
+    "birim": "M²"
+  },
+  {
+    "id": "V.1990/B04",
+    "kurum": "VGM",
+    "tanim": "",
+    "birim": "M²"
+  },
+  {
+    "id": "V.1990/B05",
+    "kurum": "VGM",
+    "tanim": "",
+    "birim": "M²"
+  },
+  {
+    "id": "V.1990/B06",
+    "kurum": "VGM",
+    "tanim": "",
+    "birim": "M²"
+  },
+  {
+    "id": "V.1990/C",
+    "kurum": "VGM",
+    "tanim": "",
+    "birim": "M²"
+  },
+  {
+    "id": "V.1994/03",
+    "kurum": "VGM",
+    "tanim": "",
+    "birim": "M"
+  },
+  {
+    "id": "V.1994/04",
+    "kurum": "VGM",
+    "tanim": "",
+    "birim": "M"
+  },
+  {
+    "id": "V.1997/01",
+    "kurum": "VGM",
+    "tanim": "",
+    "birim": "M³"
+  },
+  {
+    "id": "V.1997/A",
+    "kurum": "VGM",
+    "tanim": "",
+    "birim": "AD"
+  },
+  {
+    "id": "V.1997/B",
+    "kurum": "VGM",
+    "tanim": "",
+    "birim": "AD"
+  },
+  {
+    "id": "V.1997/C",
+    "kurum": "VGM",
+    "tanim": "",
+    "birim": "AD"
+  },
+  {
+    "id": "V.1997/D",
+    "kurum": "VGM",
+    "tanim": "",
+    "birim": "AD"
+  },
+  {
+    "id": "V.1998/01",
+    "kurum": "VGM",
+    "tanim": "",
+    "birim": "M³"
+  },
+  {
+    "id": "V.2002/01",
+    "kurum": "VGM",
+    "tanim": "",
+    "birim": "M²"
+  },
+  {
+    "id": "V.2002/02",
+    "kurum": "VGM",
+    "tanim": "",
+    "birim": "M²"
+  },
+  {
+    "id": "V.2002/A01",
+    "kurum": "VGM",
+    "tanim": "",
+    "birim": "M²"
+  },
+  {
+    "id": "V.2002/A02",
+    "kurum": "VGM",
+    "tanim": "",
+    "birim": "M²"
+  },
+  {
+    "id": "V.2002/B01",
+    "kurum": "VGM",
+    "tanim": "",
+    "birim": "M²"
+  },
+  {
+    "id": "V.2005/01",
+    "kurum": "VGM",
+    "tanim": "",
+    "birim": "M²"
+  },
+  {
+    "id": "V.2005/02",
+    "kurum": "VGM",
+    "tanim": "",
+    "birim": "M²"
+  },
+  {
+    "id": "V.2005/03",
+    "kurum": "VGM",
+    "tanim": "",
+    "birim": "M²"
+  },
+  {
+    "id": "V.2006/A",
+    "kurum": "VGM",
+    "tanim": "",
+    "birim": "M²"
+  },
+  {
+    "id": "V.2008/A",
+    "kurum": "VGM",
+    "tanim": "",
+    "birim": "M²"
+  },
+  {
+    "id": "V.2010/A",
+    "kurum": "VGM",
+    "tanim": "",
+    "birim": "M²"
+  },
+  {
+    "id": "V.2012/A",
+    "kurum": "VGM",
+    "tanim": "",
+    "birim": "M²"
+  },
+  {
+    "id": "V.2014/A",
+    "kurum": "VGM",
+    "tanim": "",
+    "birim": "M²"
+  },
+  {
+    "id": "V.2016/A",
+    "kurum": "VGM",
+    "tanim": "",
+    "birim": "M²"
+  },
+  {
+    "id": "V.2018/1",
+    "kurum": "VGM",
+    "tanim": "",
+    "birim": "M²"
+  },
+  {
+    "id": "V.2020/1",
+    "kurum": "VGM",
+    "tanim": "",
+    "birim": "M²"
+  },
+  {
+    "id": "V.2024/1",
+    "kurum": "VGM",
+    "tanim": "",
+    "birim": "M²"
+  },
+  {
+    "id": "V.2025/1",
+    "kurum": "VGM",
+    "tanim": "",
+    "birim": "M²"
+  },
+  {
+    "id": "V.2027/0001",
+    "kurum": "VGM",
+    "tanim": "",
+    "birim": "M²"
+  },
+  {
+    "id": "V.2027/0006",
+    "kurum": "VGM",
+    "tanim": "",
+    "birim": "M²"
+  },
+  {
+    "id": "V.2027/0007",
+    "kurum": "VGM",
+    "tanim": "",
+    "birim": "M²"
+  },
+  {
+    "id": "V.2027/A001",
+    "kurum": "VGM",
+    "tanim": "",
+    "birim": "M²"
+  },
+  {
+    "id": "V.2027/A002",
+    "kurum": "VGM",
+    "tanim": "",
+    "birim": "M²"
+  },
+  {
+    "id": "V.2027/A003",
+    "kurum": "VGM",
+    "tanim": "",
+    "birim": "AD"
+  },
+  {
+    "id": "V.2027/A004",
+    "kurum": "VGM",
+    "tanim": "",
+    "birim": "AD"
+  },
+  {
+    "id": "V.2027/A005",
+    "kurum": "VGM",
+    "tanim": "",
+    "birim": "AD"
+  },
+  {
+    "id": "V.2027/A006",
+    "kurum": "VGM",
+    "tanim": "",
+    "birim": "M"
+  },
+  {
+    "id": "V.2027/A007",
+    "kurum": "VGM",
+    "tanim": "",
+    "birim": "M"
+  },
+  {
+    "id": "V.2027/A009",
+    "kurum": "VGM",
+    "tanim": "",
+    "birim": "AD"
+  },
+  {
+    "id": "V.2027/A010",
+    "kurum": "VGM",
+    "tanim": "",
+    "birim": "M²"
+  },
+  {
+    "id": "V.2027/B001",
+    "kurum": "VGM",
+    "tanim": "",
+    "birim": "M²"
+  },
+  {
+    "id": "V.2027/B002",
+    "kurum": "VGM",
+    "tanim": "",
+    "birim": "M²"
+  },
+  {
+    "id": "V.2027/C002",
+    "kurum": "VGM",
+    "tanim": "",
+    "birim": "M"
+  },
+  {
+    "id": "V.2027/C003",
+    "kurum": "VGM",
+    "tanim": "",
+    "birim": "M"
+  },
+  {
+    "id": "V.2027/C004",
+    "kurum": "VGM",
+    "tanim": "",
+    "birim": "M"
+  },
+  {
+    "id": "V.2027/D001",
+    "kurum": "VGM",
+    "tanim": "",
+    "birim": "M"
+  },
+  {
+    "id": "V.2027/D002",
+    "kurum": "VGM",
+    "tanim": "",
+    "birim": "M"
+  },
+  {
+    "id": "V.2027/D003",
+    "kurum": "VGM",
+    "tanim": "",
+    "birim": "M"
+  },
+  {
+    "id": "V.2027/D004",
+    "kurum": "VGM",
+    "tanim": "",
+    "birim": "M"
+  },
+  {
+    "id": "V.2027/D005",
+    "kurum": "VGM",
+    "tanim": "",
+    "birim": "M"
+  },
+  {
+    "id": "V.2027/D006",
+    "kurum": "VGM",
+    "tanim": "",
+    "birim": "M"
+  },
+  {
+    "id": "V.2027/E001",
+    "kurum": "VGM",
+    "tanim": "",
+    "birim": "AD"
+  },
+  {
+    "id": "V.2027/E002",
+    "kurum": "VGM",
+    "tanim": "",
+    "birim": "AD"
+  },
+  {
+    "id": "V.2030/B",
+    "kurum": "VGM",
+    "tanim": "",
+    "birim": "M²"
+  },
+  {
+    "id": "V.2030/C",
+    "kurum": "VGM",
+    "tanim": "",
+    "birim": "M²"
+  },
+  {
+    "id": "V.2037/001",
+    "kurum": "VGM",
+    "tanim": "",
+    "birim": "M²"
+  },
+  {
+    "id": "V.2037/002",
+    "kurum": "VGM",
+    "tanim": "",
+    "birim": "M²"
+  },
+  {
+    "id": "V.2039/1",
+    "kurum": "VGM",
+    "tanim": "",
+    "birim": "M²"
+  },
+  {
+    "id": "V.2039/2",
+    "kurum": "VGM",
+    "tanim": "",
+    "birim": "M²"
+  },
+  {
+    "id": "V.2039/3",
+    "kurum": "VGM",
+    "tanim": "",
+    "birim": "M²"
+  },
+  {
+    "id": "V.2040/01",
+    "kurum": "VGM",
+    "tanim": "",
+    "birim": "M²"
+  },
+  {
+    "id": "V.2040/01A",
+    "kurum": "VGM",
+    "tanim": "",
+    "birim": "M²"
+  },
+  {
+    "id": "V.2040/01B",
+    "kurum": "VGM",
+    "tanim": "",
+    "birim": "M²"
+  },
+  {
+    "id": "V.2040/A",
+    "kurum": "VGM",
+    "tanim": "",
+    "birim": "M²"
+  },
+  {
+    "id": "V.2040/A01",
+    "kurum": "VGM",
+    "tanim": "",
+    "birim": "M²"
+  },
+  {
+    "id": "V.2040/A1",
+    "kurum": "VGM",
+    "tanim": "",
+    "birim": "M²"
+  },
+  {
+    "id": "V.2040/A1A",
+    "kurum": "VGM",
+    "tanim": "",
+    "birim": "M²"
+  },
+  {
+    "id": "V.2040/C1",
+    "kurum": "VGM",
+    "tanim": "",
+    "birim": "M²"
+  },
+  {
+    "id": "V.2040/C2",
+    "kurum": "VGM",
+    "tanim": "",
+    "birim": "M²"
+  },
+  {
+    "id": "V.2040/C3",
+    "kurum": "VGM",
+    "tanim": "",
+    "birim": "M²"
+  },
+  {
+    "id": "V.2040/C4",
+    "kurum": "VGM",
+    "tanim": "",
+    "birim": "M²"
+  },
+  {
+    "id": "V.2041/A",
+    "kurum": "VGM",
+    "tanim": "",
+    "birim": "M²"
+  },
+  {
+    "id": "V.2041/B",
+    "kurum": "VGM",
+    "tanim": "",
+    "birim": "M²"
+  },
+  {
+    "id": "V.2041/C",
+    "kurum": "VGM",
+    "tanim": "",
+    "birim": "M²"
+  },
+  {
+    "id": "V.2042/001",
+    "kurum": "VGM",
+    "tanim": "",
+    "birim": "Takım"
+  },
+  {
+    "id": "V.2043/01",
+    "kurum": "VGM",
+    "tanim": "",
+    "birim": "M²"
+  },
+  {
+    "id": "V.2044/01",
+    "kurum": "VGM",
+    "tanim": "",
+    "birim": "M"
+  },
+  {
+    "id": "V.2044/02",
+    "kurum": "VGM",
+    "tanim": "",
+    "birim": "M"
+  },
+  {
+    "id": "V.2044/03",
+    "kurum": "VGM",
+    "tanim": "",
+    "birim": "M"
+  },
+  {
+    "id": "V.2044/04",
+    "kurum": "VGM",
+    "tanim": "",
+    "birim": "M"
+  },
+  {
+    "id": "V.2044/A01",
+    "kurum": "VGM",
+    "tanim": "",
+    "birim": "M"
+  },
+  {
+    "id": "V.2044/B01",
+    "kurum": "VGM",
+    "tanim": "",
+    "birim": "M"
+  },
+  {
+    "id": "V.2050/01",
+    "kurum": "VGM",
+    "tanim": "",
+    "birim": "M²"
+  },
+  {
+    "id": "V.2050/02",
+    "kurum": "VGM",
+    "tanim": "",
+    "birim": "M²"
+  },
+  {
+    "id": "V.2050/A01",
+    "kurum": "VGM",
+    "tanim": "",
+    "birim": "M²"
+  },
+  {
+    "id": "V.2050/A02",
+    "kurum": "VGM",
+    "tanim": "",
+    "birim": "M²"
+  },
+  {
+    "id": "V.2053/A",
+    "kurum": "VGM",
+    "tanim": "",
+    "birim": "M²"
+  },
+  {
+    "id": "V.2061/1",
+    "kurum": "VGM",
+    "tanim": "",
+    "birim": "M²"
+  },
+  {
+    "id": "V.2061/2",
+    "kurum": "VGM",
+    "tanim": "",
+    "birim": "M²"
+  },
+  {
+    "id": "V.2065/A",
+    "kurum": "VGM",
+    "tanim": "",
+    "birim": "M²"
+  },
+  {
+    "id": "V.2071/A",
+    "kurum": "VGM",
+    "tanim": "",
+    "birim": "M²"
+  },
+  {
+    "id": "V.2105/1B",
+    "kurum": "VGM",
+    "tanim": "",
+    "birim": "M²"
+  },
+  {
+    "id": "V.2105/1C",
+    "kurum": "VGM",
+    "tanim": "",
+    "birim": "M²"
+  },
+  {
+    "id": "V.2105/A1",
+    "kurum": "VGM",
+    "tanim": "",
+    "birim": "M²"
+  },
+  {
+    "id": "V.2105/A2",
+    "kurum": "VGM",
+    "tanim": "",
+    "birim": "M²"
+  },
+  {
+    "id": "V.2105/A3",
+    "kurum": "VGM",
+    "tanim": "",
+    "birim": "M²"
+  },
+  {
+    "id": "V.2105/B1",
+    "kurum": "VGM",
+    "tanim": "",
+    "birim": "M²"
+  },
+  {
+    "id": "V.2105/B2",
+    "kurum": "VGM",
+    "tanim": "",
+    "birim": "M²"
+  },
+  {
+    "id": "V.2105/B3",
+    "kurum": "VGM",
+    "tanim": "",
+    "birim": "M²"
+  },
+  {
+    "id": "V.2105/C1",
+    "kurum": "VGM",
+    "tanim": "",
+    "birim": "M²"
+  },
+  {
+    "id": "V.2105/C2",
+    "kurum": "VGM",
+    "tanim": "",
+    "birim": "M²"
+  },
+  {
+    "id": "V.2105/C3",
+    "kurum": "VGM",
+    "tanim": "",
+    "birim": "M²"
+  },
+  {
+    "id": "V.2105/D1",
+    "kurum": "VGM",
+    "tanim": "",
+    "birim": "M²"
+  },
+  {
+    "id": "V.2105/D2",
+    "kurum": "VGM",
+    "tanim": "",
+    "birim": "M²"
+  },
+  {
+    "id": "V.2105/D3",
+    "kurum": "VGM",
+    "tanim": "",
+    "birim": "M²"
+  },
+  {
+    "id": "V.2105/E1",
+    "kurum": "VGM",
+    "tanim": "",
+    "birim": "M²"
+  },
+  {
+    "id": "V.2105/E2",
+    "kurum": "VGM",
+    "tanim": "",
+    "birim": "M²"
+  },
+  {
+    "id": "V.2106/A1",
+    "kurum": "VGM",
+    "tanim": "",
+    "birim": "M²"
+  },
+  {
+    "id": "V.2106/A2",
+    "kurum": "VGM",
+    "tanim": "",
+    "birim": "M²"
+  },
+  {
+    "id": "V.2106/A3",
+    "kurum": "VGM",
+    "tanim": "",
+    "birim": "M²"
+  },
+  {
+    "id": "V.2106/A4",
+    "kurum": "VGM",
+    "tanim": "",
+    "birim": "M²"
+  },
+  {
+    "id": "V.2106/A5",
+    "kurum": "VGM",
+    "tanim": "",
+    "birim": "M²"
+  },
+  {
+    "id": "V.2109/2",
+    "kurum": "VGM",
+    "tanim": "",
+    "birim": "M³"
+  },
+  {
+    "id": "V.2110/04",
+    "kurum": "VGM",
+    "tanim": "",
+    "birim": "M²"
+  },
+  {
+    "id": "V.2110/05",
+    "kurum": "VGM",
+    "tanim": "",
+    "birim": "M²"
+  },
+  {
+    "id": "V.2110/08",
+    "kurum": "VGM",
+    "tanim": "",
+    "birim": "AD"
+  },
+  {
+    "id": "V.2110/09",
+    "kurum": "VGM",
+    "tanim": "",
+    "birim": "M²"
+  },
+  {
+    "id": "V.2116/E01",
+    "kurum": "VGM",
+    "tanim": "",
+    "birim": "M³"
+  },
+  {
+    "id": "V.2182/001",
+    "kurum": "VGM",
+    "tanim": "",
+    "birim": "AD"
+  },
+  {
+    "id": "V.2200/2",
+    "kurum": "VGM",
+    "tanim": "",
+    "birim": "AD"
+  },
+  {
+    "id": "V.2200/3",
+    "kurum": "VGM",
+    "tanim": "",
+    "birim": "AD"
+  },
+  {
+    "id": "V.2200/4",
+    "kurum": "VGM",
+    "tanim": "",
+    "birim": "AD"
+  },
+  {
+    "id": "V.2200/5",
+    "kurum": "VGM",
+    "tanim": "",
+    "birim": "AD"
+  }
+]

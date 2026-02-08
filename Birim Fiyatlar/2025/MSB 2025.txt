@@ -1,0 +1,4101 @@
+T.C.
+MİLLÎ SAVUNMA BAKANLIĞI
+MİLLÎ SAVUNMA BAKANLIĞI
+2025 YILI İNŞAAT BİRİM FİYATLARI
+İLE İNŞAAT GENEL FİYAT
+ANALİZLERİ
+(1 Ocak 2025 tarihinden itibaren geçerlidir.)
+4- Birim fiyatlara % 25 yüklenici karı ve genel giderler dahildir.
+GENEL HÜKÜMLER VE AÇIKLAMALAR
+1- Uygulanacak birim fiyat imalatı, birim fiyat tariflerinde atıf yapılmış olan Türk Standartlarına uygun
+olacaktır. Ancak bu standartlarda sonradan bir değişiklik olması halinde yürürlükteki en son standartları
+geçerli olacaktır.
+2- Bu listelerde baskı ve maddi hataların olması halinde, bunlar için Millî Savunma Bakanlığı’nca
+düzeltilmiş olan en son değerler esas alınacak ve buna ilişkin değişiklik ve düzeltmeler www.msb.gov.tr
+evrensel ağda (internet) yayınlanacaktır.
+5- Birim fiyat listesinde yer alan fiyatlara KDV dahil değildir.
+3- Değiştirilen analizlerle bunlara göre düzenlenen yeni birim fiyatlar yürürlüğe konulduğu yılbaşından
+itibaren geçerli olup, geçmiş yıllarda ihale edilmiş işler için sözleşmesine esas birim fiyat analizleri esas
+alınarak uygulama yılı birim fiyatları bulunacaktır.
+SAYFA
+NUMARASI
+1-1/5
+2-1
+İMALATIN ÇEŞİDİ POZ ARALIĞI
+1. Dolgu İşleri 48.125.1002 3-1
+2. Beton İşleri 48.150.1001 - 2008 3-2/7
+3. Tuğla İşleri 48.220.1008 - 2001 3-8/15
+4. Tesviye/Şap İşleri 48.250.1001 - 1002 3-16/17
+48.310.1001 3-18
+48.325.2003 - 2007 3-19/24
+48.340.1004 - 1006 3-25/27
+48.410.1101 - 9003 3-28/43
+48.420.1002 - 1302 3-44/47
+48.435.1002 3-48
+48.440.1102 3-49
+48.450.1003 - 1004 3-50/51
+48.510.1001 - 1003 3-52/53
+48.535.1001 - 1005 3-54/58
+16. Boya İşleri 48.540.9001 3-59
+48.550.2001 - 2002 3-60/62
+18. Mekanik Montajlı ve Yalıtımlı Cephe Kaplaması İşleri 48.680.1001 - 1007 3-63/76
+48.685.1001 - 1005 3-77/79
+20. Söküm ve Onarım İşleri 48.690.1001 - 2019 3-80/85
+21. Diğer İşler 48.700.1405 - 1901 3-86/88
+Kablo Kanalı Tip Detayları (48.220.1001 - 48.220.1007 pozları için) 3-89/91
+Saha Beton ve Beton Yollarda Derz Detayları (48.150.2001 - 48.150.2004 pozları için) 3-92
+Çevre Emniyeti Yapılması Detayları (48.685.1004 - 48.685.1005 pozları için) 3-93/94
+14. Ahşap Kapı Kasası ve Pervazı, Ahşap Kapı Kanadı, Kapitone
+15. Metal, PVC, Ahşap, Alçı vb. Asma Tavan İşleri
+19. Çevre Düzenleme ve Emniyeti İşleri
+13. Mozaik Döşeme, Duvar, Denizlik, Parapet, Harpuşta İşleri
+11. Doğal/Beton Parke Taşı, Çim Taşı, Oluk Taşı, Bordür İşleri
+17. Demir Kapı ve Pencereler, Çeşitli Demir İmalat İşleri
+12. Döşeme Duvar ve Cephelerde Dilatasyon İşleri
+İÇİNDEKİLER
+BİRİNCİ BÖLÜM
+MİLLÎ SAVUNMA BAKANLIĞI İNŞAAT BİRİM FİYAT LİSTESİ
+ÜÇÜNCÜ BÖLÜM
+MİLLÎ SAVUNMA BAKANLIĞI 2025 YILI İNŞAAT GENEL FİYAT ANALİZLERİ
+5. Tenekecilik İşleri (Çinko - Bakır - Sac)
+İKİNCİ BÖLÜM
+MİLLÎ SAVUNMA BAKANLIĞI 2025 YILI DEĞİŞEN POZLARIN LİSTESİ
+6. Çinko, Bakır, Alüminyum, Sac ve Diğer Çatı Örtüsü İşleri
+9. Mermer, Granit, Bazalt Kaplama İşleri (Döşeme, Duvar, Merdiven,
+Limonluk, Süpürgelik, Denizlik, Parapet, Harpuşta, Söve vb.)
+10. Andezit Kaplama (Merdiven, Denizlik, Parapet, Harpuşta) İşleri
+8. Taşyünü ve Camyünü Malzemeler İle Isı ve Ses Yalıtımı Yapılması İşleri
+MİLLÎ SAVUNMA BAKANLIĞI
+2025 YILI İNŞAAT BİRİM FİYAT
+LİSTESİ
+BİRİNCİ BÖLÜM
+2025 YILI MİLLÎ SAVUNMA BAKANLIĞI İNŞAAT BİRİM FİYAT LİSTESİ
+No Poz No Analizin Adı Ölçü
+Birimi
+1 48.125.1002 63 mm'ye kadar kırmataş temin edilerek, el ile
+serme yapılması
+m³ ₺ 530,00
+2 48.150.1001 Saha, tretuvar, yol, otopark, hangar ve atölye içi
+beton kaplama yapılması (C16/20 hazır beton
+kullanılarak)
+m³ ₺ 3.626,60
+3 48.150.1002 Beton kaplama yapılması (C30/37 hazır beton
+kullanılarak)
+m³ ₺ 4.095,35
+4 48.150.2005 Saha betonu ve beton yollarda demirli genleşme
+derzi yapılması
+m ₺ 369,08
+5 48.150.2006 Saha betonu ve beton yollarda büzülme derzi
+yapılması
+m ₺ 137,59
+6 48.150.2007 Saha betonu ve beton yollarda inşaat derzi
+yapılması
+m ₺ 196,43
+7 48.150.2008 Saha betonu ve beton yollarda genleşme derzi
+yapılması
+m ₺ 292,13
+8 48.220.1008 Yer altı kablo kanalı için (tek kablolu) kum ve
+harman tuğlası serilmesi (Tip-A)
+m ₺ 169,19
+9 48.220.1009 Yer altı kablo kanalı için (bir adet alçak gerilim
+kablolu ve bir adet yüksek gerilim kablolu) kum
+ve harman tuğlası serilmesi (Tip-B)
+m ₺ 443,16
+10 48.220.1010 Yer altı kablo kanalı için (üç adet alçak gerilim
+kablolu) kum ve harman tuğlası serilmesi (Tip- C)
+m ₺ 311,18
+11 48.220.1011 Yer altı kablo kanalı için (iki adet alçak gerilim
+kablosu ve iki adet yüksek gerilim kablosunun
+yan yana bulunduğu) kum ve harman tuğlası
+serilmesi (Tip-D)
+m ₺ 377,20
+12 48.220.1012 Yer altı kablo kanalı için (iki adet alçak gerilim
+kablosu ve iki adet yüksek gerilim kablosunun üst
+üste bulunduğu) kum ve harman tuğlası serilmesi
+(Tip-E)
+m ₺ 401,34
+13 48.220.1013 Yer altı kablo kanalı için (çok sayıda alçak
+gerilim kablosu ve yüksek gerilim kablosu için)
+kum ve harman tuğlası serilmesi (Tip-F)
+m ₺ 924,00
+14 48.220.1014 Yer altı kablo kanalı için (çok sayıda alçak
+gerilim kablolu) kum ve harman tuğlası serilmesi
+(Tip-G)
+m ₺ 459,29
+15 48.220.2001 Isı merkezi bacalarında harman tuğlası ile baca içi
+kaplama yapılması
+m³ ₺ 9.803,73
+16 48.250.1001 Harç içine karışan maddelerle yalıtım şapı
+yapılması (normal priz alan su geçirimsizlik
+katkısı ile)
+m² ₺ 676,15
+17 48.250.1002 Harç içine karışan maddelerle yalıtım şapı
+yapılması (hızlı priz alan su geçirimsizlik katkısı
+ile)
+m² ₺ 679,83
+18 48.310.1001 Düşey sac yağmur borusu yapılması m ₺ 859,16
+Birim Fiyatı
+1-1
+2025 YILI MİLLÎ SAVUNMA BAKANLIĞI İNŞAAT BİRİM FİYAT LİSTESİ
+19 48.325.2003 Mevcut ahşap, betonarme yada çelik aşıklar
+üzerine 0,65 mm kalınlıkta sıcak daldırma
+galvaniz üzeri boyalı oluklu/trapez sac ile 10 cm
+kalınlığında taşyünü ısı yalıtımlı ve 15 mm
+kalınlığında OSB levhalı yerinde kenetli sistem
+ile çatı örtüsü yapılması
+m² ₺ 2.505,35
+20 48.325.2004 Mevcut ahşap, betonarme yada çelik aşıklar
+üzerine 0,65 mm kalınlıkta sıcak daldırma
+galvaniz üzeri boyalı oluklu/trapez sac ile kenetli
+sistem çatı örtüsü yapılması
+m² ₺ 773,15
+21 48.325.2005 Ahşap çatı üzerine 0,50 mm kalınlıkta boyalı
+oluklu/trapez sac ile çatı örtüsü yapılması
+m² ₺ 558,45
+22 48.325.2006 Betonarme veya techizatlı hazır (hafif veya
+normal agrega ile) beton plaklarla yapılmış
+mevcut çatı döşemesi üzerine 0,50 mm kalınlıkta
+boyalı oluklu/trapez sac ile çatı örtüsü yapılması
+m² ₺ 592,83
+23 48.325.2007 Çelik veya ön yapımlı betonarme kiriş üzerine
+0,50 mm kalınlıkta boyalı oluklu/trapez sac ile
+çatı örtüsü yapılması
+m² ₺ 560,95
+24 48.340.1004 Klima dairesi ve benzeri yerlerin duvarlarına 5
+cm kalınlığında taşyünü ile ses yalıtımı yapılması
+(Ses yutma katsayısı (ortalama) >= 1,00 olan)
+m² ₺ 269,64
+25 48.340.1005 Klima dairesi ve benzeri yerlerin döşemesi
+üzerine 5 cm kalınlığında taşyünü ile ses yalıtımı
+yapılması (Ses yutma katsayısı (ortalama) >= 1,00
+olan)
+m² ₺ 191,20
+26 48.340.1006 Klima dairesi ve benzeri yerlerin duvarlarına 2,5
+cm kalınlığında taşyünü ile ses yalıtımı yapılması
+(Ses yutma katsayısı (ortalama) >= 1,00 olan)
+m² ₺ 191,39
+27 48.410.1101 3 cm kalınlığındaki beyaz mermer ile limonluk
+yapılması
+m ₺ 198,86
+28 48.410.1151 3 cm kalınlığındaki renkli mermer ile limonluk
+yapılması
+m ₺ 210,45
+29 48.410.2002 3 cm kalınlığındaki bulancak füme granit ile
+döşeme kaplaması yapılması
+m² ₺ 3.833,69
+30 48.410.2101 Bulancak füme granit ile süpürgelik yapılması m ₺ 361,43
+31 48.410.2201 Bulancak füme granit ile merdiven basamağı
+kaplaması yapılması (B:3 cm, R:2 cm)
+m ₺ 2.061,86
+32 48.410.3002 4 cm kalınlığındaki bazalt plaklarla döşeme
+kaplaması yapılması
+m² ₺ 1.782,81
+33 48.410.3102 2 cm kalınlığındaki bazalt plaklarla duvar
+kaplaması yapılması
+m² ₺ 1.933,10
+34 48.410.3202 Bazalt plaklarla merdiven basamağı kaplaması
+yapılması (B:4 cm, R:3 cm)
+m ₺ 1.225,31
+35 48.410.3301 Bazalt plaklarla süpürgelik yapılması m ₺ 202,35
+1-2
+2025 YILI MİLLÎ SAVUNMA BAKANLIĞI İNŞAAT BİRİM FİYAT LİSTESİ
+36 48.410.3402 3 cm kalınlığındaki bazalt plaklarla parapet
+yapılması
+m² ₺ 2.949,15
+37 48.410.3502 3 cm kalınlığındaki bazalt plaklar ile dış denizlik
+yapılması
+m² ₺ 2.792,90
+38 48.410.3602 3 cm kalınlığındaki bazalt plaklarla harpuşta
+yapılması
+m² ₺ 3.195,28
+39 48.410.3801 Bazalt plaklarla limonluk yapılması m ₺ 192,15
+40 48.410.3902 2 cm kalınlıkta bazalt plaklarla asansör sövesi
+yapılması
+m² ₺ 2.625,79
+41 48.410.9002 Mermer kenarlarının pahlanması m ₺ 207,81
+42 48.410.9003 Mermer döşeme kaplamasına pirinç derz
+yapılması
+m ₺ 495,28
+43 48.420.1002 Andezit plaklar ile merdiven basamağı kaplaması
+yapılması (B:4 cm, R:3 cm)
+m ₺ 1.220,68
+44 48.420.1102 3 cm kalınlığında andezit plaklar ile parapet
+yapılması
+m² ₺ 2.964,90
+45 48.420.1202 3 cm kalınlığında andezit plaklar ile dış denizlik
+yapılması
+m² ₺ 2.808,65
+46 48.420.1302 3 cm kalınlığında andezit plaklar ile harpuşta
+yapılması
+m² ₺ 3.226,78
+47 48.435.1002 10x25x50 cm boyutlarında bazalt bordür temini
+ve yerine döşenmesi
+m ₺ 651,73
+48 48.440.1102 Dilatasyon derzlerinin polietilen fitil ve
+poliüretan derz mastiği ile doldurulması
+m ₺ 205,44
+49 48.450.1003 Fugalı, yüzeyi pürüzlü mermer pirinçli suni taş
+sıva (taraklı mozaik) yapılması (beyaz çimentolu)
+m² ₺ 2.361,98
+50 48.450.1004 Fugalı, yüzeyi pürüzlü mermer pirinçli suni taş
+sıva (taraklı mozaik) yapılması (normal
+çimentolu)
+m² ₺ 2.322,36
+51 48.510.1001 Kompakt lamine levha kaplamalı kapı kanadı
+yapılması (hasta odaları için)
+m² ₺ 3.724,60
+52 48.510.1003 13 mm kalınlığında kompakt lamine levha ile
+pano ve kapı yapılması
+m² ₺ 3.936,74
+53 48.535.1001 60x60 cm ebadında 15 mm kalınlığında taşyünü
+plakadan asma tavan yapılması
+m² ₺ 554,39
+54 48.535.1002 60x60 cm ebadında 8 mm kalınlığında alçı tavan
+karosundan (pvc lamineli) asma tavan yapılması
+m² ₺ 453,98
+55 48.535.1003 60x120 cm ebadında 9,5 mm kalınlığında delikli
+alçı tavan karosundan (akustik) asma tavan
+yapılması
+m² ₺ 513,04
+56 48.535.1004 60x120 cm ebadında 9,5 mm kalınlığında delikli
+alçı tavan karosundan (akustik) asma tavan
+yapılması
+m² ₺ 494,04
+1-3
+2025 YILI MİLLÎ SAVUNMA BAKANLIĞI İNŞAAT BİRİM FİYAT LİSTESİ
+57 48.535.1005 60x60 cm ebadında 9,5 mm kalınlığında alçı
+tavan karosundan (pvc lamineli) ile asma tavan
+yapılması
+m² ₺ 472,35
+58 48.540.9001 Demir yüzeylerin raspa edilmesi ve tel fırça ile
+temizlenmesi
+m² ₺ 111,25
+59 48.550.2001 Paslanmaz çelik merdiven korkuluğu ve küpeştesi
+yapılması
+kg ₺ 715,84
+60 48.550.2002 Paslanmaz Çelik İmalat Yapılması kg ₺ 387,00
+61 48.680.1001 Açık renkli travertenler (honlu veya cilalı) ile
+cephe kaplaması yapılması (3x40x80 cm)
+(mekanik montajlı) (6 cm taşyünü ısı yalıtımlı ve
+su buharı geçişine açık su yalıtımlı)
+m² ₺ 3.008,70
+62 48.680.1002 Koyu renkli travertenler (honlu veya cilalı) ile
+cephe kaplaması yapılması (3x40x80 cm)
+(mekanik montajlı) (6 cm taşyünü ısı yalıtımlı ve
+su buharı geçişine açık su yalıtımlı)
+m² ₺ 2.871,75
+63 48.680.1003 Bazalt plaklar ile cephe kaplaması yapılması
+(3x40x80 cm) (mekanik montajlı) (6 cm taşyünü
+ısı yalıtımlı ve su buharı geçişine açık su
+yalıtımlı)
+m² ₺ 2.859,38
+64 48.680.1004 Andezit plaklar ile cephe kaplaması yapılması
+(3x30x60 cm) (mekanik montajlı) (6 cm taşyünü
+ısı yalıtımlı ve su buharı geçişine açık su
+yalıtımlı)
+m² ₺ 3.007,54
+65 48.680.1005 Andezit plaklar ile cephe kaplaması yapılması
+(3x40x80 cm) (mekanik montajlı) (6 cm taşyünü
+ısı yalıtımlı ve su buharı geçişine açık su
+yalıtımlı)
+m² ₺ 2.892,38
+66 48.680.1006 Andezit plaklar ile cephe kaplaması yapılması
+(3x50x100 cm) (mekanik montajlı) (6 cm taşyünü
+ısı yalıtımlı ve su buharı geçişine açık su
+yalıtımlı)
+m² ₺ 2.851,60
+67 48.680.1007 Bulancak füme (Giresun) granitler (honlu veya
+cilalı) ile cephe kaplaması yapılması (2x40x80
+cm) (mekanik montajlı) (6 cm taşyünü ısı
+yalıtımlı ve su buharı geçişine açık su yalıtımlı)
+m² ₺ 4.550,63
+68 48.685.1001 J- 8 tipi çevre emniyeti yapılması m² ₺ 503,64
+69 48.685.1004 Perde duvar üzerine çerçeveli galvanizli kafes tel
+ile çevre emniyeti yapılması
+m² ₺ 2.774,05
+70 48.685.1005 Hudut karakolu için 3 m yüksekliğinde çevre
+emniyeti yapılması
+m ₺ 6.828,68
+71 48.690.1001 Kapı ve pencere doğraması madeni aksamının
+sökülmesi
+ad ₺ 41,25
+72 48.690.2009 Mevcut mermer plak veya karo mozaik döşeme
+kaplamasının onarılması ve silinmesi
+m² ₺ 153,93
+73 48.690.2010 Mevcut dökme mozaik döşeme kaplamasının
+silinmesi
+m² ₺ 131,55
+1-4
+2025 YILI MİLLÎ SAVUNMA BAKANLIĞI İNŞAAT BİRİM FİYAT LİSTESİ
+74 48.690.2011 Eski demir imalatın boyaya hazır hale getirilmesi m² ₺ 162,19
+75 48.690.2018 Beton yüzeylerde tamir harcı ile beton onarımı kg ₺ 96,09
+76 48.690.2019 Epoksi enjeksiyon ile çatlak onarımı m ₺ 12.955,03
+77 48.700.1405 Tuvalet kapılarına alüminyum bant yapılması m ₺ 932,40
+78 48.700.1701 Pencere dışına kafes tel yapılması m² ₺ 1.035,63
+79 48.700.1901 Füme renkli aynaya bizote yapılması ve yerine
+monte edilmesi (5 mm kalınlığında)
+m² ₺ 2.564,38
+1-5
+İKİNCİ BÖLÜM
+MİLLÎ SAVUNMA BAKANLIĞI
+2025 YILI DEĞİŞEN POZLARIN
+LİSTESİ
+SIRA
+NO
+POZ NO ANALİZİN ADI
+1 48.220.2001 Isı merkezi bacalarında harman tuğlası ile baca içi kaplama yapılması
+2 48.250.1001 Harç içine karışan maddelerle yalıtım şapı yapılması (normal priz alan su
+geçirimsizlik katkısı ile)
+3 48.250.1002 Harç içine karışan maddelerle yalıtım şapı yapılması (hızlı priz alan su
+geçirimsizlik katkısı ile)
+4 48.310.1001 Düşey sac yağmur borusu yapılması
+5 48.410.1101 3 cm kalınlığındaki beyaz mermer ile limonluk yapılması
+6 48.410.1151 3 cm kalınlığındaki renkli mermer ile limonluk yapılması
+7 48.410.2002 3 cm kalınlığındaki bulancak füme granit ile döşeme kaplaması yapılması
+8 48.410.2101 Bulancak füme granit ile süpürgelik yapılması
+9 48.410.2201 Bulancak füme granit ile merdiven basamağı kaplaması yapılması (B:3 cm, R:2
+cm)
+10 48.410.3002 4 cm kalınlığındaki bazalt plaklarla döşeme kaplaması yapılması
+11 48.410.3102 2 cm kalınlığındaki bazalt plaklarla duvar kaplaması yapılması
+12 48.410.3202 Bazalt plaklarla merdiven basamağı kaplaması yapılması (B:4 cm, R:3 cm)
+13 48.410.3301 Bazalt plaklarla süpürgelik yapılması
+14 48.410.3402 3 cm kalınlığındaki bazalt plaklarla parapet yapılması
+15 48.410.3502 3 cm kalınlığındaki bazalt plaklar ile dış denizlik yapılması
+16 48.410.3602 3 cm kalınlığındaki bazalt plaklarla harpuşta yapılması
+17 48.410.3801 Bazalt plaklarla limonluk yapılması
+18 48.410.3902 2 cm kalınlıkta bazalt plaklarla asansör sövesi yapılması
+19 48.420.1002 Andezit plaklar ile merdiven basamağı kaplaması yapılması (B:4 cm, R:3 cm)
+20 48.420.1102 3 cm kalınlığında andezit plaklar ile parapet yapılması
+21 48.420.1202 3 cm kalınlığında andezit plaklar ile dış denizlik yapılması
+22 48.420.1302 3 cm kalınlığında andezit plaklar ile harpuşta yapılması
+23 48.435.1002 10x25x50 cm boyutlarında bazalt bordür temini ve yerine döşenmesi
+24 48.450.1003 Fugalı, yüzeyi pürüzlü mermer pirinçli suni taş sıva (taraklı mozaik) yapılması
+(beyaz çimentolu)
+25 48.450.1004 Fugalı, yüzeyi pürüzlü mermer pirinçli suni taş sıva (taraklı mozaik) yapılması
+(normal çimentolu)
+26 48.685.1004 Perde duvar üzerine çerçeveli galvanizli kafes tel ile çevre emniyeti yapılması
+27 48.685.1005 Hudut karakolu için 3 m yüksekliğinde çevre emniyeti yapılması
+28 48.700.1701 Pencere dışına kafes tel yapılması
+MİLLÎ SAVUNMA BAKANLIĞI 2025 YILI DEĞİŞEN
+(TARİF, RAYİÇ VS. DEĞİŞİKLİĞİ NEDENİYLE)
+POZLARIN LİSTESİ
+2-1
+ÜÇÜNCÜ BÖLÜM
+MİLLÎ SAVUNMA BAKANLIĞI
+2025 YILI İNŞAAT GENEL FİYAT
+ANALİZLERİ
+MİLLÎ SAVUNMA BAKANLIĞI FİYAT ANALİZİ
+Poz No Analizin Adı Ölçü Birimi
+48.125.1002 m³
+Poz No Tanımı Ölçü
+Birimi
+Miktarı Birim
+Fiyatı
+Tutarı
+Malzeme
+10.130.1009 63 mm'ye kadar kırmataş (en az iki tane
+sınıfı karıştırılarak hazırlanmış)
+m³ 1,000 325,00 325,00
+İşçilik
+10.100.1062 Düz İşçisi (inşaat işçisi) sa 0,600 165,00 99,00
+Toplam Tutarı 424,00
+% 25 Yüklenici Kârı ve Genel Giderler 106,00
+1 m³ Fiyatı : 530,00
+63 mm'ye kadar kırmataş temin edilerek, el ile serme yapılması
+63 mm'ye kadar kırmataş temin edilmesi, alana dökülmesi, el ile serilmesi için gerekli her türlü malzeme ve
+zayiatı, işçilik, alet ve edevat giderleri, iş yerindeki yükleme, yatay ve düşey taşımalar, boşaltma, yüklenici kârı ve
+genel giderler dâhil 1 m³ fiyatıdır.
+Ölçü: Projesindeki ölçülere göre hacmi hesaplanır.
+3-1
+MİLLÎ SAVUNMA BAKANLIĞI FİYAT ANALİZİ
+Poz No Analizin Adı Ölçü Birimi
+48.150.1001 m³
+Poz No Tanımı Ölçü
+Birimi
+Miktarı Birim
+Fiyatı
+Tutarı
+Malzeme
+15.150.1003 Beton santralinde üretilen veya satın
+alınan ve beton pompasıyla basılan,
+C16/20 basınç dayanım sınıfında, gri
+renkte, normal hazır beton dökülmesi
+(beton nakli dahil) (karsız fiyat)
+m³ 1,000 2.321,02 2.321,02
+Ekipman
+İşçilik
+15.150.1003 Beton santralinde üretilen veya satın
+alınan ve beton pompasıyla basılan,
+C16/20 basınç dayanım sınıfında, gri
+renkte, normal hazır beton dökülmesi
+(beton nakli dahil) (karsız fiyat)
+m³ 0,250 2.321,02 580,26
+Kalıp, derz lataları, derz malzemeleri,
+beton yüzeyinin perdahlanması v.b. her
+türlü malzeme ve işler karşılığı
+Toplam Tutarı 2.901,28
+% 25 Yüklenici Kârı ve Genel Giderler 725,32
+1 m³ Fiyatı : 3.626,60
+Saha, tretuvar, yol, otopark, hangar ve atölye içi beton kaplama yapılması
+(C16/20 hazır beton kullanılarak)
+Şartnamesindeki esaslar dâhilinde ve projesinde gösterilen veya idarece verilen talimata uygun olarak C16/20
+kalitesinde yol betonu dökülmesi, sıkıştırılması, tesviyesi, derzlerin bırakılması veya açılması ve teçhizi,
+doldurulması, itinalı bir suretle beton kürünün sulanmak, örtmek vs. şekillerde tamamlanması suretiyle her çeşit
+(taşıt yolu, yaya kaldırım, tünel içi kaldırım ve yol betonları) beton yol yapılması, derz latalarının iş başında temini
+ve yerleştirilmesi, bitüm ve boya malzemesinin iş başında temini, kayma demirlerine bir kat sülyen bir kat bitüm
+sürülmesi, gerekli çelik kalıp malzemelerinin iş başında temini ve kalıpların yapılması, dilatasyon derzlerinin
+altına sabit derz latalarının temin edilerek yerleştirilmesi, beton yüzeyinin perdah makinası ile perdahlanması,
+beton yüzeyinin yol eksenine dik (enine) istikamette süpürülmesi, kendir ve kenevirin iş başında temini ve
+bunların derz boşluklarına yerleştirilmesi, daha sonra derzlerin iyice temizlenmesi, kurutulması ve derz cidarlarına
+bitümlü malzeme sürülmesi, soğuk veya sıcak derz malzemelerinin iş başında temini ve derzlerin bunlarla
+doldurulması suretiyle beton yol, tretuvar, tünel içi kaldırım ve yol betonları yapılması ve diğer bütün işlerin
+yapılması için gerekli her türlü malzeme ve zayiatı, makine, işçilik, alet ve edevat giderleri ile yüklenici kârı ve
+genel giderler dâhil (demir bedeli, demir işçiliği ile demirin yüklenmesi, iş başında boşaltılması hariç) 1 m³
+fiyatıdır.
+Ölçü: Tatbik projesi ebadları üzerinden hesaplanan m3 cinsinden hacmidir.
+Not:
+1-) Kullanılması halinde hasır çelik bedeli ayrıca ilgili pozdan ödenecektir.
+3-2
+MİLLÎ SAVUNMA BAKANLIĞI FİYAT ANALİZİ
+Poz No Analizin Adı Ölçü Birimi
+48.150.1002 m³
+Poz No Tanımı Ölçü
+Birimi
+Miktarı Birim
+Fiyatı
+Tutarı
+Malzeme
+15.150.1006 Beton santralinde üretilen veya satın
+alınan ve beton pompasıyla basılan,
+C30/37 basınç dayanım sınıfında, gri
+renkte, normal hazır beton dökülmesi
+(beton nakli dahil) (karsız fiyat)
+m³ 1,000 2.621,02 2.621,02
+Ekipman
+İşçilik
+15.150.1006 Beton santralinde üretilen veya satın
+alınan ve beton pompasıyla basılan,
+C30/37 basınç dayanım sınıfında, gri
+renkte, normal hazır beton dökülmesi
+(beton nakli dahil) (karsız fiyat)
+m³ 0,250 2.621,02 655,26
+Kalıp, derz lataları, derz malzemeleri,
+beton yüzeyinin perdahlanması v.b. her
+türlü malzeme ve işler karşılığı
+Toplam Tutarı 3.276,28
+% 25 Yüklenici Kârı ve Genel Giderler 819,07
+1 m³ Fiyatı : 4.095,35
+Beton kaplama yapılması (C30/37 hazır beton kullanılarak)
+Şartnamesindeki esaslar dâhilinde ve projesinde gösterilen veya idarece verilen talimata uygun olarak C30/37
+kalitesinde yol betonu dökülmesi, sıkıştırılması, tesviyesi, derzlerin bırakılması veya açılması ve teçhizi,
+doldurulması, itinalı bir suretle beton kürünün sulanmak, örtmek vs. şekillerde tamamlanması suretiyle her çeşit
+(taşıt yolu, yaya kaldırım, tünel içi kaldırım ve yol betonları) beton yol yapılması, derz latalarının iş başında temini
+ve yerleştirilmesi, bitüm ve boya malzemesinin iş başında temini, kayma demirlerine bir kat sülyen bir kat bitüm
+sürülmesi, gerekli çelik kalıp malzemelerinin iş başında temini ve kalıpların yapılması, dilatasyon derzlerinin
+altına sabit derz latalarının temin edilerek yerleştirilmesi, beton yüzeyinin perdah makinası ile perdahlanması,
+beton yüzeyinin yol eksenine dik (enine) istikamette süpürülmesi, kendir ve kenevirin iş başında temini ve
+bunların derz boşluklarına yerleştirilmesi, daha sonra derzlerin iyice temizlenmesi, kurutulması ve derz cidarlarına
+bitümlü malzeme sürülmesi, soğuk veya sıcak derz malzemelerinin iş başında temini ve derzlerin bunlarla
+doldurulması suretiyle beton yol, tretuvar, tünel içi kaldırım ve yol betonları yapılması ve diğer bütün işlerin
+yapılması için gerekli her türlü malzeme ve zayiatı, makine, işçilik, alet ve edevat giderleri ile yüklenici kârı ve
+genel giderler dâhil (demir bedeli, demir işçiliği ile demirin; yüklenmesi, iş başında boşaltılması hariç) 1 m³
+fiyatıdır.
+Ölçü: Tatbik projesi ebadları üzerinden hesaplanan m3 cinsinden hacmidir.
+Not:
+1-) Kullanılması halinde hasır çelik bedeli ayrıca ilgili pozdan ödenecektir.
+3-3
+MİLLÎ SAVUNMA BAKANLIĞI FİYAT ANALİZİ
+Poz No Analizin Adı Ölçü Birimi
+48.150.2005 m
+Poz No Tanımı Ölçü
+Birimi
+Miktarı Birim
+Fiyatı
+Tutarı
+Malzeme
+10.130.4506 Kavak kerestesi (TS 1249 EN 975-2) m³ 0,004 4.350,00 17,40
+10.420.1006 Çiviler (TS 155) kg 0,010 20,00 0,20
+10.300.2158 Polietilen fitil (çap:Ø 6 mm) m 1,000 1,50 1,50
+(uygun çaplı derz dolgu fitili karşılığı)
+10.300.2157 Tek bilesenli poliüretan esaslı UV
+dayanımlı derz dolgu mastigi (310 ml
+kartuş)
+ad 0,810 160,00 129,60
+10.130.1703 Beton çelik çubuğu düz Ø14 - Ø50 mm
+(S220)
+kg 1,450 19,70 28,57
+10.160.1027 Makine yağı kg 0,010 47,25 0,47
+10.300.1175 Demir-çelik yüzey koruyucu astar
+(antipas)
+lt 0,005 120,00 0,60
+25.305.1101 Sert PVC plastik boru (Ø20), montaj dahil
+(karsız fiyat)
+m 0,450 29,83 13,42
+İşçilik
+10.100.1068 Birinci sınıf usta sa 0,200 250,00 50,00
+10.100.1041 Marangoz usta yardımcısı sa 0,100 185,00 18,50
+10.100.1047 Soğuk demirci usta yardımcısı sa 0,100 185,00 18,50
+10.100.1062 Düz İşçisi (inşaat işçisi) sa 0,100 165,00 16,50
+Toplam Tutarı 295,26
+% 25 Yüklenici Kârı ve Genel Giderler 73,82
+1 m Fiyatı : 369,08
+Beton yollarda 30-50 m aralıkta, saha betonlarında her iki istikamette 30-50 m aralıkta, anolar halinde dökülen
+betonun dolu gözlerinin dökümü esnasında birleşim yerlerine onaylı projesindeki detaya göre 75 cm ara ile 50 cm
+boyunda Ø16 yuvarlak demir yerleştirilmesi, boş gözlerinin betonu dökülmeden önce demirin açıkta kalan ucunun
+2 kat boyanarak yağlanması, 20 mm genişliğinde derz teşkil etmek için 48 saat suda bekletilmiş 20x150 mm
+ebadındaki kavak kerestesinin konulması ve üzerine 20x50 mm ebadındaki kavak kerestenin mastar çekmek için
+geçici olarak eklenmesi, daha sonra boş gözlere beton dökülerek prizini aldıktan sonra 20x50 mm’lik parçanın
+sökülmesi, beton kenarlarının mala ile pahlanması ve derzin içine uygun çaplı polietilen fitilin sıkıca
+yerleştirilmesinden sonra üzerine UV dayanımlı poliüretan esaslı mastik ile doldurulması için gerekli her türlü
+malzeme ve zayiatı, işçilik, alet ve edevat giderleri, iş yerindeki yükleme, yatay ve düşey taşımalar, boşaltma,
+yüklenici kârı ve genel giderler dâhil 1 m fiyatıdır.
+Ölçü: Proje üzerinden uygulama yapılan demirli genleşme derzi uzunluğu hesaplanır.
+Not:
+1) Derz derinliği beton kalınlığının 1/3 ile 1/4 'ü arasında olmalıdır.
+2) Derz genişliğinden % 30 daha fazla çaplı derz dolgu fitili seçilir.
+Saha betonu ve beton yollarda demirli genleşme derzi yapılması
+3-4
+MİLLÎ SAVUNMA BAKANLIĞI FİYAT ANALİZİ
+Poz No Analizin Adı Ölçü Birimi
+48.150.2006 m
+Poz No Tanımı Ölçü
+Birimi
+Miktarı Birim
+Fiyatı
+Tutarı
+Malzeme
+10.130.1708 Sıcak haddelenmiş profil demirler (S235
+JR) (I-U-T-Omega) (TS 910, TS 911 EN
+10055, TS 912)
+kg 0,163 22,50 3,67
+10.300.2158 Polietilen fitil (çap:Ø 6 mm) m 1,000 1,50 1,50
+(uygun çaplı derz dolgu fitili karşılığı)
+10.300.2157 Tek bilesenli poliüretan esaslı UV
+dayanımlı derz dolgu mastigi (310 ml
+kartuş)
+ad 0,240 160,00 38,40
+İşçilik
+10.100.1068 Birinci sınıf usta sa 0,200 250,00 50,00
+10.100.1062 Düz İşçisi (inşaat işçisi) sa 0,100 165,00 16,50
+Toplam Tutarı 110,07
+% 25 Yüklenici Kârı ve Genel Giderler 27,52
+1 m Fiyatı : 137,59
+3x4 m ebadında alanlar halinde dama şeklinde (bir boş, bir dolu) dökülen saha veya yol betonunun kenarlarının
+mala ile pahlanması, boş gözlerere dökülen beton pirizini almadan eski betonla olan ara kesitine T50’lik profil
+sokularak, onaylı projesindeki detaya göre 50 mm derinlik ve 6 mm kalınlıkta derz teşkil edilmesi, derzin içine
+uygun çaplı polietilen fitilin sıkıca yerleştirilmesinden sonra üzerine UV dayanımlı poliüretan esaslı mastik ile
+doldurulması için gerekli her türlü malzeme ve zayiatı, işçilik, alet ve edevat giderleri, iş yerindeki yükleme, yatay
+ve düşey taşımalar, boşaltma, yüklenici kârı ve genel giderler dâhil 1 m fiyatıdır.
+Ölçü: Proje üzerinden uygulama yapılan büzülme derzi uzunluğu hesaplanır.
+Not:
+1) Derz derinliği beton kalınlığının 1/3 ile 1/4 'ü arasında olmalıdır.
+2) Derz genişliğinden % 30 daha fazla çaplı derz dolgu fitili seçilir.
+Saha betonu ve beton yollarda büzülme derzi yapılması
+3-5
+MİLLÎ SAVUNMA BAKANLIĞI FİYAT ANALİZİ
+Poz No Analizin Adı Ölçü Birimi
+48.150.2007 m
+Poz No Tanımı Ölçü
+Birimi
+Miktarı Birim
+Fiyatı
+Tutarı
+Malzeme
+10.130.1708 Sıcak haddelenmiş profil demirler (S235
+JR) (I-U-T-Omega) (TS 910, TS 911 EN
+10055, TS 912)
+kg 0,163 22,50 3,67
+(% 10 zayiatı ve 30 kez kullanılması
+kabulüyle)
+10.300.2158 Polietilen fitil (çap:Ø 6 mm) m 1,000 1,50 1,50
+(uygun çaplı derz dolgu fitili karşılığı)
+10.300.2157 Tek bilesenli poliüretan esaslı UV
+dayanımlı derz dolgu mastigi (310 ml
+kartuş)
+ad 0,240 160,00 38,40
+10.130.1703 Beton çelik çubuğu düz Ø14 - Ø50 mm
+(S220)
+kg 1,450 19,70 28,57
+İşçilik
+10.100.1068 Birinci sınıf usta sa 0,200 250,00 50,00
+10.100.1047 Soğuk demirci usta yardımcısı sa 0,100 185,00 18,50
+10.100.1062 Düz İşçisi (inşaat işçisi) sa 0,100 165,00 16,50
+Toplam Tutarı 157,14
+% 25 Yüklenici Kârı ve Genel Giderler 39,29
+1 m Fiyatı : 196,43
+3x4 m ebadında anolar halinde dama şeklinde (bir boş, bir dolu) dökülen saha veya yol betonunun dolu gözlerenin
+dökümü esnasında onaylı projesindeki detaya göre anoların birleşim yerlerine 75 cm ara ile 50 cm boyunda Ø16
+yuvarlak demir yerleştirilmesi, beton kenarlarının mala ile pahlanması, daha sonra boş gözlere dökülen beton
+pirizini almadan eski betonla olan ara kesitine T50’lik profil sokularak 50 mm derinlikte ve 6 mm kalınlıkta derz
+teşkil edilmesi, derzin içine uygun çaplı polietilen fitilin sıkıca yerleştirilmesinden sonra üzerine UV dayanımlı
+poliüretan esaslı mastik ile doldurulması için gerekli her türlü malzeme ve zayiatı, işçilik, alet ve edevat giderleri,
+iş yerindeki yükleme, yatay ve düşey taşımalar, boşaltma, yüklenici kârı ve genel giderler dâhil 1 m fiyatıdır.
+Ölçü: Proje üzerinden uygulama yapılan inşaat derzi uzunluğu hesaplanır.
+Not:
+1) Derz derinliği beton kalınlığının 1/3 ile 1/4 'ü arasında olmalıdır.
+2) Derz genişliğinden % 30 daha fazla çaplı derz dolgu fitili seçilir.
+Saha betonu ve beton yollarda inşaat derzi yapılması
+3-6
+MİLLÎ SAVUNMA BAKANLIĞI FİYAT ANALİZİ
+Poz No Analizin Adı Ölçü Birimi
+48.150.2008 m
+Poz No Tanımı Ölçü
+Birimi
+Miktarı Birim
+Fiyatı
+Tutarı
+Malzeme
+10.130.4506 Kavak kerestesi (TS 1249 EN 975-2) m³ 0,004 4.350,00 17,40
+10.420.1006 Çiviler (TS 155) kg 0,010 20,00 0,20
+10.300.2158 Polietilen fitil (çap:Ø 6 mm) m 1,000 1,50 1,50
+(uygun çaplı derz dolgu fitili karşılığı)
+10.300.2157 Tek bilesenli poliüretan esaslı UV
+dayanımlı derz dolgu mastigi (310 ml
+kartuş)
+ad 0,810 160,00 129,60
+İşçilik
+10.100.1068 Birinci sınıf usta sa 0,200 250,00 50,00
+10.100.1041 Marangoz usta yardımcısı sa 0,100 185,00 18,50
+10.100.1062 Düz İşçisi (inşaat işçisi) sa 0,100 165,00 16,50
+Toplam Tutarı 233,70
+% 25 Yüklenici Kârı ve Genel Giderler 58,43
+1 m Fiyatı : 292,13
+Beton yollarda 30-50 m aralıkta, saha betonlarında her iki istikamette 30-50 m aralıkta, 20 mm genişliğinde derz
+teşkil etmek için 48 saat suda bekletilmiş 20x150 mm ebadındaki kavak kerestesinin konulması ve üzerine 20x50
+mm ebadındaki kavak kerestenin mastar çekmek için geçici olarak eklenmesi, daha sonra boş gözlere beton
+dökülerek prizini aldıktan sonra 20x50 mm'lik parçanın sökülmesi, beton kenarlarının mala ile pahlanması ve
+derzin içine uygun çaplı polietilen fitilin sıkıca yerleştirilmesinden sonra üzerine UV dayanımlı poliüretan esaslı
+mastik ile doldurulması için gerekli her türlü malzeme ve zayiatı, işçilik, alet ve edevat giderleri, iş yerindeki
+yükleme, yatay ve düşey taşımalar, boşaltma, yüklenici kârı ve genel giderler dâhil 1 m fiyatıdır.
+Ölçü: Proje üzerinden uygulama yapılan genleşme derzi uzunluğu hesaplanır.
+Not:
+1) Derz derinliği beton kalınlığının 1/3 ile 1/4 'ü arasında olmalıdır.
+2) Derz genişliğinden % 30 daha fazla çaplı derz dolgu fitili seçilir.
+Saha betonu ve beton yollarda genleşme derzi yapılması
+3-7
+MİLLÎ SAVUNMA BAKANLIĞI FİYAT ANALİZİ
+Poz No Analizin Adı Ölçü Birimi
+48.220.1008 m
+Poz No Tanımı Ölçü
+Birimi
+Miktarı Birim
+Fiyatı
+Tutarı
+Malzeme
+10.130.2211 190 x 90 x 50 mm dolu harman tuğlası ad 11,000 5,15 56,65
+10.130.1005 Kum (tuvenan agregadan elenmiş ve
+yıkanmış)
+m³ 0,100 272,00 27,20
+İşçilik
+10.100.1045 Duvarcı usta yardımcısı sa 0,100 185,00 18,50
+10.100.1062 Düz İşçisi (inşaat işçisi) sa 0,200 165,00 33,00
+Toplam Tutarı 135,35
+% 25 Yüklenici Kârı ve Genel Giderler 33,84
+1 m Fiyatı : 169,19
+Onaylı projesi tip detayındaki ölçülerde kazısı yapılmış olan kanal tabanına 10 cm yüksekliğinde kum serilmesi,
+üzerine detay projesine göre uygun kablo döşenmesi ve tekrar 10 cm kum serilermesi, üzerine dolu harman
+tuğlanın (19x9x5) enlemesine dizilerek yerleştirilmesi için gerekli her türlü malzeme ve zayiatı, işçilik, alet ve
+edevat giderleri, iş yerindeki yükleme, yatay ve düşey taşımalar, boşaltma, yüklenici kârı ve genel giderler dâhil 1
+m fiyatıdır.
+Ölçü: Kablo kanalı uzunluğu ölçülür.
+Not: Kanal kazısı ve dolgu sıkıştırılması bu fiyata dâhil olmayıp ait oldukları pozdan ödenir.
+Yer altı kablo kanalı için (tek kablolu) kum ve harman tuğlası serilmesi
+(Tip-A)
+3-8
+MİLLÎ SAVUNMA BAKANLIĞI FİYAT ANALİZİ
+Poz No Analizin Adı Ölçü Birimi
+48.220.1009 m
+Poz No Tanımı Ölçü
+Birimi
+Miktarı Birim
+Fiyatı
+Tutarı
+Malzeme
+10.130.2211 190 x 90 x 50 mm dolu harman tuğlası ad 33,000 5,15 169,95
+10.130.1005 Kum (tuvenan agregadan elenmiş ve
+yıkanmış)
+m³ 0,1106 272,00 30,08
+İşçilik
+10.100.1045 Duvarcı usta yardımcısı sa 0,300 185,00 55,50
+10.100.1062 Düz İşçisi (inşaat işçisi) sa 0,600 165,00 99,00
+Toplam Tutarı 354,53
+% 25 Yüklenici Kârı ve Genel Giderler 88,63
+1 m Fiyatı : 443,16
+Onaylı projesi tip detayındaki ölçülerde kazısı yapılmış olan kanala dolu harman tuğlanın (19x9x5) kablo arasına
+dikine yerleştirilmesi, kanal tabanına 10 cm yüksekliğinde kum serilmesi, üzerine detay projesine göre uygun
+kablo döşenmesi ve tekrar 10 cm kum serilmesi, üzerine dolu harman tuğlanın (19x9x5) enlemesine iki sıra yan
+yana dizilerek yerleştirilmesi için gerekli her türlü malzeme ve zayiatı, işçilik, alet ve edevat giderleri, iş yerindeki
+yükleme, yatay ve düşey taşımalar, boşaltma, yüklenici kârı ve genel giderler dâhil 1 m fiyatıdır.
+Ölçü: Kablo kanalı uzunluğu ölçülür.
+Not: Kanal kazısı ve dolgu sıkıştırılması bu fiyata dâhil olmayıp ait oldukları pozdan ödenir.
+Yer altı kablo kanalı için (bir adet alçak gerilim kablolu ve bir adet yüksek
+gerilim kablolu) kum ve harman tuğlası serilmesi (Tip-B)
+3-9
+MİLLÎ SAVUNMA BAKANLIĞI FİYAT ANALİZİ
+Poz No Analizin Adı Ölçü Birimi
+48.220.1010 m
+Poz No Tanımı Ölçü
+Birimi
+Miktarı Birim
+Fiyatı
+Tutarı
+Malzeme
+10.130.2211 190 x 90 x 50 mm dolu harman tuğlası ad 22,000 5,15 113,30
+10.130.1005 Kum (tuvenan agregadan elenmiş ve
+yıkanmış)
+m³ 0,120 272,00 32,64
+İşçilik
+10.100.1045 Duvarcı usta yardımcısı sa 0,200 185,00 37,00
+10.100.1062 Düz İşçisi (inşaat işçisi) sa 0,400 165,00 66,00
+Toplam Tutarı 248,94
+% 25 Yüklenici Kârı ve Genel Giderler 62,24
+1 m Fiyatı : 311,18
+Yer altı kablo kanalı için (üç adet alçak gerilim kablolu) kum ve harman
+tuğlası serilmesi (Tip- C)
+Onaylı projesi tip detayındaki ölçülerde kazısı yapılmış olan kanal tabanına 10 cm yüksekliğinde kum serilmesi,
+üzerine detay projesine göre uygun kablo döşenmesi ve tekrar 10 cm kum serilermesi, üzerine dolu harman
+tuğlanın (19x9x5) enlemesine iki sıra yan yana dizilerek yerleştirilmesi için gerekli her türlü malzeme ve zayiatı,
+işçilik, alet ve edevat giderleri, iş yerindeki yükleme, yatay ve düşey taşımalar, boşaltma, yüklenici kârı ve genel
+giderler dâhil 1 m fiyatıdır.
+Ölçü: Kablo kanalı uzunluğu ölçülür.
+Not: Kanal kazısı ve dolgu sıkıştırılması bu fiyata dâhil olmayıp ait oldukları pozdan ödenir.
+3-10
+MİLLÎ SAVUNMA BAKANLIĞI FİYAT ANALİZİ
+Poz No Analizin Adı Ölçü Birimi
+48.220.1011 m
+Poz No Tanımı Ölçü
+Birimi
+Miktarı Birim
+Fiyatı
+Tutarı
+Malzeme
+10.130.2211 190 x 90 x 50 mm dolu harman tuğlası ad 27,200 5,15 140,08
+10.130.1005 Kum (tuvenan agregadan elenmiş ve
+yıkanmış)
+m³ 0,140 272,00 38,08
+İşçilik
+10.100.1045 Duvarcı usta yardımcısı sa 0,240 185,00 44,40
+10.100.1062 Düz İşçisi (inşaat işçisi) sa 0,480 165,00 79,20
+Toplam Tutarı 301,76
+% 25 Yüklenici Kârı ve Genel Giderler 75,44
+1 m Fiyatı : 377,20
+Yer altı kablo kanalı için (iki adet alçak gerilim kablosu ve iki adet yüksek
+gerilim kablosunun yan yana bulunduğu) kum ve harman tuğlası serilmesi
+(Tip-D)
+Onaylı projesi tip detayındaki ölçülerde kazısı yapılmış olan kanal tabanına 10 cm yüksekliğinde kum serilmesi,
+üzerine detay projesine göre uygun kablo döşenmesi ve tekrar 10 cm kum serilermesi, üzerine dolu harman
+tuğlanın (19x9x5) dizilerek yan yana yerleştirilmesi için gerekli her türlü malzeme ve zayiatı, işçilik, alet ve edevat
+giderleri, iş yerindeki yükleme, yatay ve düşey taşımalar, boşaltma, yüklenici kârı ve genel giderler dâhil 1 m
+fiyatıdır.
+Ölçü: Kablo kanalı uzunluğu ölçülür.
+Not: Kanal kazısı ve dolgu sıkıştırılması bu fiyata dâhil olmayıp ait oldukları pozdan ödenir.
+3-11
+MİLLÎ SAVUNMA BAKANLIĞI FİYAT ANALİZİ
+Poz No Analizin Adı Ölçü Birimi
+48.220.1012 m
+Poz No Tanımı Ölçü
+Birimi
+Miktarı Birim
+Fiyatı
+Tutarı
+Malzeme
+10.130.2211 190 x 90 x 50 mm dolu harman tuğlası ad 27,200 5,15 140,08
+10.130.1005 Kum (tuvenan agregadan elenmiş ve
+yıkanmış)
+m³ 0,211 272,00 57,39
+İşçilik
+10.100.1045 Duvarcı usta yardımcısı sa 0,240 185,00 44,40
+10.100.1062 Düz İşçisi (inşaat işçisi) sa 0,480 165,00 79,20
+Toplam Tutarı 321,07
+% 25 Yüklenici Kârı ve Genel Giderler 80,27
+1 m Fiyatı : 401,34
+Onaylı projesi tip detayındaki ölçülerde kazısı yapılmış olan kanal tabanına 10 cm yüksekliğinde kum serilmesi,
+üzerine detay projesine göre uygun kablo döşenmesi ve tekrar 10 cm kum serilermesi, üzerine dolu harman
+tuğlanın (19x9x5) iki sıra yan yana dizilerek yerleştirilmesi, 10 cm yüksekliğinde kum serilmesi, üzerine detay
+projesine göre uygun kablo döşenmesi ve tekrar 10 cm kum serilermesi, üzerine dolu harman tuğlanın (19x9x5)
+enine dizilerek yerleştirilmesi için gerekli her türlü malzeme ve zayiatı, işçilik, alet ve edevat giderleri, iş yerindeki
+yükleme, yatay ve düşey taşımalar, boşaltma, yüklenici kârı ve genel giderler dâhil 1 m fiyatıdır.
+Ölçü: Kablo kanalı uzunluğu ölçülür.
+Not: Kanal kazısı ve dolgu sıkıştırılması bu fiyata dâhil olmayıp ait oldukları pozdan ödenir.
+Yer altı kablo kanalı için (iki adet alçak gerilim kablosu ve iki adet yüksek
+gerilim kablosunun üst üste bulunduğu) kum ve harman tuğlası serilmesi
+(Tip-E)
+3-12
+MİLLÎ SAVUNMA BAKANLIĞI FİYAT ANALİZİ
+Poz No Analizin Adı Ölçü Birimi
+48.220.1013 m
+Poz No Tanımı Ölçü
+Birimi
+Miktarı Birim
+Fiyatı
+Tutarı
+Malzeme
+10.130.2211 190 x 90 x 50 mm dolu harman tuğlası ad 66,000 5,15 339,90
+10.130.1005 Kum (tuvenan agregadan elenmiş ve
+yıkanmış)
+m³ 0,332 272,00 90,30
+İşçilik
+10.100.1045 Duvarcı usta yardımcısı sa 0,600 185,00 111,00
+10.100.1062 Düz İşçisi (inşaat işçisi) sa 1,200 165,00 198,00
+Toplam Tutarı 739,20
+% 25 Yüklenici Kârı ve Genel Giderler 184,80
+1 m Fiyatı : 924,00
+Onaylı projesi tip detayındaki ölçülerde kazısı yapılmış olan kanal tabanına 10 cm yüksekliğinde kum serilmesi,
+üzerine detay projesine göre uygun kablo döşenmesi ve tekrar 10 cm kum serilermesi, üzerine dolu harman
+tuğlanın (19x9x5) enlemesine üç sıra yan yana dizilerek yerleştirilmesi, 10 cm yüksekliğinde kum serilmesi,
+üzerine detay projesine göre uygun kablo döşenmesi ve tekrar 10 cm kum serilermesi, üzerine dolu harman
+tuğlanın (19x9x5) enlemesine üç sıra yan yana dizilerek yerleştirilmesi için gerekli her türlü malzeme ve zayiatı,
+işçilik, alet ve edevat giderleri, iş yerindeki yükleme, yatay ve düşey taşımalar, boşaltma, yüklenici kârı ve genel
+giderler dâhil 1 m fiyatıdır.
+Ölçü: Kablo kanalı uzunluğu ölçülür.
+Not: Kanal kazısı ve dolgu sıkıştırılması bu fiyata dâhil olmayıp ait oldukları pozdan ödenir.
+Yer altı kablo kanalı için (çok sayıda alçak gerilim kablosu ve yüksek
+gerilim kablosu için) kum ve harman tuğlası serilmesi (Tip-F)
+3-13
+MİLLÎ SAVUNMA BAKANLIĞI FİYAT ANALİZİ
+Poz No Analizin Adı Ölçü Birimi
+48.220.1014 m
+Poz No Tanımı Ölçü
+Birimi
+Miktarı Birim
+Fiyatı
+Tutarı
+Malzeme
+10.130.2211 190 x 90 x 50 mm dolu harman tuğlası ad 33,000 5,15 169,95
+10.130.1005 Kum (tuvenan agregadan elenmiş ve
+yıkanmış)
+m³ 0,158 272,00 42,98
+İşçilik
+10.100.1045 Duvarcı usta yardımcısı sa 0,300 185,00 55,50
+10.100.1062 Düz İşçisi (inşaat işçisi) sa 0,600 165,00 99,00
+Toplam Tutarı 367,43
+% 25 Yüklenici Kârı ve Genel Giderler 91,86
+1 m Fiyatı : 459,29
+Yer altı kablo kanalı için (çok sayıda alçak gerilim kablolu) kum ve harman
+tuğlası serilmesi (Tip-G)
+Onaylı projesi tip detayındaki ölçülerde kazısı yapılmış olan kanal tabanına 10 cm yüksekliğinde kum serilmesi,
+üzerine detay projesine göre uygun kablo döşenmesi ve tekrar 10 cm kum serilermesi, üzerine dolu harman
+tuğlanın (19x9x5) enlemesine üç sıra yan yana dizilerek yerleştirilmesi için gerekli her türlü malzeme ve zayiatı,
+işçilik, alet ve edevat giderleri, iş yerindeki yükleme, yatay ve düşey taşımalar, boşaltma, yüklenici kârı ve genel
+giderler dâhil 1 m fiyatıdır.
+Ölçü: Kablo kanalı uzunluğu ölçülür.
+Not: Kanal kazısı ve dolgu sıkıştırılması bu fiyata dâhil olmayıp ait oldukları pozdan ödenir.
+3-14
+MİLLÎ SAVUNMA BAKANLIĞI FİYAT ANALİZİ
+Poz No Analizin Adı Ölçü Birimi
+48.220.2001 m³
+Poz No Tanımı Ölçü
+Birimi
+Miktarı Birim
+Fiyatı
+Tutarı
+Malzeme
+10.130.2211 190 x 90 x 50 mm dolu harman tuğlası ad 890,000 5,15 4.583,50
+(zayiatıyla)
+19.100.2503 200 kg çimento dozlu harç yapılması m³ 0,275 1.307,20 359,48
+İşçilik
+10.100.1013 Duvarcı ustası sa 5,000 250,00 1.250,00
+10.100.1062 Düz İşçisi (inşaat işçisi) sa 7,500 165,00 1.237,50
+10.100.1062 Düz İşçisi (inşaat işçisi) sa 2,500 165,00 412,50
+İnşaat yerindeki yükleme, yatay ve düşey
+taşıma, boşaltma
+Toplam Tutarı 7.842,98
+% 25 Yüklenici Kârı ve Genel Giderler 1.960,75
+1 m³ Fiyatı : 9.803,73
+Isı merkezi bacalarında harman tuğlası ile baca içi kaplama yapılması
+Projesine uygun olarak 890 adet harman tuğlası ve 200 dozlu 0,275 m³ harç ile baca içinin örülmesi için gerekli
+her türlü malzeme ve zayiatı, işçilik, alet ve edevat giderleri, iş yerindeki yükleme, yatay ve düşey taşımalar,
+boşaltma, yüklenici kârı ve genel giderler dâhil 1 m³ fiyatıdır.
+Ölçü: Projedeki boyutlar üzerinden hesaplanır. 0,10 m²’den küçük boşluklar düşülmez.
+3-15
+MİLLÎ SAVUNMA BAKANLIĞI FİYAT ANALİZİ
+Poz No Analizin Adı Ölçü Birimi
+48.250.1001 m²
+Poz No Tanımı Ölçü
+Birimi
+Miktarı Birim
+Fiyatı
+Tutarı
+Malzeme
+10.130.1025 Kum (tuvenan agregadan elenmiş ve
+yıkanmış) (makina ile temin) (08.009/1)
+m³ 0,035 268,92 9,41
+10.130.1209 Portland Kalkerli Çimento (Torbalı)
+(TS EN 197-1 CEM II/A-L 42,5 R)
+ton 0,014 2.250,00 31,50
+10.300.2001 Normal priz alan su geçirimsizlik katkısı
+(sıvı)
+kg 0,420 23,00 9,66
+10.130.9991 Su m³ 0,0091 38,50 0,35
+İşçilik
+Maddenin harca karıştırılması ve şapın
+uygulanması;
+10.100.1012 Sıvacı ustası sa 1,300 250,00 325,00
+10.100.1062 Düz İşçisi (inşaat işçisi) sa 1,000 165,00 165,00
+İnşaat yerindeki yükleme, yatay ve düşey
+taşıma, boşaltma
+Toplam Tutarı 540,92
+% 25 Yüklenici Kârı ve Genel Giderler 135,23
+1 m² Fiyatı : 676,15
+Yalıtım yapılacak sathın temizlenmesi, derzlerin ayıklanıp yıkanması, 1 m³ harç’a (1 m³ kum, 400 kg- çimento) 12
+kg normal priz alan su geçirimsizlik katkı maddesi kullanılarak elde edilen harçla ortalama 3,50 cm kalınlıkta ve
+iki aşamada olmak üzere teknik şartnameye uygun yalıtım şapı yapılması ve sulanması için gerekli her türlü
+malzeme ve zayiatı, işçilik, alet ve edevat giderleri, iş yerindeki yükleme, yatay ve düşey taşıma, boşaltma,
+yüklenici kârı ve genel giderler dâhil 1 m² fiyatıdır.
+Ölçü: Yalıtım şapı yapılan satıh alanı projesinden ölçülür.
+Not:
+1) İdarenin yazılı izni ile uygulanır.
+2) Kullanılacak gereçlerin orijinal ambalajlı olması, laboratuvar raporu bulunması şarttır.
+Harç içine karışan maddelerle yalıtım şapı yapılması (normal priz alan su
+geçirimsizlik katkısı ile)
+3-16
+MİLLÎ SAVUNMA BAKANLIĞI FİYAT ANALİZİ
+Poz No Analizin Adı Ölçü Birimi
+48.250.1002 m²
+Poz No Tanımı Ölçü
+Birimi
+Miktarı Birim
+Fiyatı
+Tutarı
+Malzeme
+10.130.1025 Kum (tuvenan agregadan elenmiş ve
+yıkanmış) (makina ile temin) (08.009/1)
+m³ 0,035 268,92 9,41
+10.130.1209 Portland Kalkerli Çimento (Torbalı)
+(TS EN 197-1 CEM II/A-L 42,5 R)
+ton 0,014 2.250,00 31,50
+10.300.2002 Hızlı priz alan su geçirmezlik katkısı
+(sıvı)
+kg 0,420 30,00 12,60
+10.130.9991 Su m³ 0,0091 38,50 0,35
+İşçilik
+Maddenin harca karıştırılması ve şapın
+uygulanması;
+10.100.1012 Sıvacı ustası sa 1,300 250,00 325,00
+10.100.1062 Düz İşçisi (inşaat işçisi) sa 1,000 165,00 165,00
+İnşaat yerindeki yükleme, yatay ve düşey
+taşıma, boşaltma
+Toplam Tutarı 543,86
+% 25 Yüklenici Kârı ve Genel Giderler 135,97
+1 m² Fiyatı : 679,83
+Yalıtım yapılacak sathın temizlenmesi, derzlerin ayıklanıp yıkanması, 1 m³ harç’a (1 m³ kum, 400 kg- çimento) 12
+kg hızlı priz alan su geçirimsizlik katkı maddesi kullanılarak elde edilen harçla ortalama 3,50 cm kalınlıkta ve iki
+aşamada olmak üzere teknik şartnameye uygun yalıtım şapı yapılması ve sulanması için gerekli her türlü malzeme
+ve zayiatı, işçilik, alet ve edevat giderleri, iş yerindeki yükleme, yatay ve düşey taşıma, boşaltma, yüklenici kârı ve
+genel giderler dâhil 1 m² fiyatıdır.
+Ölçü: Yalıtım şapı yapılan satıh alanı projesinden ölçülür.
+Not:
+1) İdarenin yazılı izni ile uygulanır.
+2) Kullanılacak gereçlerin orijinal ambalajlı olması, laboratuvar raporu bulunması şarttır.
+Harç içine karışan maddelerle yalıtım şapı yapılması (hızlı priz alan su
+geçirimsizlik katkısı ile)
+3-17
+MİLLÎ SAVUNMA BAKANLIĞI FİYAT ANALİZİ
+Poz No Analizin Adı Ölçü Birimi
+48.310.1001 m
+Poz No Tanımı Ölçü
+Birimi
+Miktarı Birim
+Fiyatı
+Tutarı
+Malzeme
+10.200.1002 Düz siyah sac (2,0 mm kalınlık) kg 7,910 20,84 164,84
+(%10 zayiatı dâhil)
+10.130.1707 Lamalar (TS EN 10058) kg 0,500 22,50 11,25
+(kelepçe yapılması karşılığı)
+10.420.1012 Vida ve plastik dübel ad 2,000 1,50 3,00
+15.540.1121 Demir yüzeylere iki kat antipas, iki kat
+sentetik esaslı parlak boya yapılması
+(karsız fiyat)
+m² 1,000 241,24 241,24
+İşçilik
+10.100.1026 Tenekeci ustası sa 0,500 250,00 125,00
+10.100.1066 Tenekeci usta yardımcısı sa 0,500 185,00 92,50
+10.100.1062 Düz İşçisi (inşaat işçisi) sa 0,300 165,00 49,50
+Toplam Tutarı 687,33
+% 25 Yüklenici Kârı ve Genel Giderler 171,83
+1 m Fiyatı : 859,16
+İdarece onaylanmış detaylara göre; 2 mm’lik siyah sacdan (10.200.1002) 10x10 cm kare kesitli yağmur iniş borusu
+yapılması, kaynaklanması, her iki yüzünün iki kat antipas ve iki kat sentetik esaslı parlak boya ile boyanması, 20/5
+lama ile 60 cm kelepçe yapılarak bir metre ara kullanılması ve vida ile bina yüzeyine tespiti için gerekli her türlü
+malzeme ve zayiatı, işçilik, alet ve edevat giderleri, iş yerindeki yükleme, yatay ve düşey taşımalar, boşaltma,
+yüklenici kârı ve genel giderler dâhil 1 m fiyatıdır.
+Ölçü: Projeye göre uzunluğu hesaplanır.
+Düşey sac yağmur borusu yapılması
+3-18
+MİLLÎ SAVUNMA BAKANLIĞI FİYAT ANALİZİ
+Poz No Analizin Adı Ölçü Birimi
+48.325.2003 m²
+Poz No Tanımı Ölçü
+Birimi
+Miktarı Birim
+Fiyatı
+Tutarı
+Malzeme
+10.200.1304 Sıcak daldırma galvaniz üzeri boyalı
+oluklu/trapez sac fabrikasyon rulo
+boyama sistemi ile boyanmış (dışa bakan
+yüzeyi min. 5 mikron epoksi astar ve üstü
+min. 20 mikron polyester son kat boya içe
+bakan yüzeyi min. 5 mikron epoksi astar)
+kg 14,976 43,90 657,45
+(zayiatıyla 2x6,24x1,20= 14,976 kg)
+10.200.1304 Sıcak daldırma galvaniz üzeri boyalı
+oluklu/trapez sac fabrikasyon rulo
+boyama sistemi ile boyanmış (dışa bakan
+yüzeyi min. 5 mikron epoksi astar ve üstü
+min. 20 mikron polyester son kat boya içe
+bakan yüzeyi min. 5 mikron epoksi astar)
+kg 2,246 43,90 98,60
+Bulon, klips, bağlantı vidaları, silikon, ısı
+yalıtım bantları, kenetli levha haline
+getirilmesi ve ek yerlerinin kenetlenmesi
+v.s. karşılığı % 15
+19.100.2012 Galvanizli sacdan Z profilli aşık
+yapılması
+kg 3,925 85,91 337,20
+1,50 mm galvanizli sac z profil aşık
+(1,5x0,20/0,60x7,85= 3,925 kg)
+10.330.5498 Su buharı geçişine açık su yalıtım örtüsü
+TS EN 13859-1,2 (su sızdırmazlık sınıfı
+WI)
+m² 2,200 38,00 83,60
+Buhar kesici ve dengeleyici örtü karşılığı
+10.310.1191 Taşyünü Isı Yalıtım Levhaları (TS EN
+13162+A1), Eğik Çatılarda Isı Yalıtımı
+İçin (Mertek arası, kenet çatı gibi), 0,030
+≤ Isıl iletkenliği < 0,035W/(m.K) olan
+m³ 0,105 1.750,00 183,75
+10.170.1924 Nemli şartlarda yük taşıyıcı olarak
+kullanılan (OSB/3 Tipi), 15 mm
+kalınlığında
+m² 1,050 193,50 203,18
+İşçilik
+10.100.1026 Tenekeci ustası sa 0,700 250,00 175,00
+Mevcut ahşap, betonarme yada çelik aşıklar üzerine 0,65 mm kalınlıkta
+sıcak daldırma galvaniz üzeri boyalı oluklu/trapez sac ile 10 cm
+kalınlığında taşyünü ısı yalıtımlı ve 15 mm kalınlığında OSB levhalı
+yerinde kenetli sistem ile çatı örtüsü yapılması
+3-19
+MİLLÎ SAVUNMA BAKANLIĞI FİYAT ANALİZİ
+10.100.1017 Dülger ustası sa 0,300 250,00 75,00
+10.100.1010 Yalıtımcı Ustası sa 0,300 250,00 75,00
+10.100.1064 Çırak sa 0,350 165,00 57,75
+10.100.1062 Düz İşçisi (inşaat işçisi) sa 0,350 165,00 57,75
+(İnşaat yerindeki yükleme, yatay ve düşey
+taşıma, boşaltma dahil)
+Toplam Tutarı 2.004,28
+% 25 Yüklenici Kârı ve Genel Giderler 501,07
+1 m² Fiyatı : 2.505,35
+Mevcut ahşap, çelik, betonarme kiriş veya aşıklı çatı üzerine 0,65 mm fabrikasyon rulo boyama sistemi ile
+boyanmış (dışa bakan yüzeyi min. 5 mikron epoksi astar ve üstü min. 20 mikron polyester son kat boya içe bakan
+yüzeyi min. 5 mikron epoksi astar) galvanizli sacdan oluklu/trapez levhanın proje, şartname ve detayında
+belirtildiği şekilde aşıklar üzerine, her aşıkta ve en fazla iki hadvede bir mevcut altyapı ile sac arasında uygun
+tespiti sağlayacak vidalar ile vidalanması, tamamlanmış trapez kaplama üzerine su buharı aktarımı (Sd) minimum
+50 m olan buhar geçirimsiz örtülerin serilmesi (buhar kesici örtü), boyuna ve enine en az 10 cm binilerin yapılması
+ve ek yerlerinin uygun şekilde bantlanması, 60 cm ara ile 1,50 mm kalınlığında galvaniz sactan bükümlendirilmiş
+Z-profillerin her hadvede bir trapezlere vidalanması, Z-profiller arasına 10 cm kalınlıktaki taşyünü levhaların
+yerleştirilmesi, 15 mm kalınlıktaki OSB/3 levhaların Z-profillere vidalanarak tespit edilmesi, OSB levhalar üzerine
+su sızdırmazlık sınıfı W1 su buharı aktarımı (Sd) en fazla 0,03 m olan nefes alan su yalıtım örtüleri (buhar
+dengeleyici örtü) binileri minimum 10 cm olacak şekilde serilmesi ve en fazla 30 cm aralıklarla zımbalanarak
+OSB‘ye tespit edilmesi, ek yerleri ve montaj sırasında hasar gören bölümlerin bantlar ile yapıştırılarak örtü
+tabakasının tamamen su geçirimsiz hale getirilmesi, üzerine 0,65 mm fabrikasyon rulo boyama sistemi ile
+boyanmış (dışa bakan yüzeyi min. 5 mikron epoksi astar ve üstü min. 20 mikron polyester son kat boya içe bakan
+yüzeyi min. 5 mikron epoksi astar) kenet levhanın OSB üzerine 35 cm aralıklar ile monte edilmiş bağlantı klipsleri
+yardımı ile monte edilmesi ile gizli vidalama formuna sahip son kat kaplamanın yapılarak elektrikli dikiş robotu ile
+hatvelerinin bükümlendirilerek işbaşında kenetli sistem çatı örtüsü yapılması için gerekli her türlü malzeme ve
+zayiatı, işçilik, araç gereç giderleri, inşaat yerindeki yükleme, yatay ve düşey taşıma, boşaltma, yüklenici kârı ve
+genel giderler dâhil 1 m² fiyatıdır.
+Ölçü: Proje üzerinden yerinde kenetli sistem çatı örtüsü yapılan yüzey alanı hesap edilir.
+Not:
+1) Standart olarak kullanılan trapez galvanizli sac için; aşık aralıkları, çatı rüzgar kar yükleri, diğer sabit ve
+değişken yükler göz önüne alınarak, yük taşıma tablolarından trapez formu ve sac kalınlığının doğruluğu teyit
+edilmeli, gerekiyorsa farklı formlar tercih edilmelidir.
+2) Trapez sac levhanın montajına hakim rüzgar yönünün tersinden başlanır ve yapılacak hesaba göre vida sıklığı
+arttırılabilir.
+3) Montaj yapılan aşıkların ahşap, betonarme, çelik olmasına göre uygun montaj vidası seçilir.
+4) Z- profil yüksekliği ısı kayıp hesabı sonucunda bulunacak yalıtım kalınlığına eşit olacaktır.
+5) Isı kayıp hesabı sonucuna göre taşyünü levha kalınlığı değiştirilebilir.
+6) Çatının maruz kalacağı rüzgâr yüküne göre, çatının saçak kısımlarındaki son 1,5 metrelik bölümde klips sıklığı
+20 cm’e kadar düşürülebilir.
+3-20
+MİLLÎ SAVUNMA BAKANLIĞI FİYAT ANALİZİ
+Poz No Analizin Adı Ölçü Birimi
+48.325.2004 m²
+Poz No Tanımı Ölçü
+Birimi
+Miktarı Birim
+Fiyatı
+Tutarı
+Malzeme
+10.200.1304 Sıcak daldırma galvaniz üzeri boyalı
+oluklu/trapez sac fabrikasyon rulo
+boyama sistemi ile boyanmış (dışa bakan
+yüzeyi min. 5 mikron epoksi astar ve üstü
+min. 20 mikron polyester son kat boya içe
+bakan yüzeyi min. 5 mikron epoksi astar)
+kg 7,488 43,90 328,72
+(zayiatıyla 6,24x1,20= 7,488 kg)
+10.200.1304 Sıcak daldırma galvaniz üzeri boyalı
+oluklu/trapez sac fabrikasyon rulo
+boyama sistemi ile boyanmış (dışa bakan
+yüzeyi min. 5 mikron epoksi astar ve üstü
+min. 20 mikron polyester son kat boya içe
+bakan yüzeyi min. 5 mikron epoksi astar)
+kg 1,123 43,90 49,30
+Bulon, klips, bağlantı vidaları, silikon,
+kenetli levha haline getirilmesi ve ek
+yerlerinin kenetlenmesi v.s. karşılığı
+% 15
+İşçilik
+10.100.1026 Tenekeci ustası sa 0,500 250,00 125,00
+10.100.1062 Düz İşçisi (inşaat işçisi) sa 0,350 165,00 57,75
+10.100.1064 Çırak sa 0,350 165,00 57,75
+Toplam Tutarı 618,52
+% 25 Yüklenici Kârı ve Genel Giderler 154,63
+1 m² Fiyatı : 773,15
+Mevcut ahşap, betonarme yada çelik aşıklar üzerine 0,65 mm kalınlıkta
+sıcak daldırma galvaniz üzeri boyalı oluklu/trapez sac ile kenetli sistem çatı
+örtüsü yapılması
+Mevcut ahşap, çelik, betonarme kiriş veya aşıklı çatı üzerine 0,65 mm fabrikasyon rulo boyama sistemi boyanmış
+(dışa bakan yüzeyi min. 5 mikron epoksi astar ve üstü min. 20 mikron polyester son kat boya içe bakan yüzeyi min.
+5 mikron epoksi astar) galvanizli sacdan oluklu/trapez levhanın kenet makinası ile mahyadan saçağa (veya
+saçaktan saçağa) tek boy olarak gizli vidalama formuna sahip son kat kaplamanın yapılarak elektrikli dikiş robotu
+ile hatvelerinin bükümlendirilerek kenetli sistem çatı örtüsü yapılması için gerekli her türlü malzeme ve zayiatı,
+işçilik, inşaat yerindeki yükleme, yatay ve düşey taşıma, boşaltma, araç gereç giderleri, yüklenici kârı ve genel
+giderler dâhil 1 m² fiyatıdır.
+Ölçü: Kaplanan çatı yüzeyleri alan olarak hesap edilir.
+Not:
+1) İdarenin yazılı izni ile uygulanır.
+2) Trapez sac levhanın montajına hakim rüzgar yönünün tersinden başlanır.
+3-21
+MİLLÎ SAVUNMA BAKANLIĞI FİYAT ANALİZİ
+Poz No Analizin Adı Ölçü Birimi
+48.325.2005 m²
+Poz No Tanımı Ölçü
+Birimi
+Miktarı Birim
+Fiyatı
+Tutarı
+Malzeme
+10.200.1304 Sıcak daldırma galvaniz üzeri boyalı
+oluklu/trapez sac fabrikasyon rulo
+boyama sistemi ile boyanmış (dışa bakan
+yüzeyi min. 5 mikron epoksi astar ve üstü
+min. 20 mikron polyester son kat boya içe
+bakan yüzeyi min. 5 mikron epoksi astar)
+kg 5,760 43,90 252,86
+(zayiatıyla 4,80x1,20= 5,760 kg)
+10.130.4502 Çam kerestesi (II.sınıf) m³ 0,003 7.500,00 22,50
+(Kadron 5 x 5 cm. zayiatıyla)
+10.420.1007 Galvanizli çivi (TS 155) kg 0,100 45,00 4,50
+10.240.9116 Kepli trifon vida ad 2,000 2,20 4,40
+10.420.1517 Lastik conta ad 2,000 1,70 3,40
+10.420.1154 Madeni pul ad 2,000 0,80 1,60
+İşçilik
+10.100.1026 Tenekeci ustası sa 0,300 250,00 75,00
+10.100.1064 Çırak sa 0,250 165,00 41,25
+10.100.1062 Düz İşçisi (inşaat işçisi) sa 0,250 165,00 41,25
+Toplam Tutarı 446,76
+% 25 Yüklenici Kârı ve Genel Giderler 111,69
+1 m² Fiyatı : 558,45
+Ahşap çatı üzerine 0,50 mm kalınlıkta boyalı oluklu/trapez sac ile çatı
+örtüsü yapılması
+Mevcut ahşap çatı üzerine 5x5 cm lik ikinci sınıf çam kerestesinden kadronların galvanizli çivi ile yeterli
+aralıklarla tespiti, kadronların üzerine 0,50 mm kalınlığında galvaniz üzeri boyalı oluklu/trapez sac fabrikasyon
+rulo boyama sistemi ile boyanmış (dışa bakan yüzeyi min. 5 mikron epoksi astar ve üstü min. 20 mikron polyester
+son kat boya içe bakan yüzeyi min. 5 mikron epoksi astar) levhaların döşeme işlemine hâkim rüzgâr yönüne ters
+yönden başlamak ve birbiri üzerine şartnamesine uygun olarak en az enden 10 cm ve boydan 15 cm bindirilerek,
+oluklu/trapez levhaların matkapla delindikten sonra, madeni pul ve lastik conta kullanılarak en az 6,5 cm’lik kepli
+trifon vidalarla, tespit edilmesi, baca dibi ve diğer sıva diplerinin su sızdırmayacak şekilde yalıtılması, mahya
+elemanları ile mahyaların teşkili, inşaat yerindeki yükleme yatay ve düşey taşıma, boşaltma, her türlü malzeme ve
+zayiatı, işçilik, araç ve gereç giderleri, yüklenici kârı ve genel giderler dâhil 1 m² fiyatıdır.
+Ölçü: Kaplanan çatı yüzeyleri alan olarak hesap edilir.
+3-22
+MİLLÎ SAVUNMA BAKANLIĞI FİYAT ANALİZİ
+Poz No Analizin Adı Ölçü Birimi
+48.325.2006 m²
+Poz No Tanımı Ölçü
+Birimi
+Miktarı Birim
+Fiyatı
+Tutarı
+Malzeme
+10.200.1304 Sıcak daldırma galvaniz üzeri boyalı
+oluklu/trapez sac fabrikasyon rulo
+boyama sistemi ile boyanmış (dışa bakan
+yüzeyi min. 5 mikron epoksi astar ve üstü
+min. 20 mikron polyester son kat boya içe
+bakan yüzeyi min. 5 mikron epoksi astar)
+kg 5,760 43,90 252,86
+(zayiatıyla 4,80x1,20= 5,760 kg)
+10.130.4502 Çam kerestesi (II.sınıf) m³ 0,003 7.500,00 22,50
+(Kadron 5 x 5 cm. zayiatıyla)
+10.420.1012 Vida ve plastik dübel ad 2,000 1,50 3,00
+10.240.9116 Kepli trifon vida ad 2,000 2,20 4,40
+10.420.1517 Lastik conta ad 2,000 1,70 3,40
+10.420.1154 Madeni pul ad 2,000 0,80 1,60
+İşçilik
+10.100.1017 Dülger ustası sa 0,100 250,00 25,00
+10.100.1026 Tenekeci ustası sa 0,250 250,00 62,50
+10.100.1064 Çırak sa 0,300 165,00 49,50
+10.100.1062 Düz İşçisi (inşaat işçisi) sa 0,300 165,00 49,50
+Toplam Tutarı 474,26
+% 25 Yüklenici Kârı ve Genel Giderler 118,57
+1 m² Fiyatı : 592,83
+Betonarme veya techizatlı hazır (hafif veya normal agrega ile) beton
+plaklarla yapılmış mevcut çatı döşemesi üzerine 0,50 mm kalınlıkta boyalı
+oluklu/trapez sac ile çatı örtüsü yapılması
+Mevcut betonarme veya teçhizatlı hazır beton plaklardan (hafif veya normal agregalı) çatı döşemesi üzerine ikinci
+sınıf çam kerestesinden 5x5 cm lik kadronların 6/8 lik vida ve 12 lik plastik dübel ile beton delinerek yeterli
+aralıklı olarak tespiti, kadronların üzerine 0,50 mm kalınlığında galvaniz üzeri boyalı oluklu/trapez sac fabrikasyon
+rulo boyama sistemi ile boyanmış (dışa bakan yüzeyi min. 5 mikron epoksi astar ve üstü min. 20 mikron polyester
+son kat boya içe bakan yüzeyi min. 5 mikron epoksi astar) levhaların döşeme işlemine hâkim rüzgâr yönüne ters
+yönden başlamak ve birbiri üzerine şartnamesine uygun olarak en az enden 10 cm ve boydan 15 cm bindirilerek,
+oluklu/trapez levhalar matkapla delindikten sonra, madeni pul ve lastik conta kullanılarak en az 6,5 cmlik kepli
+trifon vidalarla vidalanarak tespit edilmesi, baca dibi ve diğer sıva diplerinin su sızdırmayacak şekilde yalıtılması,
+mahya elemanları ile mahyaların teşkili, inşaat yerindeki yükleme, yatay ve düşey taşıma, boşaltma, her türlü
+malzeme ve zayiatı, işçilik, araç ve gereç giderleri, yüklenici kârı ve genel giderler dâhil 1 m² fiyatıdır.
+Ölçü: Kaplanan çatı yüzeyleri alan olarak hesap edilir. 0.25 m² den büyük boşluklar düşülür, varsa saçak alınları
+ölçüye dâhil edilir.
+3-23
+MİLLÎ SAVUNMA BAKANLIĞI FİYAT ANALİZİ
+Poz No Analizin Adı Ölçü Birimi
+48.325.2007 m²
+Poz No Tanımı Ölçü
+Birimi
+Miktarı Birim
+Fiyatı
+Tutarı
+Malzeme
+10.200.1304 Sıcak daldırma galvaniz üzeri boyalı
+oluklu/trapez sac fabrikasyon rulo
+boyama sistemi ile boyanmış (dışa bakan
+yüzeyi min. 5 mikron epoksi astar ve üstü
+min. 20 mikron polyester son kat boya içe
+bakan yüzeyi min. 5 mikron epoksi astar)
+kg 5,760 43,90 252,86
+(zayiatıyla 4,80x1,20= 5,760 kg)
+10.240.9117 Kepli kancalı vida ad 2,000 2,20 4,40
+10.420.1517 Lastik conta ad 2,000 1,70 3,40
+10.420.1154 Madeni pul ad 2,000 0,80 1,60
+İşçilik
+10.100.1026 Tenekeci ustası sa 0,350 250,00 87,50
+10.100.1064 Çırak sa 0,300 165,00 49,50
+10.100.1062 Düz İşçisi (inşaat işçisi) sa 0,300 165,00 49,50
+Toplam Tutarı 448,76
+% 25 Yüklenici Kârı ve Genel Giderler 112,19
+1 m² Fiyatı : 560,95
+Çelik veya ön yapımlı betonarme kiriş üzerine 0,50 mm kalınlıkta boyalı
+oluklu/trapez sac ile çatı örtüsü yapılması
+Mevcut çelik veya ön yapımlı betonarme kiriş üzerine 0,50 mm kalınlığında galvaniz üzeri boyalı oluklu/trapez sac
+fabrikasyon rulo boyama sistemi ile boyanmış (dışa bakan yüzeyi min. 5 mikron epoksi astar ve üstü min. 20
+mikron polyester son kat boya içe bakan yüzeyi min. 5 mikron epoksi astar) levhaların döşeme işlemine hâkim
+rüzgâr yönüne ters yönden başlamak ve birbiri üzerine şartnamesine uygun olarak en az enden 10 cm ve boydan 15
+cm bindirilerek, oluklu levhalar matkapla delindikten sonra, madeni pul ve lastik conta kullanılarak kepli kancalı
+vidalarla , çelik veya ön yapımlı betonarme kirişe uygun şekil verilerek, bu kirişlere monte edilmesi, baca dibi ve
+diğer sıva diplerinin su sızdırmayacak şekilde yalıtılması, mahya elemanları ile mahyaların teşkili, inşaat yerindeki
+yükleme, yatay ve düşey taşıma, boşaltma, her türlü malzeme ve zayiatı, işçilik, araç ve gereç giderleri, yüklenici
+kârı ve genel giderler dâhil 1 m² fiyatıdır.
+Ölçü: Kaplanan çatı yüzeyleri alan olarak hesap edilir. 0.25 m² den büyük boşluklar düşülür, varsa saçak alınları
+ölçüye dâhil edilir.
+Not: Mevcut çelik ve ön yapımlı betonarme oluklu levha tespit aşıklarının aralıkları levha tespiti için uygun
+değilse, aşıklar kendi pozundaki bedel karşılığında uygun aralıkta yeniden yaptırılır.
+3-24
+MİLLÎ SAVUNMA BAKANLIĞI FİYAT ANALİZİ
+Poz No Analizin Adı Ölçü Birimi
+48.340.1004 m²
+Poz No Tanımı Ölçü
+Birimi
+Miktarı Birim
+Fiyatı
+Tutarı
+Malzeme
+10.310.1253 Taşyünü Isı ve Ses Yalıtım Levhaları (TS
+EN 13162+A1), Yük Altında
+Kullanılmayan Detaylarda Isı ve Ses
+Yalıtımı İçin, Bölme Duvar, Yükseltilmiş
+Döşeme, Asma Tavan vb. Diğer
+Detaylarda Kullanılan Taşyünü Levhalar,
+Ses yutma katsayısı (ortalama) ≥ 1,00
+l
+m³ 0,0525 2.385,00 125,21
+(zayiatı ile)
+10.330.2351 Çelik çivili ısı yalıtım dübelleri, 9-15 cm
+(15cm dahil) uzunluklar için
+ad 6,000 3,50 21,00
+10.330.2503 Isı yalıtım levhası yapıştırıcısı (TS 13566)
+(çimento esaslı polimer katkılı)
+kg 4,000 4,00 16,00
+İşçilik
+10.100.1042 Yalıtımcı usta yardımcısı sa 0,200 185,00 37,00
+10.100.1062 Düz İşçisi (inşaat işçisi) sa 0,100 165,00 16,50
+Toplam Tutarı 215,71
+% 25 Yüklenici Kârı ve Genel Giderler 53,93
+1 m² Fiyatı : 269,64
+Klima dairesi ve benzeri yerlerin duvarlarına 5 cm kalınlığında taşyünü ile
+ses yalıtımı yapılması (Ses yutma katsayısı (ortalama) >= 1,00 olan)
+Onaylı detay projesine göre; mevcut betonarme duvar üzerine 5 cm kalınlığında taşyünü levhaların konulması ve
+yüzeye tespiti için gerekli her türlü malzeme ve zayiatları, işçilik, alet ve devat giderleri, iş yerindeki yükleme,
+yatay ve düşey taşımalar, boşaltma, yüklenici kârı ve genel giderler dâhil 1 m² fiyatıdır.
+Ölçü: Projesindeki ölçülere göre kaplanan yüzey hesaplanır.
+Not: Ses yalıtım malzemesi olan taş yününün kalınlığı ve yoğunluğu ses yalıtım hesaplarına göre değişebilir.
+3-25
+MİLLÎ SAVUNMA BAKANLIĞI FİYAT ANALİZİ
+Poz No Analizin Adı Ölçü Birimi
+48.340.1005 m²
+Poz No Tanımı Ölçü
+Birimi
+Miktarı Birim
+Fiyatı
+Tutarı
+Malzeme
+10.310.1253 Taşyünü Isı ve Ses Yalıtım Levhaları (TS
+EN 13162+A1), Yük Altında
+Kullanılmayan Detaylarda Isı ve Ses
+Yalıtımı İçin, Bölme Duvar, Yükseltilmiş
+Döşeme, Asma Tavan vb. Diğer
+Detaylarda Kullanılan Taşyünü Levhalar,
+Ses yutma katsayısı (ortalama) ≥ 1,00
+olan
+m³ 0,0525 2.385,00 125,21
+(zayiatı ile)
+İşçilik
+10.100.1042 Yalıtımcı usta yardımcısı sa 0,150 185,00 27,75
+Toplam Tutarı 152,96
+% 25 Yüklenici Kârı ve Genel Giderler 38,24
+1 m² Fiyatı : 191,20
+Klima dairesi ve benzeri yerlerin döşemesi üzerine 5 cm kalınlığında
+taşyünü ile ses yalıtımı yapılması (Ses yutma katsayısı (ortalama) >= 1,00
+olan)
+Onaylı detay projesine göre; mevcut betonarme döşeme üzerine 5 cm kalınlığında taşyünü levhaların döşenmesi
+için gerekli her türlü malzeme ve zayiatları, işçilik, alet ve edevat giderleri, iş yerindeki yükleme, yatay ve düşey
+taşımalar, boşaltma, yüklenici kârı ve genel giderler dâhil 1 m² fiyatıdır.
+Ölçü: Projesindeki ölçülere göre kaplanan yüzey hesaplanır.
+Not: Ses yalıtım malzemesi olan taş yününün kalınlığı ve yoğunluğu ses yalıtım hesaplarına göre değişebilir.
+3-26
+MİLLÎ SAVUNMA BAKANLIĞI FİYAT ANALİZİ
+Poz No Analizin Adı Ölçü Birimi
+48.340.1006 m²
+Poz No Tanımı Ölçü
+Birimi
+Miktarı Birim
+Fiyatı
+Tutarı
+Malzeme
+10.310.1253 Taşyünü Isı ve Ses Yalıtım Levhaları (TS
+EN 13162+A1), Yük Altında
+Kullanılmayan Detaylarda Isı ve Ses
+Yalıtımı İçin, Bölme Duvar, Yükseltilmiş
+Döşeme, Asma Tavan vb. Diğer
+Detaylarda Kullanılan Taşyünü Levhalar,
+Ses yutma katsayısı (ortalama) ≥ 1,00
+l
+m³ 0,02625 2.385,00 62,61
+(zayiatı ile)
+10.330.2351 Çelik çivili ısı yalıtım dübelleri, 9-15 cm
+(15cm dahil) uzunluklar için
+ad 6,000 3,50 21,00
+10.330.2503 Isı yalıtım levhası yapıştırıcısı (TS 13566)
+(çimento esaslı polimer katkılı)
+kg 4,000 4,00 16,00
+İşçilik
+10.100.1042 Yalıtımcı usta yardımcısı sa 0,200 185,00 37,00
+10.100.1062 Düz İşçisi (inşaat işçisi) sa 0,100 165,00 16,50
+Toplam Tutarı 153,11
+% 25 Yüklenici Kârı ve Genel Giderler 38,28
+1 m² Fiyatı : 191,39
+Klima dairesi ve benzeri yerlerin duvarlarına 2,5 cm kalınlığında taşyünü
+ile ses yalıtımı yapılması (Ses yutma katsayısı (ortalama) >= 1,00 olan)
+Onaylı detay projesine göre, mevcut betonarme duvar üzerine 2,5 cm kalınlığında taşyünü levhaların konulması ve
+yüzeye tespiti için gerekli her türlü malzeme ve zayiatları, işçilik, alet ve edevat giderleri, iş yerindeki yükleme,
+yatay ve düşey taşımalar, boşaltma, yüklenici kârı ve genel giderler dâhil 1 m² fiyatıdır.
+Ölçü: Projesindeki ölçülere göre kaplanan yüzey hesaplanır.
+Not:
+Ses yalıtım malzemesi olan taş yününün kalınlığı ve yoğunluğu ses yalıtım hesaplarına göre değişebilir.
+3-27
+MİLLÎ SAVUNMA BAKANLIĞI FİYAT ANALİZİ
+Poz No Analizin Adı Ölçü Birimi
+48.410.1101 m
+Poz No Tanımı Ölçü
+Birimi
+Miktarı Birim
+Fiyatı
+Tutarı
+Malzeme
+10.240.1001 Beyaz ve gri mermerler (honlu veya cilalı)
+(TS 10449), beyaz mermer
+m² 0,105 325,00 34,13
+(zayiatıyla)
+10.240.1001 Beyaz ve gri mermerler (honlu veya cilalı)
+(TS 10449), beyaz mermer
+m² 0,022 325,00 7,15
+19.100.2510 Kum ve kırmataş ile 400 kg çimento
+dozlu harç yapılması
+m³ 0,001 1.796,61 1,80
+19.100.2432 Saten alçı harcı hazırlanması m³ 0,0012 3.338,10 4,01
+İşçilik
+10.100.1005 Mermer kaplama ustası sa 0,250 250,00 62,50
+10.100.1062 Düz İşçisi (inşaat işçisi) sa 0,300 165,00 49,50
+Toplam Tutarı 159,09
+% 25 Yüklenici Kârı ve Genel Giderler 39,77
+1 m Fiyatı : 198,86
+3 cm kalınlığındaki beyaz mermer ile limonluk yapılması
+Beyaz mermer merdiven basamağı kenarına 10x3 cm ebadında limonluğun konulması ve silinmesi için gerekli her
+türlü malzeme ve zayiatı, işçilik, alet ve edevat giderleri, iş yerindeki yükleme, yatay ve düşey taşımalar, boşaltma,
+yüklenici kârı ve genel giderler dâhil 1 m fiyatıdır.
+Ölçü: Limonluk yapılan yerler projesi üzerinden hesaplanır.
+Not:
+K=tespit edilen katsayı, a=en (cm), b=boy (cm), h=kalınlık (cm)
+K=(k1xk2)-1, k1=log(axb)/log(180)-0,22 (ebat artış katsayısı) , k2=log(h)/log(6)+0,61 (kalınlık artış katsayısı)
+Tüm serbest boylar için ebat artış katsayısı k1=1 dir.
+3x30xs.boy için, k1=1, k2=log(3)/log(6)+0,61=1,22
+K=(1x1,22)-1= 0,22
+2x30xs.boy için
+K=1
+10.240.1001….. 0,10x0,22= 0,022 m²
+3-28
+MİLLÎ SAVUNMA BAKANLIĞI FİYAT ANALİZİ
+Poz No Analizin Adı Ölçü Birimi
+48.410.1151 m
+Poz No Tanımı Ölçü
+Birimi
+Miktarı Birim
+Fiyatı
+Tutarı
+Malzeme
+10.240.1701 Renkli mermerler (honlu veya cilalı) (TS
+10449), renkli mermer
+m² 0,105 398,00 41,79
+(zayiatıyla)
+10.240.1701 Renkli mermerler (honlu veya cilalı) (TS
+10449), renkli mermer
+m² 0,022 398,00 8,76
+19.100.2510 Kum ve kırmataş ile 400 kg çimento
+dozlu harç yapılması
+m³ 0,001 1.796,61 1,80
+19.100.2432 Saten alçı harcı hazırlanması m³ 0,0012 3.338,10 4,01
+İşçilik
+10.100.1005 Mermer kaplama ustası sa 0,250 250,00 62,50
+10.100.1062 Düz İşçisi (inşaat işçisi) sa 0,300 165,00 49,50
+Toplam Tutarı 168,36
+% 25 Yüklenici Kârı ve Genel Giderler 42,09
+1 m Fiyatı : 210,45
+3 cm kalınlığındaki renkli mermer ile limonluk yapılması
+Renkli mermer merdiven basamağı kenarına 10x3 cm ebadında limonluğun konulması ve silinmesi için gerekli her
+türlü malzeme ve zayiatı, işçilik, alet ve edevat giderleri, iş yerindeki yükleme, yatay ve düşey taşımalar, boşaltma,
+yüklenici kârı ve genel giderler dâhil 1 m fiyatıdır.
+Ölçü: Limonluk yapılan yerler projesi üzerinden hesaplanır.
+Not:
+K=tespit edilen katsayı, a=en (cm), b=boy (cm), h=kalınlık (cm)
+K=(k1xk2)-1, k1=log(axb)/log(180)-0,22 (ebat artış katsayısı) , k2=log(h)/log(6)+0,61 (kalınlık artış katsayısı)
+Tüm serbest boylar için ebat artış katsayısı k1=1 dir.
+3x30xs.boy için, k1=1, k2=log(3)/log(6)+0,61=1,22
+K=(1x1,22)-1= 0,22
+2x30xs.boy için
+K=1
+10.240.1701….. 0,10x0,22= 0,022 m²
+3-29
+MİLLÎ SAVUNMA BAKANLIĞI FİYAT ANALİZİ
+Poz No Analizin Adı Ölçü Birimi
+48.410.2002 m²
+Poz No Tanımı Ölçü
+Birimi
+Miktarı Birim
+Fiyatı
+Tutarı
+Malzeme
+10.240.2405 Granitler (honlu veya cilalı) (TS 6234, TS
+699), Bulancak Füme (Giresun)
+m² 1,050 1.635,00 1.716,75
+(zayiatıyla)
+10.240.2405 Granitler (honlu veya cilalı) (TS 6234, TS
+699), Bulancak Füme (Giresun)
+m² 0,220 1.635,00 359,70
+19.100.2510 Kum ve kırmataş ile 400 kg çimento
+dozlu harç yapılması
+m³ 0,040 1.796,61 71,86
+10.300.2231 Çimento esaslı, standart performanslı derz
+dolgusu (TS EN 13888 - CG1)
+kg 0,500 11,50 5,75
+10.130.9991 Su m³ 0,010 38,50 0,39
+İşçilik
+10.100.1005 Mermer kaplama ustası sa 2,000 250,00 500,00
+10.100.1062 Düz İşçisi (inşaat işçisi) sa 2,000 165,00 330,00
+10.100.1062 Düz İşçisi (inşaat işçisi) sa 0,500 165,00 82,50
+(İş yerinde yükleme, yatay ve düşey
+taşıma, boşaltma)
+Toplam Tutarı 3.066,95
+% 25 Yüklenici Kârı ve Genel Giderler 766,74
+1 m² Fiyatı : 3.833,69
+3 cm kalınlığındaki bulancak füme granit ile döşeme kaplaması yapılması
+Şartnamesine uygun yapılmış tesviye betonu yüzünün temizlenmesi, ıslatılması, üzerine 4 cm kalınlıkta 400 kg
+dozlu çimento harcı ile bir altlık yapılması, üzerine aralıkları en çok 2 mm olmak üzere 3 cm kalınlıkta her boyutta
+bulancak füme granitlerin projedeki şekil ve taksimata göre tesviyesinde döşenmesi, derzlerin ve bütün yüzeylerin
+çimento esaslı derz macunu ile sıvanması, döşeme yüzündeki, macunun yarım saat sonra temizlenmesi, silinmesi
+ve bu işlerin yapılmasında gerekli her türlü malzeme ve zayiatı, işçilik, alet ve edevat giderleri, iş yerindeki
+yükleme, yatay ve düşey taşımalar, boşaltma, yüklenici kârı ve genel giderler dâhil 1 m² fiyatıdır.
+Ölçü: Kaplama yapılan yüzeyler projesi üzerinden hesaplanır. (m²)
+Not:
+K=tespit edilen katsayı, a=en (cm), b=boy (cm), h=kalınlık (cm)
+K=(k1xk2)-1, k1=log(axb)/log(180)-0,22 (ebat artış katsayısı) , k2=log(h)/log(6)+0,61 (kalınlık artış katsayısı)
+Tüm serbest boylar için ebat artış katsayısı k1=1 dir.
+3x30xs.boy için, k1=1, k2=log(3)/log(6)+0,61=1,22
+K=(1x1,22)-1= 0,22
+2x30xs.boy için
+K=1
+10.240.2405….. 1,00x0,22= 0,22 m²
+3-30
+MİLLÎ SAVUNMA BAKANLIĞI FİYAT ANALİZİ
+Poz No Analizin Adı Ölçü Birimi
+48.410.2101 m
+Poz No Tanımı Ölçü
+Birimi
+Miktarı Birim
+Fiyatı
+Tutarı
+Malzeme
+10.240.2405 Granitler (honlu veya cilalı) (TS 6234, TS
+699), Bulancak Füme (Giresun)
+m² 0,105 1.635,00 171,68
+(zayiatıyla)
+19.100.2510 Kum ve kırmataş ile 400 kg çimento
+dozlu harç yapılması
+m³ 0,0025 1.796,61 4,49
+10.130.9991 Su m³ 0,001 38,50 0,04
+10.480.1821 İşlenmiş küçük demirler (muhtelif) kg 0,015 35,00 0,53
+10.300.2231 Çimento esaslı, standart performanslı derz
+dolgusu (TS EN 13888 - CG1)
+kg 0,035 11,50 0,40
+İşçilik
+10.100.1005 Mermer kaplama ustası sa 0,250 250,00 62,50
+10.100.1062 Düz İşçisi (inşaat işçisi) sa 0,300 165,00 49,50
+Toplam Tutarı 289,14
+% 25 Yüklenici Kârı ve Genel Giderler 72,29
+1 m Fiyatı : 361,43
+Süpürgelik yapılacak yüzeyin iyice temizlenmesi, ıslatılması, üzerine 1,5 cm kalınlıkta 400 kg çimento dozlu bir
+tabaka yapılması, üzerine 400 kg çimento dozlu harç ile aralıkları 2 mm geçmemek üzere 10 cm genişliğinde
+düzgün şekilde kesilmiş bulancak füme granit süpürgeliklerin yerine konulması, derzlerin dolgu malzemesi ile
+kapatılması, duvara yerleştirilmiş kenet demirlerin granit süpürgeliklere tespiti, yapımı sırasında kırılan çatlayan
+plakların değiştirilmesi, yüzeyinin harç bulaşıklarından temizlenmesi, silinmesi için gerekli her türlü malzeme ve
+zayiatı, işçilik, alet ve edevat giderleri, iş yerindeki yükleme, yatay ve düşey taşımalar, boşaltma, yüklenici kârı ve
+genel giderler dâhil 1 m fiyatıdır.
+Ölçü: Süpürgelik yapılan yerler projesi üzerinden hesaplanır. (m)
+Bulancak füme granit ile süpürgelik yapılması
+3-31
+MİLLÎ SAVUNMA BAKANLIĞI FİYAT ANALİZİ
+Poz No Analizin Adı Ölçü Birimi
+48.410.2201 m
+Poz No Tanımı Ölçü
+Birimi
+Miktarı Birim
+Fiyatı
+Tutarı
+Malzeme
+10.240.2405 Granitler (honlu veya cilalı) (TS 6234, TS
+699), Bulancak Füme (Giresun)
+m² 0,380 1.635,00 621,30
+(3 cm, basamak zayiatıyla)
+10.240.2405 Granitler (honlu veya cilalı) (TS 6234, TS
+699), Bulancak Füme (Giresun)
+m² 0,150 1.635,00 245,25
+(2 cm, rıht zayiatıyla)
+10.240.2405 Granitler (honlu veya cilalı) (TS 6234, TS
+699), Bulancak Füme (Giresun)
+m² 0,0836 1.635,00 136,69
+(3 cm)
+19.100.2510 Kum ve kırmataş ile 400 kg çimento
+dozlu harç yapılması
+m³ 0,013 1.796,61 23,36
+10.130.9991 Su m³ 0,010 38,50 0,39
+İşçilik
+10.100.1005 Mermer kaplama ustası sa 1,500 250,00 375,00
+10.100.1062 Düz İşçisi (inşaat işçisi) sa 1,000 165,00 165,00
+10.100.1062 Düz İşçisi (inşaat işçisi) sa 0,500 165,00 82,50
+(İş yerinde yükleme, yatay ve düşey
+taşıma, boşaltma)
+Toplam Tutarı 1.649,49
+% 25 Yüklenici Kârı ve Genel Giderler 412,37
+1 m Fiyatı : 2.061,86
+Şartnamesine uygun yapılmış mevcut beton basamak yüzeylerinin temizlenmesi, ıslatılması, 400 kg çimento dozlu
+harçla bir altlık yapılması, bunun üzerine 3 cm kalınlığında granit levha ile basamak ve 2 cm kalınlığında granit
+levha ile rıhtın ayrı ayrı yekpare şekilde hazırlanması ve kaplanması, temizlenmesi, silinmesi ve bu işlerin
+yapılmasında gerekli her türlü malzeme ve zayiatı, işçilik, alet ve edevat giderleri, iş yerindeki yükleme, yatay ve
+düşey taşımalar, boşaltma, yüklenici kârı ve genel giderler dâhil 1m fiyatıdır.
+Ölçü: Süpürgelikten basamak ucuna kadar basamak dış kenar boyları projesi üzerinden hesaplanır. (m)
+Not: Süpürgelik ve limonluk kaplamaları bu fiyata dâhil değildir.
+K=tespit edilen katsayı, a=en (cm), b=boy (cm), h=kalınlık (cm)
+K=(k1xk2)-1, k1=log(axb)/log(180)-0,22 (ebat artış katsayısı) , k2=log(h)/log(6)+0,61 (kalınlık artış katsayısı)
+Tüm serbest boylar için ebat artış katsayısı k1=1 dir.
+3x30xs.boy için, k1=1, k2=log(3)/log(6)+0,61=1,22
+K=(1x1,22)-1= 0,22
+2x30xs.boy için
+K=1
+10.240.2405….. 0,38x0,22= 0,0836 m²
+Bulancak füme granit ile merdiven basamağı kaplaması yapılması (B:3 cm,
+R:2 cm)
+3-32
+MİLLÎ SAVUNMA BAKANLIĞI FİYAT ANALİZİ
+Poz No Analizin Adı Ölçü Birimi
+48.410.3002 m²
+Poz No Tanımı Ölçü
+Birimi
+Miktarı Birim
+Fiyatı
+Tutarı
+Malzeme
+10.240.2921 Bazalt plaklar, 4x30xserbest boy m² 1,050 415,00 435,75
+(zayiatıyla)
+19.100.2510 Kum ve kırmataş ile 400 kg çimento
+dozlu harç yapılması
+m³ 0,040 1.796,61 71,86
+10.300.2231 Çimento esaslı, standart performanslı derz
+dolgusu (TS EN 13888 - CG1)
+kg 0,500 11,50 5,75
+10.130.9991 Su m³ 0,010 38,50 0,39
+İşçilik
+10.100.1005 Mermer kaplama ustası sa 2,000 250,00 500,00
+10.100.1062 Düz İşçisi (inşaat işçisi) sa 2,000 165,00 330,00
+10.100.1062 Düz İşçisi (inşaat işçisi) sa 0,500 165,00 82,50
+(İş yerinde yükleme, yatay ve düşey
+taşıma, boşaltma)
+Toplam Tutarı 1.426,25
+% 25 Yüklenici Kârı ve Genel Giderler 356,56
+1 m² Fiyatı : 1.782,81
+4 cm kalınlığındaki bazalt plaklarla döşeme kaplaması yapılması
+Şartnamesine uygun yapılmış tesviye betonu yüzünün temizlenmesi, ıslatılması, üzerine 4 cm kalınlıkta 400 kg
+dozlu çimento harcı ile bir altlık yapılması, üzerine aralıkları en çok 2 mm olmak üzere 4 cm kalınlıkta her boyutta
+bazalt plakların projedeki şekil ve taksimata göre tesviyesinde döşenmesi, derzlerin ve bütün yüzeylerin çimento
+esaslı derz macunu ile sıvanması, döşeme yüzündeki, macunun yarım saat sonra temizlenmesi, silinmesi ve bu
+işlerin yapılmasında gerekli her türlü malzeme ve zayiatı, işçilik, alet ve edevat giderleri, iş yerindeki yükleme,
+yatay ve düşey taşımalar, boşaltma, yüklenici kârı ve genel giderler dâhil 1 m² fiyatıdır.
+Ölçü: Kaplama yapılan yüzeyler projesi üzerinden hesaplanır. (m²)
+3-33
+MİLLÎ SAVUNMA BAKANLIĞI FİYAT ANALİZİ
+Poz No Analizin Adı Ölçü Birimi
+48.410.3102 m²
+Poz No Tanımı Ölçü
+Birimi
+Miktarı Birim
+Fiyatı
+Tutarı
+Malzeme
+10.240.2914 Bazalt plaklar, 2x40xserbest boy m² 1,050 342,00 359,10
+(zayiatıyla)
+19.100.2510 Kum ve kırmataş ile 400 kg çimento
+dozlu harç yapılması
+m³ 0,025 1.796,61 44,92
+19.100.2518 500 dozlu çimento şerbeti m³ 0,005 1.524,15 7,62
+10.300.2231 Çimento esaslı, standart performanslı derz
+dolgusu (TS EN 13888 - CG1)
+kg 0,800 11,50 9,20
+10.130.9991 Su m³ 0,010 38,50 0,39
+10.480.1821 İşlenmiş küçük demirler (muhtelif) kg 0,150 35,00 5,25
+İşçilik
+10.100.1005 Mermer kaplama ustası sa 2,500 250,00 625,00
+10.100.1062 Düz İşçisi (inşaat işçisi) sa 2,500 165,00 412,50
+10.100.1062 Düz İşçisi (inşaat işçisi) sa 0,500 165,00 82,50
+(İş yerinde yükleme, yatay ve düşey
+taşıma, boşaltma)
+Toplam Tutarı 1.546,48
+% 25 Yüklenici Kârı ve Genel Giderler 386,62
+1 m² Fiyatı : 1.933,10
+2 cm kalınlığındaki bazalt plaklarla duvar kaplaması yapılması
+Duvar yüzlerinin iyice temizlenmesi, derzlerin açılması, duvar yüzünün ıslatılması, üzerine 1,5 cm kalınlıkta 400
+kg çimento dozlu bir tabaka yapılması, bunun üstüne 400 kg çimento dozlu harçla aralıkları en çok 2 mm olmak
+üzere 2 cm kalınlıkta, 40 cm x serbest boy ebadında bazalt plakların kaplanması, her sıra yapıldıktan sonra
+arkalarının çimento şerbeti ile doldurulması, derzlerin istenilen renkte derz dolgu malzemesi ile doldurulması,
+evvelce duvarlara yerleştirilmiş kenet demirlerine bazalt plakların tespiti, kaplama esnasında kırılan, çatlayan
+levhaların değiştirilmesi, kaplama yüzünün harç bulaşıklarından temizlenmesi, silinmesi, gerekli her türlü
+malzeme ve zayiatı, işçilik, alet ve edevat giderleri, iş yerindeki yükleme, yatay ve düşey taşımalar, boşaltma,
+yüklenici kârı ve genel giderler dâhil 1 m² fiyatıdır.
+Ölçü: 1) Bazalt kaplanan bütün yüzeyler projesi üzerinden hesaplanır.
+2) Köşelerdeki bindirmeler nazarı itibara alınmaz. Dış köşelerdeki bazalt kalınlığı ölçüden çıkarılmaz.
+3-34
+MİLLÎ SAVUNMA BAKANLIĞI FİYAT ANALİZİ
+Poz No Analizin Adı Ölçü Birimi
+48.410.3202 m
+Poz No Tanımı Ölçü
+Birimi
+Miktarı Birim
+Fiyatı
+Tutarı
+Malzeme
+10.240.2921 Bazalt plaklar, 4x30xserbest boy m² 0,380 415,00 157,70
+(Basamak zayiatıyla)
+10.240.2917 Bazalt plaklar, 3x30xserbest boy m² 0,150 342,00 51,30
+(Rıht zayiatıyla)
+19.100.2510 Kum ve kırmataş ile 400 kg çimento
+dozlu harç yapılması
+m³ 0,013 1.796,61 23,36
+10.130.9991 Su m³ 0,010 38,50 0,39
+İşçilik
+10.100.1005 Mermer kaplama ustası sa 1,500 250,00 375,00
+10.100.1062 Düz İşçisi (inşaat işçisi) sa 1,500 165,00 247,50
+Pah işçiliği için;
+10.100.1005 Mermer kaplama ustası sa 0,500 250,00 125,00
+Toplam Tutarı 980,25
+% 25 Yüklenici Kârı ve Genel Giderler 245,06
+1 m Fiyatı : 1.225,31
+Şartnamesine uygun yapılmış mevcut beton basamak yüzeylerinin temizlenmesi, ıslatılması, 400 kg çimento dozlu
+harçla bir altlık yapılması, bunun üzerine 4 cm kalınlığında bazalt plak ile basamak ve 3 cm kalınlığında bazalt
+plak ile rıhtın ayrı ayrı yekpare şekilde hazırlanması ve kaplanması, temizlenmesi, silinmesi, basamak uçlarının
+pahlanması için gerekli her türlü malzeme ve zayiatı, işçilik, alet ve edevat giderleri, iş yerindeki yükleme, yatay
+ve düşey taşımalar, boşaltma, yüklenici kârı ve genel giderler dâhil 1 m fiyatıdır.
+Ölçü: Süpürgelikten basamak ucuna kadar basamak dış kenarı boyları projesi üzerinden ölçülerek hesaplanır.
+Süpürgelik ve limonluk kaplamaları bu ölçüye dâhil değildir.
+Bazalt plaklarla merdiven basamağı kaplaması yapılması (B:4 cm, R:3 cm)
+3-35
+MİLLÎ SAVUNMA BAKANLIĞI FİYAT ANALİZİ
+Poz No Analizin Adı Ölçü Birimi
+48.410.3301 m
+Poz No Tanımı Ölçü
+Birimi
+Miktarı Birim
+Fiyatı
+Tutarı
+Malzeme
+10.240.2912 Bazalt plaklar, 2x40x40 cm m² 0,105 423,00 44,42
+(zayiatıyla)
+19.100.2510 Kum ve kırmataş ile 400 kg çimento
+dozlu harç yapılması
+m³ 0,0025 1.796,61 4,49
+10.130.9991 Su m³ 0,001 38,50 0,04
+10.480.1821 İşlenmiş küçük demirler (muhtelif) kg 0,015 35,00 0,53
+10.300.2231 Çimento esaslı, standart performanslı derz
+dolgusu (TS EN 13888 - CG1)
+kg 0,035 11,50 0,40
+İşçilik
+10.100.1005 Mermer kaplama ustası sa 0,250 250,00 62,50
+10.100.1062 Düz İşçisi (inşaat işçisi) sa 0,300 165,00 49,50
+Toplam Tutarı 161,88
+% 25 Yüklenici Kârı ve Genel Giderler 40,47
+1 m Fiyatı : 202,35
+Bazalt plaklarla süpürgelik yapılması
+Süpürgelik yapılacak yüzeyin iyice temizlenmesi, ıslatılması, üzerine 1,5 cm kalınlıkta 400 kg çimento dozlu bir
+tabaka yapılması, üzerine 400 kg çimento dozlu harç ile aralıkları 2 mm geçmemek üzere 10 cm genişliğinde
+bazalt plakların yerine konulması, derzlerin dolgu malzemesi ile kapatılması, duvara yerleştirilmiş kenet
+demirlerin bazalt süpürgeliklere tespiti, yapımı sırasında kırılan çatlayan plakların değiştirilmesi, yüzeyinin harç
+bulaşıklarından temizlenmesi, silinmesi için gerekli her türlü malzeme ve zayiatı, işçilik, alet ve edevat giderleri, iş
+yerindeki yükleme, yatay ve düşey taşımalar, boşaltma, yüklenici kârı ve genel giderler dâhil 1 m fiyatıdır.
+Ölçü: Süpürgelik yapılan yerler projesi üzerinden hesaplanır.
+3-36
+MİLLÎ SAVUNMA BAKANLIĞI FİYAT ANALİZİ
+Poz No Analizin Adı Ölçü Birimi
+48.410.3402 m²
+Poz No Tanımı Ölçü
+Birimi
+Miktarı Birim
+Fiyatı
+Tutarı
+Malzeme
+10.240.2917 Bazalt plaklar, 3x30xserbest boy m² 1,050 342,00 359,10
+(zayiatıyla)
+19.100.2510 Kum ve kırmataş ile 400 kg çimento
+dozlu harç yapılması
+m³ 0,050 1.796,61 89,83
+10.130.9991 Su m³ 0,010 38,50 0,39
+İşçilik
+10.100.1005 Mermer kaplama ustası sa 5,000 250,00 1.250,00
+10.100.1062 Düz İşçisi (inşaat işçisi) sa 3,500 165,00 577,50
+10.100.1062 Düz İşçisi (inşaat işçisi) sa 0,500 165,00 82,50
+(İş yerinde yükleme, yatay ve düşey
+taşıma, boşaltma)
+Toplam Tutarı 2.359,32
+% 25 Yüklenici Kârı ve Genel Giderler 589,83
+1 m² Fiyatı : 2.949,15
+3 cm kalınlığındaki bazalt plaklarla parapet yapılması
+Şartnamesine uygun yapılmış mevcut yüzeylerinin temizlenmesi, ıslatılması, 400 kg çimento dozlu harçla bir altlık
+yapılması, bunun üzerine meyil ve damlalıklı olarak yekpare şekilde hazırlanmış 3 cm kalınlığında bazalt plaktan
+yapılmış parapetin yerine kaplanması, temizlenmesi, silinmesi ve bu işlerin yapılmasında gerekli her türlü
+malzeme ve zayiatı, işçilik, alet ve edevat giderleri, iş yerindeki yükleme, yatay ve düşey taşımalar, boşaltma,
+yüklenici kârı ve genel giderler dâhil 1 m² fiyatıdır.
+Ölçü: Kaplama yapılan yüzeyler projesi üzerinden hesaplanır.
+3-37
+MİLLÎ SAVUNMA BAKANLIĞI FİYAT ANALİZİ
+Poz No Analizin Adı Ölçü Birimi
+48.410.3502 m²
+Poz No Tanımı Ölçü
+Birimi
+Miktarı Birim
+Fiyatı
+Tutarı
+Malzeme
+10.240.2917 Bazalt plaklar, 3x30xserbest boy m² 1,050 342,00 359,10
+(zayiatıyla)
+19.100.2510 Kum ve kırmataş ile 400 kg çimento
+dozlu harç yapılması
+m³ 0,050 1.796,61 89,83
+10.130.9991 Su m³ 0,010 38,50 0,39
+İşçilik
+10.100.1005 Mermer kaplama ustası sa 4,500 250,00 1.125,00
+10.100.1062 Düz İşçisi (inşaat işçisi) sa 3,500 165,00 577,50
+10.100.1062 Düz İşçisi (inşaat işçisi) sa 0,500 165,00 82,50
+(İş yerinde yükleme, yatay ve düşey
+taşıma, boşaltma)
+Toplam Tutarı 2.234,32
+% 25 Yüklenici Kârı ve Genel Giderler 558,58
+1 m² Fiyatı : 2.792,90
+Şartnamesine uygun yapılmış mevcut yüzeylerinin temizlenmesi, ıslatılması, 400 kg çimento dozlu harçla bir altlık
+yapılması, bunun üzerine meyil ve damlalıklı olarak yekpare şekilde hazırlanmış 3 cm kalınlığında bazalt plakadan
+yapılmış dış denizliğin yerine kaplanması, temizlenmesi, silinmesi ve bu işlerin yapılmasında gerekli her türlü
+malzeme ve zayiatı, işçilik, alet ve edevat giderleri, iş yerindeki yükleme, yatay ve düşey taşımalar, boşaltma,
+yüklenici kârı ve genel giderler dâhil 1 m² fiyatıdır.
+Ölçü: Kaplama yapılan yüzeyler projesi üzerinden hesaplanır.
+3 cm kalınlığındaki bazalt plaklar ile dış denizlik yapılması
+3-38
+MİLLÎ SAVUNMA BAKANLIĞI FİYAT ANALİZİ
+Poz No Analizin Adı Ölçü Birimi
+48.410.3602 m²
+Poz No Tanımı Ölçü
+Birimi
+Miktarı Birim
+Fiyatı
+Tutarı
+Malzeme
+10.240.2918 Bazalt plaklar, 3x40xserbest boy m² 1,050 405,00 425,25
+(zayiatıyla)
+19.100.2510 Kum ve kırmataş ile 400 kg çimento
+dozlu harç yapılması
+m³ 0,050 1.796,61 89,83
+10.300.2231 Çimento esaslı, standart performanslı derz
+dolgusu (TS EN 13888 - CG1)
+kg 0,500 11,50 5,75
+10.130.9991 Su m³ 0,010 38,50 0,39
+İşçilik
+10.100.1005 Mermer kaplama ustası sa 5,500 250,00 1.375,00
+10.100.1062 Düz İşçisi (inşaat işçisi) sa 3,500 165,00 577,50
+10.100.1062 Düz İşçisi (inşaat işçisi) sa 0,500 165,00 82,50
+(İş yerinde yükleme, yatay ve düşey
+taşıma, boşaltma)
+Toplam Tutarı 2.556,22
+% 25 Yüklenici Kârı ve Genel Giderler 639,06
+1 m² Fiyatı : 3.195,28
+Şartnamesine uygun yapılmış mevcut yüzeylerinin temizlenmesi, ıslatılması, 400 kg çimento dozlu harçla bir altlık
+yapılması, bunun üzerine meyil ve damlalıklı olarak yekpare şekilde hazırlanmış 3 cm kalınlığında bazalt plakadan
+yapılmış harpuştanın yerine kaplanması, derzlerin ve bütün yüzeylerin çimento esaslı derz macunu ile sıvanması,
+döşeme yüzündeki, macunun yarım saat sonra temizlenmesi, silinmesi ve bu işlerin yapılmasında gerekli her türlü
+malzeme ve zayiatı, işçilik, alet ve edevat giderleri, iş yerindeki yükleme, yatay ve düşey taşımalar, boşaltma,
+yüklenici kârı ve genel giderler dâhil 1 m² fiyatıdır.
+Ölçü: Kaplama yapılan yüzeyler projesi üzerinden hesaplanır.
+Not: Suyun akışını sağlayacak şekilde harpuşta üzerine çift yönlü eğim verilecektir.
+3 cm kalınlığındaki bazalt plaklarla harpuşta yapılması
+3-39
+MİLLÎ SAVUNMA BAKANLIĞI FİYAT ANALİZİ
+Poz No Analizin Adı Ölçü Birimi
+48.410.3801 m
+Poz No Tanımı Ölçü
+Birimi
+Miktarı Birim
+Fiyatı
+Tutarı
+Malzeme
+10.240.2917 Bazalt plaklar, 3x30xserbest boy m² 0,105 342,00 35,91
+(zayiatıyla)
+19.100.2510 Kum ve kırmataş ile 400 kg çimento
+dozlu harç yapılması
+m³ 0,001 1.796,61 1,80
+19.100.2432 Saten alçı harcı hazırlanması m³ 0,0012 3.338,10 4,01
+İşçilik
+10.100.1005 Mermer kaplama ustası sa 0,250 250,00 62,50
+10.100.1062 Düz İşçisi (inşaat işçisi) sa 0,300 165,00 49,50
+Toplam Tutarı 153,72
+% 25 Yüklenici Kârı ve Genel Giderler 38,43
+1 m Fiyatı : 192,15
+Bazalt plaklarla limonluk yapılması
+Bazalt merdiven basamağı kenarına 10x3 cm ebadında limonluğun konulması ve silinmesi için gerekli her türlü
+malzeme ve zayiatı, işçilik, alet ve edevat giderleri, iş yerindeki yükleme, yatay ve düşey taşımalar, boşaltma,
+yüklenici kârı ve genel giderler dâhil 1 m fiyatıdır.
+Ölçü: Limonluk yapılan yerler projesi üzerinden hesaplanır.
+3-40
+MİLLÎ SAVUNMA BAKANLIĞI FİYAT ANALİZİ
+Poz No Analizin Adı Ölçü Birimi
+48.410.3902 m²
+Poz No Tanımı Ölçü
+Birimi
+Miktarı Birim
+Fiyatı
+Tutarı
+Malzeme
+10.240.2913 Bazalt plaklar, 2x30xserbest boy m² 1,050 315,00 330,75
+(zayiatıyla)
+19.100.2510 Kum ve kırmataş ile 400 kg çimento
+dozlu harç yapılması
+m³ 0,025 1.796,61 44,92
+19.100.2518 500 dozlu çimento şerbeti m³ 0,005 1.524,15 7,62
+10.300.2231 Çimento esaslı, standart performanslı derz
+dolgusu (TS EN 13888 - CG1)
+kg 0,800 11,50 9,20
+10.130.9991 Su m³ 0,010 38,50 0,39
+10.480.1821 İşlenmiş küçük demirler (muhtelif) kg 0,150 35,00 5,25
+İşçilik
+10.100.1005 Mermer kaplama ustası sa 4,500 250,00 1.125,00
+10.100.1062 Düz İşçisi (inşaat işçisi) sa 3,000 165,00 495,00
+10.100.1062 Düz İşçisi (inşaat işçisi) sa 0,500 165,00 82,50
+(İş yerinde yükleme, yatay ve düşey
+taşıma, boşaltma)
+Toplam Tutarı 2.100,63
+% 25 Yüklenici Kârı ve Genel Giderler 525,16
+1 m² Fiyatı : 2.625,79
+Şartnamesine uygun yapılmış kaba sıva ve benzeri duvar yüzlerinin iyice temizlenmesi, derzlerin açılması, duvar
+yüzünün ıslatılması, üzerine 1,5 cm kalınlıkta 400 kg çimento dozlu bir altlık yapılması, bunun üstüne 400 kg
+çimento dozlu harçla aralıkları 2 mm olmak üzere evvelce duvarlara yerleştirilmiş kenet demirlerine 2 cm
+kalınlığındaki bazalt plakların tespit edilerek projesindeki şekil ve taksimata göre şakülünde döşenmesi, her sıra
+yapıldıktan sonra arkalarının çimento şerbeti ile doldurulması, derzlerin ve bütün yüzeylerin çimento esaslı derz
+macunu ile sıvanması, duvar yüzündeki macunun yarım saat sonra temizlenmesi, silinmesi ve bu işlerin
+yapılmasında gerekli her türlü malzeme ve zayiatı, işçilik, alet ve edevat giderleri, iş yerindeki yükleme, yatay ve
+düşey taşımalar, boşaltma, yüklenici kârı ve genel giderler dâhil 1 m² fiyatıdır.
+Ölçü: Kaplama yapılan yüzeyler projesi üzerinden hesaplanır.
+2 cm kalınlıkta bazalt plaklarla asansör sövesi yapılması
+3-41
+MİLLÎ SAVUNMA BAKANLIĞI FİYAT ANALİZİ
+Poz No Analizin Adı Ölçü Birimi
+48.410.9002 m
+Poz No Tanımı Ölçü
+Birimi
+Miktarı Birim
+Fiyatı
+Tutarı
+İşçilik
+10.100.1005 Mermer kaplama ustası sa 0,500 250,00 125,00
+10.100.1062 Düz İşçisi (inşaat işçisi) sa 0,250 165,00 41,25
+Toplam Tutarı 166,25
+% 25 Yüklenici Kârı ve Genel Giderler 41,56
+1 m Fiyatı : 207,81
+Mermer kenarlarının pahlanması
+Tezgah üstü, duvar kaplaması vb. mahallerde kullanılan mermerlerin görünen kenarlarının pahlanması,
+temizlenmesi ve silinmesi için gerekli her türlü malzeme ve zayiatı, işçilik, alet ve edevat giderleri, iş yerindeki
+yükleme, yatay ve düşey taşımalar, boşaltma, yüklenici kârı ve genel giderler dâhil 1 m fiyatıdır.
+Ölçü: Pahlanan mermerin uzunluğu hesaplanır.
+3-42
+MİLLÎ SAVUNMA BAKANLIĞI FİYAT ANALİZİ
+Poz No Analizin Adı Ölçü Birimi
+48.410.9003 m
+Poz No Tanımı Ölçü
+Birimi
+Miktarı Birim
+Fiyatı
+Tutarı
+Malzeme
+10.200.2862 Pirinç lama kg 0,880 259,00 227,92
+(Pirinç kaynak, atölye giderleri ve zayiat
+dâhil)
+10.130.1708 Sıcak haddelenmiş profil demirler (S235
+JR) (I-U-T-Omega) (TS 910, TS 911 EN
+10055, TS 912)
+kg 0,080 22,50 1,80
+(Polietilen yapıştırıcı karşılığı)
+İşçilik
+10.100.1068 Birinci sınıf usta sa 0,600 250,00 150,00
+10.100.1062 Düz İşçisi (inşaat işçisi) sa 0,100 165,00 16,50
+Toplam Tutarı 396,22
+% 25 Yüklenici Kârı ve Genel Giderler 99,06
+1 m Fiyatı : 495,28
+Mermer plakların derzlerine 30 mm genişlik ve 3 mm kalınlığında pirinç lamaların yerleştirilmesi, pirinç kaynakla
+eklerin yapılması, mermere polietilenle yapıştırılması için gerekli her türlü malzeme ve zayiatı, işçilik, alet ve
+edevat giderleri, iş yerindeki yükleme, yatay ve düşey taşımalar, boşaltma, yüklenici kârı ve genel giderler dâhil 1
+m fiyatıdır.
+Ölçü: Pirinç derz uzunluğu ölçülür.
+Mermer döşeme kaplamasına pirinç derz yapılması
+3-43
+MİLLÎ SAVUNMA BAKANLIĞI FİYAT ANALİZİ
+Poz No Analizin Adı Ölçü Birimi
+48.420.1002 m
+Poz No Tanımı Ölçü
+Birimi
+Miktarı Birim
+Fiyatı
+Tutarı
+Malzeme
+10.240.2668 Andezit plaklar, 4 cm kalınlığında, 30 cm
+x serbest boy
+m² 0,380 423,00 160,74
+(Basamak zayiatıyla)
+10.240.2646 Andezit plaklar, 3 cm kalınlığında, 15 cm
+x serbest boy
+m² 0,150 297,00 44,55
+(Rıht zayiatıyla)
+19.100.2510 Kum ve kırmataş ile 400 kg çimento
+dozlu harç yapılması
+m³ 0,013 1.796,61 23,36
+10.130.9991 Su m³ 0,010 38,50 0,39
+İşçilik
+10.100.1005 Mermer kaplama ustası sa 1,500 250,00 375,00
+10.100.1062 Düz İşçisi (inşaat işçisi) sa 1,500 165,00 247,50
+Pah işçiliği;
+10.100.1005 Mermer kaplama ustası sa 0,500 250,00 125,00
+Toplam Tutarı 976,54
+% 25 Yüklenici Kârı ve Genel Giderler 244,14
+1 m Fiyatı : 1.220,68
+Şartnamesine uygun yapılmış mevcut beton basamak yüzeylerinin temizlenmesi, ıslatılması, 400 kg çimento dozlu
+harçla bir altlık yapılması, bunun üzerine 4 cm kalınlığında andezit plak ile basamak ve 3 cm kalınlığında andezit
+plak ile rıhtın ayrı ayrı yekpare şekilde hazırlanması ve kaplanması, temizlenmesi, silinmesi, basamak uçlarının
+pahlanması için gerekli her türlü malzeme ve zayiatı, işçilik, alet ve edevat giderleri, iş yerindeki yükleme, yatay
+ve düşey taşımalar, boşaltma, yüklenici kârı ve genel giderler dâhil 1 m fiyatıdır.
+Ölçü: Süpürgelikten basamak ucuna kadar basamak dış kenarı boyları projesi üzerinden ölçülerek hesaplanır.
+Süpürgelik ve limonluk kaplamaları bu ölçüye dâhil değildir.
+Andezit plaklar ile merdiven basamağı kaplaması yapılması (B:4 cm, R:3
+cm)
+3-44
+MİLLÎ SAVUNMA BAKANLIĞI FİYAT ANALİZİ
+Poz No Analizin Adı Ölçü Birimi
+48.420.1102 m²
+Poz No Tanımı Ölçü
+Birimi
+Miktarı Birim
+Fiyatı
+Tutarı
+Malzeme
+10.240.2648 Andezit plaklar, 3 cm kalınlığında, 30 cm
+x serbest boy
+m² 1,050 354,00 371,70
+(zayiatıyla)
+19.100.2510 Kum ve kırmataş ile 400 kg çimento
+dozlu harç yapılması
+m³ 0,050 1.796,61 89,83
+10.130.9991 Su m³ 0,010 38,50 0,39
+İşçilik
+10.100.1005 Mermer kaplama ustası sa 5,000 250,00 1.250,00
+10.100.1062 Düz İşçisi (inşaat işçisi) sa 3,500 165,00 577,50
+10.100.1062 Düz İşçisi (inşaat işçisi) sa 0,500 165,00 82,50
+(İş yerinde yükleme, yatay ve düşey
+taşıma, boşaltma)
+Toplam Tutarı 2.371,92
+% 25 Yüklenici Kârı ve Genel Giderler 592,98
+1 m² Fiyatı : 2.964,90
+3 cm kalınlığında andezit plaklar ile parapet yapılması
+Şartnamesine uygun yapılmış mevcut yüzeylerinin temizlenmesi, ıslatılması, 400 kg çimento dozlu harçla bir altlık
+yapılması, bunun üzerine meyil ve damlalıklı olarak yekpare şekilde hazırlanmış 3 cm kalınlığında andezit plaktan
+yapılmış parapetin yerine kaplanması, temizlenmesi, silinmesi ve bu işlerin yapılmasında gerekli her türlü
+malzeme ve zayiatı, işçilik, alet ve edevat giderleri, iş yerindeki yükleme, yatay ve düşey taşımalar, boşaltma,
+yüklenici kârı ve genel giderler dâhil 1 m² fiyatıdır.
+Ölçü: Kaplama yapılan yüzeyler projesi üzerinden hesaplanır.
+3-45
+MİLLÎ SAVUNMA BAKANLIĞI FİYAT ANALİZİ
+Poz No Analizin Adı Ölçü Birimi
+48.420.1202 m²
+Poz No Tanımı Ölçü
+Birimi
+Miktarı Birim
+Fiyatı
+Tutarı
+Malzeme
+10.240.2648 Andezit plaklar, 3 cm kalınlığında, 30 cm
+x serbest boy
+m² 1,050 354,00 371,70
+(zayiatıyla)
+19.100.2510 Kum ve kırmataş ile 400 kg çimento
+dozlu harç yapılması
+m³ 0,050 1.796,61 89,83
+10.130.9991 Su m³ 0,010 38,50 0,39
+İşçilik
+10.100.1005 Mermer kaplama ustası sa 4,500 250,00 1.125,00
+10.100.1062 Düz İşçisi (inşaat işçisi) sa 3,500 165,00 577,50
+10.100.1062 Düz İşçisi (inşaat işçisi) sa 0,500 165,00 82,50
+(İş yerinde yükleme, yatay ve düşey
+taşıma, boşaltma)
+Toplam Tutarı 2.246,92
+% 25 Yüklenici Kârı ve Genel Giderler 561,73
+1 m² Fiyatı : 2.808,65
+Şartnamesine uygun yapılmış mevcut yüzeylerinin temizlenmesi, ıslatılması, 400 kg çimento dozlu harçla bir altlık
+yapılması, bunun üzerine meyil ve damlalıklı olarak yekpare şekilde hazırlanmış 3 cm kalınlığında andezit
+plakadan yapılmış dış denizliğin yerine kaplanması, temizlenmesi, silinmesi ve bu işlerin yapılmasında gerekli her
+türlü malzeme ve zayiatı, işçilik, alet ve edevat giderleri, iş yerindeki yükleme, yatay ve düşey taşımalar, boşaltma,
+yüklenici kârı ve genel giderler dâhil 1 m² fiyatıdır.
+Ölçü: Kaplama yapılan yüzeyler projesi üzerinden hesaplanır.
+3 cm kalınlığında andezit plaklar ile dış denizlik yapılması
+3-46
+MİLLÎ SAVUNMA BAKANLIĞI FİYAT ANALİZİ
+Poz No Analizin Adı Ölçü Birimi
+48.420.1302 m²
+Poz No Tanımı Ölçü
+Birimi
+Miktarı Birim
+Fiyatı
+Tutarı
+Malzeme
+10.240.2649 Andezit plaklar, 3 cm kalınlığında, 40 cm
+x serbest boy
+m² 1,050 429,00 450,45
+(zayiatıyla)
+19.100.2510 Kum ve kırmataş ile 400 kg çimento
+dozlu harç yapılması
+m³ 0,050 1.796,61 89,83
+10.300.2231 Çimento esaslı, standart performanslı derz
+dolgusu (TS EN 13888 - CG1)
+kg 0,500 11,50 5,75
+10.130.9991 Su m³ 0,010 38,50 0,39
+İşçilik
+10.100.1005 Mermer kaplama ustası sa 5,500 250,00 1.375,00
+10.100.1062 Düz İşçisi (inşaat işçisi) sa 3,500 165,00 577,50
+10.100.1062 Düz İşçisi (inşaat işçisi) sa 0,500 165,00 82,50
+(İş yerinde yükleme, yatay ve düşey
+taşıma, boşaltma)
+Toplam Tutarı 2.581,42
+% 25 Yüklenici Kârı ve Genel Giderler 645,36
+1 m² Fiyatı : 3.226,78
+3 cm kalınlığında andezit plaklar ile harpuşta yapılması
+Şartnamesine uygun yapılmış mevcut yüzeylerinin temizlenmesi, ıslatılması, 400 kg çimento dozlu harçla bir altlık
+yapılması, bunun üzerine meyil ve damlalıklı olarak yekpare şekilde hazırlanmış 3 cm kalınlığında andezit
+plakadan yapılmış harpuştanın yerine kaplanması, derzlerin ve bütün yüzeylerin çimento esaslı derz macunu ile
+sıvanması, döşeme yüzündeki, macunun yarım saat sonra temizlenmesi, silinmesi ve bu işlerin yapılmasında
+gerekli her türlü malzeme ve zayiatı, işçilik, alet ve edevat giderleri, iş yerindeki yükleme, yatay ve düşey
+taşımalar, boşaltma, yüklenici kârı ve genel giderler dâhil 1 m² fiyatıdır.
+Ölçü: Kaplama yapılan yüzeyler projesi üzerinden hesaplanır.
+Not: Suyun akışını sağlayacak şekilde harpuşta üzerine çift yönlü eğim verilecektir.
+3-47
+MİLLÎ SAVUNMA BAKANLIĞI FİYAT ANALİZİ
+Poz No Analizin Adı Ölçü Birimi
+48.435.1002 m
+Poz No Tanımı Ölçü
+Birimi
+Miktarı Birim
+Fiyatı
+Tutarı
+Malzeme
+10.240.2903 Bazalt taşı, bordürler, 10x25x50 cm ad 2,100 198,00 415,80
+(zayiatıyla)
+19.100.2511 400 kg çimento dozlu ince harç yapılması m³ 0,001 1.832,51 1,83
+İşçilik
+10.100.1013 Duvarcı ustası sa 0,250 250,00 62,50
+10.100.1062 Düz İşçisi (inşaat işçisi) sa 0,250 165,00 41,25
+Toplam Tutarı 521,38
+% 25 Yüklenici Kârı ve Genel Giderler 130,35
+1 m Fiyatı : 651,73
+10x25x50 cm boyutlarında bazalt bordür temini ve yerine döşenmesi
+Proje ve tekniğine uygun olarak 10x25x50cm boyutlarında bazalt taşı bordürlerin yerine montajı, iki bordür
+arasındaki birleşim yerlerinin 400 dozlu çimento harcı ile kapatılması için gerekli her türlü malzeme ve zayiatı,
+işçilik, alet ve edevat giderleri, iş yerindeki yükleme, yatay ve düşey taşımalar, boşaltma, yüklenici kârı ve genel
+giderler dâhil 1 m fiyatıdır.
+Ölçü: Bordür boyu projesi üzerinden hesaplanır.
+3-48
+MİLLÎ SAVUNMA BAKANLIĞI FİYAT ANALİZİ
+Poz No Analizin Adı Ölçü Birimi
+48.440.1102 m
+Poz No Tanımı Ölçü
+Birimi
+Miktarı Birim
+Fiyatı
+Tutarı
+Malzeme
+10.300.2157 Tek bilesenli poliüretan esaslı UV
+dayanımlı derz dolgu mastigi (310 ml
+kartuş)
+ad 0,810 160,00 129,60
+10.300.2158 Polietilen fitil (çap:Ø 6 mm) m 1,000 1,50 1,50
+(uygun çaplı derz dolgu fitili karşılığı)
+İşçilik
+10.100.1010 Yalıtımcı Ustası sa 0,100 250,00 25,00
+10.100.1062 Düz İşçisi (inşaat işçisi) sa 0,050 165,00 8,25
+Toplam Tutarı 164,35
+% 25 Yüklenici Kârı ve Genel Giderler 41,09
+1 m Fiyatı : 205,44
+Dilatasyon derzlerinin polietilen fitil ve poliüretan derz mastiği ile
+doldurulması
+Binalarda dış duvar ve döşeme dilatasyon derzlerine, uygun çaplı polietilen fitilin sıkıca yerleştirilmesinden sonra
+üzerine UV dayanımlı poliüretan esaslı mastik ile doldurulması için gerekli her türlü malzeme ve zayiatı, işçilik,
+alet ve edevat giderleri, iş yerindeki yükleme, yatay ve düşey taşımalar, boşaltma, yüklenici kârı ve genel giderler
+dâhil 1 m fiyatıdır.
+Ölçü: Projeden dilatasyon derzlerinin uzunluğu hesaplanır.
+Not:
+1) Derz derinliği beton kalınlığının 1/3 ile 1/4 'ü arasında olmalıdır.
+2) Derz genişliğinden % 30 daha fazla çaplı derz dolgu fitili seçilir.
+3-49
+MİLLÎ SAVUNMA BAKANLIĞI FİYAT ANALİZİ
+Poz No Analizin Adı Ölçü Birimi
+48.450.1003 m²
+Poz No Tanımı Ölçü
+Birimi
+Miktarı Birim
+Fiyatı
+Tutarı
+Malzeme
+19.100.2426 Mozaik harcı yapılması (beyaz çimentolu) m³ 0,025 4.027,90 100,70
+10.130.4501 Çam kerestesi (I.sınıf) m³ 0,001 8.500,00 8,50
+19.100.2509 400 kg çimento dozlu harç yapılması m³ 0,020 1.759,51 35,19
+10.130.9991 Su m³ 0,005 38,50 0,19
+İşçilik
+10.100.1007 Mozayikçi ustası sa 5,000 250,00 1.250,00
+10.100.1062 Düz İşçisi (inşaat işçisi) sa 3,000 165,00 495,00
+Toplam Tutarı 1.889,58
+% 25 Yüklenici Kârı ve Genel Giderler 472,40
+1 m² Fiyatı : 2.361,98
+Fugalı, yüzeyi pürüzlü mermer pirinçli suni taş sıva (taraklı mozaik)
+yapılması (beyaz çimentolu)
+1 m³ kuma 400 kg çimento katılarak hazırlanan harçta ortalama 2 cm kalınlığında bir tabaka yapılması bunun
+üzerine mozayik harçla projesine uygun, 2,5x2,5 cm kesitinde rendelenmiş çıtalarla yapılan 1x1 m anolara,
+ortalama 2,5 cm kalınlığında mastarında dekoratif taraklanıp veya murçlandıktan sonra 2 cm kalacak şekilde fugalı
+suni taş sıvanın yapılması, gerekli zamanlarda sulanması, temizlenmesi için gerekli her türlü malzeme ve zayiatı,
+işçilik, çalışma sehpaları, inşaat yerindeki yükleme, yatay ve düşey taşımalar, boşaltma, alet ve edevat giderleri,
+yüklenici kârı ve genel giderler dâhil 1 m² fiyatıdır.
+Ölçü: Mozayik yapılan yüzeyler projesi üzerinden hesaplanır.
+3-50
+MİLLÎ SAVUNMA BAKANLIĞI FİYAT ANALİZİ
+Poz No Analizin Adı Ölçü Birimi
+48.450.1004 m²
+Poz No Tanımı Ölçü
+Birimi
+Miktarı Birim
+Fiyatı
+Tutarı
+Malzeme
+19.100.2425 Mozaik harcı yapılması m³ 0,025 2.760,40 69,01
+10.130.4501 Çam kerestesi (I.sınıf) m³ 0,001 8.500,00 8,50
+19.100.2509 400 kg çimento dozlu harç yapılması m³ 0,020 1.759,51 35,19
+10.130.9991 Su m³ 0,005 38,50 0,19
+İşçilik
+10.100.1007 Mozayikçi ustası sa 5,000 250,00 1.250,00
+10.100.1062 Düz İşçisi (inşaat işçisi) sa 3,000 165,00 495,00
+Toplam Tutarı 1.857,89
+% 25 Yüklenici Kârı ve Genel Giderler 464,47
+1 m² Fiyatı : 2.322,36
+Fugalı, yüzeyi pürüzlü mermer pirinçli suni taş sıva (taraklı mozaik)
+yapılması (normal çimentolu)
+1 m³ kuma 400 kg çimento katılarak hazırlanan harçta ortalama 2 cm kalınlığında bir tabaka yapılması bunun
+üzerine mozayik harçla projesine uygun, 2,5x2,5 cm kesitinde rendelenmiş çıtalarla yapılan 1x1 m anolara,
+ortalama 2,5 cm kalınlığında mastarında dekoratif taraklanıp veya murçlandıktan sonra 2 cm kalacak şekilde fugalı
+suni taş sıvanın yapılması, gerekli zamanlarda sulanması, temizlenmesi için gerekli her türlü malzeme ve zayiatı,
+işçilik, çalışma sehpaları, inşaat yerindeki yükleme, yatay ve düşey taşımalar, boşaltma, alet ve edevat giderleri,
+yüklenici kârı ve genel giderler dâhil 1 m² fiyatıdır.
+Ölçü: Mozayik yapılan yüzeyler projesi üzerinden hesaplanır.
+3-51
+MİLLÎ SAVUNMA BAKANLIĞI FİYAT ANALİZİ
+Poz No Analizin Adı Ölçü Birimi
+48.510.1001 m²
+Poz No Tanımı Ölçü
+Birimi
+Miktarı Birim
+Fiyatı
+Tutarı
+Malzeme
+10.170.2551 (3) Dekoratif laminat levhalar (TS EN 438-1)
+(yüksek basınçta sıkıştırılmış termoset
+reçine esaslı), yoğun (kompakt) lamine
+levhalar (muhtelif renk, desen ve yüzey
+şeklinde), 3 mm kalınlığında (kalınlıklara
+ait fiyatlar enterpolasyon yapılarak
+bulunur)
+m² 2,200 593,61 1.305,94
+(zayiatıyla)
+10.130.4501 Çam kerestesi (I.sınıf) m³ 0,031 8.500,00 263,50
+10.170.1801 Kontraplak m³ 0,012 19.687,00 236,24
+5 mm
+10.420.1302 Sentetik tutkal (TS EN 12765) kg 0,450 25,00 11,25
+Ekipman
+19.100.1091 Ahşap doğrama imalat atelyesinin 1
+saatlik ücreti
+sa 0,180 4.841,67 871,50
+İşçilik
+10.100.1017 Dülger ustası sa 1,000 250,00 250,00
+10.100.1062 Düz İşçisi (inşaat işçisi) sa 0,250 165,00 41,25
+Toplam Tutarı 2.979,68
+% 25 Yüklenici Kârı ve Genel Giderler 744,92
+1 m² Fiyatı : 3.724,60
+Onaylı projesine göre, 1.sınıf çam keresteden temizi en az 45 mm kalınlıkta olacak şekilde, temizi en az 32 mm
+kalınlıkta ve seren başlıklarından yapılan çatkı arasına 20/32 mm lik çıtalarla ve 2 cm aralıklarla meydana getirilen
+iskeletin iki yüzüne 5 mm kontraplak prese etmek suretiyle iki yüzü kontraplak presli iç kapı kanadı yapılması, 3
+mm kompakt lamine levhanın tutkal ile preslenerek yapıştırılması ve yerine takılması için çivi, vida, tutkal ve
+gerekli her türlü malzeme ve zayiatı, işçilik, alet ve edevat giderleri, iş yerindeki yükleme, iş yerindeki yatay ve
+düşey taşımalar, boşaltma ve madeni aksamların yerine takılması, kapı kanadının yerine takılıp alıştırılması,
+yüklenici kârı ve genel giderler dâhil (madeni aksam bedeli hariç) 1 m² fiyatıdır.
+Ölçü:
+1) Kapı kanadının dıştan dışa eni ve boyu çarpılarak alan hesaplanır. Bu ölçüye kapı kasaları dâhil edilmez.
+2) Boşluktaki kapı kanatlarının çoğaltılması halinde açılır veya sabit kanatların hepsi kapalı şekilde ölçüye
+girecektir. (Sabit, kanatlar telaro kasa şeklinde biterse bunlarda kanat ölçüsüne sokulur, ayrıca kasa bedeli
+ödenmez.)
+Not:
+1) Genel olarak kapı doğramalarında kullanılacak madeni aksam, idarenin beğenmesi şartı ile her cins kilit ve kilit
+kolları, aynaları, sürgü, stop lastikli tampon, menteşe ve yaylı menteşeden ibarettir.
+2) Madeni aksamın yerlerine takılması işçiliği doğrama fiyatlarına dâhildir.
+Kompakt lamine levha kaplamalı kapı kanadı yapılması (hasta odaları için)
+3-52
+MİLLÎ SAVUNMA BAKANLIĞI FİYAT ANALİZİ
+Poz No Analizin Adı Ölçü Birimi
+48.510.1003 m²
+Poz No Tanımı Ölçü
+Birimi
+Miktarı Birim
+Fiyatı
+Tutarı
+Malzeme
+10.170.2551 (13) Dekoratif laminat levhalar (TS EN 438-1)
+(yüksek basınçta sıkıştırılmış termoset
+reçine esaslı), yoğun (kompakt) lamine
+levhalar (muhtelif renk, desen ve yüzey
+şeklinde), 13 mm kalınlığında
+(kalınlıklara ait fiyatlar enterpolasyon
+yolu ile bulunur)
+m² 1,100 2.229,72 2.452,69
+(zayiatıyla)
+10.420.1305 Silikon esaslı 800 serisi macun kg 0,100 112,00 11,20
+Ekipman
+19.100.1091 Ahşap doğrama imalat atelyesinin 1
+saatlik ücreti
+sa 0,060 4.841,67 290,50
+İşçilik
+10.100.1017 Dülger ustası sa 1,250 250,00 312,50
+10.100.1062 Düz İşçisi (inşaat işçisi) sa 0,500 165,00 82,50
+Toplam Tutarı 3.149,39
+% 25 Yüklenici Kârı ve Genel Giderler 787,35
+1 m² Fiyatı : 3.936,74
+13 mm kalınlığında kompakt lamine levha ile pano ve kapı yapılması
+13 mm kalınlıktaki kompakt lamine levhaların atölyelerde proje ve detaylarına göre seçilen ölçü ve renklerde
+hazırlanması, gerekli kenarların yuvarlatılması, birleşim yerlerinde silikon kullanılması, aksesuar montajının
+(aksesuar bedelleri hariç) yapılması, yerine takılması için gerekli her türlü malzeme ve zayiatı, işçilik, alet ve
+edevat giderleri, yatay ve düşey taşımalar, yükleme-boşaltma, yüklenici kârı ve genel giderler dâhil 1 m² fiyatıdır.
+Ölçü: Projedeki boyutlar üzerinden alanı hesaplanır.
+3-53
+MİLLÎ SAVUNMA BAKANLIĞI FİYAT ANALİZİ
+Poz No Analizin Adı Ölçü Birimi
+48.535.1001 m²
+Poz No Tanımı Ölçü
+Birimi
+Miktarı Birim
+Fiyatı
+Tutarı
+Malzeme
+10.240.6752 15 mm kalınlığında, min. % 70 bağıl nem
+dayanımına sahip, TS EN ISO 11654'e
+göre alpha w değeri min. 0,55 olan beyaz
+boyalı taşyünü asma tavan plakası
+m² 1,050 132,50 139,13
+10.200.3071 24 mm genişliğinde ana taşıyıcı T
+profiller, 0,40 mm kalınlığında, h=38 mm
+yüksekliğinde profil
+m 1,000 13,15 13,15
+10.200.3091 24 mm genişliğinde ara taşıyıcı T
+profiller, 0,40 mm kalınlığında, h=30 mm
+yüksekliğinde profil
+m 2,600 19,00 49,40
+10.200.3125 Kenar L profili (0,50 mm kalınlığında) m 1,100 9,45 10,40
+10.200.3137 Çelik dubel (6x45 vida, kovan, L-demir
+ve somun dahil)
+ad 1,000 1,93 1,93
+10.200.3136 Çiftli yay (0,60 mm kalınlığında yay
+çeliğinden mamul, fosfat ve benzeri
+kaplanmış)
+ad 1,000 2,00 2,00
+10.200.3129 Askı çubuğu 40 cm (4 mm galvanizli
+çubuk, uzunluk: 40cm)
+ad 1,000 1,00 1,00
+10.420.1012 Vida ve plastik dübel ad 2,000 1,50 3,00
+İşçilik
+10.100.1068 Birinci sınıf usta sa 0,400 250,00 100,00
+10.100.1047 Soğuk demirci usta yardımcısı sa 0,400 185,00 74,00
+10.100.1062 Düz İşçisi (inşaat işçisi) sa 0,300 165,00 49,50
+Toplam Tutarı 443,51
+% 25 Yüklenici Kârı ve Genel Giderler 110,88
+1 m² Fiyatı : 554,39
+60x60 cm ebadında 15 mm kalınlığında taşyünü plakadan asma tavan
+yapılması
+İdarece onaylanmış proje ve detaylarına göre 24 mm genişliğinde T ana ve ara taşıyıcı profillerin, 40 cm
+uzunluğunda 4 mm çapındaki özel ayarlı galvanizli çelik askı takımları ile 60 cm aralıklı mesafede ve istenilen
+kottaki düzeyde teraziye alınarak asılması, tavan kenarlarına 0,50 mm kalınlığında L profillerin dönülmesi, T ana
+ve ara taşıyıcı profillerin üzerine 60x60 cm ebadında 15 mm kalınlığında taşyünü plakaların yerleştirilmesi,
+elektrik armatürleri veya tesisat özelliklerine göre yerlerinin açılması suretiyle asma tavan teşkili için her türlü
+malzeme ve zayiatı, atölye masrafları, işyerinde yatay ve düşey taşıma, boşaltma, işçilik, yüklenici kârı ve genel
+giderler dâhil 1 m² fiyatıdır.
+Ölçü:
+1) Asma tavan yapılan yüzeyler ölçülür.
+2) 0,25 m2 den küçük havalandırma ve elektrik armatürleri boşlukları ile diğer boşluklar düşülmez.
+3-54
+MİLLÎ SAVUNMA BAKANLIĞI FİYAT ANALİZİ
+Poz No Analizin Adı Ölçü Birimi
+48.535.1002 m²
+Poz No Tanımı Ölçü
+Birimi
+Miktarı Birim
+Fiyatı
+Tutarı
+Malzeme
+10.240.5765 8 mm kalınlıkta, 60x60 cm ebatlarında, ön
+yüzü pvc, arka yüzü metal film kaplı alçı
+tavan karosu (Tip A)
+m² 1,050 56,00 58,80
+10.200.3071 24 mm genişliğinde ana taşıyıcı T
+profiller, 0,40 mm kalınlığında, h=38 mm
+yüksekliğinde profil
+m 1,000 13,15 13,15
+10.200.3091 24 mm genişliğinde ara taşıyıcı T
+profiller, 0,40 mm kalınlığında, h=30 mm
+yüksekliğinde profil
+m 2,600 19,00 49,40
+10.200.3125 Kenar L profili (0,50 mm kalınlığında) m 1,100 9,45 10,40
+10.200.3137 Çelik dubel (6x45 vida, kovan, L-demir
+ve somun dahil)
+ad 1,000 1,93 1,93
+10.200.3136 Çiftli yay (0,60 mm kalınlığında yay
+çeliğinden mamul, fosfat ve benzeri
+kaplanmış)
+ad 1,000 2,00 2,00
+10.200.3129 Askı çubuğu 40 cm (4 mm galvanizli
+çubuk, uzunluk: 40cm)
+ad 1,000 1,00 1,00
+10.420.1012 Vida ve plastik dübel ad 2,000 1,50 3,00
+İşçilik
+10.100.1068 Birinci sınıf usta sa 0,400 250,00 100,00
+10.100.1047 Soğuk demirci usta yardımcısı sa 0,400 185,00 74,00
+10.100.1062 Düz İşçisi (inşaat işçisi) sa 0,300 165,00 49,50
+Toplam Tutarı 363,18
+% 25 Yüklenici Kârı ve Genel Giderler 90,80
+1 m² Fiyatı : 453,98
+İdarece onaylanmış proje ve detaylarına göre 24 mm genişliğinde T ana ve ara taşıyıcı profillerin, 40 cm
+uzunluğunda 4 mm çapındaki özel ayarlı galvanizli çelik askı takımları ile 60 cm aralıklı mesafede ve istenilen
+kottaki düzeyde teraziye alınarak asılması, tavan kenarlarına 0,50 mm kalınlığında L profillerin dönülmesi, T ana
+ve ara taşıyıcı profillerin üzerine 60x60 cm ebadında 8 mm kalınlığında alçı tavan karolarının yerleştirilmesi,
+elektrik armatürleri veya tesisat özelliklerine göre yerlerinin açılması suretiyle asma tavan teşkili için her türlü
+malzeme ve zayiatı, atölye masrafları, işyerinde yatay ve düşey taşıma, boşaltma, işçilik, yüklenici kârı ve genel
+giderler dâhil 1 m² fiyatıdır.
+Ölçü:
+1) Asma tavan yapılan yüzeyler ölçülür.
+2) 0,25 m2 den küçük havalandırma ve elektrik armatürleri boşlukları ile diğer boşluklar düşülmez.
+60x60 cm ebadında 8 mm kalınlığında alçı tavan karosundan (pvc lamineli)
+asma tavan yapılması
+3-55
+MİLLÎ SAVUNMA BAKANLIĞI FİYAT ANALİZİ
+Poz No Analizin Adı Ölçü Birimi
+48.535.1003 m²
+Poz No Tanımı Ölçü
+Birimi
+Miktarı Birim
+Fiyatı
+Tutarı
+Malzeme
+10.240.5782 9,5 mm kalınlıkta, 60x60 cm ebatlarında,
+ön yüzü boyalı, arka yüzü cam tülü kaplı,
+delikli alçı tavan karosu (TİP A)
+m² 1,050 101,00 106,05
+10.200.3071 24 mm genişliğinde ana taşıyıcı T
+profiller, 0,40 mm kalınlığında, h=38 mm
+yüksekliğinde profil
+m 1,000 13,15 13,15
+10.200.3091 24 mm genişliğinde ara taşıyıcı T
+profiller, 0,40 mm kalınlığında, h=30 mm
+yüksekliğinde profil
+m 2,600 19,00 49,40
+10.200.3125 Kenar L profili (0,50 mm kalınlığında) m 1,100 9,45 10,40
+10.200.3137 Çelik dubel (6x45 vida, kovan, L-demir
+ve somun dahil)
+ad 1,000 1,93 1,93
+10.200.3136 Çiftli yay (0,60 mm kalınlığında yay
+çeliğinden mamul, fosfat ve benzeri
+kaplanmış)
+ad 1,000 2,00 2,00
+10.200.3129 Askı çubuğu 40 cm (4 mm galvanizli
+çubuk, uzunluk: 40cm)
+ad 1,000 1,00 1,00
+10.420.1012 Vida ve plastik dübel ad 2,000 1,50 3,00
+İşçilik
+10.100.1068 Birinci sınıf usta sa 0,400 250,00 100,00
+10.100.1047 Soğuk demirci usta yardımcısı sa 0,400 185,00 74,00
+10.100.1062 Düz İşçisi (inşaat işçisi) sa 0,300 165,00 49,50
+Toplam Tutarı 410,43
+% 25 Yüklenici Kârı ve Genel Giderler 102,61
+1 m² Fiyatı : 513,04
+60x60 cm ebadında 9,5 mm kalınlığında delikli alçı tavan karosundan
+(akustik) asma tavan yapılması
+İdarece onaylanmış proje ve detaylarına göre 24 mm genişliğinde T ana ve ara taşıyıcı profillerin, 40 cm
+uzunluğunda 4 mm çapındaki özel ayarlı galvanizli çelik askı takımları ile 60 cm aralıklı mesafede ve istenilen
+kottaki düzeyde teraziye alınarak asılması, tavan kenarlarına 0,50 mm kalınlığında L profillerin dönülmesi, T ana
+ve ara taşıyıcı profillerin üzerine 60x60 cm ebadında 9,5 mm kalınlığında delikli alçı tavan karolarının
+yerleştirilmesi, elektrik armatürleri veya tesisat özelliklerine göre yerlerinin açılması suretiyle asma tavan teşkili
+için her türlü malzeme ve zayiatı, atölye masrafları, işyerinde yatay ve düşey taşıma, boşaltma, işçilik, yüklenici
+kârı ve genel giderler dâhil 1 m² fiyatıdır.
+Ölçü:
+1) Asma tavan yapılan yüzeyler ölçülür.
+2) 0,25 m2 den küçük havalandırma ve elektrik armatürleri boşlukları ile diğer boşluklar düşülmez.
+3-56
+MİLLÎ SAVUNMA BAKANLIĞI FİYAT ANALİZİ
+Poz No Analizin Adı Ölçü Birimi
+48.535.1004 m²
+Poz No Tanımı Ölçü
+Birimi
+Miktarı Birim
+Fiyatı
+Tutarı
+Malzeme
+10.240.5784 9,5 mm kalınlıkta, 60x120 cm ebatlarında,
+ön yüzü boyalı, arka yüzü cam tülü kaplı,
+delikli alçı tavan karosu (TİP A)
+m² 1,050 101,00 106,05
+10.200.3071 24 mm genişliğinde ana taşıyıcı T
+profiller, 0,40 mm kalınlığında, h=38 mm
+yüksekliğinde profil
+m 1,000 13,15 13,15
+10.200.3091 24 mm genişliğinde ara taşıyıcı T
+profiller, 0,40 mm kalınlığında, h=30 mm
+yüksekliğinde profil
+m 1,800 19,00 34,20
+10.200.3125 Kenar L profili (0,50 mm kalınlığında) m 1,100 9,45 10,40
+10.200.3137 Çelik dubel (6x45 vida, kovan, L-demir
+ve somun dahil)
+ad 1,000 1,93 1,93
+10.200.3136 Çiftli yay (0,60 mm kalınlığında yay
+çeliğinden mamul, fosfat ve benzeri
+kaplanmış)
+ad 1,000 2,00 2,00
+10.200.3129 Askı çubuğu 40 cm (4 mm galvanizli
+çubuk, uzunluk: 40cm)
+ad 1,000 1,00 1,00
+10.420.1012 Vida ve plastik dübel ad 2,000 1,50 3,00
+İşçilik
+10.100.1068 Birinci sınıf usta sa 0,400 250,00 100,00
+10.100.1047 Soğuk demirci usta yardımcısı sa 0,400 185,00 74,00
+10.100.1062 Düz İşçisi (inşaat işçisi) sa 0,300 165,00 49,50
+Toplam Tutarı 395,23
+% 25 Yüklenici Kârı ve Genel Giderler 98,81
+1 m² Fiyatı : 494,04
+İdarece onaylanmış proje ve detaylarına göre 24 mm genişliğinde T ana ve ara taşıyıcı profillerin, 40 cm
+uzunluğunda 4 mm çapındaki özel ayarlı galvanizli çelik askı takımlarının istenilen kottaki düzeyde teraziye
+alınarak asılması, tavan kenarlarına 0,50 mm kalınlığında L profillerin dönülmesi, T ana ve ara taşıyıcı profillerin
+üzerine 60x120 cm ebadında 9,5 mm kalınlığında delikli alçı tavan karolarının yerleştirilmesi, elektrik armatürleri
+veya tesisat özelliklerine göre yerlerinin açılması suretiyle asma tavan teşkili için her türlü malzeme ve zayiatı,
+atölye masrafları, işyerinde yatay ve düşey taşıma, boşaltma, işçilik, yüklenici kârı ve genel giderler dâhil 1 m²
+fiyatıdır.
+Ölçü:
+1) Asma tavan yapılan yüzeyler ölçülür.
+2) 0,25 m2 den küçük havalandırma ve elektrik armatürleri boşlukları ile diğer boşluklar düşülmez.
+60x120 cm ebadında 9,5 mm kalınlığında delikli alçı tavan karosundan
+(akustik) asma tavan yapılması
+3-57
+MİLLÎ SAVUNMA BAKANLIĞI FİYAT ANALİZİ
+Poz No Analizin Adı Ölçü Birimi
+48.535.1005 m²
+Poz No Tanımı Ölçü
+Birimi
+Miktarı Birim
+Fiyatı
+Tutarı
+Malzeme
+10.240.5766 9,5 mm kalınlıkta, 60x60 cm ebatlarında,
+ön yüzü pvc, arka yüzü metal film kaplı
+alçı tavan karosu (Tip A)
+m² 1,050 70,00 73,50
+10.200.3071 24 mm genişliğinde ana taşıyıcı T
+profiller, 0,40 mm kalınlığında, h=38 mm
+yüksekliğinde profil
+m 1,000 13,15 13,15
+10.200.3091 24 mm genişliğinde ara taşıyıcı T
+profiller, 0,40 mm kalınlığında, h=30 mm
+yüksekliğinde profil
+m 2,600 19,00 49,40
+10.200.3125 Kenar L profili (0,50 mm kalınlığında) m 1,100 9,45 10,40
+10.200.3137 Çelik dubel (6x45 vida, kovan, L-demir
+ve somun dahil)
+ad 1,000 1,93 1,93
+10.200.3136 Çiftli yay (0,60 mm kalınlığında yay
+çeliğinden mamul, fosfat ve benzeri
+kaplanmış)
+ad 1,000 2,00 2,00
+10.200.3129 Askı çubuğu 40 cm (4 mm galvanizli
+çubuk, uzunluk: 40cm)
+ad 1,000 1,00 1,00
+10.420.1012 Vida ve plastik dübel ad 2,000 1,50 3,00
+İşçilik
+10.100.1068 Birinci sınıf usta sa 0,400 250,00 100,00
+10.100.1047 Soğuk demirci usta yardımcısı sa 0,400 185,00 74,00
+10.100.1062 Düz İşçisi (inşaat işçisi) sa 0,300 165,00 49,50
+Toplam Tutarı 377,88
+% 25 Yüklenici Kârı ve Genel Giderler 94,47
+1 m² Fiyatı : 472,35
+60x60 cm ebadında 9,5 mm kalınlığında alçı tavan karosundan (pvc
+lamineli) ile asma tavan yapılması
+İdarece onaylanmış proje ve detaylarına göre 24 mm genişliğinde T ana ve ara taşıyıcı profillerin, 40 cm
+uzunluğunda 4 mm çapındaki özel ayarlı galvanizli çelik askı takımları ile 60 cm aralıklı mesafede ve istenilen
+kottaki düzeyde teraziye alınarak asılması, tavan kenarlarına 0,50 mm kalınlığında L profillerin dönülmesi, T ana
+ve ara taşıyıcı profillerin üzerine 60x60 cm ebadında 9,5 mm kalınlığında alçı tavan karolarının yerleştirilmesi,
+elektrik armatürleri veya tesisat özelliklerine göre yerlerinin açılması suretiyle asma tavan teşkili için her türlü
+malzeme ve zayiatı, atölye masrafları, işyerinde yatay ve düşey taşıma, boşaltma, işçilik, yüklenici kârı ve genel
+giderler dâhil 1 m² fiyatıdır.
+Ölçü:
+1) Asma tavan yapılan yüzeyler ölçülür.
+2) 0,25 m2 den küçük havalandırma ve elektrik armatürleri boşlukları ile diğer boşluklar düşülmez.
+3-58
+MİLLÎ SAVUNMA BAKANLIĞI FİYAT ANALİZİ
+Poz No Analizin Adı Ölçü Birimi
+48.540.9001 m²
+Poz No Tanımı Ölçü
+Birimi
+Miktarı Birim
+Fiyatı
+Tutarı
+Malzeme
+10.300.1602 Zımpara kağıdı (A4 ebadında) ad 1,000 6,50 6,50
+İşçilik
+10.100.1062 Düz İşçisi (inşaat işçisi) sa 0,500 165,00 82,50
+Toplam Tutarı 89,00
+% 25 Yüklenici Kârı ve Genel Giderler 22,25
+1 m² Fiyatı : 111,25
+Demir imalatın yüzeyinin raspa edilmesi tel fırça ve zımpara ile temizlenmesi ve boyaya hazır hale getirilmesi için
+gerekli her türlü malzeme ve zayiatı, işçilik, alet ve edevat giderleri, iş yerindeki yükleme, yatay ve düşey
+taşımalar, boşaltma, yüklenici kârı ve genel giderler dâhil 1 m² fiyatıdır.
+Ölçü: Temizlenen yüzey m² cinsinden hesaplanır.
+Demir yüzeylerin raspa edilmesi ve tel fırça ile temizlenmesi
+3-59
+MİLLÎ SAVUNMA BAKANLIĞI FİYAT ANALİZİ
+Poz No Analizin Adı Ölçü Birimi
+48.550.2001 kg
+Poz No Tanımı Ölçü
+Birimi
+Miktarı Birim
+Fiyatı
+Tutarı
+Malzeme
+10.200.1601 1.4301 (AISI 304) kalite paslanmaz çubuk kg 1,100 93,50 102,85
+(zayiatlı)
+10.200.1601 1.4301 (AISI 304) kalite paslanmaz çubuk kg 0,220 93,50 20,57
+(Atölye masrafları, kaynak, argon
+kaynağı, rozet, mafsal, somun, torna,
+freze, metrik bağlantı elemanları, ufak
+malzemeler, çelik civata, polisaj,
+malzemenin şantiyeye nakliyesi karşılığı)
+Malzeme bedelinin % 20’si
+(1,100x0,20=0,220 kg)
+İşçilik
+10.100.1018 Sıcak demirci ustası sa 0,500 250,00 125,00
+10.100.1021 Kaynakçı ustası sa 0,500 250,00 125,00
+10.100.1027 Tornacı ustası sa 0,500 250,00 125,00
+10.100.1062 Düz İşçisi (inşaat işçisi) sa 0,200 165,00 33,00
+(yapılması için)
+10.100.1062 Düz İşçisi (inşaat işçisi) sa 0,250 165,00 41,25
+(Yerine yerleştirmek için)
+Toplam Tutarı 572,67
+% 25 Yüklenici Kârı ve Genel Giderler 143,17
+1 kg Fiyatı : 715,84
+Paslanmaz çelik merdiven korkuluğu ve küpeştesi yapılması
+3-60
+MİLLÎ SAVUNMA BAKANLIĞI FİYAT ANALİZİ
+Parlak paslanmaz çelikten (304 kalite) merdiven korkuluğu yapılması; 60 veya 90 cm ara ile dikmeleri Ø 32x1,5,
+korkuluk üst başlık küpeştesi Ø 51x1,5, ara bağlama boruları 3 adet Ø 16x1,5 çapında paslanmaz çelikten imal
+edilecek, küpeşte bağlantı elemanları paslanmaz mafsallardan olacak, ara kayıtların dikme borulara bağlantısı
+M6’lık vidalarla yapılacak, bunların üzerine paslanmaz kör somun monte edilecek, dikmelerin basamak bağlantı
+yerlerine M10 vida veya fırın boyalı ankraj demirinin yerinde punta ile kaynak yapılacak, üzerine krom-nikel Ø
+51’lik kapaklar takılacaktır. Ø 51’lik küpeştenin ağız kapakları paslanmaz çelik kapakla kapatılacak, merdiven
+dönüşüm yerleri patentli dirsek olacak, dirsekle küpeşte birleşim yeri kaynaklı olacaktır. Yapılan bütün kaynaklar
+pürüzsüz olacaktır.
+Parlak paslanmaz çelikten (304 kalite) merdiven küpeştesi yapılması; 0,5 metre ara ile bağlantı mafsalı
+kullanılacak, kaynak izi belli olmayacak, küpeşte ile duvar arasındaki mesafe en az 5 cm olacaktır.
+Paslanmaz çelikten projesine uygun ölçülerde imal edilecek merdiven korkuluğu ve küpeştesi için gerekli atölye
+masrafları, kaynak, argon kaynağı, rozet, mafsal, somun, torna, freze, polisaj, metrik bağlantı elemanları, ufak
+malzemeler, çelik civata kullanılması ve yerine montajı için gerekli her türlü malzeme ve zayiatı, işçilik,
+malzemenin şantiyeye nakliyesi, iş yerindeki yükleme, boşaltma, yatay ve düşey taşımalar, yüklenici kârı ve genel
+giderler dâhil 1 kg fiyatıdır.
+Ölçü: Projesine göre imal edilen paslanmaz çelik imalat yerine konulmadan önce tartılır ve bir tutanakla ataşmana
+geçirilir. İdare lüzum görürse proje boyutları üzerinden bütün aksamın cetveldeki ağırlıklarına (TSE normlarına
+göre ağırlıkları hesap edilir, standart olmadığı takdirde Alman normlarına göre hesap yapılır.) nazaran tartı
+ağırlığını tahkik eder. Bu tahkik neticesinde cetvellere nazaran % 5 ağırlık fazlasına kadar ödeme yapılır. % 5‘den
+fazla ağırlık dikkate alınmaz. Hesap tahkikinde perçin ve civata delikleri dolu kabul edilir. Bu tartı neticesinde
+bulunanan ağırlığın cetveldekinden az olması halinde yapılan imalatın idarece kabul edilmesi şartıyla tartı esas
+alınır.
+3-61
+MİLLÎ SAVUNMA BAKANLIĞI FİYAT ANALİZİ
+Poz No Analizin Adı Ölçü Birimi
+48.550.2002 kg
+Poz No Tanımı Ölçü
+Birimi
+Miktarı Birim
+Fiyatı
+Tutarı
+Malzeme
+10.200.1601 1.4301 (AISI 304) kalite paslanmaz çubuk kg 0,088 93,50 8,23
+10.200.1603 1.4301 (AISI 304) kalite paslanamaz sac kg 1,012 91,00 92,09
+10.200.1601 1.4301 (AISI 304) kalite paslanmaz çubuk kg 0,0088 93,50 0,82
+(kaynak, argon kaynağı, torna freze ve
+çelik civata kullanılması karşılığı)
+10.200.1603 1.4301 (AISI 304) kalite paslanamaz sac kg 0,1012 91,00 9,21
+(kaynak, argon kaynağı, torna freze ve
+çelik civata kullanılması karşılığı)
+İşçilik
+10.100.1018 Sıcak demirci ustası sa 0,200 250,00 50,00
+10.100.1021 Kaynakçı ustası sa 0,200 250,00 50,00
+10.100.1027 Tornacı ustası sa 0,100 250,00 25,00
+10.100.1062 Düz İşçisi (inşaat işçisi) sa 0,200 165,00 33,00
+(yapılması için)
+10.100.1062 Düz İşçisi (inşaat işçisi) sa 0,250 165,00 41,25
+(Yerine yerleştirmek için)
+Toplam Tutarı 309,60
+% 25 Yüklenici Kârı ve Genel Giderler 77,40
+1 kg Fiyatı : 387,00
+304 kalite paslanmaz çelik levhalardan projesine uygun ölçülerde imal edilecek olan servis standı, özel su tankları
+vb. imalatın yapılması, gerektiğinde argon kaynağı, torna, freze ve çelik cıvata kullanılması, yerine montajı için
+gerekli her türlü malzeme ve zayiatı, işçilik, iş yerindeki yükleme, boşaltma, yatay ve düşey taşımalar, yüklenici
+kârı ve genel giderler dâhil 1 kg fiyatıdır.
+Ölçü: Projesine göre imal edilen paslanmaz çelik imalat, yerine konulmadan önce tartılır ve bir zabıtla ataşmana
+geçirilir. İdare lüzum görürse proje boyutları üzerinden bütün aksamın cetveldeki ağırlıklarına (TSE normlarına
+göre ağırlıkları hesap edilir, standart olmadığı takdirde Alman normlarına göre hesap yapılır.) nazaran tartı
+ağırlığını tahkik eder. Bu tahkik neticesinde cetvellere nazaran % 5 ağırlık fazlasına kadar ödeme yapılır. % 5‘den
+fazla ağırlık dikkate alınmaz. Hesap tahkikinde perçin ve civata delikleri dolu kabul edilir. Bu tartı neticesinde
+bulunanan ağırlığın cetveldekinden az olması halinde yapılan imalatın idarece kabul edilmesi şartıyla tartı esas
+alınır.
+Paslanmaz Çelik İmalat Yapılması
+3-62
+MİLLÎ SAVUNMA BAKANLIĞI FİYAT ANALİZİ
+Poz No Analizin Adı Ölçü Birimi
+48.680.1001 m²
+Poz No Tanımı Ölçü
+Birimi
+Miktarı Birim
+Fiyatı
+Tutarı
+Malzeme
+10.240.2101 Açık renkli traverten (iş başında) m² 1,100 428,00 470,80
+(zayiatlı)
+10.240.2101 Açık renkli traverten (iş başında) m² 0,220 428,00 94,16
+Ebat+kalınlık artış katsayısı k= 0,22 (3 x
+30-40-50 x serbest boy için)
+10.310.1111 Taşyünü Isı Yalıtım Levhaları (TS EN
+13162+A1), Giydirme Cephe ve İçten Isı
+Yalıtımı İçin, Yüzeye dik çekme
+mukavemeti en az 1,0kPa (TR1)
+m³ 0,063 1.750,00 110,25
+(zayiatlı)
+10.330.2351 Çelik çivili ısı yalıtım dübelleri, 9-15 cm
+(15cm dahil) uzunluklar için
+ad 6,000 3,50 21,00
+10.330.5498 Su buharı geçişine açık su yalıtım örtüsü
+TS EN 13859-1,2 (su sızdırmazlık sınıfı
+WI)
+m² 1,100 38,00 41,80
+(zayiatlı)
+10.420.1008 Geniş başlı galvanizli çivi (TS 155)
+(shingle çivisi)
+kg 0,030 45,00 1,35
+Dış cephe mekanik montaj elemanları;
+10.200.3822 U profil (ST 37 sıcak daldırma galvaniz),
+40/30/3 mm (işbaşında)
+m 2,500 62,90 157,25
+10.200.3901 L konsol (ST 37 sıcak daldırma galvaniz),
+50/60x120x3 mm (işbaşında)
+ad 2,000 12,50 25,00
+10.200.4067 Klipsli dübel (ST 37 elektroliz galvaniz),
+M10x90 mm (işbaşında)
+ad 4,000 6,30 25,20
+10.200.4241 Cıvata (ST 37 elektroliz galvaniz),
+M10x30 mm (işbaşında)
+ad 4,000 1,10 4,40
+10.200.4282 Somun (ST 37 elektroliz galvaniz), M10
+(işbaşında)
+ad 4,000 0,75 3,00
+10.200.4192 Düz pul (paslanmaz çelik AISI 304),
+34/26/3 mm (işbaşında)
+ad 4,000 2,70 10,80
+10.200.3922 Z ankraj (paslanmaz çelik AISI 304),
+30x3xY40 mm (işbaşında)
+ad 7,000 12,00 84,00
+10.200.4145 Ayar kolu (paslanmaz çelik AISI 304),
+M10x60 mm (işbaşında)
+ad 7,000 4,75 33,25
+10.200.4173 Flanşlı pim (paslanmaz çelik AISI 304),
+Ø5x50 mm (işbaşında)
+ad 7,000 1,75 12,25
+10.200.4235 Cıvata (ST 37 elektroliz galvaniz), M8x30
+mm (işbaşında)
+ad 7,000 0,75 5,25
+10.200.4281 Somun (ST 37 elektroliz galvaniz), M6-8
+(dahil) arası (işbaşında)
+ad 7,000 0,25 1,75
+Açık renkli travertenler (honlu veya cilalı) ile cephe kaplaması yapılması
+(3x40x80 cm) (mekanik montajlı) (6 cm taşyünü ısı yalıtımlı ve su buharı
+geçişine açık su yalıtımlı)
+3-63
+MİLLÎ SAVUNMA BAKANLIĞI FİYAT ANALİZİ
+10.200.4191 Düz pul (paslanmaz çelik AISI 304),
+30/22/2,5 mm (işbaşında)
+ad 7,000 1,85 12,95
+Akrilik bant, mermer ve taş yapıştırıcı,
+dondurucu karşılığı;
+(10.200.3822+10.200.3901+10.200.4067
++10.200.4241+10.200.4282+10.200.4192
++10.200.3922+10.200.4145+10.200.4173
++10.200.4235+10.200.4281+10.200.4191
+poz nolu imalat tutarının % 2’si)
+7,50
+İşçilik
+10.100.1068 Birinci sınıf usta sa 2,500 250,00 625,00
+10.100.1069 Birinci sınıf usta yardımcısı sa 2,000 185,00 370,00
+10.100.1062 Düz İşçisi (inşaat işçisi) sa 1,000 165,00 165,00
+10.100.1010 Yalıtımcı Ustası sa 0,500 250,00 125,00
+Toplam Tutarı 2.406,96
+% 25 Yüklenici Kârı ve Genel Giderler 601,74
+1 m² Fiyatı : 3.008,70
+Onaylı projesinde belirtilen, açık renkli 3 cm kalınlığında 40x80 cm travertenlerin temini, mekanik montaj taşıyıcı sistemin
+yapılması, yalıtımın yapılması ve travertenler ile cephe kaplaması yapılması için gerekli tüm malzeme ve zayiatı, işçilik, araç ve
+gereç giderleri, inşaat alanındaki yükleme, yatay düşey taşıma, boşaltma, yüklenici kârı ve genel giderler dâhil 1 m² fiyatıdır.
+Travertenlerin arkasına yapılacak yalıtım;
+Mekanik montaj raylarının atılmasını müteakip cephede 6 cm taşyünü levhaların ısı yalıtım dubeli ile yüzeye tespitinden sonra
+üzerine su buharı geçişine açık su yalıtım örtüsü uygulanacaktır. Su yalıtım örtüsü birbiri üzerine en az 10 cm binecek şekilde
+ve ek yerlerinin altından en fazla 10 cm aralıklarla geniş başlı galvanizli çivilerle çakılacaktır. Su yalıtım örtüsü ile oluşturulan
+tüm bindirmeler (bini çizgisi esas alınmak kaydı ile) cephe çevresinde (alt, üst ve yanlar) ve tüm girinti noktalarında (ankraj vs)
+çift taraflı akrilik bant ile yapıştırılacaktır.
+Mekanik Montaj Ankraj Malzemeleri;
+Dış cephede kullanılacak gövde ankraj elemanları bu iş için imal edilmiş ve üretilmiş orijinal tip olacaktır. 40/30/3 mm U
+profil, 50/60x120x3 mm L konsol sıcak daldırma galvaniz, klipsli dubel, civata, somun elektroliz galvaniz, 30x3xY40 mm Z
+ankraj, ayar kolu, Ø5x50 mm flannşlı pim ve pul paslanmaz çelik AISI 304 olacaktır. Ankraj hem düşey hem yatay yükleri
+taşıyabilmelidir. Ankrajlarda kullanılacak çelik kalınlığı min. 3 mm, ayar kolları min. M10 olmalıdır. Onaylı projesinde
+bulunan ölçülere bağlı olarak profil bağlantı elemanları minumum M10x90 dübeller yardımı ile betonarme yüzeye monte edilir.
+U profiller M10 civata, pul, somun takımı kullanılarak profil bağlantı elemanlarına monte edilecek ve projeye uygun ankraj
+sistemi M8 civata, pul, somun takımı ile U profillerine bağlanacaktır.
+Travertenler;
+Taşlar delikler fabrikada hazırlanmış olarak şantiyeye gelecektir. Taşlar paslanmaz çelik pimler vasıtası ile saplamalar üzerine
+oturtulur, pim - delik arasındaki boşluk taş yapıştırıcı ve dondurucu ile doldurulmalıdır. Bir üst sıradaki taş plakası, alt sıradaki
+pimlere oturtularak üst deliklerden aynı yöntemle sabitlenmelidir. Cephe yüzeyi yatay ve düşey aksları belirleyen iplere uygun
+olacak şekilde su terazileri, lazerli nivo, şakul ile kontrol edilerek cephe kaplaması tamamlanmalıdır. Cephe kaplaması
+esnasında kırılan, çatlayan plakların değiştirilmesi, kırık parça kullanılmaması gerekmektedir. Taşlar aynı ocak yerinden temin
+edilmiş olacaktır. Taşlar ve mekanik montaj ankraj malzemeleri ilgili standartlara uygun olacaktır.
+Ölçü: Proje üzerinden mekanik montajlı yalıtımlı cephe kaplaması yapılan yüzey alanı hesaplanır.
+Not:1) İmalattan önce uygulamacı firma tarafından taşların ebatlandırılarak uygulama montaj çizimleri ile mekanik sistemin
+statik hesapları yapılacak ve idare onayından sonra imalata geçilecektir. Analizde kullanılan mekanik montaj ankraj elemanları
+minimum kullanılacak ebatlardır. Statik hesap sonucu daha büyük ebatlarda mekanik montaj ankraj elemanları çıkması
+durumunda, statik projeye uygun imalata geçilecek ve analizdeki ebatlar değitirilecektir.
+2) Isı kayıp hesabı sonucuna göre taşyünü levha kalınlığı değiştirilebilir.
+3) Renk seçimi ve ton farklılıkları için idare onayı alınacaktır.
+3-64
+MİLLÎ SAVUNMA BAKANLIĞI FİYAT ANALİZİ
+Poz No Analizin Adı Ölçü Birimi
+48.680.1002 m²
+Poz No Tanımı Ölçü
+Birimi
+Miktarı Birim
+Fiyatı
+Tutarı
+Malzeme
+10.240.2102 Koyu renkli traverten (iş başında) m² 1,100 345,00 379,50
+(zayiatlı)
+10.240.2102 Koyu renkli traverten (iş başında) m² 0,220 345,00 75,90
+Ebat+kalınlık artış katsayısı k= 0,22 (3 x
+30-40-50 x serbest boy için)
+10.310.1111 Taşyünü Isı Yalıtım Levhaları (TS EN
+13162+A1), Giydirme Cephe ve İçten Isı
+Yalıtımı İçin, Yüzeye dik çekme
+mukavemeti en az 1,0kPa (TR1)
+m³ 0,063 1.750,00 110,25
+(zayiatlı)
+10.330.2351 Çelik çivili ısı yalıtım dübelleri, 9-15 cm
+(15cm dahil) uzunluklar için
+ad 6,000 3,50 21,00
+10.330.5498 Su buharı geçişine açık su yalıtım örtüsü
+TS EN 13859-1,2 (su sızdırmazlık sınıfı
+WI)
+m² 1,100 38,00 41,80
+(zayiatlı)
+10.420.1008 Geniş başlı galvanizli çivi (TS 155)
+(shingle çivisi)
+kg 0,030 45,00 1,35
+Dış cephe mekanik montaj elemanları;
+10.200.3822 U profil (ST 37 sıcak daldırma galvaniz),
+40/30/3 mm (işbaşında)
+m 2,500 62,90 157,25
+10.200.3901 L konsol (ST 37 sıcak daldırma galvaniz),
+50/60x120x3 mm (işbaşında)
+ad 2,000 12,50 25,00
+10.200.4067 Klipsli dübel (ST 37 elektroliz galvaniz),
+M10x90 mm (işbaşında)
+ad 4,000 6,30 25,20
+10.200.4241 Cıvata (ST 37 elektroliz galvaniz),
+M10x30 mm (işbaşında)
+ad 4,000 1,10 4,40
+10.200.4282 Somun (ST 37 elektroliz galvaniz), M10
+(işbaşında)
+ad 4,000 0,75 3,00
+10.200.4192 Düz pul (paslanmaz çelik AISI 304),
+34/26/3 mm (işbaşında)
+ad 4,000 2,70 10,80
+10.200.3922 Z ankraj (paslanmaz çelik AISI 304),
+30x3xY40 mm (işbaşında)
+ad 7,000 12,00 84,00
+10.200.4145 Ayar kolu (paslanmaz çelik AISI 304),
+M10x60 mm (işbaşında)
+ad 7,000 4,75 33,25
+10.200.4173 Flanşlı pim (paslanmaz çelik AISI 304),
+Ø5x50 mm (işbaşında)
+ad 7,000 1,75 12,25
+10.200.4235 Cıvata (ST 37 elektroliz galvaniz), M8x30
+mm (işbaşında)
+ad 7,000 0,75 5,25
+10.200.4281 Somun (ST 37 elektroliz galvaniz), M6-8
+(dahil) arası (işbaşında)
+ad 7,000 0,25 1,75
+Koyu renkli travertenler (honlu veya cilalı) ile cephe kaplaması yapılması
+(3x40x80 cm) (mekanik montajlı) (6 cm taşyünü ısı yalıtımlı ve su buharı
+geçişine açık su yalıtımlı)
+3-65
+MİLLÎ SAVUNMA BAKANLIĞI FİYAT ANALİZİ
+10.200.4191 Düz pul (paslanmaz çelik AISI 304),
+30/22/2,5 mm (işbaşında)
+ad 7,000 1,85 12,95
+Akrilik bant, mermer ve taş yapıştırıcı,
+dondurucu karşılığı;
+(10.200.3822+10.200.3901+10.200.4067
++10.200.4241+10.200.4282+10.200.4192
++10.200.3922+10.200.4145+10.200.4173
++10.200.4235+10.200.4281+10.200.4191
+poz nolu imalat tutarının % 2’si)
+7,50
+İşçilik
+10.100.1068 Birinci sınıf usta sa 2,500 250,00 625,00
+10.100.1069 Birinci sınıf usta yardımcısı sa 2,000 185,00 370,00
+10.100.1062 Düz İşçisi (inşaat işçisi) sa 1,000 165,00 165,00
+10.100.1010 Yalıtımcı Ustası sa 0,500 250,00 125,00
+Toplam Tutarı 2.297,40
+% 25 Yüklenici Kârı ve Genel Giderler 574,35
+1 m² Fiyatı : 2.871,75
+Onaylı projesinde belirtilen, koyu renkli 3 cm kalınlığında 40x80 cm travertenlerin temini, mekanik montaj taşıyıcı sistemin
+yapılması, yalıtımın yapılması ve travertenler ile cephe kaplaması yapılması için gerekli tüm malzeme ve zayiatı, işçilik, araç ve
+gereç giderleri, inşaat alanındaki yükleme, yatay düşey taşıma, boşaltma, yüklenici kârı ve genel giderler dâhil 1 m² fiyatıdır.
+Travertenlerin arkasına yapılacak yalıtım;
+Mekanik montaj raylarının atılmasını müteakip cephede 6 cm taşyünü levhaların ısı yalıtım dubeli ile yüzeye tespitinden sonra
+üzerine su buharı geçişine açık su yalıtım örtüsü uygulanacaktır. Su yalıtım örtüsü birbiri üzerine en az 10 cm binecek şekilde
+ve ek yerlerinin altından en fazla 10 cm aralıklarla geniş başlı galvanizli çivilerle çakılacaktır. Su yalıtım örtüsü ile oluşturulan
+tüm bindirmeler (bini çizgisi esas alınmak kaydı ile) cephe çevresinde (alt, üst ve yanlar) ve tüm girinti noktalarında (ankraj vs)
+çift taraflı akrilik bant ile yapıştırılacaktır.
+Mekanik Montaj Ankraj Malzemeleri;
+Dış cephede kullanılacak gövde ankraj elemanları bu iş için imal edilmiş ve üretilmiş orijinal tip olacaktır. 40/30/3 mm U
+profil, 50/60x120x3 mm L konsol sıcak daldırma galvaniz, klipsli dubel, civata, somun elektroliz galvaniz, 30x3xY40 mm Z
+ankraj, ayar kolu, Ø5x50 mm flannşlı pim ve pul paslanmaz çelik AISI 304 olacaktır. Ankraj hem düşey hem yatay yükleri
+taşıyabilmelidir. Ankrajlarda kullanılacak çelik kalınlığı min. 3 mm, ayar kolları min. M10 olmalıdır. Onaylı projesinde
+bulunan ölçülere bağlı olarak profil bağlantı elemanları minumum M10x90 dübeller yardımı ile betonarme yüzeye monte edilir.
+U profiller M10 civata, pul, somun takımı kullanılarak profil bağlantı elemanlarına monte edilecek ve projeye uygun ankraj
+sistemi M8 civata, pul, somun takımı ile U profillerine bağlanacaktır.
+Travertenler;
+Taşlar delikler fabrikada hazırlanmış olarak şantiyeye gelecektir. Taşlar paslanmaz çelik pimler vasıtası ile saplamalar üzerine
+oturtulur, pim - delik arasındaki boşluk taş yapıştırıcı ve dondurucu ile doldurulmalıdır. Bir üst sıradaki taş plakası, alt sıradaki
+pimlere oturtularak üst deliklerden aynı yöntemle sabitlenmelidir. Cephe yüzeyi yatay ve düşey aksları belirleyen iplere uygun
+olacak şekilde su terazileri, lazerli nivo, şakul ile kontrol edilerek cephe kaplaması tamamlanmalıdır. Cephe kaplaması
+esnasında kırılan, çatlayan plakların değiştirilmesi, kırık parça kullanılmaması gerekmektedir. Taşlar aynı ocak yerinden temin
+edilmiş olacaktır. Taşlar ve mekanik montaj ankraj malzemeleri ilgili standartlara uygun olacaktır.
+Ölçü: Proje üzerinden mekanik montajlı yalıtımlı cephe kaplaması yapılan yüzey alanı hesaplanır.
+Not:1) İmalattan önce uygulamacı firma tarafından taşların ebatlandırılarak uygulama montaj çizimleri ile mekanik sistemin
+statik hesapları yapılacak ve idare onayından sonra imalata geçilecektir. Analizde kullanılan mekanik montaj ankraj elemanları
+minimum kullanılacak ebatlardır. Statik hesap sonucu daha büyük ebatlarda mekanik montaj ankraj elemanları çıkması
+durumunda, statik projeye uygun imalata geçilecek ve analizdeki ebatlar değitirilecektir.
+2) Isı kayıp hesabı sonucuna göre taşyünü levha kalınlığı değiştirilebilir.
+3) Renk seçimi ve ton farklılıkları için idare onayı alınacaktır.
+3-66
+MİLLÎ SAVUNMA BAKANLIĞI FİYAT ANALİZİ
+Poz No Analizin Adı Ölçü Birimi
+48.680.1003 m²
+Poz No Tanımı Ölçü
+Birimi
+Miktarı Birim
+Fiyatı
+Tutarı
+Malzeme
+10.240.2918 Bazalt plaklar, 3x40xserbest boy m² 1,100 405,00 445,50
+(zayiatlı)
+10.310.1111 Taşyünü Isı Yalıtım Levhaları (TS EN
+13162+A1), Giydirme Cephe ve İçten Isı
+Yalıtımı İçin, Yüzeye dik çekme
+mukavemeti en az 1,0kPa (TR1)
+m³ 0,063 1.750,00 110,25
+(zayiatlı)
+10.330.2351 Çelik çivili ısı yalıtım dübelleri, 9-15 cm
+(15cm dahil) uzunluklar için
+ad 6,000 3,50 21,00
+10.330.5498 Su buharı geçişine açık su yalıtım örtüsü
+TS EN 13859-1,2 (su sızdırmazlık sınıfı
+WI)
+m² 1,100 38,00 41,80
+(zayiatlı)
+10.420.1008 Geniş başlı galvanizli çivi (TS 155)
+(shingle çivisi)
+kg 0,030 45,00 1,35
+Dış cephe mekanik montaj elemanları;
+10.200.3822 U profil (ST 37 sıcak daldırma galvaniz),
+40/30/3 mm (işbaşında)
+m 2,500 62,90 157,25
+10.200.3901 L konsol (ST 37 sıcak daldırma galvaniz),
+50/60x120x3 mm (işbaşında)
+ad 2,000 12,50 25,00
+10.200.4067 Klipsli dübel (ST 37 elektroliz galvaniz),
+M10x90 mm (işbaşında)
+ad 4,000 6,30 25,20
+10.200.4241 Cıvata (ST 37 elektroliz galvaniz),
+M10x30 mm (işbaşında)
+ad 4,000 1,10 4,40
+10.200.4282 Somun (ST 37 elektroliz galvaniz), M10
+(işbaşında)
+ad 4,000 0,75 3,00
+10.200.4192 Düz pul (paslanmaz çelik AISI 304),
+34/26/3 mm (işbaşında)
+ad 4,000 2,70 10,80
+10.200.3922 Z ankraj (paslanmaz çelik AISI 304),
+30x3xY40 mm (işbaşında)
+ad 7,000 12,00 84,00
+10.200.4145 Ayar kolu (paslanmaz çelik AISI 304),
+M10x60 mm (işbaşında)
+ad 7,000 4,75 33,25
+10.200.4173 Flanşlı pim (paslanmaz çelik AISI 304),
+Ø5x50 mm (işbaşında)
+ad 7,000 1,75 12,25
+10.200.4235 Cıvata (ST 37 elektroliz galvaniz), M8x30
+mm (işbaşında)
+ad 7,000 0,75 5,25
+10.200.4281 Somun (ST 37 elektroliz galvaniz), M6-8
+(dahil) arası (işbaşında)
+ad 7,000 0,25 1,75
+10.200.4191 Düz pul (paslanmaz çelik AISI 304),
+30/22/2,5 mm (işbaşında)
+ad 7,000 1,85 12,95
+Bazalt plaklar ile cephe kaplaması yapılması (3x40x80 cm) (mekanik
+montajlı) (6 cm taşyünü ısı yalıtımlı ve su buharı geçişine açık su yalıtımlı)
+3-67
+MİLLÎ SAVUNMA BAKANLIĞI FİYAT ANALİZİ
+Akrilik bant, mermer ve taş yapıştırıcı,
+dondurucu karşılığı;
+(10.200.3822+10.200.3901+10.200.4067
++10.200.4241+10.200.4282+10.200.4192
++10.200.3922+10.200.4145+10.200.4173
++10.200.4235+10.200.4281+10.200.4191
+poz nolu imalat tutarının % 2’si)
+7,50
+İşçilik
+10.100.1068 Birinci sınıf usta sa 2,500 250,00 625,00
+10.100.1069 Birinci sınıf usta yardımcısı sa 2,000 185,00 370,00
+10.100.1062 Düz İşçisi (inşaat işçisi) sa 1,000 165,00 165,00
+10.100.1010 Yalıtımcı Ustası sa 0,500 250,00 125,00
+Toplam Tutarı 2.287,50
+% 25 Yüklenici Kârı ve Genel Giderler 571,88
+1 m² Fiyatı : 2.859,38
+Onaylı projesinde belirtilen, 3 cm kalınlığında 40x80 cm bazalt plakların temini, mekanik montaj taşıyıcı sistemin yapılması,
+yalıtımın yapılması ve bazalt plaklar ile cephe kaplaması yapılması için gerekli tüm malzeme ve zayiatı, işçilik, araç ve gereç
+giderleri, inşaat alanındaki yükleme, yatay düşey taşıma, boşaltma, yüklenici kârı ve genel giderler dâhil 1 m² fiyatıdır.
+Bazalt plakların arkasına yapılacak yalıtım;
+Mekanik montaj raylarının atılmasını müteakip cephede 6 cm taşyünü levhaların ısı yalıtım dubeli ile yüzeye tespitinden sonra
+üzerine su buharı geçişine açık su yalıtım örtüsü uygulanacaktır. Su yalıtım örtüsü birbiri üzerine en az 10 cm binecek şekilde
+ve ek yerlerinin altından en fazla 10 cm aralıklarla geniş başlı galvanizli çivilerle çakılacaktır. Su yalıtım örtüsü ile oluşturulan
+tüm bindirmeler (bini çizgisi esas alınmak kaydı ile) cephe çevresinde (alt, üst ve yanlar) ve tüm girinti noktalarında (ankraj vs)
+çift taraflı akrilik bant ile yapıştırılacaktır.
+Mekanik Montaj Ankraj Malzemeleri;
+Dış cephede kullanılacak gövde ankraj elemanları bu iş için imal edilmiş ve üretilmiş orijinal tip olacaktır. 40/30/3 mm U
+profil, 50/60x120x3 mm L konsol sıcak daldırma galvaniz, klipsli dubel, civata, somun elektroliz galvaniz, 30x3xY40 mm Z
+ankraj, ayar kolu, Ø5x50 mm flannşlı pim ve pul paslanmaz çelik AISI 304 olacaktır. Ankraj hem düşey hem yatay yükleri
+taşıyabilmelidir. Ankrajlarda kullanılacak çelik kalınlığı min. 3 mm, ayar kolları min. M10 olmalıdır. Onaylı projesinde
+bulunan ölçülere bağlı olarak profil bağlantı elemanları minumum M10x90 dübeller yardımı ile betonarme yüzeye monte edilir.
+U profiller M10 civata, pul, somun takımı kullanılarak profil bağlantı elemanlarına monte edilecek ve projeye uygun ankraj
+sistemi M8 civata, pul, somun takımı ile U profillerine bağlanacaktır.
+Bazalt plaklar;
+Taşlar delikler fabrikada hazırlanmış olarak şantiyeye gelecektir. Taşlar paslanmaz çelik pimler vasıtası ile saplamalar üzerine
+oturtulur, pim - delik arasındaki boşluk taş yapıştırıcı ve dondurucu ile doldurulmalıdır. Bir üst sıradaki taş plakası, alt sıradaki
+pimlere oturtularak üst deliklerden aynı yöntemle sabitlenmelidir. Cephe yüzeyi yatay ve düşey aksları belirleyen iplere uygun
+olacak şekilde su terazileri, lazerli nivo, şakul ile kontrol edilerek cephe kaplaması tamamlanmalıdır. Cephe kaplaması
+esnasında kırılan, çatlayan plakların değiştirilmesi, kırık parça kullanılmaması gerekmektedir. Taşlar aynı ocak yerinden temin
+edilmiş olacaktır. Taşlar ve mekanik montaj ankraj malzemeleri ilgili standartlara uygun olacaktır.
+Ölçü: Proje üzerinden mekanik montajlı yalıtımlı cephe kaplaması yapılan yüzey alanı hesaplanır.
+Not:1) İmalattan önce uygulamacı firma tarafından taşların ebatlandırılarak uygulama montaj çizimleri ile mekanik sistemin
+statik hesapları yapılacak ve idare onayından sonra imalata geçilecektir. Analizde kullanılan mekanik montaj ankraj elemanları
+minimum kullanılacak ebatlardır. Statik hesap sonucu daha büyük ebatlarda mekanik montaj ankraj elemanları çıkması
+durumunda, statik projeye uygun imalata geçilecek ve analizdeki ebatlar değitirilecektir.
+2) Isı kayıp hesabı sonucuna göre taşyünü levha kalınlığı değiştirilebilir.
+3) Renk seçimi ve ton farklılıkları için idare onayı alınacaktır.
+3-68
+MİLLÎ SAVUNMA BAKANLIĞI FİYAT ANALİZİ
+Poz No Analizin Adı Ölçü Birimi
+48.680.1004 m²
+Poz No Tanımı Ölçü
+Birimi
+Miktarı Birim
+Fiyatı
+Tutarı
+Malzeme
+10.240.2648 Andezit plaklar, 3 cm kalınlığında, 30 cm
+x serbest boy
+m² 1,100 354,00 389,40
+(zayiatlı)
+10.310.1111 Taşyünü Isı Yalıtım Levhaları (TS EN
+13162+A1), Giydirme Cephe ve İçten Isı
+Yalıtımı İçin, Yüzeye dik çekme
+mukavemeti en az 1,0kPa (TR1)
+m³ 0,063 1.750,00 110,25
+(zayiatlı)
+10.330.2351 Çelik çivili ısı yalıtım dübelleri, 9-15 cm
+(15cm dahil) uzunluklar için
+ad 6,000 3,50 21,00
+10.330.5498 Su buharı geçişine açık su yalıtım örtüsü
+TS EN 13859-1,2 (su sızdırmazlık sınıfı
+WI)
+m² 1,100 38,00 41,80
+(zayiatlı)
+10.420.1008 Geniş başlı galvanizli çivi (TS 155)
+(shingle çivisi)
+kg 0,030 45,00 1,35
+Dış cephe mekanik montaj elemanları;
+10.200.3822 U profil (ST 37 sıcak daldırma galvaniz),
+40/30/3 mm (işbaşında)
+m 3,330 62,90 209,46
+10.200.3901 L konsol (ST 37 sıcak daldırma galvaniz),
+50/60x120x3 mm (işbaşında)
+ad 2,220 12,50 27,75
+10.200.4067 Klipsli dübel (ST 37 elektroliz galvaniz),
+M10x90 mm (işbaşında)
+ad 4,440 6,30 27,97
+10.200.4241 Cıvata (ST 37 elektroliz galvaniz),
+M10x30 mm (işbaşında)
+ad 4,440 1,10 4,88
+10.200.4282 Somun (ST 37 elektroliz galvaniz), M10
+(işbaşında)
+ad 4,440 0,75 3,33
+10.200.4192 Düz pul (paslanmaz çelik AISI 304),
+34/26/3 mm (işbaşında)
+ad 4,440 2,70 11,99
+10.200.3922 Z ankraj (paslanmaz çelik AISI 304),
+30x3xY40 mm (işbaşında)
+ad 12,220 12,00 146,64
+10.200.4145 Ayar kolu (paslanmaz çelik AISI 304),
+M10x60 mm (işbaşında)
+ad 12,220 4,75 58,05
+10.200.4173 Flanşlı pim (paslanmaz çelik AISI 304),
+Ø5x50 mm (işbaşında)
+ad 12,220 1,75 21,39
+10.200.4235 Cıvata (ST 37 elektroliz galvaniz), M8x30
+mm (işbaşında)
+ad 12,220 0,75 9,17
+10.200.4281 Somun (ST 37 elektroliz galvaniz), M6-8
+(dahil) arası (işbaşında)
+ad 12,220 0,25 3,06
+10.200.4191 Düz pul (paslanmaz çelik AISI 304),
+30/22/2,5 mm (işbaşında)
+ad 12,220 1,85 22,61
+Andezit plaklar ile cephe kaplaması yapılması (3x30x60 cm) (mekanik
+montajlı) (6 cm taşyünü ısı yalıtımlı ve su buharı geçişine açık su yalıtımlı)
+3-69
+MİLLÎ SAVUNMA BAKANLIĞI FİYAT ANALİZİ
+Akrilik bant, mermer ve taş yapıştırıcı,
+dondurucu karşılığı;
+(10.200.3822+10.200.3901+10.200.4067
++10.200.4241+10.200.4282+10.200.4192
++10.200.3922+10.200.4145+10.200.4173
++10.200.4235+10.200.4281+10.200.4191
+poz nolu imalat tutarının % 2’si)
+10,93
+İşçilik
+10.100.1068 Birinci sınıf usta sa 2,500 250,00 625,00
+10.100.1069 Birinci sınıf usta yardımcısı sa 2,000 185,00 370,00
+10.100.1062 Düz İşçisi (inşaat işçisi) sa 1,000 165,00 165,00
+10.100.1010 Yalıtımcı Ustası sa 0,500 250,00 125,00
+Toplam Tutarı 2.406,03
+% 25 Yüklenici Kârı ve Genel Giderler 601,51
+1 m² Fiyatı : 3.007,54
+Onaylı projesinde belirtilen, 3 cm kalınlığında 30x60 cm andezit plakların temini, mekanik montaj taşıyıcı sistemin yapılması,
+yalıtımın yapılması ve andezit plaklar ile cephe kaplaması yapılması için gerekli tüm malzeme ve zayiatı, işçilik, araç ve gereç
+giderleri, inşaat alanındaki yükleme, yatay düşey taşıma, boşaltma, yüklenici kârı ve genel giderler dâhil 1 m² fiyatıdır.
+Andezit plakların arkasına yapılacak yalıtım;
+Mekanik montaj raylarının atılmasını müteakip cephede 6 cm taşyünü levhaların ısı yalıtım dubeli ile yüzeye tespitinden sonra
+üzerine su buharı geçişine açık su yalıtım örtüsü uygulanacaktır. Su yalıtım örtüsü birbiri üzerine en az 10 cm binecek şekilde
+ve ek yerlerinin altından en fazla 10 cm aralıklarla geniş başlı galvanizli çivilerle çakılacaktır. Su yalıtım örtüsü ile oluşturulan
+tüm bindirmeler (bini çizgisi esas alınmak kaydı ile) cephe çevresinde (alt, üst ve yanlar) ve tüm girinti noktalarında (ankraj vs)
+çift taraflı akrilik bant ile yapıştırılacaktır.
+Mekanik Montaj Ankraj Malzemeleri;
+Dış cephede kullanılacak gövde ankraj elemanları bu iş için imal edilmiş ve üretilmiş orijinal tip olacaktır. 40/30/3 mm U
+profil, 50/60x120x3 mm L konsol sıcak daldırma galvaniz, klipsli dubel, civata, somun elektroliz galvaniz, 30x3xY40 mm Z
+ankraj, ayar kolu, Ø5x50 mm flannşlı pim ve pul paslanmaz çelik AISI 304 olacaktır. Ankraj hem düşey hem yatay yükleri
+taşıyabilmelidir. Ankrajlarda kullanılacak çelik kalınlığı min. 3 mm, ayar kolları min. M10 olmalıdır. Onaylı projesinde
+bulunan ölçülere bağlı olarak profil bağlantı elemanları minumum M10x90 dübeller yardımı ile betonarme yüzeye monte edilir.
+U profiller M10 civata, pul, somun takımı kullanılarak profil bağlantı elemanlarına monte edilecek ve projeye uygun ankraj
+sistemi M8 civata, pul, somun takımı ile U profillerine bağlanacaktır.
+Andezit plaklar;
+Taşlar delikler fabrikada hazırlanmış olarak şantiyeye gelecektir. Taşlar paslanmaz çelik pimler vasıtası ile saplamalar üzerine
+oturtulur, pim - delik arasındaki boşluk taş yapıştırıcı ve dondurucu ile doldurulmalıdır. Bir üst sıradaki taş plakası, alt sıradaki
+pimlere oturtularak üst deliklerden aynı yöntemle sabitlenmelidir. Cephe yüzeyi yatay ve düşey aksları belirleyen iplere uygun
+olacak şekilde su terazileri, lazerli nivo, şakul ile kontrol edilerek cephe kaplaması tamamlanmalıdır. Cephe kaplaması
+esnasında kırılan, çatlayan plakların değiştirilmesi, kırık parça kullanılmaması gerekmektedir. Taşlar aynı ocak yerinden temin
+edilmiş olacaktır. Taşlar ve mekanik montaj ankraj malzemeleri ilgili standartlara uygun olacaktır.
+Ölçü: Proje üzerinden mekanik montajlı yalıtımlı cephe kaplaması yapılan yüzey alanı hesaplanır.
+Not:1) İmalattan önce uygulamacı firma tarafından taşların ebatlandırılarak uygulama montaj çizimleri ile mekanik sistemin
+statik hesapları yapılacak ve idare onayından sonra imalata geçilecektir. Analizde kullanılan mekanik montaj ankraj elemanları
+minimum kullanılacak ebatlardır. Statik hesap sonucu daha büyük ebatlarda mekanik montaj ankraj elemanları çıkması
+durumunda, statik projeye uygun imalata geçilecek ve analizdeki ebatlar değitirilecektir.
+2) Isı kayıp hesabı sonucuna göre taşyünü levha kalınlığı değiştirilebilir.
+3) Renk seçimi ve ton farklılıkları için idare onayı alınacaktır.
+3-70
+MİLLÎ SAVUNMA BAKANLIĞI FİYAT ANALİZİ
+Poz No Analizin Adı Ölçü Birimi
+48.680.1005 m²
+Poz No Tanımı Ölçü
+Birimi
+Miktarı Birim
+Fiyatı
+Tutarı
+Malzeme
+10.240.2649 Andezit plaklar, 3 cm kalınlığında, 40 cm
+x serbest boy
+m² 1,100 429,00 471,90
+(zayiatlı)
+10.310.1111 Taşyünü Isı Yalıtım Levhaları (TS EN
+13162+A1), Giydirme Cephe ve İçten Isı
+Yalıtımı İçin, Yüzeye dik çekme
+mukavemeti en az 1,0kPa (TR1)
+m³ 0,063 1.750,00 110,25
+(zayiatlı)
+10.330.2351 Çelik çivili ısı yalıtım dübelleri, 9-15 cm
+(15cm dahil) uzunluklar için
+ad 6,000 3,50 21,00
+10.330.5498 Su buharı geçişine açık su yalıtım örtüsü
+TS EN 13859-1,2 (su sızdırmazlık sınıfı
+WI)
+m² 1,100 38,00 41,80
+(zayiatlı)
+10.420.1008 Geniş başlı galvanizli çivi (TS 155)
+(shingle çivisi)
+kg 0,030 45,00 1,35
+Dış cephe mekanik montaj elemanları;
+10.200.3822 U profil (ST 37 sıcak daldırma galvaniz),
+40/30/3 mm (işbaşında)
+m 2,500 62,90 157,25
+10.200.3901 L konsol (ST 37 sıcak daldırma galvaniz),
+50/60x120x3 mm (işbaşında)
+ad 2,000 12,50 25,00
+10.200.4067 Klipsli dübel (ST 37 elektroliz galvaniz),
+M10x90 mm (işbaşında)
+ad 4,000 6,30 25,20
+10.200.4241 Cıvata (ST 37 elektroliz galvaniz),
+M10x30 mm (işbaşında)
+ad 4,000 1,10 4,40
+10.200.4282 Somun (ST 37 elektroliz galvaniz), M10
+(işbaşında)
+ad 4,000 0,75 3,00
+10.200.4192 Düz pul (paslanmaz çelik AISI 304),
+34/26/3 mm (işbaşında)
+ad 4,000 2,70 10,80
+10.200.3922 Z ankraj (paslanmaz çelik AISI 304),
+30x3xY40 mm (işbaşında)
+ad 7,000 12,00 84,00
+10.200.4145 Ayar kolu (paslanmaz çelik AISI 304),
+M10x60 mm (işbaşında)
+ad 7,000 4,75 33,25
+10.200.4173 Flanşlı pim (paslanmaz çelik AISI 304),
+Ø5x50 mm (işbaşında)
+ad 7,000 1,75 12,25
+10.200.4235 Cıvata (ST 37 elektroliz galvaniz), M8x30
+mm (işbaşında)
+ad 7,000 0,75 5,25
+10.200.4281 Somun (ST 37 elektroliz galvaniz), M6-8
+(dahil) arası (işbaşında)
+ad 7,000 0,25 1,75
+10.200.4191 Düz pul (paslanmaz çelik AISI 304),
+30/22/2,5 mm (işbaşında)
+ad 7,000 1,85 12,95
+Andezit plaklar ile cephe kaplaması yapılması (3x40x80 cm) (mekanik
+montajlı) (6 cm taşyünü ısı yalıtımlı ve su buharı geçişine açık su yalıtımlı)
+3-71
+MİLLÎ SAVUNMA BAKANLIĞI FİYAT ANALİZİ
+Akrilik bant, mermer ve taş yapıştırıcı,
+dondurucu karşılığı;
+(10.200.3822+10.200.3901+10.200.4067
++10.200.4241+10.200.4282+10.200.4192
++10.200.3922+10.200.4145+10.200.4173
++10.200.4235+10.200.4281+10.200.4191
+poz nolu imalat tutarının % 2’si)
+7,50
+İşçilik
+10.100.1068 Birinci sınıf usta sa 2,500 250,00 625,00
+10.100.1069 Birinci sınıf usta yardımcısı sa 2,000 185,00 370,00
+10.100.1062 Düz İşçisi (inşaat işçisi) sa 1,000 165,00 165,00
+10.100.1010 Yalıtımcı Ustası sa 0,500 250,00 125,00
+Toplam Tutarı 2.313,90
+% 25 Yüklenici Kârı ve Genel Giderler 578,48
+1 m² Fiyatı : 2.892,38
+Onaylı projesinde belirtilen, 3 cm kalınlığında 40x80 cm andezit plakların temini, mekanik montaj taşıyıcı sistemin yapılması,
+yalıtımın yapılması ve andezit plaklar ile cephe kaplaması yapılması için gerekli tüm malzeme ve zayiatı, işçilik, araç ve gereç
+giderleri, inşaat alanındaki yükleme, yatay düşey taşıma, boşaltma, yüklenici kârı ve genel giderler dâhil 1 m² fiyatıdır.
+Andezit plakların arkasına yapılacak yalıtım;
+Mekanik montaj raylarının atılmasını müteakip cephede 6 cm taşyünü levhaların ısı yalıtım dubeli ile yüzeye tespitinden sonra
+üzerine su buharı geçişine açık su yalıtım örtüsü uygulanacaktır. Su yalıtım örtüsü birbiri üzerine en az 10 cm binecek şekilde
+ve ek yerlerinin altından en fazla 10 cm aralıklarla geniş başlı galvanizli çivilerle çakılacaktır. Su yalıtım örtüsü ile oluşturulan
+tüm bindirmeler (bini çizgisi esas alınmak kaydı ile) cephe çevresinde (alt, üst ve yanlar) ve tüm girinti noktalarında (ankraj vs)
+çift taraflı akrilik bant ile yapıştırılacaktır.
+Mekanik Montaj Ankraj Malzemeleri;
+Dış cephede kullanılacak gövde ankraj elemanları bu iş için imal edilmiş ve üretilmiş orijinal tip olacaktır. 40/30/3 mm U
+profil, 50/60x120x3 mm L konsol sıcak daldırma galvaniz, klipsli dubel, civata, somun elektroliz galvaniz, 30x3xY40 mm Z
+ankraj, ayar kolu, Ø5x50 mm flannşlı pim ve pul paslanmaz çelik AISI 304 olacaktır. Ankraj hem düşey hem yatay yükleri
+taşıyabilmelidir. Ankrajlarda kullanılacak çelik kalınlığı min. 3 mm, ayar kolları min. M10 olmalıdır. Onaylı projesinde
+bulunan ölçülere bağlı olarak profil bağlantı elemanları minumum M10x90 dübeller yardımı ile betonarme yüzeye monte edilir.
+U profiller M10 civata, pul, somun takımı kullanılarak profil bağlantı elemanlarına monte edilecek ve projeye uygun ankraj
+sistemi M8 civata, pul, somun takımı ile U profillerine bağlanacaktır.
+Andezit plaklar;
+Taşlar delikler fabrikada hazırlanmış olarak şantiyeye gelecektir. Taşlar paslanmaz çelik pimler vasıtası ile saplamalar üzerine
+oturtulur, pim - delik arasındaki boşluk taş yapıştırıcı ve dondurucu ile doldurulmalıdır. Bir üst sıradaki taş plakası, alt sıradaki
+pimlere oturtularak üst deliklerden aynı yöntemle sabitlenmelidir. Cephe yüzeyi yatay ve düşey aksları belirleyen iplere uygun
+olacak şekilde su terazileri, lazerli nivo, şakul ile kontrol edilerek cephe kaplaması tamamlanmalıdır. Cephe kaplaması
+esnasında kırılan, çatlayan plakların değiştirilmesi, kırık parça kullanılmaması gerekmektedir. Taşlar aynı ocak yerinden temin
+edilmiş olacaktır. Taşlar ve mekanik montaj ankraj malzemeleri ilgili standartlara uygun olacaktır.
+Ölçü: Proje üzerinden mekanik montajlı yalıtımlı cephe kaplaması yapılan yüzey alanı hesaplanır.
+Not:1) İmalattan önce uygulamacı firma tarafından taşların ebatlandırılarak uygulama montaj çizimleri ile mekanik sistemin
+statik hesapları yapılacak ve idare onayından sonra imalata geçilecektir. Analizde kullanılan mekanik montaj ankraj elemanları
+minimum kullanılacak ebatlardır. Statik hesap sonucu daha büyük ebatlarda mekanik montaj ankraj elemanları çıkması
+durumunda, statik projeye uygun imalata geçilecek ve analizdeki ebatlar değitirilecektir.
+2) Isı kayıp hesabı sonucuna göre taşyünü levha kalınlığı değiştirilebilir.
+3) Renk seçimi ve ton farklılıkları için idare onayı alınacaktır.
+3-72
+MİLLÎ SAVUNMA BAKANLIĞI FİYAT ANALİZİ
+Poz No Analizin Adı Ölçü Birimi
+48.680.1006 m²
+Poz No Tanımı Ölçü
+Birimi
+Miktarı Birim
+Fiyatı
+Tutarı
+Malzeme
+10.240.2650 Andezit plaklar, 3 cm kalınlığında, 50 cm
+x serbest boy
+m² 1,100 480,00 528,00
+(zayiatlı)
+10.310.1111 Taşyünü Isı Yalıtım Levhaları (TS EN
+13162+A1), Giydirme Cephe ve İçten Isı
+Yalıtımı İçin, Yüzeye dik çekme
+mukavemeti en az 1,0kPa (TR1)
+m³ 0,063 1.750,00 110,25
+(zayiatlı)
+10.330.2351 Çelik çivili ısı yalıtım dübelleri, 9-15 cm
+(15cm dahil) uzunluklar için
+ad 6,000 3,50 21,00
+10.330.5498 Su buharı geçişine açık su yalıtım örtüsü
+TS EN 13859-1,2 (su sızdırmazlık sınıfı
+WI)
+m² 1,100 38,00 41,80
+(zayiatlı)
+10.420.1008 Geniş başlı galvanizli çivi (TS 155)
+(shingle çivisi)
+kg 0,030 45,00 1,35
+Dış cephe mekanik montaj elemanları;
+10.200.3822 U profil (ST 37 sıcak daldırma galvaniz),
+40/30/3 mm (işbaşında)
+m 2,000 62,90 125,80
+10.200.3901 L konsol (ST 37 sıcak daldırma galvaniz),
+50/60x120x3 mm (işbaşında)
+ad 1,500 12,50 18,75
+10.200.4067 Klipsli dübel (ST 37 elektroliz galvaniz),
+M10x90 mm (işbaşında)
+ad 3,000 6,30 18,90
+10.200.4241 Cıvata (ST 37 elektroliz galvaniz),
+M10x30 mm (işbaşında)
+ad 3,000 1,10 3,30
+10.200.4282 Somun (ST 37 elektroliz galvaniz), M10
+(işbaşında)
+ad 3,000 0,75 2,25
+10.200.4192 Düz pul (paslanmaz çelik AISI 304),
+34/26/3 mm (işbaşında)
+ad 3,000 2,70 8,10
+10.200.3922 Z ankraj (paslanmaz çelik AISI 304),
+30x3xY40 mm (işbaşında)
+ad 5,200 12,00 62,40
+10.200.4145 Ayar kolu (paslanmaz çelik AISI 304),
+M10x60 mm (işbaşında)
+ad 5,200 4,75 24,70
+10.200.4173 Flanşlı pim (paslanmaz çelik AISI 304),
+Ø5x50 mm (işbaşında)
+ad 5,200 1,75 9,10
+10.200.4235 Cıvata (ST 37 elektroliz galvaniz), M8x30
+mm (işbaşında)
+ad 5,200 0,75 3,90
+10.200.4281 Somun (ST 37 elektroliz galvaniz), M6-8
+(dahil) arası (işbaşında)
+ad 5,200 0,25 1,30
+10.200.4191 Düz pul (paslanmaz çelik AISI 304),
+30/22/2,5 mm (işbaşında)
+ad 5,200 1,85 9,62
+Andezit plaklar ile cephe kaplaması yapılması (3x50x100 cm) (mekanik
+montajlı) (6 cm taşyünü ısı yalıtımlı ve su buharı geçişine açık su yalıtımlı)
+3-73
+MİLLÎ SAVUNMA BAKANLIĞI FİYAT ANALİZİ
+Akrilik bant, mermer ve taş yapıştırıcı,
+dondurucu karşılığı;
+(10.200.3822+10.200.3901+10.200.4067
++10.200.4241+10.200.4282+10.200.4192
++10.200.3922+10.200.4145+10.200.4173
++10.200.4235+10.200.4281+10.200.4191
+poz nolu imalat tutarının % 2’si)
+5,76
+İşçilik
+10.100.1068 Birinci sınıf usta sa 2,500 250,00 625,00
+10.100.1069 Birinci sınıf usta yardımcısı sa 2,000 185,00 370,00
+10.100.1062 Düz İşçisi (inşaat işçisi) sa 1,000 165,00 165,00
+10.100.1010 Yalıtımcı Ustası sa 0,500 250,00 125,00
+Toplam Tutarı 2.281,28
+% 25 Yüklenici Kârı ve Genel Giderler 570,32
+1 m² Fiyatı : 2.851,60
+Onaylı projesinde belirtilen, 3 cm kalınlığında 50x100 cm andezit plakların temini, mekanik montaj taşıyıcı sistemin yapılması,
+yalıtımın yapılması ve andezit plaklar ile cephe kaplaması yapılması için gerekli tüm malzeme ve zayiatı, işçilik, araç ve gereç
+giderleri, inşaat alanındaki yükleme, yatay düşey taşıma, boşaltma, yüklenici kârı ve genel giderler dâhil 1 m² fiyatıdır.
+Andezit plakların arkasına yapılacak yalıtım;
+Mekanik montaj raylarının atılmasını müteakip cephede 6 cm taşyünü levhaların ısı yalıtım dubeli ile yüzeye tespitinden sonra
+üzerine su buharı geçişine açık su yalıtım örtüsü uygulanacaktır. Su yalıtım örtüsü birbiri üzerine en az 10 cm binecek şekilde
+ve ek yerlerinin altından en fazla 10 cm aralıklarla geniş başlı galvanizli çivilerle çakılacaktır. Su yalıtım örtüsü ile oluşturulan
+tüm bindirmeler (bini çizgisi esas alınmak kaydı ile) cephe çevresinde (alt, üst ve yanlar) ve tüm girinti noktalarında (ankraj vs)
+çift taraflı akrilik bant ile yapıştırılacaktır.
+Mekanik Montaj Ankraj Malzemeleri;
+Dış cephede kullanılacak gövde ankraj elemanları bu iş için imal edilmiş ve üretilmiş orijinal tip olacaktır. 40/30/3 mm U
+profil, 50/60x120x3 mm L konsol sıcak daldırma galvaniz, klipsli dubel, civata, somun elektroliz galvaniz, 30x3xY40 mm Z
+ankraj, ayar kolu, Ø5x50 mm flannşlı pim ve pul paslanmaz çelik AISI 304 olacaktır. Ankraj hem düşey hem yatay yükleri
+taşıyabilmelidir. Ankrajlarda kullanılacak çelik kalınlığı min. 3 mm, ayar kolları min. M10 olmalıdır. Onaylı projesinde
+bulunan ölçülere bağlı olarak profil bağlantı elemanları minumum M10x90 dübeller yardımı ile betonarme yüzeye monte edilir.
+U profiller M10 civata, pul, somun takımı kullanılarak profil bağlantı elemanlarına monte edilecek ve projeye uygun ankraj
+sistemi M8 civata, pul, somun takımı ile U profillerine bağlanacaktır.
+Andezit plaklar;
+Taşlar delikler fabrikada hazırlanmış olarak şantiyeye gelecektir. Taşlar paslanmaz çelik pimler vasıtası ile saplamalar üzerine
+oturtulur, pim - delik arasındaki boşluk taş yapıştırıcı ve dondurucu ile doldurulmalıdır. Bir üst sıradaki taş plakası, alt sıradaki
+pimlere oturtularak üst deliklerden aynı yöntemle sabitlenmelidir. Cephe yüzeyi yatay ve düşey aksları belirleyen iplere uygun
+olacak şekilde su terazileri, lazerli nivo, şakul ile kontrol edilerek cephe kaplaması tamamlanmalıdır. Cephe kaplaması
+esnasında kırılan, çatlayan plakların değiştirilmesi, kırık parça kullanılmaması gerekmektedir. Taşlar aynı ocak yerinden temin
+edilmiş olacaktır. Taşlar ve mekanik montaj ankraj malzemeleri ilgili standartlara uygun olacaktır.
+Ölçü: Proje üzerinden mekanik montajlı yalıtımlı cephe kaplaması yapılan yüzey alanı hesaplanır.
+Not:1) İmalattan önce uygulamacı firma tarafından taşların ebatlandırılarak uygulama montaj çizimleri ile mekanik sistemin
+statik hesapları yapılacak ve idare onayından sonra imalata geçilecektir. Analizde kullanılan mekanik montaj ankraj elemanları
+minimum kullanılacak ebatlardır. Statik hesap sonucu daha büyük ebatlarda mekanik montaj ankraj elemanları çıkması
+durumunda, statik projeye uygun imalata geçilecek ve analizdeki ebatlar değitirilecektir.
+2) Isı kayıp hesabı sonucuna göre taşyünü levha kalınlığı değiştirilebilir.
+3) Renk seçimi ve ton farklılıkları için idare onayı alınacaktır.
+3-74
+MİLLÎ SAVUNMA BAKANLIĞI FİYAT ANALİZİ
+Poz No Analizin Adı Ölçü Birimi
+48.680.1007 m²
+Poz No Tanımı Ölçü
+Birimi
+Miktarı Birim
+Fiyatı
+Tutarı
+Malzeme
+10.240.2405 Granitler (honlu veya cilalı) (TS 6234, TS
+699), Bulancak Füme (Giresun)
+m² 1,100 1.635,00 1.798,50
+(zayiatlı)
+10.310.1111 Taşyünü Isı Yalıtım Levhaları (TS EN
+13162+A1), Giydirme Cephe ve İçten Isı
+Yalıtımı İçin, Yüzeye dik çekme
+mukavemeti en az 1,0kPa (TR1)
+m³ 0,063 1.750,00 110,25
+(zayiatlı)
+10.330.2351 Çelik çivili ısı yalıtım dübelleri, 9-15 cm
+(15cm dahil) uzunluklar için
+ad 6,000 3,50 21,00
+10.330.5498 Su buharı geçişine açık su yalıtım örtüsü
+TS EN 13859-1,2 (su sızdırmazlık sınıfı
+WI)
+m² 1,100 38,00 41,80
+(zayiatlı)
+10.420.1008 Geniş başlı galvanizli çivi (TS 155)
+(shingle çivisi)
+kg 0,030 45,00 1,35
+Dış cephe mekanik montaj elemanları;
+10.200.3822 U profil (ST 37 sıcak daldırma galvaniz),
+40/30/3 mm (işbaşında)
+m 2,500 62,90 157,25
+10.200.3901 L konsol (ST 37 sıcak daldırma galvaniz),
+50/60x120x3 mm (işbaşında)
+ad 2,000 12,50 25,00
+10.200.4067 Klipsli dübel (ST 37 elektroliz galvaniz),
+M10x90 mm (işbaşında)
+ad 4,000 6,30 25,20
+10.200.4241 Cıvata (ST 37 elektroliz galvaniz),
+M10x30 mm (işbaşında)
+ad 4,000 1,10 4,40
+10.200.4282 Somun (ST 37 elektroliz galvaniz), M10
+(işbaşında)
+ad 4,000 0,75 3,00
+10.200.4192 Düz pul (paslanmaz çelik AISI 304),
+34/26/3 mm (işbaşında)
+ad 4,000 2,70 10,80
+10.200.3922 Z ankraj (paslanmaz çelik AISI 304),
+30x3xY40 mm (işbaşında)
+ad 7,000 12,00 84,00
+10.200.4145 Ayar kolu (paslanmaz çelik AISI 304),
+M10x60 mm (işbaşında)
+ad 7,000 4,75 33,25
+10.200.4173 Flanşlı pim (paslanmaz çelik AISI 304),
+Ø5x50 mm (işbaşında)
+ad 7,000 1,75 12,25
+10.200.4235 Cıvata (ST 37 elektroliz galvaniz), M8x30
+mm (işbaşında)
+ad 7,000 0,75 5,25
+10.200.4281 Somun (ST 37 elektroliz galvaniz), M6-8
+(dahil) arası (işbaşında)
+ad 7,000 0,25 1,75
+10.200.4191 Düz pul (paslanmaz çelik AISI 304),
+30/22/2,5 mm (işbaşında)
+ad 7,000 1,85 12,95
+Bulancak füme (Giresun) granitler (honlu veya cilalı) ile cephe kaplaması
+yapılması (2x40x80 cm) (mekanik montajlı) (6 cm taşyünü ısı yalıtımlı ve
+su buharı geçişine açık su yalıtımlı)
+3-75
+MİLLÎ SAVUNMA BAKANLIĞI FİYAT ANALİZİ
+Akrilik bant, mermer ve taş yapıştırıcı,
+dondurucu karşılığı;
+(10.200.3822+10.200.3901+10.200.4067
++10.200.4241+10.200.4282+10.200.4192
++10.200.3922+10.200.4145+10.200.4173
++10.200.4235+10.200.4281+10.200.4191
+poz nolu imalat tutarının % 2’si)
+7,50
+İşçilik
+10.100.1068 Birinci sınıf usta sa 2,500 250,00 625,00
+10.100.1069 Birinci sınıf usta yardımcısı sa 2,000 185,00 370,00
+10.100.1062 Düz İşçisi (inşaat işçisi) sa 1,000 165,00 165,00
+10.100.1010 Yalıtımcı Ustası sa 0,500 250,00 125,00
+Toplam Tutarı 3.640,50
+% 25 Yüklenici Kârı ve Genel Giderler 910,13
+1 m² Fiyatı : 4.550,63
+Onaylı projesinde belirtilen, 2 cm kalınlığında 40x80 cm bulancak füme (Giresun) granitlerin temini, mekanik montaj taşıyıcı
+sistemin yapılması, yalıtımın yapılması ve bulancak füme (Giresun) granitler ile cephe kaplaması yapılması için gerekli tüm
+malzeme ve zayiatı, işçilik, araç ve gereç giderleri, inşaat alanındaki yükleme, yatay düşey taşıma, boşaltma, yüklenici kârı ve
+genel giderler dâhil 1 m² fiyatıdır.
+Bulancak füme (Giresun) granitlerin arkasına yapılacak imalat yalıtım;
+Mekanik montaj raylarının atılmasını müteakip cephede 6 cm taşyünü levhaların ısı yalıtım dubeli ile yüzeye tespitinden sonra
+üzerine su buharı geçişine açık su yalıtım örtüsü uygulanacaktır. Su yalıtım örtüsü birbiri üzerine en az 10 cm binecek şekilde
+ve ek yerlerinin altından en fazla 10 cm aralıklarla geniş başlı galvanizli çivilerle çakılacaktır. Su yalıtım örtüsü ile oluşturulan
+tüm bindirmeler (bini çizgisi esas alınmak kaydı ile) cephe çevresinde (alt, üst ve yanlar) ve tüm girinti noktalarında (ankraj vs)
+çift taraflı akrilik bant ile yapıştırılacaktır.
+Mekanik Montaj Ankraj Malzemeleri;
+Dış cephede kullanılacak gövde ankraj elemanları bu iş için imal edilmiş ve üretilmiş orijinal tip olacaktır. 40/30/3 mm U
+profil, 50/60x120x3 mm L konsol sıcak daldırma galvaniz, klipsli dubel, civata, somun elektroliz galvaniz, 30x3xY40 mm Z
+ankraj, ayar kolu, Ø5x50 mm flannşlı pim ve pul paslanmaz çelik AISI 304 olacaktır. Ankraj hem düşey hem yatay yükleri
+taşıyabilmelidir. Ankrajlarda kullanılacak çelik kalınlığı min. 3 mm, ayar kolları min. M10 olmalıdır. Onaylı projesinde
+bulunan ölçülere bağlı olarak profil bağlantı elemanları minumum M10x90 dübeller yardımı ile betonarme yüzeye monte edilir.
+U profiller M10 civata, pul, somun takımı kullanılarak profil bağlantı elemanlarına monte edilecek ve projeye uygun ankraj
+sistemi M8 civata, pul, somun takımı ile U profillerine bağlanacaktır.
+Bulancak Füme (Giresun) Granitler;
+Taşlar delikler fabrikada hazırlanmış olarak şantiyeye gelecektir. Taşlar paslanmaz çelik pimler vasıtası ile saplamalar üzerine
+oturtulur, pim - delik arasındaki boşluk taş yapıştırıcı ve dondurucu ile doldurulmalıdır. Bir üst sıradaki taş plakası, alt sıradaki
+pimlere oturtularak üst deliklerden aynı yöntemle sabitlenmelidir. Cephe yüzeyi yatay ve düşey aksları belirleyen iplere uygun
+olacak şekilde su terazileri, lazerli nivo, şakul ile kontrol edilerek cephe kaplaması tamamlanmalıdır. Cephe kaplaması
+esnasında kırılan, çatlayan plakların değiştirilmesi, kırık parça kullanılmaması gerekmektedir. Taşlar aynı ocak yerinden temin
+edilmiş olacaktır. Taşlar ve mekanik montaj ankraj malzemeleri ilgili standartlara uygun olacaktır.
+Ölçü: Proje üzerinden mekanik montajlı yalıtımlı cephe kaplaması yapılan yüzey alanı hesaplanır.
+Not:1) İmalattan önce uygulamacı firma tarafından taşların ebatlandırılarak uygulama montaj çizimleri ile mekanik sistemin
+statik hesapları yapılacak ve idare onayından sonra imalata geçilecektir. Analizde kullanılan mekanik montaj ankraj elemanları
+minimum kullanılacak ebatlardır. Statik hesap sonucu daha büyük ebatlarda mekanik montaj ankraj elemanları çıkması
+durumunda, statik projeye uygun imalata geçilecek ve analizdeki ebatlar değitirilecektir.
+2) Isı kayıp hesabı sonucuna göre taşyünü levha kalınlığı değiştirilebilir.
+3) Renk seçimi ve ton farklılıkları için idare onayı alınacaktır.
+3-76
+MİLLÎ SAVUNMA BAKANLIĞI FİYAT ANALİZİ
+Poz No Analizin Adı Ölçü Birimi
+48.685.1001 m²
+Poz No Tanımı Ölçü
+Birimi
+Miktarı Birim
+Fiyatı
+Tutarı
+Malzeme
+10.130.1708 Sıcak haddelenmiş profil demirler (S235
+JR) (I-U-T-Omega) (TS 910, TS 911 EN
+10055, TS 912)
+kg 4,306 22,50 96,89
+(zayiatlı)
+10.480.1801 Dikenli tel (galvanizli) (TS EN 10223-1) kg 0,920 60,00 55,20
+10.480.1803 Galvanizli tel kg 0,046 45,00 2,07
+İşçilik
+10.100.1068 Birinci sınıf usta sa 0,500 250,00 125,00
+10.100.1062 Düz İşçisi (inşaat işçisi) sa 0,750 165,00 123,75
+Toplam Tutarı 402,91
+% 25 Yüklenici Kârı ve Genel Giderler 100,73
+1 m² Fiyatı : 503,64
+İdarece onaylanmış projesine göre, T 80’lik profilin 4 m aralıklarla muhtelif boyutlardaki beton kaidelere
+dikilmesi, her 40 metrede bir ve kenar köşelerde çift payanda direği ile takviye edilmesi, T 80’lik profilin simetri
+aksindeki kanadına dikenli telin montajı için delik ve çentiklerin açılması, 25 cm ara ile 9 sıra düz 4 sıra çapraz (2
+sıra düz, 2 sıra eğik kısmına) dikenli telin çekilmesi, düz ve çapraz sıraların her kesişme noktasında galvanizli bağ
+teli ile bağlanması için gerekli her türlü malzeme ve zayiatı, işçilik, alet ve edevat giderleri, iş yerindeki yükleme,
+boşaltma, yatay ve düşey taşıma, yüklenici kârı ve genel giderler dâhil 1 m² fiyatıdır.
+Ölçü: Koruma çiti yapılan dikenli telin yüzey alanı ölçülür.
+Not:
+Direk dibi temel kazısı, direk dibi betonu ve kalıbı ilgili pozlarından ödenecektir.
+J- 8 tipi çevre emniyeti yapılması
+3-77
+MİLLÎ SAVUNMA BAKANLIĞI FİYAT ANALİZİ
+Poz No Analizin Adı Ölçü Birimi
+48.685.1004 m²
+Poz No Tanımı Ölçü
+Birimi
+Miktarı Birim
+Fiyatı
+Tutarı
+Malzeme
+10.130.1707 Lamalar (TS EN 10058) kg 2,484 22,50 55,89
+(Kaynak, atölye, zayiat dâhil)
+10.130.1708 Sıcak haddelenmiş profil demirler (S235
+JR) (I-U-T-Omega) (TS 910, TS 911 EN
+10055, TS 912)
+kg 3,693 22,50 83,09
+(Kaynak, atölye, zayiat dâhil)
+10.480.1804 Galvanizli kafes tel (muhtelif) (TS 2398) kg 2,448 55,00 134,64
+(% 10 zayiatlı)
+10.480.1803 Galvanizli tel kg 0,460 45,00 20,70
+10.480.1801 Dikenli tel (galvanizli) (TS EN 10223-1) kg 0,392 60,00 23,52
+(% 1 zayiatlı)
+10.130.1709 Sıcak haddelenmiş köşebentler (S235 JR)
+(TS EN 10056-1,2)
+kg 4,687 22,50 105,46
+(Kaynak, atölye, zayiat dâhil)
+15.540.1121 Demir yüzeylere iki kat antipas, iki kat
+sentetik esaslı parlak boya yapılması
+(karsız fiyat)
+m² 0,549 241,24 132,44
+İşçilik
+10.100.1018 Sıcak demirci ustası sa 3,750 250,00 937,50
+10.100.1062 Düz İşçisi (inşaat işçisi) sa 4,400 165,00 726,00
+Toplam Tutarı 2.219,24
+% 25 Yüklenici Kârı ve Genel Giderler 554,81
+1 m² Fiyatı : 2.774,05
+Onaylı projesine göre, duvar üzerine I 80’lik profillerin 2,50 m ara ile dikilmesi ve ankrajı I 80’lik profilin eğik
+kısmına 3 sıra düz 2 sıra çaprazına galvanizli dikenli tel çekilmesi ve bağlanması, I 80’lik profilin düz kısmına
+40/40/4 köşebentler ile çerçeve yapılması ve bu çerçevenin içine 3 mm kalınlığında 3x3 cm gözlü 150x210 cm
+boyutlarında galvanizli kafes tel ile pano yapılması, üzerine 30/5 lama ile çerçeve punto kaynak ile tespiti ve tüm
+demir aksamın antipas ve sentetik esaslı parlak boya ile boyanması için gerekli her türlü malzeme ve zayiatı,
+işçilik, alet ve edevat giderleri, iş yerindeki yükleme, boşaltma, yatay ve düşey taşıma, yüklenici kârı ve genel
+giderler dâhil 1 m² fiyatıdır. (Yüksekliği 1,85 m)
+Ölçü: Çevre emniyeti için yapılan tel kafes alanı ölçülür.
+Perde duvar üzerine çerçeveli galvanizli kafes tel ile çevre emniyeti
+yapılması
+3-78
+MİLLÎ SAVUNMA BAKANLIĞI FİYAT ANALİZİ
+Poz No Analizin Adı Ölçü Birimi
+48.685.1005 m
+Poz No Tanımı Ölçü
+Birimi
+Miktarı Birim
+Fiyatı
+Tutarı
+Malzeme
+10.130.1708 Sıcak haddelenmiş profil demirler (S235
+JR) (I-U-T-Omega) (TS 910, TS 911 EN
+10055, TS 912)
+kg 43,890 22,50 987,53
+(% 10 zayiatlı)
+10.480.1804 Galvanizli kafes tel (muhtelif) (TS 2398) kg 5,636 55,00 309,98
+(% 10 zayiatlı)
+10.130.1708 Sıcak haddelenmiş profil demirler (S235
+JR) (I-U-T-Omega) (TS 910, TS 911 EN
+10055, TS 912)
+kg 2,900 22,50 65,25
+Köşe elemanı profil için (I 80, U80)
+10.480.1803 Galvanizli tel kg 0,180 45,00 8,10
+3 mm
+15.540.1121 Demir yüzeylere iki kat antipas, iki kat
+sentetik esaslı parlak boya yapılması
+(karsız fiyat)
+m² 2,160 241,24 521,08
+İşçilik
+10.100.1019 Soğuk demirci ustası sa 7,000 250,00 1.750,00
+10.100.1047 Soğuk demirci usta yardımcısı sa 3,600 185,00 666,00
+10.100.1062 Düz İşçisi (inşaat işçisi) sa 7,000 165,00 1.155,00
+Toplam Tutarı 5.462,94
+% 25 Yüklenici Kârı ve Genel Giderler 1.365,74
+1 m Fiyatı : 6.828,68
+Onaylı proje ve detayına göre, temel kolonlarına temiz yüksekliği 3 m olacak şekilde I 80 profillerin 3 m’de bir
+dikilmesi, alt, orta ve üstten U 80’lik profillerle birbirine bağlanması, 3 mm kalınlığında 4x4 cm gözlü kafes
+telinin profillere bağlanması, ek yerlerinin 3 mm kalınlığında bağ teli ile örülmesi, her arada iki taraftan I 80’lik
+profil ile payanda yapılması, tüm demir aksamın antipas ve sentetik esaslı parlak boya ile boyanması için gerekli
+her türlü malzeme ve zayiatı, işçilik, alet ve edevat giderleri, iş yerindeki yükleme, boşaltma, yatay ve düşey
+taşıma, yüklenici kârı ve genel giderler dâhil 1 m fiyatıdır.
+Ölçü: Tel kafes çevre emniyeti uzunluğu ölçülür.
+Hudut karakolu için 3 m yüksekliğinde çevre emniyeti yapılması
+3-79
+MİLLÎ SAVUNMA BAKANLIĞI FİYAT ANALİZİ
+Poz No Analizin Adı Ölçü Birimi
+48.690.1001 ad
+Poz No Tanımı Ölçü
+Birimi
+Miktarı Birim
+Fiyatı
+Tutarı
+İşçilik
+10.100.1062 Düz İşçisi (inşaat işçisi) sa 0,100 165,00 16,50
+10.100.1062 Düz İşçisi (inşaat işçisi) sa 0,100 165,00 16,50
+Toplam Tutarı 33,00
+% 25 Yüklenici Kârı ve Genel Giderler 8,25
+1 ad Fiyatı : 41,25
+Kapı ve pencere doğraması madeni aksamının (kapı ve pencere kolu, kilit, menteşe, tampon, ispanyolet takımı,
+vasistas vb.) sökülmesi, yenisi takılacak olan madeni aksam için kapı ve pencere doğramasının montaja uygun
+duruma getirilmesi için işçilik, alet ve edevat giderleri, iş yerindeki yükleme, yatay ve düşey taşıma, boşaltma,
+yüklenici kârı ve genel giderler dâhil 1 ad fiyatıdır.
+Ölçü: Sökülen madeni aksam adedi hesaplanır.
+Not: Sökümden çıkan malzeme idareye aittir.
+Kapı ve pencere doğraması madeni aksamının sökülmesi
+3-80
+MİLLÎ SAVUNMA BAKANLIĞI FİYAT ANALİZİ
+Poz No Analizin Adı Ölçü Birimi
+48.690.2009 m²
+Poz No Tanımı Ölçü
+Birimi
+Miktarı Birim
+Fiyatı
+Tutarı
+Malzeme
+10.300.2231 Çimento esaslı, standart performanslı derz
+dolgusu (TS EN 13888 - CG1)
+kg 0,500 11,50 5,75
+(Oynayan kısımların sabitleştirilmesi ve
+derz dolgusu karşılığı)
+10.300.1601 Arap sabunu (TS 54) kg 0,050 20,00 1,00
+10.130.9991 Su m³ 0,010 38,50 0,39
+İşçilik
+10.100.1005 Mermer kaplama ustası sa 0,200 250,00 50,00
+10.100.1062 Düz İşçisi (inşaat işçisi) sa 0,400 165,00 66,00
+Toplam Tutarı 123,14
+% 25 Yüklenici Kârı ve Genel Giderler 30,79
+1 m² Fiyatı : 153,93
+Mevcut mermer plak veya karo mozaik döşeme kaplamasının onarılması ve
+silinmesi
+Suni mermer plak veya karo mozaik döşeme kaplamasının (süpürgelik dâhil) oynayan parçalarının
+sabitleştirilmesi, bozulmuş derzlerin doldurulması, silinmesi ve temizlenmesi için gerekli her türlü malzeme ve
+zayiatı, işçilik, alet ve edevat giderleri, iş yerindeki yükleme, yatay ve düşey taşımalar, boşaltma, yüklenici kârı ve
+genel giderler dâhil 1 m² fiyatıdır.
+Ölçü: Onarılan ve silinen döşeme kaplaması alanı hesaplanır.
+3-81
+MİLLÎ SAVUNMA BAKANLIĞI FİYAT ANALİZİ
+Poz No Analizin Adı Ölçü Birimi
+48.690.2010 m²
+Poz No Tanımı Ölçü
+Birimi
+Miktarı Birim
+Fiyatı
+Tutarı
+Malzeme
+10.130.9991 Su m³ 0,010 38,50 0,39
+Ekipman
+19.100.1032 Mozaik silme makinası'nın 1 saatlik ücreti sa 0,150 423,98 63,60
+İşçilik
+10.100.1062 Düz İşçisi (inşaat işçisi) sa 0,250 165,00 41,25
+Toplam Tutarı 105,24
+% 25 Yüklenici Kârı ve Genel Giderler 26,31
+1 m² Fiyatı : 131,55
+Mevcut dökme mozaik döşeme kaplamasının silinmesi
+Mevcut dökme mozaik döşeme kaplamasının (süpürgelikler dâhil) mozaik silme makinesi ile silinmesi ve döşeme
+yüzeyinin temizlenmesi için gerekli her türlü malzeme ve zayiatı, işçilik, alet ve edevat giderleri, iş yerindeki
+yükleme, yatay ve düşey taşımalar, boşaltma, yüklenici kârı ve genel giderler dâhil 1 m² fiyatıdır.
+Ölçü: Silinen dökme mozaik kaplaması alanı hesaplanır.
+3-82
+MİLLÎ SAVUNMA BAKANLIĞI FİYAT ANALİZİ
+Poz No Analizin Adı Ölçü Birimi
+48.690.2011 m²
+Poz No Tanımı Ölçü
+Birimi
+Miktarı Birim
+Fiyatı
+Tutarı
+Malzeme
+10.300.1602 Zımpara kağıdı (A4 ebadında) ad 4,000 6,50 26,00
+Zımpara ve taşlama motoru karşılığı
+İşçilik
+10.100.1023 Boyacı ustası sa 0,250 250,00 62,50
+10.100.1062 Düz İşçisi (inşaat işçisi) sa 0,250 165,00 41,25
+Toplam Tutarı 129,75
+% 25 Yüklenici Kârı ve Genel Giderler 32,44
+1 m² Fiyatı : 162,19
+Eski demir imalatın boyaya hazır hale getirilmesi
+Boyası bozulmuş veya boyanmadan uzun süre bekleyerek paslanmış, kârıncalanmış, eski demir imalatın, boya ve
+paslarının zımpara kağıdı ile, kârıncalanmış kısımlarının taşlama motoru ile temiz yüzey ortaya çıkana kadar
+silinerek temizlenmesi ve boyaya hazır hale getirilmesi için gerekli her türlü malzeme ve zayiatı, işçilik, alet ve
+edevat giderleri, iş yerindeki yükleme, yatay ve düşey taşımalar, boşaltma, yüklenici kârı ve genel giderler dâhil 1
+m² fiyatıdır.
+Ölçü:
+a) Mobilyalarda boyanan yüzeyler ölçülür.
+b) Kapı ve bölmelerde;
+1) Telaro kasalı olanlarda; sıvadan sıvaya iki yüzü ölçülür.
+2) Kasalı (pervazsız) olanlarda; kasadan kasaya düşey düzlemdeki iki yüzün ölçüsüne kasa alanları dâhil edilir.
+3) Kasa ve pervazlı olanlarda pervazdan pervaza iki yüzün ölçüsüne kasa dâhil edilir.
+4) Bütün ölçülerde, girinti, çıkıntı ve cam boşlukları ölçüye katılmaz. Pencere kenarında çıta varsa, ölçü buradan
+alınır.
+c) Camekân ve pencerelerde;
+1)Camekân ve pervazlı pencerelerde; pervaz dışına pervazsız pencerelerde, sıva yüzünden sıva yüzüne olmak
+üzere düşey düzlemdeki alanı ölçülür. Yalnız bir satıh hesaba alınır, iki satıh boyanır. Cam boşluğu çıkarılmaz,
+denizlik, kasa ve kenarları mevcut ise ayrıca ölçülerek, alana ilâve edilir.
+2) Çift pencerelerde aynen ölçülür, iki pencere arasındaki ahşap kasa ayrı ölçülür ve alan ilâve edilir. Her iki
+pencerenin iki yüzü boyanır, birer yüzü hesap edilir. Cam boşluğu çıkarılmaz.
+d) Parmaklık ve korkuluklarda bir yüzün düşey düzlemdeki izdüşüm alanı ölçülür. Boşluk düşülmez.
+e) Kolon, çatı makası, kiriş, kuranglez ve benzeri demir imalâtta boyanan yüzler ölçülür.
+3-83
+MİLLÎ SAVUNMA BAKANLIĞI FİYAT ANALİZİ
+Poz No Analizin Adı Ölçü Birimi
+48.690.2018 kg
+Poz No Tanımı Ölçü
+Birimi
+Miktarı Birim
+Fiyatı
+Tutarı
+Malzeme
+10.300.2072 Kalın tamir harcı (TS EN 1504-3) kg 1,100 7,80 8,58
+10.130.9991 Su m³ 0,001 38,50 0,04
+İşçilik
+10.100.1012 Sıvacı ustası sa 0,100 250,00 25,00
+10.100.1044 Sıvacı usta yardımcısı sa 0,100 185,00 18,50
+10.100.1062 Düz İşçisi (inşaat işçisi) sa 0,150 165,00 24,75
+Toplam Tutarı 76,87
+% 25 Yüklenici Kârı ve Genel Giderler 19,22
+1 kg Fiyatı : 96,09
+Beton yüzeylerde tamir harcı ile beton onarımı
+Çimento bazlı ince tamir harcı uygulanmış betonarme yüzeyi, çimento bazlı kalın tamir harcı ile orijinal
+geometrisine getirmek için gerekli her türlü malzeme ve ziyatı, işçilik, iş yerinde yükleme, boşaltma, yatay ve
+düşey taşıma, yüklenici kârı ve genel giderler dâhil 1 kg fiyatıdır.
+Ölçü: Kullanılan tamir harcı miktarı tutanak ile tespit edilir.
+3-84
+MİLLÎ SAVUNMA BAKANLIĞI FİYAT ANALİZİ
+Poz No Analizin Adı Ölçü Birimi
+48.690.2019 m
+Poz No Tanımı Ölçü
+Birimi
+Miktarı Birim
+Fiyatı
+Tutarı
+Malzeme
+10.300.2151 Epoksi esaslı eski betonun yeni betona
+aderansını sağlayan yapıştırıcı (iki
+bileşenli)
+kg 1,000 225,00 225,00
+10.300.2155 Epoksi esaslı (iki bileşenli) yapıştırıcı ve
+tamir harcı
+kg 1,000 190,00 190,00
+Ekipman
+19.100.1026 Enjeksiyon makinası'nın 1 saatlik ücreti sa 6,000 1.168,17 7.009,02
+(Enjeksiyon dübeller ve nipelleri el
+pompası ankraj plakalar karşılığı)
+İşçilik
+10.100.1068 Birinci sınıf usta sa 6,000 250,00 1.500,00
+10.100.1069 Birinci sınıf usta yardımcısı sa 6,000 185,00 1.110,00
+10.100.1062 Düz İşçisi (inşaat işçisi) sa 2,000 165,00 330,00
+Toplam Tutarı 10.364,02
+% 25 Yüklenici Kârı ve Genel Giderler 2.591,01
+1 m Fiyatı : 12.955,03
+Epoksi enjeksiyon ile çatlak onarımı
+Çatlak betonarme elemanlara epoksi enjeksiyon uygulamak üzere, çatlak üzerinde gerekli temizliğin yapılması,
+çatlağın üzerinin epoksi macun ile kapatılması, aralıklı olarak enjeksiyon (ortalama 7 adet olacak şekilde)
+dübellerinin ve nipellerin yerleştirilmesi, el pompası ile enjeksiyon epoksinin çatlağı tamamen dolduracak şekilde
+enjeksiyonu için gerekli her türlü malzeme ve zayiatı, işçilik, iş yerindeki yükleme, boşaltma, yatay ve düşey
+taşıma, yüklenici kârı ve genel giderler dâhil 1 m fiyatıdır.
+Ölçü: Epoksi uygulanan uzunluk ölçülür.
+3-85
+MİLLÎ SAVUNMA BAKANLIĞI FİYAT ANALİZİ
+Poz No Analizin Adı Ölçü Birimi
+48.700.1405 m
+Poz No Tanımı Ölçü
+Birimi
+Miktarı Birim
+Fiyatı
+Tutarı
+Malzeme
+10.200.2124 Alüminyum levhalar, EN AW 3003-
+ALMn1Cu, 3,00 mm kalınlıkta
+kg 2,850 153,00 436,05
+(zayiatıyla)
+10.200.2124 Alüminyum levhalar, EN AW 3003-
+ALMn1Cu, 3,00 mm kalınlıkta
+kg 0,285 153,00 43,61
+Poliksaj, eloksaj gibi malzeme karşılığı
+alüminyum düz levhanın %10’u
+10.420.1011 Ağaç vidası (büyük 144 ad) (TS 431) kutu 0,111 62,00 6,88
+İşçilik
+10.100.1032 Alüminyum ustası sa 0,625 250,00 156,25
+10.100.1062 Düz İşçisi (inşaat işçisi) sa 0,625 165,00 103,13
+Toplam Tutarı 745,92
+% 25 Yüklenici Kârı ve Genel Giderler 186,48
+1 m Fiyatı : 932,40
+Ahşap mamul kapı üzerine kapı genişliğinde ve kapı kanadı altından itibaren 10 cm yükseklikte U kesitli 3 mm
+kalınlıkta beyaz eloksallı düz alüminyum levhanın hazırlanması, kenarlarının pahlanması, havşa başı açılarak
+kapıya vidayla monte edilmesi için gerekli her türlü malzeme ve zayiatı, işçilik, alet ve edevat giderleri, iş
+yerindeki yükleme, yatay ve düşey taşımalar, boşaltma, yüklenici kârı ve genel giderler dâhil 1 m fiyatıdır.
+Ölçü: Kapı genişliği ölçülür.
+Tuvalet kapılarına alüminyum bant yapılması
+3-86
+MİLLÎ SAVUNMA BAKANLIĞI FİYAT ANALİZİ
+Poz No Analizin Adı Ölçü Birimi
+48.700.1701 m²
+Poz No Tanımı Ölçü
+Birimi
+Miktarı Birim
+Fiyatı
+Tutarı
+Malzeme
+10.130.1707 Lamalar (TS EN 10058) kg 14,393 22,50 323,84
+10.480.1804 Galvanizli kafes tel (muhtelif) (TS 2398) kg 3,202 55,00 176,11
+(zayiatıyla)
+10.160.1035 Elektrod (3,25-4 mm çapında) (TS EN
+ISO 2560)
+ad 3,000 1,60 4,80
+(zayiatıyla)
+İşçilik
+10.100.1021 Kaynakçı ustası sa 0,300 250,00 75,00
+10.100.1068 Birinci sınıf usta sa 0,500 250,00 125,00
+10.100.1062 Düz İşçisi (inşaat işçisi) sa 0,750 165,00 123,75
+Toplam Tutarı 828,50
+% 25 Yüklenici Kârı ve Genel Giderler 207,13
+1 m² Fiyatı : 1.035,63
+Onaylı projesine göre, 30/5 lama kasa yapılması ve fens telinin yerleştirilmesi için gerekli her türlü malzeme ve
+zayiatı, işçilik, alet edevat giderleri, yatay ve düşey taşımalar, yükleme-boşaltma, yüklenici kârı ve genel giderler
+dâhil 1 m² fiyatıdır.
+Ölçü: Yerinde yapılan tel kafes yüzeyi dikkate alınır.
+Not: Hudut karakollarında kullanılacaktır.
+Pencere dışına kafes tel yapılması
+3-87
+MİLLÎ SAVUNMA BAKANLIĞI FİYAT ANALİZİ
+Poz No Analizin Adı Ölçü Birimi
+48.700.1901 m²
+Poz No Tanımı Ölçü
+Birimi
+Miktarı Birim
+Fiyatı
+Tutarı
+Malzeme
+10.380.1212 Füme renkli aynalar (TS EN 1036-1,2), 5
+mm kalınlıkta
+m² 1,100 635,00 698,50
+(zayiatıyla)
+10.380.1212 Füme renkli aynalar (TS EN 1036-1,2), 5
+mm kalınlıkta
+m² 0,300 635,00 190,50
+Bizote, rodaj ve montaj malzemesi
+karşılığı
+İşçilik
+10.100.1022 Camcı ustası sa 3,000 250,00 750,00
+10.100.1062 Düz İşçisi (inşaat işçisi) sa 2,500 165,00 412,50
+Toplam Tutarı 2.051,50
+% 25 Yüklenici Kârı ve Genel Giderler 512,88
+1 m² Fiyatı : 2.564,38
+5 mm kalınlığında füme renkli aynanın yerine göre ölçüleri alınarak kenarlarına 2 cm bizote yapılması ve
+montajının yapılması için gerekli her türlü malzeme ve zayiatı, işçilik, alet ve edevat giderleri, iş yerindeki
+yükleme, yatay ve düşey taşımalar, yüklenici kârı ve genel giderler dâhil 1 m² fiyatıdır.
+Ölçü: Yerine monte edilen aynanın yüzey alanı alınır.
+Füme renkli aynaya bizote yapılması ve yerine monte edilmesi (5 mm
+kalınlığında)
+3-88
+Yük.(cm) Kazı (m³) Kum (m³) Dolgu (m³)
+70 0,350 0,100 0,240
+100 0,100 0,100 0,390
+Yük.(cm) Kazı (m³) Kum (m³) Dolgu (m³)
+70 0,420 0,1106 0,2812
+100 0,600 0,1106 0,4612
+Yük.(cm) Kazı (m³) Kum (m³) Dolgu (m³)
+70 0,420 0,120 0,2812
+100 0,600 0,120 0,4612
+3-89
+TİP-A KABLO KANALI
+KABLO KANALI TİP DETAYLARI
+TİP-B KABLO KANALI
+TİP-C KABLO KANALI
+50 cm
+10 cm 10 cm
+H
+YG kablosu
+Harman tuğlası
+60 cm
+10 cm 10 cm
+H
+YG
+kablosu
+Harman tuğlası
+60 cm
+10 cm 10 cm
+H
+Harman tuğlası
+AG
+kablosu
+10 cm 10 cm
+AG
+kablosu
+10 10
+10 10
+15 15
+20 20
+20 20
+20
+Yük.(cm) Kazı (m³) Kum (m³) Dolgu (m³)
+70 0,490 0,140 0,3268
+100 0,700 0,140 0,5369
+Yük.(cm) Kazı (m³) Kum (m³) Dolgu (m³)
+100 0,500 0,211 0,2655
+3-90
+TİP-D KABLO KANALI
+TİP-E KABLO KANALI
+70 cm
+10 cm 10 cm
+H
+YG
+Harman tuğlası
+5 10 5
+AG
+10 25 10
+17,5 cm 15 cm 17,5 cm 10 cm 10 cm
+100
+Harman tuğlası
+10 cm 10 cm
+AG
+10 10 5
+10
+YG
+15 15
+9 20 20
+20
+9 20
+Yük.(cm) Kazı (m³) Kum (m³) Dolgu (m³)
+100 0,800 0,332 0,410
+Yük.(cm) Kazı (m³) Kum (m³) Dolgu (m³)
+70 0,560 0,158 0,360
+3-91
+TİP-F KABLO KANALI
+TİP-G KABLO KANALI
+10 cm 10 cm AG kablosu
+Harman tuğlası
+10 cm 10 cm
+100
+Harman tuğlası
+10 cm 10 cm
+AG kablosu
+10 10 5
+10
+YG kablosu
+10 15 10
+Zayıf akım kablosu
+80 cm
+17,5 15 15 15 17,5
+70
+10 10
+80 cm
+15 10 10 10 10 10 15
+10 10
+20 20 20
+20 20 20
+20 20 20
+3-992
+SAHA BETON VE BETON YOLLARDA DERZ DETAYLARI
+30-50
+Büzülme veya
+Beton yol Beton saha
+Genleşme derzi
+30-50 m
+T50 profil Poliüretan dolgu
+150 50
+200
+Büzülme derzi
+6
+T50 profil Poliüretan dolgu
+100 50
+200
+İnşaat derzi
+6
+50
+Q16 demir
+L=50 cm
+T=75 cm ara
+Poliüretan
+dolgu
+Kavak kerestesi
+Genleşme derzi
+150 50
+200
+20
+Q16 demir
+L=50 cm
+T=75 cm ara
+20 Poliüretan
+dolgu
+Demirli genleşme derzi
+50 100 50
+200
+260 25
+Q20mm sert
+PVC
+Yağlanacak
+boyanacak uç
+Kavak kerestesi
+3-93
+PERDE DUVAR ÜZERİNE ÇERÇEVELİ GALVANİZLİ KAFES TEL İLE ÇEVRE EMNİYETİ
+J9 - ÇEVRE EMNİYETİ YAPILMASI DETAYI (POZ NO: 48.685.1004)
+3-94
+3 m YÜKSEKLİĞİNDE ÇEVRE EMNİYETİ YAPILMASI DETAYI (POZ NO: 48.685.1005)
